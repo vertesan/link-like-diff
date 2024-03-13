@@ -1,0 +1,16 @@
+- Id: 1001
+  ShopType: 1
+  Name: SIsCaチャージ
+  OrderId: 1
+- Id: 2001
+  ShopType: 5
+  Name: メンバーシップ
+  OrderId: 2
+- Id: 3001
+  ShopType: 4
+  Name: ペタルコイン交換所
+  OrderId: 3
+- Id: 4001
+  ShopType: 6
+  Name: アイテムストア
+  OrderId: 4

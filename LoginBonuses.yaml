@@ -1,0 +1,7 @@
+- Id: 101001
+  Name: 定常ログインボーナス
+  LoginBonusRewardSeriesID: 101001
+  IsLoop: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2030-12-31T14:59:59Z

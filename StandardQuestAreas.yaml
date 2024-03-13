@@ -1,0 +1,220 @@
+- Id: 1030101
+  Name: 103期 SPRING Area1
+  Number: 1
+  Description: 103期 SPRING Area1
+  OrderId: 1
+  ImageType: 1
+  BgImageId: 1030101
+  SoundId: 1
+  GenerationsId: 103
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030102
+  Name: 103期 SPRING Area2
+  Number: 2
+  Description: 103期 SPRING Area2
+  OrderId: 2
+  ImageType: 1
+  BgImageId: 1030102
+  SoundId: 1
+  GenerationsId: 103
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030103
+  Name: 103期 SPRING Area3
+  Number: 3
+  Description: 103期 SPRING Area3
+  OrderId: 3
+  ImageType: 1
+  BgImageId: 1030103
+  SoundId: 1
+  GenerationsId: 103
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030104
+  Name: 103期 SPRING Area4
+  Number: 4
+  Description: 103期 SPRING Area4
+  OrderId: 4
+  ImageType: 1
+  BgImageId: 1030104
+  SoundId: 1
+  GenerationsId: 103
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030105
+  Name: 103期 SPRING Area5
+  Number: 5
+  Description: 103期 SPRING Area5
+  OrderId: 5
+  ImageType: 1
+  BgImageId: 1030105
+  SoundId: 1
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030201
+  Name: 103期 SUMMER Area1
+  Number: 1
+  Description: 103期 SUMMER Area1
+  OrderId: 101
+  ImageType: 2
+  BgImageId: 1030201
+  SoundId: 2
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030202
+  Name: 103期 SUMMER Area2
+  Number: 2
+  Description: 103期 SUMMER Area2
+  OrderId: 102
+  ImageType: 2
+  BgImageId: 1030202
+  SoundId: 2
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030203
+  Name: 103期 SUMMER Area3
+  Number: 3
+  Description: 103期 SUMMER Area3
+  OrderId: 103
+  ImageType: 2
+  BgImageId: 1030203
+  SoundId: 2
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030204
+  Name: 103期 SUMMER Area4
+  Number: 4
+  Description: 103期 SUMMER Area4
+  OrderId: 104
+  ImageType: 2
+  BgImageId: 1030204
+  SoundId: 2
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030205
+  Name: 103期 SUMMER Area5
+  Number: 5
+  Description: 103期 SUMMER Area5
+  OrderId: 105
+  ImageType: 2
+  BgImageId: 1030205
+  SoundId: 2
+  GenerationsId: 103
+  StartTime: 2023-06-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030301
+  Name: 103期 AUTUMN Area1
+  Number: 1
+  Description: 103期 AUTUMN Area1
+  OrderId: 201
+  ImageType: 3
+  BgImageId: 1030301
+  SoundId: 3
+  GenerationsId: 103
+  StartTime: 2023-09-09T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030302
+  Name: 103期 AUTUMN Area2
+  Number: 2
+  Description: 103期 AUTUMN Area2
+  OrderId: 202
+  ImageType: 3
+  BgImageId: 1030302
+  SoundId: 3
+  GenerationsId: 103
+  StartTime: 2023-09-09T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030303
+  Name: 103期 AUTUMN Area3
+  Number: 3
+  Description: 103期 AUTUMN Area3
+  OrderId: 203
+  ImageType: 3
+  BgImageId: 1030303
+  SoundId: 3
+  GenerationsId: 103
+  StartTime: 2023-09-09T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030304
+  Name: 103期 AUTUMN Area4
+  Number: 4
+  Description: 103期 AUTUMN Area4
+  OrderId: 204
+  ImageType: 3
+  BgImageId: 1030304
+  SoundId: 3
+  GenerationsId: 103
+  StartTime: 2023-09-09T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030305
+  Name: 103期 AUTUMN Area5
+  Number: 5
+  Description: 103期 AUTUMN Area5
+  OrderId: 205
+  ImageType: 3
+  BgImageId: 1030305
+  SoundId: 3
+  GenerationsId: 103
+  StartTime: 2023-09-09T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030401
+  Name: 103期 WINTER Area1
+  Number: 1
+  Description: 103期 WINTER Area1
+  OrderId: 301
+  ImageType: 4
+  BgImageId: 1030401
+  SoundId: 4
+  GenerationsId: 103
+  StartTime: 2023-12-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030402
+  Name: 103期 WINTER Area2
+  Number: 2
+  Description: 103期 WINTER Area2
+  OrderId: 302
+  ImageType: 4
+  BgImageId: 1030402
+  SoundId: 4
+  GenerationsId: 103
+  StartTime: 2023-12-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030403
+  Name: 103期 WINTER Area3
+  Number: 3
+  Description: 103期 WINTER Area3
+  OrderId: 303
+  ImageType: 4
+  BgImageId: 1030403
+  SoundId: 4
+  GenerationsId: 103
+  StartTime: 2023-12-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030404
+  Name: 103期 WINTER Area4
+  Number: 4
+  Description: 103期 WINTER Area4
+  OrderId: 304
+  ImageType: 4
+  BgImageId: 1030404
+  SoundId: 4
+  GenerationsId: 103
+  StartTime: 2023-12-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1030405
+  Name: 103期 WINTER Area5
+  Number: 5
+  Description: 103期 WINTER Area5
+  OrderId: 305
+  ImageType: 4
+  BgImageId: 1030405
+  SoundId: 4
+  GenerationsId: 103
+  StartTime: 2023-12-10T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
