@@ -1654,7 +1654,7 @@
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
   Description: PART 5
-  ScriptId: 0
+  ScriptId: 10301805
   OpenSeasonFanLevel: 1
   RewardType: 3,3
   WatchRewardId: 1002001,3009000
@@ -1663,4 +1663,46 @@
   OrderId: 119
   SubTitleName: "5"
   StartTime: 2024-03-18T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10301806
+  AdvSeriesId: 103018
+  Name: 第18話『いずれ会う四度目の桜』
+  Description: PART 6
+  ScriptId: 10301806
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 120
+  SubTitleName: "6"
+  StartTime: 2024-03-18T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10301807
+  AdvSeriesId: 103018
+  Name: 第18話『いずれ会う四度目の桜』
+  Description: PART 7
+  ScriptId: 10301807
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 121
+  SubTitleName: "7"
+  StartTime: 2024-03-18T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10301808
+  AdvSeriesId: 103018
+  Name: 第18話『いずれ会う四度目の桜』
+  Description: PART 8
+  ScriptId: 0
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 122
+  SubTitleName: "8"
+  StartTime: 2024-03-25T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z

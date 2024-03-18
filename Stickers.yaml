@@ -16414,6 +16414,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90203115
+  Name: Jacket『Colorfulness / ハッピー至上主義！ / Pleasure Feather』
+  Text: 君はどんな色が好きなの？　この世界がドラマだとしたら 主演は自分自身だから　私と、ハッピー極めようよ
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120015
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240126001
+  RequirementText: CD『Colorfulness / ハッピー至上主義！ / Pleasure Feather』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90303104
   Name: Jacket『Sparkly Spot』
   Text: 変化の先を誓い合えば 交差する FLARES
@@ -17207,8 +17231,8 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 94000007
-  Name: みらくら補習室ラジオ
-  Text: みらくら補習室ラジオの応援ありがとうございます！
+  Name: こなちの抱負「アイデンティティ」！
+  Text: 『2nd みんなに追いついたみらぱをかます』
   CategoryType: 2
   CategoryName: 3
   SeasonId: 0
@@ -17231,8 +17255,8 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 94000008
-  Name: みらくら補習室ラジオ
-  Text: みらくら補習室ラジオの応援ありがとうございます！
+  Name: かんかんの抱負「アイデンティティ」！
+  Text: 『蓮に！集める！』
   CategoryType: 2
   CategoryName: 3
   SeasonId: 0
@@ -17255,8 +17279,8 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 94000009
-  Name: みらくら補習室ラジオ
-  Text: みらくら補習室ラジオの応援ありがとうございます！
+  Name: みらくら補習室のカキワリ
+  Text: あなただけのみらくらラジオっぽいサムネをつくろう！ 
   CategoryType: 2
   CategoryName: 3
   SeasonId: 0
