@@ -3526,6 +3526,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315191
+  Name: "[軌跡の舞踏会]日野下花帆"
+  Text: "[軌跡の舞踏会]日野下花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 315191
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031519
+  RequirementText: "[軌跡の舞踏会]日野下花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10318011
   Name: "[Prism Echo]日野下花帆"
   Text: "[Prism Echo]日野下花帆を4回解放した記念のステッカー"
@@ -4462,6 +4486,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10325181
+  Name: "[真実の舞踏会]村野さやか"
+  Text: "[真実の舞踏会]村野さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 325181
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032518
+  RequirementText: "[真実の舞踏会]村野さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10328011
   Name: "[Prism Echo]村野さやか"
   Text: "[Prism Echo]村野さやかを4回解放した記念のステッカー"
@@ -5131,6 +5179,30 @@
   StartTime: 2024-02-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-02-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10335141
+  Name: "[悠久の舞踏会]大沢瑠璃乃"
+  Text: "[悠久の舞踏会]大沢瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 335141
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033514
+  RequirementText: "[悠久の舞踏会]大沢瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -9475,6 +9547,462 @@
   StartTime: 2024-02-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-02-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231001
+  Name: Live Grand Prix 103期3月度サークル対抗戦 1位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431001
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231002
+  Name: Live Grand Prix 103期3月度サークル対抗戦 2位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431002
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231003
+  Name: Live Grand Prix 103期3月度サークル対抗戦 3位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431003
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231004
+  Name: Live Grand Prix 103期3月度サークル対抗戦 4位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431004
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231005
+  Name: Live Grand Prix 103期3月度サークル対抗戦 5位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431005
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231006
+  Name: Live Grand Prix 103期3月度サークル対抗戦 6位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431006
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231007
+  Name: Live Grand Prix 103期3月度サークル対抗戦 7位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431007
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231008
+  Name: Live Grand Prix 103期3月度サークル対抗戦 8位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431008
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231009
+  Name: Live Grand Prix 103期3月度サークル対抗戦 9位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431009
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231010
+  Name: Live Grand Prix 103期3月度サークル対抗戦 10位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431010
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231011
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP30位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP30位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431011
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP30位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231012
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP100位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431012
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231013
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP200位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431013
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231014
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP300位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP300位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431014
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP300位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231015
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP500位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431015
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231016
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP1000位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431016
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231017
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP1500位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP1500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431017
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP1500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231018
+  Name: Live Grand Prix 103期3月度サークル対抗戦 TOP2000位
+  Text: Live Grand Prix 103期3月度サークル対抗戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431018
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20231019
+  Name: Live Grand Prix 103期3月度サークル対抗戦 参加
+  Text: Live Grand Prix 103期3月度サークル対抗戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 431019
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 103期3月度サークル対抗戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-20T01:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -14459,6 +14987,30 @@
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103119
   RequirementText: 『ハッピー至上主義！』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40103120
+  Name: 『マハラジャンボリー』マエストロ
+  Text: 『マハラジャンボリー』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601610
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 103120
+  RequirementText: 『マハラジャンボリー』マスタリーLv.MAX到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

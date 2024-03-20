@@ -530,6 +530,34 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 103120
+  OrderId: 1610
+  Title: マハラジャンボリー
+  TitleFurigana: まはらじゃんぼりー
+  JacketId: 103120
+  SoundId: 10312001
+  Description: みらくらぱーく！
+  GenerationsId: 103
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: "1023"
+  SupportCharacterId: 1021,1022,1031,1032
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15000
+  ApIncrement: 868
+  SongTime: 8684
+  PlayTime: 104211
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 103201
   OrderId: 6003
   Title: Preserved Roses

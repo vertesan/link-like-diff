@@ -1670,6 +1670,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 401031201
+  LearningLiveSeriesId: 40103120
+  Name: 『マハラジャンボリー』
+  Description: マハラジャンボリー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010312011
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401031202
+  LearningLiveSeriesId: 40103120
+  Name: 『マハラジャンボリー』
+  Description: マハラジャンボリー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010312021
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401031203
+  LearningLiveSeriesId: 40103120
+  Name: 『マハラジャンボリー』
+  Description: マハラジャンボリー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010312031
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401031204
+  LearningLiveSeriesId: 40103120
+  Name: 『マハラジャンボリー』
+  Description: マハラジャンボリー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010312041
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 401032011
   LearningLiveSeriesId: 40103201
   Name: 『Preserved Roses』

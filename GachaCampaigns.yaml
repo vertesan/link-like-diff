@@ -26,3 +26,17 @@
   StartTime: 2023-12-31T19:00:00Z
   EndTime: 2024-01-03T18:59:59Z
   MiniBannerPopId: 0
+- Id: 3
+  CampaignName: PARTY!開催記念キャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1030138
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2024-03-22T18:59:59Z
+  MiniBannerPopId: 100

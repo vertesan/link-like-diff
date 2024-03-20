@@ -17,7 +17,7 @@
   ExchangeTicketName: 【0.5周年記念】URセレクトチケット
   Description: 一部のURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003014
-  OrderId: 10002
+  OrderId: 10003
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -212,7 +212,7 @@
   ExchangeTicketName: 【ライブグランプリ～103期12月度】SRセレクトチケット
   Description: 103期12月度までのライブグランプリ報酬SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003015
-  OrderId: 10003
+  OrderId: 10004
   PickUpCardSeriesId_1: 1032409
   PickUpCardSeriesId_2: 1021411
   PickUpCardSeriesId_3: 1032412
@@ -227,7 +227,7 @@
   ExchangeTicketName: 【ライブグランプリ～103期12月度】URセレクトチケット
   Description: 103期12月度までのライブグランプリ報酬URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003016
-  OrderId: 10004
+  OrderId: 10005
   PickUpCardSeriesId_1: 1022508
   PickUpCardSeriesId_2: 1031510
   PickUpCardSeriesId_3: 1022511
@@ -242,7 +242,7 @@
   ExchangeTicketName: 【ユニット甲子園2024】URセレクトチケット
   Description: 103期のガチャから排出される恒常URカード全てから選択できるチケットです。
   ExchangeTicketId: 3003017
-  OrderId: 10005
+  OrderId: 10006
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0

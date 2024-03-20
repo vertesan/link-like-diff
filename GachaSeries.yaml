@@ -960,6 +960,32 @@
   BgType: 0
   StartTime: 2024-03-10T01:00:00Z
   EndTime: 2024-03-29T02:59:59Z
+- Id: 1030138
+  GachaSeriesName: 2023 PARTY! LIMITED COLLECTION
+  Description: PARTY! LIMITED COLLECTION
+  GachaType: 8
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 201
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031519
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1032518
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1033514
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2024-03-20T01:00:00Z
+  EndTime: 2024-03-23T11:59:59Z
 - Id: 1030901
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION PREMIUM
   Description: SPRING LIMITED COLLECTION PREMIUM
