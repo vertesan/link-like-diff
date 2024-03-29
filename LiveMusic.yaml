@@ -13,7 +13,7 @@
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 31056
-  Label: Overture
+  Label: Overture_MusicB
   MusicId: 3105
   HaveMusic: 1
   HaveMotion: 0
@@ -24,6 +24,20 @@
   MusicId: 3106
   HaveMusic: 1
   HaveMotion: 0
+  CharactersCount: 6
+  CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31076
+  Label: Overture_MusicA
+  MusicId: 3107
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 6
+  CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31716
+  Label: 抱きしめる花びら(仮)
+  MusicId: 3171
+  HaveMusic: 1
+  HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 31722
@@ -145,6 +159,13 @@
   HaveMotion: 1
   CharactersCount: 2
   CharactersIds: 1023,1033
+- Id: 1031146
+  Label: Legato
+  MusicId: 103114
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 6
+  CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 1031152
   Label: 千変万華
   MusicId: 103115

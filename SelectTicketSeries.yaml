@@ -28,6 +28,21 @@
   StartTime: 2023-11-20T01:00:00Z
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
+- Id: 1020003
+  ExchangeTicketName: 【スタートボーナス】URセレクトチケット（103期通常のみ）
+  Description: 103期のガチャから排出される恒常URカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003021
+  OrderId: 10002
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2038-12-30T18:59:59Z
+  IsVisibleEndTime: 0
 - Id: 2030701
   ExchangeTicketName: メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常のみ）
   Description: スリーズブーケの通常SRカードから1枚を選んで獲得できるチケットです。

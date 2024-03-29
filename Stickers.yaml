@@ -1,3 +1,27 @@
+- Id: 10115011
+  Name: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知"
+  Text: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 115011
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1011501
+  RequirementText: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10213011
   Name: "[オーロラスカイ]乙宗梢"
   Text: "[オーロラスカイ]乙宗梢を4回解放した記念のステッカー"
@@ -907,6 +931,30 @@
   StartTime: 2024-03-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-03-10T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10215181
+  Name: "[抱きしめる花びら]乙宗梢"
+  Text: "[抱きしめる花びら]乙宗梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 215181
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021518
+  RequirementText: "[抱きしめる花びら]乙宗梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -1870,6 +1918,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10225181
+  Name: "[抱きしめる花びら]夕霧綴理"
+  Text: "[抱きしめる花びら]夕霧綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 225181
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022518
+  RequirementText: "[抱きしめる花びら]夕霧綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10228011
   Name: "[Prism Echo]夕霧綴理"
   Text: "[Prism Echo]夕霧綴理を4回解放した記念のステッカー"
@@ -2566,6 +2638,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10235141
+  Name: "[抱きしめる花びら]藤島慈"
+  Text: "[抱きしめる花びら]藤島慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 235141
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023514
+  RequirementText: "[抱きしめる花びら]藤島慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10238011
   Name: "[Prism Echo]藤島慈"
   Text: "[Prism Echo]藤島慈を4回解放した記念のステッカー"
@@ -3091,6 +3187,30 @@
   StartTime: 2024-03-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-03-10T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10314191
+  Name: "[抱きしめる花びら]日野下花帆"
+  Text: "[抱きしめる花びら]日野下花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 314191
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031419
+  RequirementText: "[抱きしめる花びら]日野下花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -4078,6 +4198,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10324191
+  Name: "[抱きしめる花びら]村野さやか"
+  Text: "[抱きしめる花びら]村野さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 324191
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032419
+  RequirementText: "[抱きしめる花びら]村野さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10325011
   Name: "[Dream Believers]村野さやか"
   Text: "[Dream Believers]村野さやかを4回解放した記念のステッカー"
@@ -4867,6 +5011,30 @@
   StartTime: 2024-01-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-01-10T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10334121
+  Name: "[抱きしめる花びら]大沢瑠璃乃"
+  Text: "[抱きしめる花びら]大沢瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 334121
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033412
+  RequirementText: "[抱きしめる花びら]大沢瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -15574,6 +15742,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40203117
+  Name: 『抱きしめる花びら』マエストロ
+  Text: 『抱きしめる花びら』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601014
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 203117
+  RequirementText: 『抱きしめる花びら』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40203118
+  Name: 『STEP UP !』マエストロ
+  Text: 『STEP UP !』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601015
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 203118
+  RequirementText: 『STEP UP !』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203201
   Name: 『そばかす』マエストロ
   Text: 『そばかす』のマスタリーLv.をMAXにした記念のステッカー
@@ -16517,7 +16733,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100004
+  Priority: 150006
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -16579,6 +16795,78 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000007
+  Name: "[オールラウンダー]大賀美沙知"
+  Text: 「にひっ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100007
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000008
+  Name: "[コトダマ]大賀美沙知"
+  Text: 「なるほど、なるほどねぃ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100008
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000009
+  Name: "[蓮ノ空らいふ]大賀美沙知"
+  Text: 「ハッハッハ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100009
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-29T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -16990,6 +17278,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90203117
+  Name: Jacket『抱きしめる花びら』
+  Text: 大好きだよ。言い足りないけど 花びら 抱きしめ 歩むよ
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120017
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240212002
+  RequirementText: CD『抱きしめる花びら』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90303104
   Name: Jacket『Sparkly Spot』
   Text: 変化の先を誓い合えば 交差する FLARES
@@ -17051,6 +17363,30 @@
   RequirementDetail: SERIAL
   RequirementValue: 230329011
   RequirementText: CD『Take It Over』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90303119
+  Name: Jacket『以心☆電信』
+  Text: DJ みらぱ！が 君の住む街まで マイク ワンツー OK お届けします Everybody 集合！！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120016
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240212001
+  RequirementText: CD『以心☆電信』購入特典
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -17645,7 +17981,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100007
+  Priority: 150001
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17669,7 +18005,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100008
+  Priority: 150002
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17693,7 +18029,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100009
+  Priority: 150003
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17717,7 +18053,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100010
+  Priority: 150004
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17741,7 +18077,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100011
+  Priority: 150005
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17765,7 +18101,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100012
+  Priority: 150007
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17789,7 +18125,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100013
+  Priority: 150008
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17813,7 +18149,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100014
+  Priority: 150009
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -17837,12 +18173,156 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 100015
+  Priority: 150010
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
   RequirementText: みらくら補習室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000011
+  Name: "[寝そべり/Dream\u00a0Believers]乙宗\u00a0梢"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150011
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322001
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」スリーズブーケで目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000012
+  Name: "[寝そべり/Dream\u00a0Believers]日野下花帆"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150012
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322001
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」スリーズブーケで目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000013
+  Name: "[寝そべり/Dream\u00a0Believers]夕霧綴理"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150013
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322002
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」DOLLCHESTRAで目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000014
+  Name: "[寝そべり/Dream\u00a0Believers]村野さやか"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150014
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322002
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」DOLLCHESTRAで目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000015
+  Name: "[寝そべり/Dream\u00a0Believers]藤島\u00a0慈"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150015
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322003
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」みらくらぱーく！で目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000016
+  Name: "[寝そべり/Dream\u00a0Believers]大沢瑠璃乃"
+  Text: 2024.04.01 at エイプリルフール「ぷちぐる ラブライブ！ feat. 蓮ノ空」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150016
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240322003
+  RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」みらくらぱーく！で目標スコア達成
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

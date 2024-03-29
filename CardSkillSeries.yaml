@@ -454,6 +454,18 @@
   Name: プロテクトフィール
   SkillIcon: 10215170
   SkillMainEffect: 2
+- Id: 10215180
+  Name: エクステハート
+  SkillIcon: 10215180
+  SkillMainEffect: 20
+- Id: 10215181
+  Name: エクステハート
+  SkillIcon: 10215180
+  SkillMainEffect: 20
+- Id: 10215182
+  Name: エクステハート
+  SkillIcon: 10215180
+  SkillMainEffect: 20
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -918,6 +930,18 @@
   Name: ハートキャプチャ
   SkillIcon: 10225170
   SkillMainEffect: 1
+- Id: 10225180
+  Name: エクステアトラクト
+  SkillIcon: 10225180
+  SkillMainEffect: 20
+- Id: 10225181
+  Name: エクステアトラクト
+  SkillIcon: 10225180
+  SkillMainEffect: 20
+- Id: 10225182
+  Name: エクステアトラクト
+  SkillIcon: 10225180
+  SkillMainEffect: 20
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -1250,6 +1274,18 @@
   Name: メンタルリカバー
   SkillIcon: 10235130
   SkillMainEffect: 5
+- Id: 10235140
+  Name: エクステリカバー
+  SkillIcon: 10235140
+  SkillMainEffect: 20
+- Id: 10235141
+  Name: エクステリカバー
+  SkillIcon: 10235140
+  SkillMainEffect: 20
+- Id: 10235142
+  Name: エクステリカバー
+  SkillIcon: 10235140
+  SkillMainEffect: 20
 - Id: 10238011
   Name: プロテクトフィール
   SkillIcon: 10238011
@@ -1498,6 +1534,18 @@
   Name: ハートアトラクション
   SkillIcon: 10314180
   SkillMainEffect: 1
+- Id: 10314190
+  Name: エクステハート
+  SkillIcon: 10314190
+  SkillMainEffect: 20
+- Id: 10314191
+  Name: エクステハート
+  SkillIcon: 10314190
+  SkillMainEffect: 20
+- Id: 10314192
+  Name: エクステハート
+  SkillIcon: 10314190
+  SkillMainEffect: 20
 - Id: 10315010
   Name: ハートキャプチャ
   SkillIcon: 10315010
@@ -1974,6 +2022,18 @@
   Name: ボルテージゲイン
   SkillIcon: 10324180
   SkillMainEffect: 10
+- Id: 10324190
+  Name: エクステボルテージ
+  SkillIcon: 10324190
+  SkillMainEffect: 20
+- Id: 10324191
+  Name: エクステボルテージ
+  SkillIcon: 10324190
+  SkillMainEffect: 20
+- Id: 10324192
+  Name: エクステボルテージ
+  SkillIcon: 10324190
+  SkillMainEffect: 20
 - Id: 10325010
   Name: ラブアトラクト
   SkillIcon: 10325010
@@ -2354,6 +2414,18 @@
   Name: グルーヴィリカバー
   SkillIcon: 10334110
   SkillMainEffect: 5
+- Id: 10334120
+  Name: エクステアトラクト
+  SkillIcon: 10334120
+  SkillMainEffect: 20
+- Id: 10334121
+  Name: エクステアトラクト
+  SkillIcon: 10334120
+  SkillMainEffect: 20
+- Id: 10334122
+  Name: エクステアトラクト
+  SkillIcon: 10334120
+  SkillMainEffect: 20
 - Id: 10335010
   Name: リゲインアトラクト
   SkillIcon: 10335010
@@ -2530,6 +2602,10 @@
   Name: リゲインアトラクト
   SkillIcon: 10338011
   SkillMainEffect: 13
+- Id: 20115010
+  Name: ドリーミングサポート
+  SkillIcon: 20115010
+  SkillMainEffect: 29
 - Id: 20213010
   Name: メンタルリカバー
   SkillIcon: 20213010
@@ -2682,6 +2758,10 @@
   Name: サポーテッドフィール
   SkillIcon: 20215170
   SkillMainEffect: 2
+- Id: 20215180
+  Name: グルーヴィアトラクション
+  SkillIcon: 20215180
+  SkillMainEffect: 1
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -2838,6 +2918,10 @@
   Name: ハートアトラクション
   SkillIcon: 20225170
   SkillMainEffect: 1
+- Id: 20225180
+  Name: グルーヴィファッシネイト
+  SkillIcon: 20225180
+  SkillMainEffect: 10
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -2950,6 +3034,10 @@
   Name: メンタルリカバー
   SkillIcon: 20235130
   SkillMainEffect: 5
+- Id: 20235140
+  Name: グルーヴィフィール
+  SkillIcon: 20235140
+  SkillMainEffect: 7
 - Id: 20238010
   Name: エンデュランス
   SkillIcon: 20238010
@@ -3034,6 +3122,10 @@
   Name: ボルテージハート
   SkillIcon: 20314180
   SkillMainEffect: 1
+- Id: 20314190
+  Name: チルアトラクト
+  SkillIcon: 20314190
+  SkillMainEffect: 2
 - Id: 20315010
   Name: ハートキャプチャ
   SkillIcon: 20315010
@@ -3194,6 +3286,10 @@
   Name: ファッシネイション
   SkillIcon: 20324180
   SkillMainEffect: 2
+- Id: 20324190
+  Name: チルボルテージ
+  SkillIcon: 20324190
+  SkillMainEffect: 10
 - Id: 20325010
   Name: ラブアトラクト
   SkillIcon: 20325010
@@ -3322,6 +3418,10 @@
   Name: チルファッシネイト
   SkillIcon: 20334110
   SkillMainEffect: 2
+- Id: 20334120
+  Name: チルプロテクト
+  SkillIcon: 20334120
+  SkillMainEffect: 7
 - Id: 20335010
   Name: リゲインボルテージ
   SkillIcon: 20335010
@@ -3382,6 +3482,10 @@
   Name: リゲインアトラクト
   SkillIcon: 20338010
   SkillMainEffect: 13
+- Id: 30115010
+  Name: グラデュエーション
+  SkillIcon: 30115010
+  SkillMainEffect: 19
 - Id: 30214010
   Name: ドロー：APレデュース
   SkillIcon: 30214010
@@ -3526,6 +3630,10 @@
   Name: ハートコレクト：APレデュース & ハートキャプチャ
   SkillIcon: 30215170
   SkillMainEffect: 17
+- Id: 30215180
+  Name: ドロー：ラブアトラクト＆ショット：ラブアトラクト
+  SkillIcon: 30215180
+  SkillMainEffect: 2
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -3674,6 +3782,10 @@
   Name: ハートコレクト：APレデュース & ラブアトラクト
   SkillIcon: 30225170
   SkillMainEffect: 17
+- Id: 30225180
+  Name: ドロー：ボルテージゲイン＆ショット：ラブアトラクト
+  SkillIcon: 30225180
+  SkillMainEffect: 10
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -3778,6 +3890,10 @@
   Name: ドロー：アグレッシブ
   SkillIcon: 30235130
   SkillMainEffect: 5
+- Id: 30235140
+  Name: ドロー：メンタルプロテクト＆ショット：ラブアトラクト
+  SkillIcon: 30235140
+  SkillMainEffect: 7
 - Id: 30238010
   Name: ドロー：プロテクト & APゲイン
   SkillIcon: 30238010
@@ -3853,6 +3969,10 @@
 - Id: 30314180
   Name: ハートコレクト：APレデュース & ラブアトラクト
   SkillIcon: 30314180
+  SkillMainEffect: 17
+- Id: 30314190
+  Name: ドロー：APレデュース & サーチ：梢
+  SkillIcon: 30314190
   SkillMainEffect: 17
 - Id: 30315010
   Name: フェイバリット：フィーバー
@@ -4006,6 +4126,10 @@
   Name: ハートコレクト：APレデュース & ボルテージゲイン
   SkillIcon: 30324180
   SkillMainEffect: 17
+- Id: 30324190
+  Name: ドロー：APレデュース & サーチ：綴理
+  SkillIcon: 30324190
+  SkillMainEffect: 17
 - Id: 30325010
   Name: アキューミュレイト
   SkillIcon: 30325010
@@ -4126,6 +4250,10 @@
   Name: オーバーセクション：ハートキャプチャ
   SkillIcon: 30334110
   SkillMainEffect: 1
+- Id: 30334120
+  Name: ドロー：APレデュース & サーチ：慈
+  SkillIcon: 30334120
+  SkillMainEffect: 17
 - Id: 30335010
   Name: ドロー：ボルテージゲイン
   SkillIcon: 30335010

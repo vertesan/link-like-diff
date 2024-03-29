@@ -26,6 +26,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103102
   OrderId: 1002
   Title: 永遠のEuphoria（4人Ver.）
@@ -54,6 +55,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103103
   OrderId: 1203
   Title: フォーチュンムービー
@@ -82,6 +84,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103104
   OrderId: 1202
   Title: Reflection in the mirror
@@ -110,6 +113,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103105
   OrderId: 1205
   Title: 謳歌爛漫
@@ -138,6 +142,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103106
   OrderId: 1207
   Title: 眩耀夜行
@@ -166,6 +171,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103107
   OrderId: 1208
   Title: Kawaii no susume
@@ -194,6 +200,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103108
   OrderId: 1408
   Title: ジブンダイアリー
@@ -222,6 +229,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103109
   OrderId: 1005
   Title: 永遠のEuphoria
@@ -250,6 +258,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103110
   OrderId: 1602
   Title: ハクチューアラモード
@@ -278,6 +287,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103111
   OrderId: 1409
   Title: パラレルダンサー
@@ -306,6 +316,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103112
   OrderId: 1007
   Title: Dream Believers
@@ -334,6 +345,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103113
   OrderId: 1604
   Title: アイデンティティ
@@ -362,6 +374,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103114
   OrderId: 1008
   Title: Legato
@@ -390,6 +403,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103115
   OrderId: 1211
   Title: 千変万華
@@ -418,6 +432,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103116
   OrderId: 1010
   Title: Yup! Yup! Yup!
@@ -446,6 +461,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103117
   OrderId: 1213
   Title: シュガーメルト
@@ -474,6 +490,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103118
   OrderId: 1013
   Title: Link to the FUTURE
@@ -502,6 +519,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103119
   OrderId: 2001
   Title: ハッピー至上主義！
@@ -530,6 +548,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103120
   OrderId: 1610
   Title: マハラジャンボリー
@@ -558,6 +577,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103201
   OrderId: 6003
   Title: Preserved Roses
@@ -586,6 +606,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103202
   OrderId: 6012
   Title: 心予報
@@ -614,6 +635,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103203
   OrderId: 6015
   Title: ダンスロボットダンス
@@ -642,6 +664,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103204
   OrderId: 6018
   Title: 御旗のもとに
@@ -670,6 +693,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103205
   OrderId: 6019
   Title: ダイヤモンドハッピー
@@ -698,6 +722,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103301
   OrderId: 5003
   Title: TOKIMEKI Runners
@@ -726,6 +751,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 103302
   OrderId: 5002
   Title: 君のこころは輝いてるかい?
@@ -754,6 +780,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -782,6 +809,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203102
   OrderId: 1403
   Title: ツキマカセ
@@ -810,6 +838,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203103
   OrderId: 1206
   Title: Holiday∞Holiday
@@ -838,6 +867,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203104
   OrderId: 1407
   Title: Mirage Voyage
@@ -866,6 +896,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203105
   OrderId: 1006
   Title: 夏めきペイン
@@ -894,6 +925,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203106
   OrderId: 1601
   Title: ド！ド！ド！
@@ -922,6 +954,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203107
   OrderId: 1210
   Title: 素顔のピクセル
@@ -950,6 +983,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203108
   OrderId: 1605
   Title: ノンフィクションヒーローショー
@@ -978,6 +1012,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203109
   OrderId: 3001
   Title: Runway
@@ -1006,6 +1041,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203110
   OrderId: 1412
   Title: 青春の輪郭
@@ -1034,6 +1070,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203111
   OrderId: 1012
   Title: ツバサ・ラ・リベルテ
@@ -1062,6 +1099,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203112
   OrderId: 1606
   Title: 天才なのかもしれない
@@ -1090,6 +1128,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203113
   OrderId: 1214
   Title: Special Thanks
@@ -1118,6 +1157,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203114
   OrderId: 1607
   Title: ミルク
@@ -1146,6 +1186,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203115
   OrderId: 2003
   Title: Colorfulness
@@ -1174,6 +1215,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203116
   OrderId: 1608
   Title: BANG YOU グラビティ
@@ -1202,6 +1244,65 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
+- Id: 203117
+  OrderId: 1014
+  Title: 抱きしめる花びら
+  TitleFurigana: だきしめるはなびら
+  JacketId: 203117
+  SoundId: 20311701
+  Description: 全体曲
+  GenerationsId: 103
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 22500
+  ApIncrement: 1139
+  SongTime: 11392
+  PlayTime: 136709
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
+- Id: 203118
+  OrderId: 1015
+  Title: STEP UP !
+  TitleFurigana: すてっぷあっぷ
+  JacketId: 203118
+  SoundId: 20311801
+  Description: 全体曲
+  GenerationsId: 103
+  UnitId: 100
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1022,1023,1032,1033
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 11842
+  ApIncrement: 877
+  SongTime: 8770
+  PlayTime: 105241
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203201
   OrderId: 6004
   Title: そばかす
@@ -1230,6 +1331,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203202
   OrderId: 6001
   Title: ビバハピ
@@ -1258,6 +1360,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203203
   OrderId: 6007
   Title: 狙いうち
@@ -1286,6 +1389,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203204
   OrderId: 6008
   Title: ♡桃色片想い♡
@@ -1314,6 +1418,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203205
   OrderId: 6009
   Title: いーあるふぁんくらぶ
@@ -1342,6 +1447,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203206
   OrderId: 6010
   Title: ハッピーシンセサイザ
@@ -1370,6 +1476,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203207
   OrderId: 6014
   Title: 強風オールバック
@@ -1398,6 +1505,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203208
   OrderId: 6016
   Title: CHANGE!!!!
@@ -1426,6 +1534,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203301
   OrderId: 5001
   Title: 僕らのLIVE 君とのLIFE
@@ -1454,6 +1563,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 203302
   OrderId: 5004
   Title: 始まりは君の空
@@ -1482,6 +1592,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303101
   OrderId: 1003
   Title: On your mark
@@ -1510,6 +1621,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303102
   OrderId: 1201
   Title: 水彩世界
@@ -1538,6 +1650,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303103
   OrderId: 1401
   Title: AWOKE
@@ -1566,6 +1679,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303104
   OrderId: 1402
   Title: Sparkly Spot
@@ -1594,6 +1708,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303105
   OrderId: 1404
   Title: 希望的プリズム
@@ -1622,6 +1737,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303106
   OrderId: 1405
   Title: スケイプゴート
@@ -1650,6 +1766,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303107
   OrderId: 1004
   Title: DEEPNESS
@@ -1678,6 +1795,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303108
   OrderId: 1406
   Title: Tragic Drops
@@ -1706,6 +1824,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303109
   OrderId: 1603
   Title: ココン東西
@@ -1734,6 +1853,7 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303110
   OrderId: 1209
   Title: 残陽
@@ -1762,6 +1882,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303111
   OrderId: 1410
   Title: Take It Over
@@ -1790,6 +1911,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303112
   OrderId: 1411
   Title: KNOT
@@ -1818,6 +1940,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303113
   OrderId: 1009
   Title: Trick & Cute
@@ -1846,6 +1969,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303114
   OrderId: 1212
   Title: Dear my future
@@ -1874,6 +1998,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303115
   OrderId: 1011
   Title: 明日の空の僕たちへ
@@ -1902,6 +2027,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303116
   OrderId: 1413
   Title: 飴色
@@ -1930,6 +2056,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303117
   OrderId: 1414
   Title: 青とシャボン
@@ -1958,6 +2085,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303118
   OrderId: 2002
   Title: Pleasure Feather
@@ -1986,6 +2114,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303119
   OrderId: 1609
   Title: 以心☆電信
@@ -2014,6 +2143,7 @@
   ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303201
   OrderId: 6002
   Title: 深愛
@@ -2042,6 +2172,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303202
   OrderId: 6005
   Title: ロストワンの号哭
@@ -2070,6 +2201,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303203
   OrderId: 6006
   Title: 名前のない怪物
@@ -2098,6 +2230,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303204
   OrderId: 6011
   Title: ヴィラン
@@ -2126,6 +2259,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303205
   OrderId: 6013
   Title: 威風堂々
@@ -2154,6 +2288,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303206
   OrderId: 6017
   Title: 祝福
@@ -2182,6 +2317,7 @@
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
 - Id: 303207
   OrderId: 6020
   Title: lucky train!
@@ -2210,3 +2346,4 @@
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 10
