@@ -46,6 +46,30 @@
   Description: デイリーライブに挑戦できる回数を回復することができるチケット。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1005000
+  Name: グレードPt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: グレードを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005001
+  Name: グレードPt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: グレードを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011
   Name: 猫のダンベルボール
   NameFurigana: ねこのだんべるぼーる
@@ -334,6 +358,18 @@
   Description: "チャウチャウのチャーム。正直言いたいだけ。言いたいだけだが、\\nその可愛さは折り紙つき。眺めて癒やされよう。"
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2003071
+  Name: 花束（ミニ）
+  NameFurigana: はなたばみに
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "配信中のスクールアイドルに贈ることができる綺麗で素敵な花束。\\nささやかでも、心を込めて。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2003072
   Name: 花束（スタンダード）
   NameFurigana: はなたばすたんだーど
@@ -539,7 +575,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3001100
-  Name: プレイPt. 上限アップ
+  Name: プレイPt.上限アップ
   NameFurigana: ぷれいぽいんとじょうげんあっぷ
   ItemType: 3
   ItemCategory: 0
@@ -547,7 +583,7 @@
   EffectValue: 1
   LimitNum: 9999
   RequestableNum: 0
-  Description: プレイPt.の上限がアップする。
+  Description: プレイPt.の上限が1ptアップする。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3002001
@@ -573,6 +609,18 @@
   RequestableNum: 0
   Description: カードパックガチャを10回引くことができるチケット。
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3002110
+  Name: UR1枚以上確定10連カードパックチケット（103期通常のみ）
+  NameFurigana: うるとられあいちまいいじょうかくていじゅうれんかーどぱっくちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: UR1枚以上確定10連カードパックガチャを10回引くことができるチケット。
+  StartTime: 2023-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003001
   Name: 事前登録プレゼントURカードセレクトチケット
@@ -778,6 +826,42 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-03-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003018
+  Name: 【スリーズブーケ】SRセレクトチケット（103期通常のみ）
+  NameFurigana: すりーずぶーけすーぱーれあせれくとちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003019
+  Name: 【DOLLCHESTRA】SRセレクトチケット（103期通常のみ）
+  NameFurigana: どるけすとらすーぱーれあせれくとちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003020
+  Name: 【みらくらぱーく！】SRセレクトチケット（103期通常のみ）
+  NameFurigana: みらくらぱーくすーぱーれあせれくとちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3003021
   Name: 【スタートボーナス】URセレクトチケット（103期通常のみ）
   NameFurigana: すたーとぼーなすうるとられあせれくとちけっとひゃくさんきつうじょうのみ
@@ -789,6 +873,18 @@
   RequestableNum: 0
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2023-03-28T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003024
+  Name: URセレクトチケット（103期通常のみ）
+  NameFurigana: うるとられあせれくとちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2023-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
@@ -1556,6 +1652,18 @@
   LimitNum: 9999
   RequestableNum: 0
   Description: "これまで続き、これからも続いていくスクールアイドルの歴史を司\\nる不思議な砂時計。その夢が色褪せることはない。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3008002
+  Name: ユメノハネ
+  NameFurigana: ゆめのはね
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "これまで続き、これからも続いていくスクールアイドルの歴史を司\\nる機械仕掛けのツバサの欠片。その夢は何処までも飛躍していく。"
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3009000

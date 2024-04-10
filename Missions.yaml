@@ -805,7 +805,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 30050002
-  SortOrder: 9
+  SortOrder: 8
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -819,7 +819,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 9
+  SortOrder: 8
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -861,7 +861,7 @@
   MissionConditionDetail: 1
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 15
+  SortOrder: 22
   TransitionContentsId: 103
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -875,10 +875,52 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 12
+  SortOrder: 15
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30202101
+  Name: 乙宗梢のカードを5種類入手しよう
+  Description: 乙宗梢のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1021
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 501
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30202201
+  Name: 夕霧綴理のカードを5種類入手しよう
+  Description: 夕霧綴理のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1022
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 501
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30202301
+  Name: 藤島慈のカードを5種類入手しよう
+  Description: 藤島慈のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1023
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 501
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
   Hint: 0
 - Id: 30203101
   Name: 日野下花帆のカードを5種類入手しよう
@@ -889,10 +931,80 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 11
+  SortOrder: 12
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30203201
+  Name: 村野さやかのカードを5種類入手しよう
+  Description: 村野さやかのカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1032
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 13
+  TransitionContentsId: 501
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30203301
+  Name: 大沢瑠璃乃のカードを5種類入手しよう
+  Description: 大沢瑠璃乃のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1033
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 14
+  TransitionContentsId: 501
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30302101
+  Name: 乙宗梢のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 乙宗梢のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1021
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 16
+  TransitionContentsId: 309
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30302201
+  Name: 夕霧綴理のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 夕霧綴理のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1022
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 17
+  TransitionContentsId: 309
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30302301
+  Name: 藤島慈のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 藤島慈のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1023
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 18
+  TransitionContentsId: 309
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
   Hint: 0
 - Id: 30303101
   Name: 日野下花帆のスタイルのスタイルLv.を合計300まで上げよう
@@ -903,10 +1015,38 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 13
+  SortOrder: 19
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30303201
+  Name: 村野さやかのスタイルのスタイルLv.を合計300まで上げよう
+  Description: 村野さやかのスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1032
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 20
+  TransitionContentsId: 309
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  Hint: 0
+- Id: 30303301
+  Name: 大沢瑠璃乃のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 大沢瑠璃乃のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1033
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 21
+  TransitionContentsId: 309
+  StartTime: 2024-04-09T19:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
   Hint: 0
 - Id: 30602101
   Name: 乙宗梢のMember Fan Lv.を10まで上げよう
@@ -917,7 +1057,7 @@
   MissionConditionDetail: 1021
   OpenType: 0
   NextMissionsId: 30602102
-  SortOrder: 3
+  SortOrder: 2
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -931,7 +1071,7 @@
   MissionConditionDetail: 1021
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 3
+  SortOrder: 2
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -945,7 +1085,7 @@
   MissionConditionDetail: 1022
   OpenType: 0
   NextMissionsId: 30602202
-  SortOrder: 4
+  SortOrder: 3
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -959,7 +1099,7 @@
   MissionConditionDetail: 1022
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 4
+  SortOrder: 3
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -973,7 +1113,7 @@
   MissionConditionDetail: 1023
   OpenType: 0
   NextMissionsId: 30602302
-  SortOrder: 5
+  SortOrder: 4
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -987,7 +1127,7 @@
   MissionConditionDetail: 1023
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 5
+  SortOrder: 4
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1001,7 +1141,7 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 30603102
-  SortOrder: 6
+  SortOrder: 5
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1015,7 +1155,7 @@
   MissionConditionDetail: 1031
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 6
+  SortOrder: 5
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1029,7 +1169,7 @@
   MissionConditionDetail: 1032
   OpenType: 0
   NextMissionsId: 30603202
-  SortOrder: 7
+  SortOrder: 6
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1043,7 +1183,7 @@
   MissionConditionDetail: 1032
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 7
+  SortOrder: 6
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1057,7 +1197,7 @@
   MissionConditionDetail: 1033
   OpenType: 0
   NextMissionsId: 30603302
-  SortOrder: 8
+  SortOrder: 7
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1071,7 +1211,7 @@
   MissionConditionDetail: 1033
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 8
+  SortOrder: 7
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z

@@ -138,3 +138,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-03-08T19:00:00Z
   EndTime: 2024-03-10T18:59:59Z
+- Id: 201021
+  Name: Grade Live オープン記念！育成応援ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201021
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-04-10T19:00:00Z
+  EndTime: 2024-05-01T18:59:59Z

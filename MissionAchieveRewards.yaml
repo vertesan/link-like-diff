@@ -3,7 +3,7 @@
   AchieveMarkNum: 2
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 25
+  RewardNum: 50
   RewardTextId: 40201001
   SortOrder: 1
 - Id: 1040
@@ -11,15 +11,15 @@
   AchieveMarkNum: 4
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 25
+  RewardNum: 50
   RewardTextId: 40201001
   SortOrder: 2
 - Id: 1060
   MissionType: 1
   AchieveMarkNum: 6
-  RewardType: 3
-  ItemsId: 1002001
-  RewardNum: 50
+  RewardType: 1
+  ItemsId: 2003071
+  RewardNum: 3
   RewardTextId: 40201001
   SortOrder: 3
 - Id: 2030
@@ -27,7 +27,7 @@
   AchieveMarkNum: 3
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 25
+  RewardNum: 50
   RewardTextId: 40202001
   SortOrder: 1
 - Id: 2050
@@ -43,7 +43,7 @@
   AchieveMarkNum: 7
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 75
+  RewardNum: 100
   RewardTextId: 40202001
   SortOrder: 3
 - Id: 2090
@@ -59,7 +59,7 @@
   AchieveMarkNum: 11
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 100
+  RewardNum: 150
   RewardTextId: 40202001
   SortOrder: 5
 - Id: 2130
@@ -67,7 +67,7 @@
   AchieveMarkNum: 13
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 100
+  RewardNum: 150
   RewardTextId: 40202001
   SortOrder: 6
 - Id: 2150
@@ -75,14 +75,14 @@
   AchieveMarkNum: 15
   RewardType: 3
   ItemsId: 1002001
-  RewardNum: 150
+  RewardNum: 200
   RewardTextId: 40202001
   SortOrder: 7
 - Id: 2170
   MissionType: 2
   AchieveMarkNum: 17
-  RewardType: 3
-  ItemsId: 1002001
-  RewardNum: 200
+  RewardType: 1
+  ItemsId: 2003072
+  RewardNum: 1
   RewardTextId: 40202001
   SortOrder: 8

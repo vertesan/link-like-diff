@@ -6,3 +6,27 @@
   EffectValue: 0
   StartTime: 2024-03-08T19:00:00Z
   EndTime: 2024-03-16T18:59:59Z
+- Id: 2
+  CampaignType: 1
+  TargetContents: 103
+  Name: デイリーライブ開放
+  Description: 期間中、曜日に関わらず全てのデイリーライブに挑戦可能。
+  EffectValue: 0
+  StartTime: 2024-04-10T19:00:00Z
+  EndTime: 2024-04-16T18:59:59Z
+- Id: 3
+  CampaignType: 3
+  TargetContents: 103
+  Name: アイテム獲得数増加
+  Description: 期間中、デイリーライブで獲得できるアイテムの個数が1.5倍に増加。
+  EffectValue: 150
+  StartTime: 2024-04-10T19:00:00Z
+  EndTime: 2024-04-16T18:59:59Z
+- Id: 4
+  CampaignType: 5
+  TargetContents: 103
+  Name: スタイルPt.獲得数増加
+  Description: 期間中、デイリーライブで獲得できるスタイルPt.の量が1.5倍に増加。
+  EffectValue: 150
+  StartTime: 2024-04-10T19:00:00Z
+  EndTime: 2024-04-16T18:59:59Z
