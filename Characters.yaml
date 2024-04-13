@@ -27,7 +27,7 @@
   LatinAlphabetNameFirst: Kozue
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 4
+  IconOrderId: 7
   CharacterVoice: 花宮初奈
   ThemeColor: "#68be8d"
   Introduction: |-
@@ -49,14 +49,14 @@
   LatinAlphabetNameFirst: Tsuzuri
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 5
+  IconOrderId: 8
   CharacterVoice: 佐々木琴子
   ThemeColor: "#ba2636"
   Introduction: |-
     誕生日　　11月17日　　　　身長　　171cm
     趣味　　　　　　うごくものをながめる、誰かの話を聞くこと
     特技　　　　　　寝るまでの速さは自慢
-    好きな食べ物　　チョコのケーキ
+    好きな食べ物　　チョコのケーキ、まねっこドーブツ
     好きな言葉　　　和気あいあい
     好きな教科　　　数学
     好きな動物　　　あったかい生き物
@@ -71,7 +71,7 @@
   LatinAlphabetNameFirst: Megumi
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 6
+  IconOrderId: 9
   CharacterVoice: 月音こな
   ThemeColor: "#c8c2c6"
   Introduction: |-
@@ -93,7 +93,7 @@
   LatinAlphabetNameFirst: Kaho
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 1
+  IconOrderId: 4
   CharacterVoice: 楡井希実
   ThemeColor: "#f8b500"
   Introduction: |-
@@ -115,7 +115,7 @@
   LatinAlphabetNameFirst: Sayaka
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 2
+  IconOrderId: 5
   CharacterVoice: 野中ここな
   ThemeColor: "#5383c3"
   Introduction: |-
@@ -138,7 +138,7 @@
   LatinAlphabetNameFirst: Rurino
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 3
+  IconOrderId: 6
   CharacterVoice: 菅 叶和
   ThemeColor: "#e7609e"
   Introduction: |-
@@ -151,6 +151,73 @@
     好きな教科　　　美術、音楽
     好きな動物　　　チャウチャウ、おっきいクマ
   ShowSeasonFanLvStartTime: 2023-07-26T01:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 1
+  StyleType: 1
+- Id: 1041
+  NameLast: 百生
+  NameFirst: 吟子
+  LatinAlphabetNameLast: Momose
+  LatinAlphabetNameFirst: Ginko
+  GenerationsId: 104
+  SeriesType: 0
+  IconOrderId: 1
+  CharacterVoice: 櫻井陽菜
+  ThemeColor: "#a2d7dd"
+  Introduction: |-
+    誕生日　　10月20日　　　　身長　　162cm
+    趣味　　　　　　和装、神社仏閣や喫茶店を巡ること
+    特技　　　　　　加賀繍、日本舞踊
+    好きな食べ物　　コーヒー、和菓子、いなり寿司
+    好きな言葉　　　千里の道も一歩から、花鳥風月
+    好きな教科　　　古文、日本史、家庭科
+    好きな動物　　　きつね、たぬき、鶴と亀
+  ShowSeasonFanLvStartTime: 2024-04-12T15:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 1
+  StyleType: 1
+- Id: 1042
+  NameLast: 徒町
+  NameFirst: 小鈴
+  LatinAlphabetNameLast: Kachimachi
+  LatinAlphabetNameFirst: Kosuzu
+  GenerationsId: 104
+  SeriesType: 0
+  IconOrderId: 2
+  CharacterVoice: 葉山風花
+  ThemeColor: "#fad764"
+  Introduction: |-
+    誕生日　　2月28日　　　　身長　　152cm
+    趣味　　　　　　文房具集め
+    特技　　　　　　特技と言えるようなことは何も…
+    好きな食べ物　　駄菓子のラムネ
+    好きな言葉　　　石の上にも三年
+    好きな教科　　　図画工作！
+    好きな動物　　　デッカい恐竜
+  ShowSeasonFanLvStartTime: 2024-04-12T15:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 1
+  StyleType: 1
+- Id: 1043
+  NameLast: 安養寺
+  NameFirst: 姫芽
+  LatinAlphabetNameLast: Anyoji
+  LatinAlphabetNameFirst: Hime
+  GenerationsId: 104
+  SeriesType: 0
+  IconOrderId: 3
+  CharacterVoice: 来栖りん
+  ThemeColor: "#9d8de2"
+  Introduction: |-
+    誕生日　　9月24日　　　　身長　　160cm
+    趣味　　　　　　ゲームとその布教
+    特技　　　　　　ゲーム、動画配信、早食い
+    好きな食べ物　　甘くて可愛いもの
+    好きな言葉　　　楽しいが一番！、対戦相手は敵役の仲間、
+    　　　　　　　　ggwp、<3
+    好きな教科　　　全教科イーブン
+    好きな動物　　　ウミウシ、アルマジロトカゲ、変な生き物
+  ShowSeasonFanLvStartTime: 2024-04-12T15:00:00Z
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1

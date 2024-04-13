@@ -1,5 +1,5 @@
 - Id: 900101
-  Name: 第1話『花咲きたい！』PART1を読もう
+  Name: 2023 April 第1話『花咲きたい！』PART1を読もう
   Description: 第1話『花咲きたい！』PART1を読もう
   MissionType: 91
   MissionConditionType: 70
@@ -13,7 +13,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 1
 - Id: 900102
-  Name: 第1話『花咲きたい！』PART2を読もう
+  Name: 2023 April 第1話『花咲きたい！』PART2を読もう
   Description: 第1話『花咲きたい！』PART2を読もう
   MissionType: 91
   MissionConditionType: 70
@@ -27,7 +27,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 1
 - Id: 900103
-  Name: 第1話『花咲きたい！』PART3を読もう
+  Name: 2023 April 第1話『花咲きたい！』PART3を読もう
   Description: 第1話『花咲きたい！』PART3を読もう
   MissionType: 91
   MissionConditionType: 70
@@ -41,7 +41,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 1
 - Id: 900104
-  Name: 第1話『花咲きたい！』PART4を読もう
+  Name: 2023 April 第1話『花咲きたい！』PART4を読もう
   Description: 第1話『花咲きたい！』PART4を読もう
   MissionType: 91
   MissionConditionType: 70
@@ -55,7 +55,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 1
 - Id: 900105
-  Name: 第1話『花咲きたい！』PART5を読もう
+  Name: 2023 April 第1話『花咲きたい！』PART5を読もう
   Description: 第1話『花咲きたい！』PART5を読もう
   MissionType: 91
   MissionConditionType: 70
@@ -805,7 +805,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 30050002
-  SortOrder: 8
+  SortOrder: 11
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -819,7 +819,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 8
+  SortOrder: 11
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -861,7 +861,7 @@
   MissionConditionDetail: 1
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 22
+  SortOrder: 31
   TransitionContentsId: 103
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -875,7 +875,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 15
+  SortOrder: 21
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -889,10 +889,10 @@
   MissionConditionDetail: 1021
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 9
+  SortOrder: 12
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30202201
   Name: 夕霧綴理のカードを5種類入手しよう
@@ -903,10 +903,10 @@
   MissionConditionDetail: 1022
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 10
+  SortOrder: 13
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30202301
   Name: 藤島慈のカードを5種類入手しよう
@@ -917,10 +917,10 @@
   MissionConditionDetail: 1023
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 11
+  SortOrder: 14
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30203101
   Name: 日野下花帆のカードを5種類入手しよう
@@ -931,7 +931,7 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 12
+  SortOrder: 15
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -945,10 +945,10 @@
   MissionConditionDetail: 1032
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 13
+  SortOrder: 16
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30203301
   Name: 大沢瑠璃乃のカードを5種類入手しよう
@@ -959,10 +959,52 @@
   MissionConditionDetail: 1033
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 14
+  SortOrder: 17
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30204101
+  Name: 百生吟子のカードを5種類入手しよう
+  Description: 百生吟子のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1041
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 18
+  TransitionContentsId: 501
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30204201
+  Name: 徒町小鈴のカードを5種類入手しよう
+  Description: 徒町小鈴のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1042
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 19
+  TransitionContentsId: 501
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30204301
+  Name: 安養寺姫芽のカードを5種類入手しよう
+  Description: 安養寺姫芽のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1043
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 20
+  TransitionContentsId: 501
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30302101
   Name: 乙宗梢のスタイルのスタイルLv.を合計300まで上げよう
@@ -973,10 +1015,10 @@
   MissionConditionDetail: 1021
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 16
+  SortOrder: 22
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30302201
   Name: 夕霧綴理のスタイルのスタイルLv.を合計300まで上げよう
@@ -987,10 +1029,10 @@
   MissionConditionDetail: 1022
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 17
+  SortOrder: 23
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30302301
   Name: 藤島慈のスタイルのスタイルLv.を合計300まで上げよう
@@ -1001,10 +1043,10 @@
   MissionConditionDetail: 1023
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 18
+  SortOrder: 24
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30303101
   Name: 日野下花帆のスタイルのスタイルLv.を合計300まで上げよう
@@ -1015,7 +1057,7 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 19
+  SortOrder: 25
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1029,10 +1071,10 @@
   MissionConditionDetail: 1032
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 20
+  SortOrder: 26
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30303301
   Name: 大沢瑠璃乃のスタイルのスタイルLv.を合計300まで上げよう
@@ -1043,10 +1085,52 @@
   MissionConditionDetail: 1033
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 21
+  SortOrder: 27
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
-  EndTime: 2035-12-31T14:59:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30304101
+  Name: 百生吟子のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 百生吟子のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1041
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 28
+  TransitionContentsId: 309
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30304201
+  Name: 徒町小鈴のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 徒町小鈴のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1042
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 29
+  TransitionContentsId: 309
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30304301
+  Name: 安養寺姫芽のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 安養寺姫芽のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1043
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 30
+  TransitionContentsId: 309
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30602101
   Name: 乙宗梢のMember Fan Lv.を10まで上げよう
@@ -1214,5 +1298,89 @@
   SortOrder: 7
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604101
+  Name: 百生吟子のMember Fan Lv.を10まで上げよう
+  Description: 百生吟子のMember Fan Lv.を10まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 10
+  MissionConditionDetail: 1041
+  OpenType: 0
+  NextMissionsId: 30604102
+  SortOrder: 8
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604102
+  Name: 百生吟子のMember Fan Lv.を20まで上げよう
+  Description: 百生吟子のMember Fan Lv.を20まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 20
+  MissionConditionDetail: 1041
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 8
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604201
+  Name: 徒町小鈴のMember Fan Lv.を10まで上げよう
+  Description: 徒町小鈴のMember Fan Lv.を10まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 10
+  MissionConditionDetail: 1042
+  OpenType: 0
+  NextMissionsId: 30604202
+  SortOrder: 9
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604202
+  Name: 徒町小鈴のMember Fan Lv.を20まで上げよう
+  Description: 徒町小鈴のMember Fan Lv.を20まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 20
+  MissionConditionDetail: 1042
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604301
+  Name: 安養寺姫芽のMember Fan Lv.を10まで上げよう
+  Description: 安養寺姫芽のMember Fan Lv.を10まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 10
+  MissionConditionDetail: 1043
+  OpenType: 0
+  NextMissionsId: 30604302
+  SortOrder: 10
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30604302
+  Name: 安養寺姫芽のMember Fan Lv.を20まで上げよう
+  Description: 安養寺姫芽のMember Fan Lv.を20まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 20
+  MissionConditionDetail: 1043
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 203
+  StartTime: 2024-04-12T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0

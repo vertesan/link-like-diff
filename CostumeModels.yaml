@@ -28,6 +28,21 @@
   CharactersId: 1033
   CostumesId: 1001
   HairStyleId: 1
+- Id: 1001104101
+  Label: 制服(冬)_上靴_百生吟子
+  CharactersId: 1041
+  CostumesId: 1001
+  HairStyleId: 1
+- Id: 1001104201
+  Label: 制服(冬)_上靴_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1001
+  HairStyleId: 1
+- Id: 1001104301
+  Label: 制服(冬)_上靴_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 1001
+  HairStyleId: 1
 - Id: 1001900701
   Label: 制服(冬)_上靴_大賀美沙知
   CharactersId: 9007
@@ -123,6 +138,11 @@
   CharactersId: 1033
   CostumesId: 1004
   HairStyleId: 1
+- Id: 1004104201
+  Label: 体操服(冬)_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1004
+  HairStyleId: 1
 - Id: 1004900701
   Label: 体操服(冬)_大賀美沙知
   CharactersId: 9007
@@ -156,6 +176,21 @@
 - Id: 1006103301
   Label: 制服(冬)_ローファー_大沢瑠璃乃
   CharactersId: 1033
+  CostumesId: 1006
+  HairStyleId: 1
+- Id: 1006104101
+  Label: 制服(冬)_ローファー_百生吟子
+  CharactersId: 1041
+  CostumesId: 1006
+  HairStyleId: 1
+- Id: 1006104201
+  Label: 制服(冬)_ローファー_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1006
+  HairStyleId: 1
+- Id: 1006104301
+  Label: 制服(冬)_ローファー_安養寺姫芽
+  CharactersId: 1043
   CostumesId: 1006
   HairStyleId: 1
 - Id: 1007102101
@@ -284,37 +319,42 @@
   CostumesId: 2006
   HairStyleId: 1
 - Id: 2007102101
-  Label: 外出着鞄なし(春夏)_乙宗梢
+  Label: 外出着(春夏)_乙宗梢
   CharactersId: 1021
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007102201
-  Label: 外出着鞄なし(春夏)_夕霧綴理
+  Label: 外出着(春夏)_夕霧綴理
   CharactersId: 1022
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007102301
-  Label: 外出着鞄なし(春夏)_藤島慈
+  Label: 外出着(春夏)_藤島慈
   CharactersId: 1023
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007103101
-  Label: 外出着鞄なし(春夏)_日野下花帆
+  Label: 外出着(春夏)_日野下花帆
   CharactersId: 1031
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007103201
-  Label: 外出着鞄なし(春夏)_村野さやか
+  Label: 外出着(春夏)_村野さやか
   CharactersId: 1032
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007103301
-  Label: 外出着鞄なし(春夏)_大沢瑠璃乃
+  Label: 外出着(春夏)_大沢瑠璃乃
   CharactersId: 1033
   CostumesId: 2007
   HairStyleId: 1
+- Id: 2007104101
+  Label: 外出着(春夏)_百生吟子
+  CharactersId: 1041
+  CostumesId: 2007
+  HairStyleId: 1
 - Id: 2007900801
-  Label: 外出着鞄なし(春夏)_村野つかさ
+  Label: 外出着(春夏)_村野つかさ
   CharactersId: 9008
   CostumesId: 2007
   HairStyleId: 1
@@ -731,6 +771,11 @@
 - Id: 3009103301
   Label: トレーニングウェア(春夏)_大沢瑠璃乃
   CharactersId: 1033
+  CostumesId: 3009
+  HairStyleId: 1
+- Id: 3009104101
+  Label: トレーニングウェア(春夏)_百生吟子
+  CharactersId: 1041
   CostumesId: 3009
   HairStyleId: 1
 - Id: 3010102103

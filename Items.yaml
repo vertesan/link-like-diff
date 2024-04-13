@@ -478,6 +478,150 @@
   Description: "いつもとは一味違うイロトリドリなかがやきに、\\nお返しチョコレートでエールを送ろう！"
   StartTime: 2024-02-28T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2003081
+  Name: 抹茶わらび餅
+  NameFurigana: まっちゃわらびもち
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "抹茶風味のわらび餅。甘さと苦さのハーモニーで、食べたものを飽\\nきさせない。スクールアイドルユニットと言っても過言ではない。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003082
+  Name: 和柄の巾着
+  NameFurigana: わがらのきんちゃく
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 500
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "和柄をあしらった巾着袋。スクールアイドル活動に必要なあれやこ\\nれやを次々に詰め込むことができる。口が閉まる程度にしよう。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003083
+  Name: 深煎りコーヒー豆
+  NameFurigana: ふかいりこーひーまめ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 1000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "飲みごたえのあるコク深いコーヒーを入れることができる豆。その\\n確かな苦味には、違いのわかるスクールアイドルも一発で虜に。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003084
+  Name: ツルカメマグカップ
+  NameFurigana: つるかめまぐかっぷ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "鶴と亀があしらわれたマグカップ。長寿をはじめ、何かにつけては\\n縁起の良い代物。鶴は千年、亀は万年、スクールアイドル一億年。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003085
+  Name: 消しゴムサウルス
+  NameFurigana: けしごむさうるす
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "文房具界を激震させた脅威の消しゴム、消しゴムサウルス。小さい\\nながらも迫力あるディテールで、文字という文字を消し散らかす。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003086
+  Name: ラムネ菓子
+  NameFurigana: らむねがし
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 500
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "爽やかな味わいのラムネ。飲料のラムネばかりが青春の象徴にされ\\nがちだが、菓子のラムネのことも忘れないでほしい。美味しい。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003087
+  Name: クジラのぬいぐるみ
+  NameFurigana: くじらのぬいぐるみ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 1000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "大きなクジラのぬいぐるみ。その包容力に、思わず抱きつきたくな\\nること必至。そんなクジラもまた、甘えられる相手を探している。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003088
+  Name: 無病息災のお守り
+  NameFurigana: むびょうそくさいのおまもり
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "無病息災の加護を宿したお守り。夢を叶えるべく突き進むスクール\\nアイドルを災いから守る。学業からは守ってくれない。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003089
+  Name: ゲーミングいちごミルク
+  NameFurigana: げーみんぐいちごみるく
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "七色に光り輝くいちごミルク。誰もがその目を疑った。だがゲーム\\nとは、常に自分自身との戦い。常識を覆し、限界を突破しよう。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003090
+  Name: ケーキのコンセントキャップ
+  NameFurigana: けーきのこんせんときゃっぷ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 500
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "ケーキを模したキャップ。使わないコンセントの穴に挿して使う。\\n電流には蓋をできるが、ケーキを食べる欲望には蓋をできない。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003091
+  Name: ウミウシのスクイーズ
+  NameFurigana: うみうしのすくいーず
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 1000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "ウミウシのやわらかスクイーズ。にぎにぎすることで、心を落ち着\\nけることができる。敗北続きで冷静さを失った時、握っておこう。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003092
+  Name: めぐるりアクスタ
+  NameFurigana: めぐるりあくすた
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "慈と瑠璃乃のアクリルスタンド。置くだけで、いつでもどこでも、\\nみらくらぱーく！らしい。いくらあっても良いとされている。"
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2015001
   Name: Fes×LIVE S席チケット
   NameFurigana: ふぇすらいぶえすせきちけっと
@@ -873,6 +1017,18 @@
   RequestableNum: 0
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2023-03-28T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003022
+  Name: 【104期生 Dream Believers】URセレクトチケット
+  NameFurigana: ひゃくよんきせいどりーむびりーばーうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2023-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003024
   Name: URセレクトチケット（103期通常のみ）
@@ -1726,6 +1882,18 @@
   Description: "デイリーライブのトリックスタークエストを、1日だけ開放できる\\nチケット。"
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3011001
+  Name: GP PRIZE交換チケット
+  NameFurigana: じーぴーぷらいずこうかんちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "ライブグランプリで獲得できるチケット。集めることで、\\n候補の中から選択したカード1枚と交換できる。"
+  StartTime: 2024-04-15T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4010400
   Name: SR[？？？]？？？
   NameFurigana: かいほうぽいんと
@@ -1809,6 +1977,30 @@
   RequestableNum: 0
   Description: スタイル解放素材（乙宗梢）
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4021303
+  Name: "[レインボーシフォン]乙宗梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗梢)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4021304
+  Name: "[室咲格子]乙宗梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗梢)
+  StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4021401
   Name: "[Grace Phrase]乙宗梢 解放Pt."
@@ -2290,6 +2482,30 @@
   Description: スタイル解放素材（夕霧綴理）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4022303
+  Name: "[レインボーシフォン]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4022304
+  Name: "[室咲格子]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4022401
   Name: "[Vivid Phrase]夕霧綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -2770,6 +2986,30 @@
   Description: スタイル解放素材（藤島慈）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4023303
+  Name: "[レインボーシフォン]藤島慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島慈)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4023304
+  Name: "[室咲格子]藤島慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島慈)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4023401
   Name: "[M's One Day]藤島慈 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -3117,6 +3357,30 @@
   RequestableNum: 0
   Description: スタイル解放素材（日野下花帆）
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4031303
+  Name: "[レインボーシフォン]日野下花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下花帆)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4031304
+  Name: "[室咲格子]日野下花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下花帆)
+  StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4031401
   Name: "[水彩世界]日野下花帆 解放Pt."
@@ -3610,6 +3874,30 @@
   Description: スタイル解放素材（村野さやか）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032303
+  Name: "[レインボーシフォン]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032304
+  Name: "[室咲格子]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032401
   Name: "[AWOKE]村野さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4090,6 +4378,30 @@
   Description: スタイル解放素材（大沢瑠璃乃）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033303
+  Name: "[レインボーシフォン]大沢瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢瑠璃乃)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4033304
+  Name: "[室咲格子]大沢瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢瑠璃乃)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033401
   Name: "[R's One Day]大沢瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4233,6 +4545,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(大沢瑠璃乃)
   StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4033413
+  Name: "[春風ブランコ]大沢瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢瑠璃乃)
+  StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4033501
   Name: "[Dream Believers]大沢瑠璃乃  解放Pt."
@@ -4413,4 +4737,112 @@
   RequestableNum: 0
   Description: スタイル解放素材（大沢瑠璃乃）
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041301
+  Name: "[レインボーシフォン]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041302
+  Name: "[室咲格子]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041501
+  Name: "[Dream Believers]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042301
+  Name: "[レインボーシフォン]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042302
+  Name: "[室咲格子]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042501
+  Name: "[Dream Believers]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043301
+  Name: "[レインボーシフォン]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043302
+  Name: "[室咲格子]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043501
+  Name: "[Dream Believers]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z

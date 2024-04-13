@@ -89,29 +89,15 @@
   HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
-- Id: 1031014
-  Label: DreamBelievers(103期)(4人)
-  MusicId: 103101
-  HaveMusic: 1
-  HaveMotion: 1
-  CharactersCount: 4
-  CharactersIds: 1021,1022,1031,1032
 - Id: 1031016
-  Label: DreamBelievers(103期)(6人)
+  Label: DreamBelievers(103期)
   MusicId: 103101
   HaveMusic: 1
   HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
-- Id: 1031025
-  Label: 永遠のEuphoria(103期)(5人)
-  MusicId: 103102
-  HaveMusic: 0
-  HaveMotion: 1
-  CharactersCount: 5
-  CharactersIds: 1021,1022,1031,1032,1033
 - Id: 1031026
-  Label: 永遠のEuphoria(103期)(6人)
+  Label: 永遠のEuphoria(103期)
   MusicId: 103102
   HaveMusic: 1
   HaveMotion: 1
@@ -244,7 +230,7 @@
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 3031016
-  Label: On your mark
+  Label: On your mark(103期)
   MusicId: 303101
   HaveMusic: 1
   HaveMotion: 1

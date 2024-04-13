@@ -781,6 +781,35 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+- Id: 104101
+  OrderId: 1016
+  Title: Dream Believers（104期Ver.）
+  TitleFurigana: どりーむびりーばーず
+  JacketId: 104101
+  SoundId: 10410101
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1021
+  SingerCharacterId: 1022,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 10112
+  ApIncrement: 1160
+  SongTime: 11605
+  PlayTime: 139259
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -2347,3 +2376,32 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+- Id: 304101
+  OrderId: 1017
+  Title: On your mark（104期Ver.）
+  TitleFurigana: おんゆあまーく
+  JacketId: 304101
+  SoundId: 30410101
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1022
+  SingerCharacterId: 1021,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 16364
+  ApIncrement: 805
+  SongTime: 8052
+  PlayTime: 96623
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20

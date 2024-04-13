@@ -4109,7 +4109,7 @@
   UseNum: 10
   LiveStagesId: 100031
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 7
@@ -4484,7 +4484,7 @@
   UseNum: 10
   LiveStagesId: 100021
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 12
@@ -4859,7 +4859,7 @@
   UseNum: 10
   LiveStagesId: 100011
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 18
@@ -5234,7 +5234,7 @@
   UseNum: 10
   LiveStagesId: 100041
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 24
@@ -5609,7 +5609,7 @@
   UseNum: 10
   LiveStagesId: 100051
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 30
@@ -5984,7 +5984,7 @@
   UseNum: 10
   LiveStagesId: 100031
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 7
@@ -6359,7 +6359,7 @@
   UseNum: 10
   LiveStagesId: 100021
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 12
@@ -6734,7 +6734,7 @@
   UseNum: 10
   LiveStagesId: 100011
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 18
@@ -7109,7 +7109,7 @@
   UseNum: 10
   LiveStagesId: 100041
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 24
@@ -7484,7 +7484,7 @@
   UseNum: 10
   LiveStagesId: 100051
   QuestMusicsType: 0
-  QuestMusicsDetail: 0
+  QuestMusicsDetail: 103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   QuestLevel: 30
@@ -7498,3 +7498,1878 @@
   GainStylePoint: 1000
   GainMusicExp: 0
   ItemSourceIconId: 10304
+- Id: 104010101
+  StandardQuestAreasId: 1040101
+  Name: 1-01
+  Description: 104期 SPRING Area1-01
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 1
+  FirstClearRewardSeriesId: 1040101011
+  CompleteRewardSeriesId: 1040101013
+  DropRewardSeriesId: 1040101014
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 200000
+  Score2: 400000
+  Score3: 500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010102
+  StandardQuestAreasId: 1040101
+  Name: 1-02
+  Description: 104期 SPRING Area1-02
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 1
+  FirstClearRewardSeriesId: 1040101021
+  CompleteRewardSeriesId: 1040101023
+  DropRewardSeriesId: 1040101024
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 260000
+  Score2: 480000
+  Score3: 600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010103
+  StandardQuestAreasId: 1040101
+  Name: 1-03
+  Description: 104期 SPRING Area1-03
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 1
+  FirstClearRewardSeriesId: 1040101031
+  CompleteRewardSeriesId: 1040101033
+  DropRewardSeriesId: 1040101034
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 320000
+  Score2: 560000
+  Score3: 700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010104
+  StandardQuestAreasId: 1040101
+  Name: 1-04
+  Description: 104期 SPRING Area1-04
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 2
+  FirstClearRewardSeriesId: 1040101041
+  CompleteRewardSeriesId: 1040101043
+  DropRewardSeriesId: 1040101044
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 380000
+  Score2: 640000
+  Score3: 800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010105
+  StandardQuestAreasId: 1040101
+  Name: 1-05
+  Description: 104期 SPRING Area1-05
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 2
+  FirstClearRewardSeriesId: 1040101051
+  CompleteRewardSeriesId: 1040101053
+  DropRewardSeriesId: 1040101054
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 440000
+  Score2: 720000
+  Score3: 900000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010106
+  StandardQuestAreasId: 1040101
+  Name: 1-06
+  Description: 104期 SPRING Area1-06
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 2
+  FirstClearRewardSeriesId: 1040101061
+  CompleteRewardSeriesId: 1040101063
+  DropRewardSeriesId: 1040101064
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 500000
+  Score2: 800000
+  Score3: 1000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010107
+  StandardQuestAreasId: 1040101
+  Name: 1-07
+  Description: 104期 SPRING Area1-07
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 3
+  FirstClearRewardSeriesId: 1040101071
+  CompleteRewardSeriesId: 1040101073
+  DropRewardSeriesId: 1040101074
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 560000
+  Score2: 880000
+  Score3: 1100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010108
+  StandardQuestAreasId: 1040101
+  Name: 1-08
+  Description: 104期 SPRING Area1-08
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 3
+  FirstClearRewardSeriesId: 1040101081
+  CompleteRewardSeriesId: 1040101083
+  DropRewardSeriesId: 1040101084
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 620000
+  Score2: 960000
+  Score3: 1200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010109
+  StandardQuestAreasId: 1040101
+  Name: 1-09
+  Description: 104期 SPRING Area1-09
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 3
+  FirstClearRewardSeriesId: 1040101091
+  CompleteRewardSeriesId: 1040101093
+  DropRewardSeriesId: 1040101094
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 680000
+  Score2: 1040000
+  Score3: 1300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010110
+  StandardQuestAreasId: 1040101
+  Name: 1-10
+  Description: 104期 SPRING Area1-10
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 4
+  FirstClearRewardSeriesId: 1040101101
+  CompleteRewardSeriesId: 1040101103
+  DropRewardSeriesId: 1040101104
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 740000
+  Score2: 1120000
+  Score3: 1400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010111
+  StandardQuestAreasId: 1040101
+  Name: 1-11
+  Description: 104期 SPRING Area1-11
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 4
+  FirstClearRewardSeriesId: 1040101111
+  CompleteRewardSeriesId: 1040101113
+  DropRewardSeriesId: 1040101114
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 800000
+  Score2: 1200000
+  Score3: 1500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010112
+  StandardQuestAreasId: 1040101
+  Name: 1-12
+  Description: 104期 SPRING Area1-12
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 4
+  FirstClearRewardSeriesId: 1040101121
+  CompleteRewardSeriesId: 1040101123
+  DropRewardSeriesId: 1040101124
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 860000
+  Score2: 1280000
+  Score3: 1600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010113
+  StandardQuestAreasId: 1040101
+  Name: 1-13
+  Description: 104期 SPRING Area1-13
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 5
+  FirstClearRewardSeriesId: 1040101131
+  CompleteRewardSeriesId: 1040101133
+  DropRewardSeriesId: 1040101134
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 920000
+  Score2: 1360000
+  Score3: 1700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010114
+  StandardQuestAreasId: 1040101
+  Name: 1-14
+  Description: 104期 SPRING Area1-14
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 5
+  FirstClearRewardSeriesId: 1040101141
+  CompleteRewardSeriesId: 1040101143
+  DropRewardSeriesId: 1040101144
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 980000
+  Score2: 1440000
+  Score3: 1800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010115
+  StandardQuestAreasId: 1040101
+  Name: 1-15
+  Description: 104期 SPRING Area1-15
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 0
+  QuestMusicsDetail: 104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 7
+  FirstClearRewardSeriesId: 1040101151
+  CompleteRewardSeriesId: 1040101153
+  DropRewardSeriesId: 1040101154
+  RandomDropRewardSeriesId: 1040101015
+  Score1: 1220000
+  Score2: 1760000
+  Score3: 2200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010201
+  StandardQuestAreasId: 1040102
+  Name: 2-01
+  Description: 104期 SPRING Area2-01
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  FirstClearRewardSeriesId: 1040102011
+  CompleteRewardSeriesId: 1040102013
+  DropRewardSeriesId: 1040102014
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1100000
+  Score2: 1600000
+  Score3: 2000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010202
+  StandardQuestAreasId: 1040102
+  Name: 2-02
+  Description: 104期 SPRING Area2-02
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  FirstClearRewardSeriesId: 1040102021
+  CompleteRewardSeriesId: 1040102023
+  DropRewardSeriesId: 1040102024
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1160000
+  Score2: 1680000
+  Score3: 2100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010203
+  StandardQuestAreasId: 1040102
+  Name: 2-03
+  Description: 104期 SPRING Area2-03
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  FirstClearRewardSeriesId: 1040102031
+  CompleteRewardSeriesId: 1040102033
+  DropRewardSeriesId: 1040102034
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1220000
+  Score2: 1760000
+  Score3: 2200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010204
+  StandardQuestAreasId: 1040102
+  Name: 2-04
+  Description: 104期 SPRING Area2-04
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 7
+  FirstClearRewardSeriesId: 1040102041
+  CompleteRewardSeriesId: 1040102043
+  DropRewardSeriesId: 1040102044
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1280000
+  Score2: 1840000
+  Score3: 2300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010205
+  StandardQuestAreasId: 1040102
+  Name: 2-05
+  Description: 104期 SPRING Area2-05
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 7
+  FirstClearRewardSeriesId: 1040102051
+  CompleteRewardSeriesId: 1040102053
+  DropRewardSeriesId: 1040102054
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1340000
+  Score2: 1920000
+  Score3: 2400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010206
+  StandardQuestAreasId: 1040102
+  Name: 2-06
+  Description: 104期 SPRING Area2-06
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 7
+  FirstClearRewardSeriesId: 1040102061
+  CompleteRewardSeriesId: 1040102063
+  DropRewardSeriesId: 1040102064
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1400000
+  Score2: 2000000
+  Score3: 2500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010207
+  StandardQuestAreasId: 1040102
+  Name: 2-07
+  Description: 104期 SPRING Area2-07
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 8
+  FirstClearRewardSeriesId: 1040102071
+  CompleteRewardSeriesId: 1040102073
+  DropRewardSeriesId: 1040102074
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1460000
+  Score2: 2080000
+  Score3: 2600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010208
+  StandardQuestAreasId: 1040102
+  Name: 2-08
+  Description: 104期 SPRING Area2-08
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 8
+  FirstClearRewardSeriesId: 1040102081
+  CompleteRewardSeriesId: 1040102083
+  DropRewardSeriesId: 1040102084
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1520000
+  Score2: 2160000
+  Score3: 2700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010209
+  StandardQuestAreasId: 1040102
+  Name: 2-09
+  Description: 104期 SPRING Area2-09
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 8
+  FirstClearRewardSeriesId: 1040102091
+  CompleteRewardSeriesId: 1040102093
+  DropRewardSeriesId: 1040102094
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1580000
+  Score2: 2240000
+  Score3: 2800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010210
+  StandardQuestAreasId: 1040102
+  Name: 2-10
+  Description: 104期 SPRING Area2-10
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 9
+  FirstClearRewardSeriesId: 1040102101
+  CompleteRewardSeriesId: 1040102103
+  DropRewardSeriesId: 1040102104
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1640000
+  Score2: 2320000
+  Score3: 2900000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010211
+  StandardQuestAreasId: 1040102
+  Name: 2-11
+  Description: 104期 SPRING Area2-11
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 9
+  FirstClearRewardSeriesId: 1040102111
+  CompleteRewardSeriesId: 1040102113
+  DropRewardSeriesId: 1040102114
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1700000
+  Score2: 2400000
+  Score3: 3000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010212
+  StandardQuestAreasId: 1040102
+  Name: 2-12
+  Description: 104期 SPRING Area2-12
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 9
+  FirstClearRewardSeriesId: 1040102121
+  CompleteRewardSeriesId: 1040102123
+  DropRewardSeriesId: 1040102124
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1760000
+  Score2: 2480000
+  Score3: 3100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010213
+  StandardQuestAreasId: 1040102
+  Name: 2-13
+  Description: 104期 SPRING Area2-13
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  FirstClearRewardSeriesId: 1040102131
+  CompleteRewardSeriesId: 1040102133
+  DropRewardSeriesId: 1040102134
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1820000
+  Score2: 2560000
+  Score3: 3200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010214
+  StandardQuestAreasId: 1040102
+  Name: 2-14
+  Description: 104期 SPRING Area2-14
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  FirstClearRewardSeriesId: 1040102141
+  CompleteRewardSeriesId: 1040102143
+  DropRewardSeriesId: 1040102144
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 1880000
+  Score2: 2640000
+  Score3: 3300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010215
+  StandardQuestAreasId: 1040102
+  Name: 2-15
+  Description: 104期 SPRING Area2-15
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 0
+  QuestMusicsDetail: 104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  FirstClearRewardSeriesId: 1040102151
+  CompleteRewardSeriesId: 1040102153
+  DropRewardSeriesId: 1040102154
+  RandomDropRewardSeriesId: 1040102015
+  Score1: 2120000
+  Score2: 2960000
+  Score3: 3700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010301
+  StandardQuestAreasId: 1040103
+  Name: 3-01
+  Description: 104期 SPRING Area3-01
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 11
+  FirstClearRewardSeriesId: 1040103011
+  CompleteRewardSeriesId: 1040103013
+  DropRewardSeriesId: 1040103014
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2000000
+  Score2: 2800000
+  Score3: 3500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010302
+  StandardQuestAreasId: 1040103
+  Name: 3-02
+  Description: 104期 SPRING Area3-02
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 11
+  FirstClearRewardSeriesId: 1040103021
+  CompleteRewardSeriesId: 1040103023
+  DropRewardSeriesId: 1040103024
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2060000
+  Score2: 2880000
+  Score3: 3600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010303
+  StandardQuestAreasId: 1040103
+  Name: 3-03
+  Description: 104期 SPRING Area3-03
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 11
+  FirstClearRewardSeriesId: 1040103031
+  CompleteRewardSeriesId: 1040103033
+  DropRewardSeriesId: 1040103034
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2120000
+  Score2: 2960000
+  Score3: 3700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010304
+  StandardQuestAreasId: 1040103
+  Name: 3-04
+  Description: 104期 SPRING Area3-04
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  FirstClearRewardSeriesId: 1040103041
+  CompleteRewardSeriesId: 1040103043
+  DropRewardSeriesId: 1040103044
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2180000
+  Score2: 3040000
+  Score3: 3800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010305
+  StandardQuestAreasId: 1040103
+  Name: 3-05
+  Description: 104期 SPRING Area3-05
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  FirstClearRewardSeriesId: 1040103051
+  CompleteRewardSeriesId: 1040103053
+  DropRewardSeriesId: 1040103054
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2240000
+  Score2: 3120000
+  Score3: 3900000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010306
+  StandardQuestAreasId: 1040103
+  Name: 3-06
+  Description: 104期 SPRING Area3-06
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  FirstClearRewardSeriesId: 1040103061
+  CompleteRewardSeriesId: 1040103063
+  DropRewardSeriesId: 1040103064
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2300000
+  Score2: 3200000
+  Score3: 4000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010307
+  StandardQuestAreasId: 1040103
+  Name: 3-07
+  Description: 104期 SPRING Area3-07
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 13
+  FirstClearRewardSeriesId: 1040103071
+  CompleteRewardSeriesId: 1040103073
+  DropRewardSeriesId: 1040103074
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2360000
+  Score2: 3280000
+  Score3: 4100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010308
+  StandardQuestAreasId: 1040103
+  Name: 3-08
+  Description: 104期 SPRING Area3-08
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 13
+  FirstClearRewardSeriesId: 1040103081
+  CompleteRewardSeriesId: 1040103083
+  DropRewardSeriesId: 1040103084
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2420000
+  Score2: 3360000
+  Score3: 4200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010309
+  StandardQuestAreasId: 1040103
+  Name: 3-09
+  Description: 104期 SPRING Area3-09
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 13
+  FirstClearRewardSeriesId: 1040103091
+  CompleteRewardSeriesId: 1040103093
+  DropRewardSeriesId: 1040103094
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2480000
+  Score2: 3440000
+  Score3: 4300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010310
+  StandardQuestAreasId: 1040103
+  Name: 3-10
+  Description: 104期 SPRING Area3-10
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 14
+  FirstClearRewardSeriesId: 1040103101
+  CompleteRewardSeriesId: 1040103103
+  DropRewardSeriesId: 1040103104
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2540000
+  Score2: 3520000
+  Score3: 4400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010311
+  StandardQuestAreasId: 1040103
+  Name: 3-11
+  Description: 104期 SPRING Area3-11
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 14
+  FirstClearRewardSeriesId: 1040103111
+  CompleteRewardSeriesId: 1040103113
+  DropRewardSeriesId: 1040103114
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2600000
+  Score2: 3600000
+  Score3: 4500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010312
+  StandardQuestAreasId: 1040103
+  Name: 3-12
+  Description: 104期 SPRING Area3-12
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 14
+  FirstClearRewardSeriesId: 1040103121
+  CompleteRewardSeriesId: 1040103123
+  DropRewardSeriesId: 1040103124
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2660000
+  Score2: 3680000
+  Score3: 4600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010313
+  StandardQuestAreasId: 1040103
+  Name: 3-13
+  Description: 104期 SPRING Area3-13
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 15
+  FirstClearRewardSeriesId: 1040103131
+  CompleteRewardSeriesId: 1040103133
+  DropRewardSeriesId: 1040103134
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2720000
+  Score2: 3760000
+  Score3: 4700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010314
+  StandardQuestAreasId: 1040103
+  Name: 3-14
+  Description: 104期 SPRING Area3-14
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 15
+  FirstClearRewardSeriesId: 1040103141
+  CompleteRewardSeriesId: 1040103143
+  DropRewardSeriesId: 1040103144
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 2780000
+  Score2: 3840000
+  Score3: 4800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010315
+  StandardQuestAreasId: 1040103
+  Name: 3-15
+  Description: 104期 SPRING Area3-15
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 0
+  QuestMusicsDetail: 104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  FirstClearRewardSeriesId: 1040103151
+  CompleteRewardSeriesId: 1040103153
+  DropRewardSeriesId: 1040103154
+  RandomDropRewardSeriesId: 1040103015
+  Score1: 3200000
+  Score2: 4400000
+  Score3: 5500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010401
+  StandardQuestAreasId: 1040104
+  Name: 4-01
+  Description: 104期 SPRING Area4-01
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 16
+  FirstClearRewardSeriesId: 1040104011
+  CompleteRewardSeriesId: 1040104013
+  DropRewardSeriesId: 1040104014
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 2900000
+  Score2: 4000000
+  Score3: 5000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010402
+  StandardQuestAreasId: 1040104
+  Name: 4-02
+  Description: 104期 SPRING Area4-02
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 16
+  FirstClearRewardSeriesId: 1040104021
+  CompleteRewardSeriesId: 1040104023
+  DropRewardSeriesId: 1040104024
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 2960000
+  Score2: 4080000
+  Score3: 5100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010403
+  StandardQuestAreasId: 1040104
+  Name: 4-03
+  Description: 104期 SPRING Area4-03
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 16
+  FirstClearRewardSeriesId: 1040104031
+  CompleteRewardSeriesId: 1040104033
+  DropRewardSeriesId: 1040104034
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3020000
+  Score2: 4160000
+  Score3: 5200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010404
+  StandardQuestAreasId: 1040104
+  Name: 4-04
+  Description: 104期 SPRING Area4-04
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 17
+  FirstClearRewardSeriesId: 1040104041
+  CompleteRewardSeriesId: 1040104043
+  DropRewardSeriesId: 1040104044
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3080000
+  Score2: 4240000
+  Score3: 5300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010405
+  StandardQuestAreasId: 1040104
+  Name: 4-05
+  Description: 104期 SPRING Area4-05
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 17
+  FirstClearRewardSeriesId: 1040104051
+  CompleteRewardSeriesId: 1040104053
+  DropRewardSeriesId: 1040104054
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3140000
+  Score2: 4320000
+  Score3: 5400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010406
+  StandardQuestAreasId: 1040104
+  Name: 4-06
+  Description: 104期 SPRING Area4-06
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 17
+  FirstClearRewardSeriesId: 1040104061
+  CompleteRewardSeriesId: 1040104063
+  DropRewardSeriesId: 1040104064
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3200000
+  Score2: 4400000
+  Score3: 5500000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010407
+  StandardQuestAreasId: 1040104
+  Name: 4-07
+  Description: 104期 SPRING Area4-07
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  FirstClearRewardSeriesId: 1040104071
+  CompleteRewardSeriesId: 1040104073
+  DropRewardSeriesId: 1040104074
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3260000
+  Score2: 4480000
+  Score3: 5600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010408
+  StandardQuestAreasId: 1040104
+  Name: 4-08
+  Description: 104期 SPRING Area4-08
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  FirstClearRewardSeriesId: 1040104081
+  CompleteRewardSeriesId: 1040104083
+  DropRewardSeriesId: 1040104084
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3320000
+  Score2: 4560000
+  Score3: 5700000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010409
+  StandardQuestAreasId: 1040104
+  Name: 4-09
+  Description: 104期 SPRING Area4-09
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  FirstClearRewardSeriesId: 1040104091
+  CompleteRewardSeriesId: 1040104093
+  DropRewardSeriesId: 1040104094
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3380000
+  Score2: 4640000
+  Score3: 5800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010410
+  StandardQuestAreasId: 1040104
+  Name: 4-10
+  Description: 104期 SPRING Area4-10
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 19
+  FirstClearRewardSeriesId: 1040104101
+  CompleteRewardSeriesId: 1040104103
+  DropRewardSeriesId: 1040104104
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3440000
+  Score2: 4720000
+  Score3: 5900000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010411
+  StandardQuestAreasId: 1040104
+  Name: 4-11
+  Description: 104期 SPRING Area4-11
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 19
+  FirstClearRewardSeriesId: 1040104111
+  CompleteRewardSeriesId: 1040104113
+  DropRewardSeriesId: 1040104114
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3500000
+  Score2: 4800000
+  Score3: 6000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010412
+  StandardQuestAreasId: 1040104
+  Name: 4-12
+  Description: 104期 SPRING Area4-12
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 19
+  FirstClearRewardSeriesId: 1040104121
+  CompleteRewardSeriesId: 1040104123
+  DropRewardSeriesId: 1040104124
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3560000
+  Score2: 4880000
+  Score3: 6100000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010413
+  StandardQuestAreasId: 1040104
+  Name: 4-13
+  Description: 104期 SPRING Area4-13
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  FirstClearRewardSeriesId: 1040104131
+  CompleteRewardSeriesId: 1040104133
+  DropRewardSeriesId: 1040104134
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3620000
+  Score2: 4960000
+  Score3: 6200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010414
+  StandardQuestAreasId: 1040104
+  Name: 4-14
+  Description: 104期 SPRING Area4-14
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  FirstClearRewardSeriesId: 1040104141
+  CompleteRewardSeriesId: 1040104143
+  DropRewardSeriesId: 1040104144
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 3680000
+  Score2: 5040000
+  Score3: 6300000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010415
+  StandardQuestAreasId: 1040104
+  Name: 4-15
+  Description: 104期 SPRING Area4-15
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100041
+  QuestMusicsType: 0
+  QuestMusicsDetail: 104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  FirstClearRewardSeriesId: 1040104151
+  CompleteRewardSeriesId: 1040104153
+  DropRewardSeriesId: 1040104154
+  RandomDropRewardSeriesId: 1040104015
+  Score1: 4820000
+  Score2: 6560000
+  Score3: 8200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010501
+  StandardQuestAreasId: 1040105
+  Name: 5-01
+  Description: 104期 SPRING Area5-01
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 21
+  FirstClearRewardSeriesId: 1040105011
+  CompleteRewardSeriesId: 1040105013
+  DropRewardSeriesId: 1040105014
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 3860000
+  Score2: 5280000
+  Score3: 6600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010502
+  StandardQuestAreasId: 1040105
+  Name: 5-02
+  Description: 104期 SPRING Area5-02
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 21
+  FirstClearRewardSeriesId: 1040105021
+  CompleteRewardSeriesId: 1040105023
+  DropRewardSeriesId: 1040105024
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 3980000
+  Score2: 5440000
+  Score3: 6800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010503
+  StandardQuestAreasId: 1040105
+  Name: 5-03
+  Description: 104期 SPRING Area5-03
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 21
+  FirstClearRewardSeriesId: 1040105031
+  CompleteRewardSeriesId: 1040105033
+  DropRewardSeriesId: 1040105034
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4100000
+  Score2: 5600000
+  Score3: 7000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010504
+  StandardQuestAreasId: 1040105
+  Name: 5-04
+  Description: 104期 SPRING Area5-04
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 22
+  FirstClearRewardSeriesId: 1040105041
+  CompleteRewardSeriesId: 1040105043
+  DropRewardSeriesId: 1040105044
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4220000
+  Score2: 5760000
+  Score3: 7200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010505
+  StandardQuestAreasId: 1040105
+  Name: 5-05
+  Description: 104期 SPRING Area5-05
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203115
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 22
+  FirstClearRewardSeriesId: 1040105051
+  CompleteRewardSeriesId: 1040105053
+  DropRewardSeriesId: 1040105054
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4340000
+  Score2: 5920000
+  Score3: 7400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010506
+  StandardQuestAreasId: 1040105
+  Name: 5-06
+  Description: 104期 SPRING Area5-06
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303119
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 22
+  FirstClearRewardSeriesId: 1040105061
+  CompleteRewardSeriesId: 1040105063
+  DropRewardSeriesId: 1040105064
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4460000
+  Score2: 6080000
+  Score3: 7600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010507
+  StandardQuestAreasId: 1040105
+  Name: 5-07
+  Description: 104期 SPRING Area5-07
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303101
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 23
+  FirstClearRewardSeriesId: 1040105071
+  CompleteRewardSeriesId: 1040105073
+  DropRewardSeriesId: 1040105074
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4580000
+  Score2: 6240000
+  Score3: 7800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010508
+  StandardQuestAreasId: 1040105
+  Name: 5-08
+  Description: 104期 SPRING Area5-08
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103117
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 23
+  FirstClearRewardSeriesId: 1040105081
+  CompleteRewardSeriesId: 1040105083
+  DropRewardSeriesId: 1040105084
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4700000
+  Score2: 6400000
+  Score3: 8000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010509
+  StandardQuestAreasId: 1040105
+  Name: 5-09
+  Description: 104期 SPRING Area5-09
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 23
+  FirstClearRewardSeriesId: 1040105091
+  CompleteRewardSeriesId: 1040105093
+  DropRewardSeriesId: 1040105094
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4820000
+  Score2: 6560000
+  Score3: 8200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010510
+  StandardQuestAreasId: 1040105
+  Name: 5-10
+  Description: 104期 SPRING Area5-10
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 203102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  FirstClearRewardSeriesId: 1040105101
+  CompleteRewardSeriesId: 1040105103
+  DropRewardSeriesId: 1040105104
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 4940000
+  Score2: 6720000
+  Score3: 8400000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010511
+  StandardQuestAreasId: 1040105
+  Name: 5-11
+  Description: 104期 SPRING Area5-11
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  FirstClearRewardSeriesId: 1040105111
+  CompleteRewardSeriesId: 1040105113
+  DropRewardSeriesId: 1040105114
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 5060000
+  Score2: 6880000
+  Score3: 8600000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010512
+  StandardQuestAreasId: 1040105
+  Name: 5-12
+  Description: 104期 SPRING Area5-12
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  FirstClearRewardSeriesId: 1040105121
+  CompleteRewardSeriesId: 1040105123
+  DropRewardSeriesId: 1040105124
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 5180000
+  Score2: 7040000
+  Score3: 8800000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010513
+  StandardQuestAreasId: 1040105
+  Name: 5-13
+  Description: 104期 SPRING Area5-13
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103109
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 25
+  FirstClearRewardSeriesId: 1040105131
+  CompleteRewardSeriesId: 1040105133
+  DropRewardSeriesId: 1040105134
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 5300000
+  Score2: 7200000
+  Score3: 9000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010514
+  StandardQuestAreasId: 1040105
+  Name: 5-14
+  Description: 104期 SPRING Area5-14
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 303116
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 25
+  FirstClearRewardSeriesId: 1040105141
+  CompleteRewardSeriesId: 1040105143
+  DropRewardSeriesId: 1040105144
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 5420000
+  Score2: 7360000
+  Score3: 9200000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401
+- Id: 104010515
+  StandardQuestAreasId: 1040105
+  Name: 5-15
+  Description: 104期 SPRING Area5-15
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 10
+  LiveStagesId: 100051
+  QuestMusicsType: 0
+  QuestMusicsDetail: 104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 30
+  FirstClearRewardSeriesId: 1040105151
+  CompleteRewardSeriesId: 1040105153
+  DropRewardSeriesId: 1040105154
+  RandomDropRewardSeriesId: 1040105015
+  Score1: 5875000
+  Score2: 8000000
+  Score3: 10000000
+  GainStylePoint: 1000
+  GainMusicExp: 0
+  ItemSourceIconId: 10401

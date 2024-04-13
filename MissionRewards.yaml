@@ -656,6 +656,27 @@
   ItemsId: 1002001
   RewardNum: 50
   RewardTextId: 40203001
+- Id: 302041011
+  MissionsId: 30204101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 50
+  RewardTextId: 40203001
+- Id: 302042011
+  MissionsId: 30204201
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 50
+  RewardTextId: 40203001
+- Id: 302043011
+  MissionsId: 30204301
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 50
+  RewardTextId: 40203001
 - Id: 303021011
   MissionsId: 30302101
   RewardCategory: 2
@@ -693,6 +714,27 @@
   RewardTextId: 40203001
 - Id: 303033011
   MissionsId: 30303301
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 100
+  RewardTextId: 40203001
+- Id: 303041011
+  MissionsId: 30304101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 100
+  RewardTextId: 40203001
+- Id: 303042011
+  MissionsId: 30304201
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 100
+  RewardTextId: 40203001
+- Id: 303043011
+  MissionsId: 30304301
   RewardCategory: 2
   RewardType: 3
   ItemsId: 1002001
@@ -777,6 +819,48 @@
   RewardTextId: 40203001
 - Id: 306033021
   MissionsId: 30603302
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306041011
+  MissionsId: 30604101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306041021
+  MissionsId: 30604102
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306042011
+  MissionsId: 30604201
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306042021
+  MissionsId: 30604202
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306043011
+  MissionsId: 30604301
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306043021
+  MissionsId: 30604302
   RewardCategory: 2
   RewardType: 3
   ItemsId: 1002001

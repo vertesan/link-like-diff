@@ -226,3 +226,15 @@
   InfoEndTime: 2024-03-19T14:59:59Z
   StartTime: 2024-03-10T01:00:00Z
   EndTime: 2024-03-15T18:59:59Z
+- Id: 804101
+  Name: ライブグランプリ 104期第1回個人戦
+  Description: ライブグランプリ 104期第1回個人戦
+  GrandPrixType: 1
+  GuildRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  PersonalRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2024-04-15T01:00:00Z
+  InfoEndTime: 2024-04-20T14:59:59Z
+  StartTime: 2024-04-15T01:00:00Z
+  EndTime: 2024-04-18T18:59:59Z

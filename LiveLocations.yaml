@@ -64,3 +64,9 @@
 - Id: 26
   Label: 第二音楽堂ホール(仮称)
   PropsIds: "1"
+- Id: 27
+  Label: 吟子自室
+  PropsIds: 021,049,050,051,052,053
+- Id: 28
+  Label: 姫芽自室
+  PropsIds: 021,022,057,058

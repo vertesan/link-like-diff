@@ -30,3 +30,27 @@
   EffectValue: 150
   StartTime: 2024-04-10T19:00:00Z
   EndTime: 2024-04-16T18:59:59Z
+- Id: 5
+  CampaignType: 6
+  TargetContents: 104
+  Name: 習得度の上昇量増加
+  Description: 期間中、ラーニングライブの習得度の上昇量が1.5倍に増加。
+  EffectValue: 150
+  StartTime: 2024-04-16T19:00:00Z
+  EndTime: 2024-04-21T18:59:59Z
+- Id: 6
+  CampaignType: 4
+  TargetContents: 103
+  Name: 獲得アイテム追加
+  Description: 期間中、デイリーライブで技能書が追加で獲得できる。
+  EffectValue: 1000
+  StartTime: 2024-04-21T19:00:00Z
+  EndTime: 2024-04-26T18:59:59Z
+- Id: 7
+  CampaignType: 4
+  TargetContents: 103
+  Name: 獲得アイテム追加
+  Description: 期間中、デイリーライブでペタルコインが追加で獲得できる。
+  EffectValue: 1001
+  StartTime: 2024-04-26T19:00:00Z
+  EndTime: 2024-05-01T18:59:59Z
