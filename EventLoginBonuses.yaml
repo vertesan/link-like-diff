@@ -152,3 +152,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-04-13T12:30:00Z
   EndTime: 2025-03-31T18:59:59Z
+- Id: 201023
+  Name: 2nd Live Tour ～Blooming with ○○○～ 千葉公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201023
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-04-19T19:00:00Z
+  EndTime: 2024-04-21T18:59:59Z

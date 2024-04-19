@@ -830,3 +830,11 @@
   RewardNum: 500
   LifeTimeDay: 30
   RewardTextId: 40102167
+- Id: 20102301
+  LoginBonusRewardSeriesId: 201023
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000013
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 90100012

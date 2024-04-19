@@ -10,12 +10,6 @@
   Priority: 2
   VoiceName: vo_title_m1021_0002
   ReleaseConditionText: ""
-- Id: 102100011
-  CharactersId: 1021
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1021_introduce_0001
-  ReleaseConditionText: ""
 - Id: 102111001
   CharactersId: 1021
   Name: ★3ライブクリア①
@@ -261,12 +255,6 @@
   Name: タイトルコール②
   Priority: 2
   VoiceName: vo_title_m1022_0002
-  ReleaseConditionText: ""
-- Id: 102200011
-  CharactersId: 1022
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1022_introduce_0001
   ReleaseConditionText: ""
 - Id: 102211001
   CharactersId: 1022
@@ -514,12 +502,6 @@
   Priority: 2
   VoiceName: vo_title_m1023_0002
   ReleaseConditionText: ""
-- Id: 102300011
-  CharactersId: 1023
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1023_introduce_0001
-  ReleaseConditionText: ""
 - Id: 102311001
   CharactersId: 1023
   Name: ★3ライブクリア①
@@ -765,12 +747,6 @@
   Name: タイトルコール②
   Priority: 2
   VoiceName: vo_title_m1031_0002
-  ReleaseConditionText: ""
-- Id: 103100011
-  CharactersId: 1031
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1031_introduce_0001
   ReleaseConditionText: ""
 - Id: 103111001
   CharactersId: 1031
@@ -1018,12 +994,6 @@
   Priority: 2
   VoiceName: vo_title_m1032_0002
   ReleaseConditionText: ""
-- Id: 103200011
-  CharactersId: 1032
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1032_introduce_0001
-  ReleaseConditionText: ""
 - Id: 103211001
   CharactersId: 1032
   Name: ★3ライブクリア①
@@ -1270,12 +1240,6 @@
   Priority: 2
   VoiceName: vo_title_m1033_0002
   ReleaseConditionText: ""
-- Id: 103300011
-  CharactersId: 1033
-  Name: 自己紹介
-  Priority: 11
-  VoiceName: vo_chara_m1033_introduce_0001
-  ReleaseConditionText: ""
 - Id: 103311001
   CharactersId: 1033
   Name: ★3ライブクリア①
@@ -1509,6 +1473,18 @@
   Name: スキルLv. UP③
   Priority: 33003
   VoiceName: vo_chara_m1033_skillrank_0003
+  ReleaseConditionText: ""
+- Id: 104100001
+  CharactersId: 1041
+  Name: タイトルコール①
+  Priority: 1
+  VoiceName: vo_title_m1041_0001
+  ReleaseConditionText: ""
+- Id: 104100002
+  CharactersId: 1041
+  Name: タイトルコール②
+  Priority: 2
+  VoiceName: vo_title_m1041_0002
   ReleaseConditionText: ""
 - Id: 104111001
   CharactersId: 1041
@@ -1744,6 +1720,18 @@
   Priority: 33003
   VoiceName: vo_chara_m1041_skillrank_0003
   ReleaseConditionText: ""
+- Id: 104200001
+  CharactersId: 1042
+  Name: タイトルコール①
+  Priority: 1
+  VoiceName: vo_title_m1042_0001
+  ReleaseConditionText: ""
+- Id: 104200002
+  CharactersId: 1042
+  Name: タイトルコール②
+  Priority: 2
+  VoiceName: vo_title_m1042_0002
+  ReleaseConditionText: ""
 - Id: 104211001
   CharactersId: 1042
   Name: ★3ライブクリア①
@@ -1977,6 +1965,18 @@
   Name: スキルLv. UP③
   Priority: 33003
   VoiceName: vo_chara_m1042_skillrank_0003
+  ReleaseConditionText: ""
+- Id: 104300001
+  CharactersId: 1043
+  Name: タイトルコール①
+  Priority: 1
+  VoiceName: vo_title_m1043_0001
+  ReleaseConditionText: ""
+- Id: 104300002
+  CharactersId: 1043
+  Name: タイトルコール②
+  Priority: 2
+  VoiceName: vo_title_m1043_0002
   ReleaseConditionText: ""
 - Id: 104311001
   CharactersId: 1043
