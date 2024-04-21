@@ -2078,6 +2078,19 @@
   LimitBreak4FanLvPt: 400
   LimitedType: 11
   SideStyleSettingCharacterId: ""
+- Id: 1031520
+  Evolution0Id: 10315200
+  Evolution1Id: 10315201
+  Evolution2Id: 10315202
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 1
+  SideStyleSettingCharacterId: ""
 - Id: 1031801
   Evolution0Id: 0
   Evolution1Id: 10318011
@@ -2389,6 +2402,19 @@
   LimitBreak3FanLvPt: 100
   LimitBreak4FanLvPt: 100
   LimitedType: 5
+  SideStyleSettingCharacterId: ""
+- Id: 1032420
+  Evolution0Id: 10324200
+  Evolution1Id: 10324201
+  Evolution2Id: 10324202
+  ObtainFanLvPt: 200
+  Evolution1FanLvPt: 120
+  Evolution2FanLvPt: 80
+  LimitBreak1FanLvPt: 100
+  LimitBreak2FanLvPt: 100
+  LimitBreak3FanLvPt: 100
+  LimitBreak4FanLvPt: 100
+  LimitedType: 1
   SideStyleSettingCharacterId: ""
 - Id: 1032501
   Evolution0Id: 10325010

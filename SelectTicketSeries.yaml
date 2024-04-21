@@ -44,8 +44,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030701
-  ExchangeTicketName: メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常のみ）
-  Description: スリーズブーケの通常SRカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常/GP PRIZEのみ）
+  Description: スリーズブーケの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003002
   OrderId: 20001
   PickUpCardSeriesId_1: 0
@@ -59,8 +59,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030702
-  ExchangeTicketName: メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常のみ）
-  Description: スリーズブーケの通常URカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常/GP PRIZEのみ）
+  Description: スリーズブーケの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003003
   OrderId: 20002
   PickUpCardSeriesId_1: 0
@@ -104,8 +104,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030705
-  ExchangeTicketName: メンバーシップ【DOLLCHESTRA】特典 SRセレクトチケット（通常のみ）
-  Description: DOLLCHESTRAの通常SRカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【DOLLCHESTRA】特典 SRセレクトチケット（通常/GP PRIZEのみ）
+  Description: DOLLCHESTRAの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003006
   OrderId: 20005
   PickUpCardSeriesId_1: 0
@@ -119,8 +119,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030706
-  ExchangeTicketName: メンバーシップ【DOLLCHESTRA】特典 URセレクトチケット（通常のみ）
-  Description: DOLLCHESTRAの通常URカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【DOLLCHESTRA】特典 URセレクトチケット（通常/GP PRIZEのみ）
+  Description: DOLLCHESTRAの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003007
   OrderId: 20006
   PickUpCardSeriesId_1: 0
@@ -164,8 +164,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030709
-  ExchangeTicketName: メンバーシップ【みらくらぱーく！】特典 SRセレクトチケット（通常のみ）
-  Description: みらくらぱーく！の通常SRカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【みらくらぱーく！】特典 SRセレクトチケット（通常/GP PRIZEのみ）
+  Description: みらくらぱーく！の通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003010
   OrderId: 20009
   PickUpCardSeriesId_1: 0
@@ -179,8 +179,8 @@
   EndTime: 2038-12-30T18:59:59Z
   IsVisibleEndTime: 0
 - Id: 2030710
-  ExchangeTicketName: メンバーシップ【みらくらぱーく！】特典 URセレクトチケット（通常のみ）
-  Description: みらくらぱーく！の通常URカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketName: メンバーシップ【みらくらぱーく！】特典 URセレクトチケット（通常/GP PRIZEのみ）
+  Description: みらくらぱーく！の通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003011
   OrderId: 20010
   PickUpCardSeriesId_1: 0
@@ -341,5 +341,20 @@
   PickUpCardSeriesId_6: 0
   BgType: 1
   StartTime: 2024-04-13T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030007
+  ExchangeTicketName: 【蓮ノ空歌留多】URセレクトチケット
+  Description: 蓮ノ空歌留多シリーズから選択できるチケットです。
+  ExchangeTicketId: 3003023
+  OrderId: 10012
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0

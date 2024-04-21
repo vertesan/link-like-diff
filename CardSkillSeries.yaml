@@ -1870,6 +1870,18 @@
   Name: ブルーミングハート
   SkillIcon: 10315190
   SkillMainEffect: 21
+- Id: 10315200
+  Name: ラブアトラクト
+  SkillIcon: 10315200
+  SkillMainEffect: 2
+- Id: 10315201
+  Name: ラブアトラクト
+  SkillIcon: 10315200
+  SkillMainEffect: 2
+- Id: 10315202
+  Name: ラブアトラクト
+  SkillIcon: 10315200
+  SkillMainEffect: 2
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -2154,6 +2166,18 @@
   Name: エクステボルテージ
   SkillIcon: 10324190
   SkillMainEffect: 20
+- Id: 10324200
+  Name: ラブアトラクト
+  SkillIcon: 10324200
+  SkillMainEffect: 2
+- Id: 10324201
+  Name: ラブアトラクト
+  SkillIcon: 10324200
+  SkillMainEffect: 2
+- Id: 10324202
+  Name: ラブアトラクト
+  SkillIcon: 10324200
+  SkillMainEffect: 2
 - Id: 10325010
   Name: ラブアトラクト
   SkillIcon: 10325010
@@ -3498,6 +3522,10 @@
   Name: ハートアトラクション
   SkillIcon: 20315190
   SkillMainEffect: 1
+- Id: 20315200
+  Name: ハートキャプチャ
+  SkillIcon: 20315200
+  SkillMainEffect: 1
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -3594,6 +3622,10 @@
   Name: チルボルテージ
   SkillIcon: 20324190
   SkillMainEffect: 10
+- Id: 20324200
+  Name: スイッチプロテクト
+  SkillIcon: 20324200
+  SkillMainEffect: 7
 - Id: 20325010
   Name: ラブアトラクト
   SkillIcon: 20325010
@@ -4402,6 +4434,10 @@
   Name: オーバーセクション：APゲイン & リシャッフル
   SkillIcon: 30315190
   SkillMainEffect: 14
+- Id: 30315200
+  Name: アーリードロー：APゲイン & レイトドロー：APレデュース
+  SkillIcon: 30315200
+  SkillMainEffect: 14
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -4481,6 +4517,10 @@
 - Id: 30324190
   Name: ドロー：APレデュース & サーチ：綴理
   SkillIcon: 30324190
+  SkillMainEffect: 17
+- Id: 30324200
+  Name: レイトドロー：APレデュース
+  SkillIcon: 30324200
   SkillMainEffect: 17
 - Id: 30325010
   Name: アキューミュレイト

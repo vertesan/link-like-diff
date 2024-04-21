@@ -638,6 +638,10 @@
   CardSeriesId: 1031519
   LimitBreakMaterialId: 4031519
   LimitBreakMaterialQuantity: 100
+- Id: 31520
+  CardSeriesId: 1031520
+  LimitBreakMaterialId: 4031520
+  LimitBreakMaterialQuantity: 60
 - Id: 31801
   CardSeriesId: 1031801
   LimitBreakMaterialId: 4031801
@@ -733,6 +737,10 @@
 - Id: 32419
   CardSeriesId: 1032419
   LimitBreakMaterialId: 4032419
+  LimitBreakMaterialQuantity: 10
+- Id: 32420
+  CardSeriesId: 1032420
+  LimitBreakMaterialId: 4032420
   LimitBreakMaterialQuantity: 10
 - Id: 32501
   CardSeriesId: 1032501

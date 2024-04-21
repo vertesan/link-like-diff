@@ -779,7 +779,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003002
-  Name: メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常のみ）
+  Name: メンバーシップ【スリーズブーケ】特典 SRセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷすりーずぶーけとくてんすーぱーれあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -791,7 +791,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003003
-  Name: メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常のみ）
+  Name: メンバーシップ【スリーズブーケ】特典 URセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷすりーずぶーけとくてんうるとられあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -827,7 +827,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003006
-  Name: メンバーシップ【DOLLCHESTRA】特典 SRセレクトチケット（通常のみ）
+  Name: メンバーシップ【DOLLCHESTRA】特典 SRセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷどるけすとらとくてんすーぱーれあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -839,7 +839,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003007
-  Name: メンバーシップ【DOLLCHESTRA】特典 URセレクトチケット（通常のみ）
+  Name: メンバーシップ【DOLLCHESTRA】特典 URセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷどるけすとらとくてんうるとられあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -875,7 +875,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003010
-  Name: メンバーシップ【みらくらぱーく！】特典 SRセレクトチケット（通常のみ）
+  Name: メンバーシップ【みらくらぱーく！】特典 SRセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷみらくらぱーくとくてんすーぱーれあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -887,7 +887,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003011
-  Name: メンバーシップ【みらくらぱーく！】特典 URセレクトチケット（通常のみ）
+  Name: メンバーシップ【みらくらぱーく！】特典 URセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷみらくらぱーくとくてんうるとられあせれくとちけっと
   ItemType: 3
   ItemCategory: 3
@@ -1029,6 +1029,18 @@
   RequestableNum: 0
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2023-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003023
+  Name: 【蓮ノ空歌留多】URセレクトチケット
+  NameFurigana: はすのそらかるたうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003024
   Name: URセレクトチケット（103期通常のみ）
@@ -3838,6 +3850,18 @@
   Description: スタイル解放素材(日野下花帆)
   StartTime: 2024-03-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031520
+  Name: "[春風ブランコ]日野下花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下花帆)
+  StartTime: 2024-04-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031801
   Name: "[Prism Echo]日野下花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4125,6 +4149,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-03-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032420
+  Name: "[春風ブランコ]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-04-21T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4032501
   Name: "[Dream Believers]村野さやか 解放Pt."

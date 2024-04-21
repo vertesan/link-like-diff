@@ -1168,3 +1168,29 @@
   BgType: 1
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2024-06-10T02:59:59Z
+- Id: 1040104
+  GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.2
+  Description: SPRING LIMITED COLLECTION VOL.2
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10401
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031520
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1032420
+  PickUpCardBonusItemQuantity_2: 10
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2024-04-21T03:00:00Z
+  EndTime: 2024-04-30T02:59:59Z
