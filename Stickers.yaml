@@ -5,7 +5,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 115011
+  Priority: 200000
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -5933,7 +5933,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 433011
+  Priority: 430031
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -5957,7 +5957,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 433021
+  Priority: 430032
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -5981,7 +5981,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 435011
+  Priority: 430051
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT

@@ -1928,5 +1928,75 @@
   RewardTextId: 30200001,30200001
   OrderId: 138
   SubTitleName: "13"
-  StartTime: 2024-04-25T01:00:00Z
+  StartTime: 2024-04-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400114
+  AdvSeriesId: 104001
+  Name: 第1話『未来への歌』
+  Description: PART 14
+  ScriptId: 10400114
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 139
+  SubTitleName: "14"
+  StartTime: 2024-04-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400115
+  AdvSeriesId: 104001
+  Name: 第1話『未来への歌』
+  Description: PART 15
+  ScriptId: 10400115
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 140
+  SubTitleName: "15"
+  StartTime: 2024-04-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400116
+  AdvSeriesId: 104001
+  Name: 第1話『未来への歌』
+  Description: PART 16
+  ScriptId: 10400116
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 141
+  SubTitleName: "16"
+  StartTime: 2024-04-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400117
+  AdvSeriesId: 104001
+  Name: 第1話『未来への歌』
+  Description: PART 17
+  ScriptId: 10400117
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 142
+  SubTitleName: "17"
+  StartTime: 2024-04-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400118
+  AdvSeriesId: 104001
+  Name: 第1話『未来への歌』
+  Description: PART 18
+  ScriptId: 10400118
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 143
+  SubTitleName: "18"
+  StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z

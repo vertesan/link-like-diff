@@ -313,6 +313,11 @@
   CharactersId: 1033
   CostumesId: 2004
   HairStyleId: 4
+- Id: 2004104101
+  Label: 部屋着(春夏)_百生吟子
+  CharactersId: 1041
+  CostumesId: 2004
+  HairStyleId: 1
 - Id: 2006103101
   Label: スケート着_日野下花帆
   CharactersId: 1031
@@ -403,16 +408,6 @@
   CharactersId: 1032
   CostumesId: 2009
   HairStyleId: 5
-- Id: 2010103101
-  Label: 外出着鞄あり(春夏)_日野下花帆
-  CharactersId: 1031
-  CostumesId: 2010
-  HairStyleId: 1
-- Id: 2010103301
-  Label: 外出着鞄あり(春夏)_大沢瑠璃乃
-  CharactersId: 1033
-  CostumesId: 2010
-  HairStyleId: 1
 - Id: 2014102105
   Label: 水着_乙宗梢
   CharactersId: 1021
@@ -1047,4 +1042,19 @@
   Label: ライブ衣装14_大沢瑠璃乃
   CharactersId: 1033
   CostumesId: 3018
+  HairStyleId: 1
+- Id: 3019102102
+  Label: ライブ衣装15_乙宗梢
+  CharactersId: 1021
+  CostumesId: 3019
+  HairStyleId: 2
+- Id: 3019103101
+  Label: ライブ衣装15_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3019
+  HairStyleId: 1
+- Id: 3019104101
+  Label: ライブ衣装15_百生吟子
+  CharactersId: 1041
+  CostumesId: 3019
   HairStyleId: 1
