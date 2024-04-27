@@ -47,7 +47,7 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 1005000
-  Name: グレードPt.
+  Name: Grade Pt.
   NameFurigana: ぐれーどぽいんと
   ItemType: 8
   ItemCategory: 0
@@ -55,11 +55,11 @@
   EffectValue: 1
   LimitNum: 99999999
   RequestableNum: 0
-  Description: グレードを上昇させるのに必要なポイント。
+  Description: Gradeを上昇させるのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 1005001
-  Name: グレードPt.
+  Name: Grade Pt.
   NameFurigana: ぐれーどぽいんと
   ItemType: 8
   ItemCategory: 0
@@ -67,7 +67,7 @@
   EffectValue: 1
   LimitNum: 99999999
   RequestableNum: 0
-  Description: グレードを上昇させるのに必要なポイント。
+  Description: Gradeを上昇させるのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011

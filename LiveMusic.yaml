@@ -89,6 +89,13 @@
   HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 41019
+  Label: Overture(104期)
+  MusicId: 4101
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
@@ -166,6 +173,27 @@
   HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 1041019
+  Label: DreamBelievers(104期)
+  MusicId: 104101
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 1041043
+  Label: Reflection in the mirror(104期)
+  MusicId: 104104
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 1041133
+  Label: アイデンティティ(104期)
+  MusicId: 104113
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
 - Id: 2031022
   Label: ツキマカセ
   MusicId: 203102
@@ -306,3 +334,17 @@
   HaveMotion: 1
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 3041019
+  Label: On your mark(104期)
+  MusicId: 304101
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 3041043
+  Label: Sparkly Spot(104期)
+  MusicId: 304104
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042

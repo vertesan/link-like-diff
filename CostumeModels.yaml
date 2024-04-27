@@ -578,6 +578,21 @@
   CharactersId: 1033
   CostumesId: 3001
   HairStyleId: 1
+- Id: 3001104101
+  Label: ライブ衣装01_百生吟子
+  CharactersId: 1041
+  CostumesId: 3001
+  HairStyleId: 1
+- Id: 3001104201
+  Label: ライブ衣装01_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3001
+  HairStyleId: 1
+- Id: 3001104301
+  Label: ライブ衣装01_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 3001
+  HairStyleId: 1
 - Id: 3002102102
   Label: ライブ衣装02_乙宗梢
   CharactersId: 1021
@@ -1048,13 +1063,43 @@
   CharactersId: 1021
   CostumesId: 3019
   HairStyleId: 2
+- Id: 3019102201
+  Label: ライブ衣装15_夕霧綴理
+  CharactersId: 1022
+  CostumesId: 3019
+  HairStyleId: 1
+- Id: 3019102301
+  Label: ライブ衣装15_藤島慈
+  CharactersId: 1023
+  CostumesId: 3019
+  HairStyleId: 1
 - Id: 3019103101
   Label: ライブ衣装15_日野下花帆
   CharactersId: 1031
   CostumesId: 3019
   HairStyleId: 1
+- Id: 3019103202
+  Label: ライブ衣装15_村野さやか
+  CharactersId: 1032
+  CostumesId: 3019
+  HairStyleId: 2
+- Id: 3019103301
+  Label: ライブ衣装15_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3019
+  HairStyleId: 1
 - Id: 3019104101
   Label: ライブ衣装15_百生吟子
   CharactersId: 1041
+  CostumesId: 3019
+  HairStyleId: 1
+- Id: 3019104201
+  Label: ライブ衣装15_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3019
+  HairStyleId: 1
+- Id: 3019104301
+  Label: ライブ衣装15_安養寺姫芽
+  CharactersId: 1043
   CostumesId: 3019
   HairStyleId: 1

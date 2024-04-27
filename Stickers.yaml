@@ -18317,7 +18317,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 150006
+  Priority: 150000
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -19330,7 +19330,7 @@
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
-  RequirementText: 2st Live Tour ～Blooming with ○○○～ 千葉公演 開催日にログイン
+  RequirementText: 2nd Live Tour ～Blooming with ○○○～ 千葉公演 開催日にログイン
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -19757,7 +19757,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 150008
+  Priority: 150009
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
@@ -19781,7 +19781,7 @@
   CategoryName: 3
   SeasonId: 0
   CharactersId: 0
-  Priority: 150009
+  Priority: 150008
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
