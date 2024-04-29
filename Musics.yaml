@@ -810,6 +810,35 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+- Id: 104102
+  OrderId: 1415
+  Title: Sparkly Spot（104期NEW Ver.）
+  TitleFurigana: すぱーくりーすぽっと
+  JacketId: 104102
+  SoundId: 10410201
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: 1022,1032
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 14063
+  ApIncrement: 952
+  SongTime: 9524
+  PlayTime: 114286
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -1622,6 +1651,35 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+- Id: 204101
+  OrderId: 1611
+  Title: アイデンティティ（104期NEW Ver.）
+  TitleFurigana: あいでんてぃてぃ
+  JacketId: 204101
+  SoundId: 20410101
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: 1023,1033
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 8182
+  ApIncrement: 1149
+  SongTime: 11485
+  PlayTime: 137822
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
 - Id: 303101
   OrderId: 1003
   Title: On your mark
@@ -2394,6 +2452,35 @@
   ApIncrement: 805
   SongTime: 8052
   PlayTime: 96623
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+- Id: 304102
+  OrderId: 1215
+  Title: Reflection in the mirror（104期NEW Ver.）
+  TitleFurigana: りふれくしょんいんざみらー
+  JacketId: 304102
+  SoundId: 30410201
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1031
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 13846
+  ApIncrement: 1037
+  SongTime: 10365
+  PlayTime: 124380
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000

@@ -5854,6 +5854,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10415021
+  Name: "[Reflection in the mirror]百生吟子"
+  Text: "[Reflection in the mirror]百生吟子 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 415021
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1041502
+  RequirementText: "[Reflection in the mirror]百生吟子 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-04-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-04-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10423011
   Name: "[レインボーシフォン]徒町小鈴"
   Text: "[レインボーシフォン]徒町小鈴 を4回解放した記念のステッカー"
@@ -5926,6 +5950,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10425021
+  Name: "[Sparkly Spot]徒町小鈴"
+  Text: "[Sparkly Spot]徒町小鈴 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 425021
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1042502
+  RequirementText: "[Sparkly Spot]徒町小鈴 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-04-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-04-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10433011
   Name: "[レインボーシフォン]安養寺姫芽"
   Text: "[レインボーシフォン]安養寺姫芽 を4回解放した記念のステッカー"
@@ -5995,6 +6043,30 @@
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-04-12T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10435021
+  Name: "[アイデンティティ]安養寺姫芽"
+  Text: "[アイデンティティ]安養寺姫芽 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 430052
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1043502
+  RequirementText: "[アイデンティティ]安養寺姫芽 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-04-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-04-29T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -16918,6 +16990,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40104102
+  Name: 『Sparkly Spot（104期NEW Ver.）』マエストロ
+  Text: 『Sparkly Spot（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601415
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 104102
+  RequirementText: 『Sparkly Spot（104期NEW Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203101
   Name: 『Mix shake!!』マエストロ
   Text: 『Mix shake!!』のマスタリーLv.をMAXにした記念のステッカー
@@ -17590,6 +17686,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204101
+  Name: 『アイデンティティ（104期NEW Ver.）』マエストロ
+  Text: 『アイデンティティ（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601611
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204101
+  RequirementText: 『アイデンティティ（104期NEW Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303101
   Name: 『On your mark』マエストロ
   Text: 『On your mark』のマスタリーLv.をMAXにした記念のステッカー
@@ -18227,6 +18347,30 @@
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304101
   RequirementText: 『On your mark（104期Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304102
+  Name: 『Reflection in the mirror（104期NEW Ver.）』マエストロ
+  Text: 『Reflection in the mirror（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601215
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304102
+  RequirementText: 『Reflection in the mirror（104期NEW Ver.）』マスタリーLv.MAX到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -19955,6 +20099,54 @@
   RequirementDetail: SERIAL
   RequirementValue: 240322003
   RequirementText: 「ぷちぐる ラブライブ！ feat. 蓮ノ空」みらくらぱーく！で目標スコア達成
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000017
+  Name: かんかんからの補習「100点」メッセージ
+  Text: 『これにて、補習終了！！ 大変よくがんばりました ありがとうございました』
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150017
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: みらくら補習室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000018
+  Name: こなちからの補習「100点」メッセージ
+  Text: 『蓮ノ空のこと好き好きクラブのみなさん いっぱいおたよりありがとう！ みんな大好き～♥』
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150018
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: みらくら補習室ラジオを応援
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

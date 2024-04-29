@@ -958,6 +958,10 @@
   CardSeriesId: 1041501
   LimitBreakMaterialId: 4041501
   LimitBreakMaterialQuantity: 60
+- Id: 41502
+  CardSeriesId: 1041502
+  LimitBreakMaterialId: 4041502
+  LimitBreakMaterialQuantity: 60
 - Id: 42301
   CardSeriesId: 1042301
   LimitBreakMaterialId: 4042301
@@ -970,6 +974,10 @@
   CardSeriesId: 1042501
   LimitBreakMaterialId: 4042501
   LimitBreakMaterialQuantity: 60
+- Id: 42502
+  CardSeriesId: 1042502
+  LimitBreakMaterialId: 4042502
+  LimitBreakMaterialQuantity: 60
 - Id: 43301
   CardSeriesId: 1043301
   LimitBreakMaterialId: 4043301
@@ -981,4 +989,8 @@
 - Id: 43501
   CardSeriesId: 1043501
   LimitBreakMaterialId: 4043501
+  LimitBreakMaterialQuantity: 60
+- Id: 43502
+  CardSeriesId: 1043502
+  LimitBreakMaterialId: 4043502
   LimitBreakMaterialQuantity: 60

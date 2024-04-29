@@ -2818,6 +2818,18 @@
   Name: アトラクトゲイン
   SkillIcon: 10415010
   SkillMainEffect: 2
+- Id: 10415020
+  Name: リゲインアトラクト
+  SkillIcon: 10415020
+  SkillMainEffect: 13
+- Id: 10415021
+  Name: リゲインアトラクト
+  SkillIcon: 10415020
+  SkillMainEffect: 13
+- Id: 10415022
+  Name: リゲインアトラクト
+  SkillIcon: 10415020
+  SkillMainEffect: 13
 - Id: 10423010
   Name: ラブアトラクト
   SkillIcon: 10423010
@@ -2854,6 +2866,18 @@
   Name: メンタルプロテクト
   SkillIcon: 10425010
   SkillMainEffect: 7
+- Id: 10425020
+  Name: ブレイブファッシネイト
+  SkillIcon: 10425020
+  SkillMainEffect: 10
+- Id: 10425021
+  Name: ブレイブファッシネイト
+  SkillIcon: 10425020
+  SkillMainEffect: 10
+- Id: 10425022
+  Name: ブレイブファッシネイト
+  SkillIcon: 10425020
+  SkillMainEffect: 10
 - Id: 10433010
   Name: ラブアトラクト
   SkillIcon: 10433010
@@ -2890,6 +2914,18 @@
   Name: エクステボルテージ
   SkillIcon: 10435010
   SkillMainEffect: 20
+- Id: 10435020
+  Name: サポーテッドフィール
+  SkillIcon: 10435020
+  SkillMainEffect: 5
+- Id: 10435021
+  Name: サポーテッドフィール
+  SkillIcon: 10435020
+  SkillMainEffect: 5
+- Id: 10435022
+  Name: サポーテッドフィール
+  SkillIcon: 10435020
+  SkillMainEffect: 5
 - Id: 20115010
   Name: ドリーミングサポート
   SkillIcon: 20115010
@@ -3842,6 +3878,10 @@
   Name: ドレス《Dream Believers》
   SkillIcon: 20415010
   SkillMainEffect: 28
+- Id: 20415020
+  Name: ドレス《Reflection in the mirror》
+  SkillIcon: 20415020
+  SkillMainEffect: 28
 - Id: 20423010
   Name: メンタルリカバー
   SkillIcon: 20423010
@@ -3854,6 +3894,10 @@
   Name: ブレイブアトラクション
   SkillIcon: 20425010
   SkillMainEffect: 1
+- Id: 20425020
+  Name: アグレッシブボルテージ
+  SkillIcon: 20425020
+  SkillMainEffect: 10
 - Id: 20433010
   Name: ハートキャプチャ
   SkillIcon: 20433010
@@ -3866,6 +3910,10 @@
   Name: ハートブースト：みらくらぱーく！
   SkillIcon: 20435010
   SkillMainEffect: 16
+- Id: 20435020
+  Name: ブレイブアトラクト
+  SkillIcon: 20435020
+  SkillMainEffect: 2
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
@@ -4714,13 +4762,25 @@
   Name: アーリードロー：APレデュース
   SkillIcon: 30415010
   SkillMainEffect: 17
+- Id: 30415020
+  Name: ドロー：メンタルバリア & APレデュース：ブレイブ
+  SkillIcon: 30415020
+  SkillMainEffect: 7
 - Id: 30425010
   Name: アキューミュレイト
   SkillIcon: 30425010
   SkillMainEffect: 17
+- Id: 30425020
+  Name: チェイン：さやか & APレデュース：グルーヴィ
+  SkillIcon: 30425020
+  SkillMainEffect: 902
 - Id: 30435010
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 30435010
+  SkillMainEffect: 17
+- Id: 30435020
+  Name: APレデュース：みらくらぱーく！ & アキューミュレイト
+  SkillIcon: 30435020
   SkillMainEffect: 17
 - Id: 80013010
   Name: ラブアトラクト
@@ -4754,6 +4814,18 @@
   Name: ラブアトラクト
   SkillIcon: 80415011
   SkillMainEffect: 2
+- Id: 80035010
+  Name: ハートキャプチャ
+  SkillIcon: 80415020
+  SkillMainEffect: 1
+- Id: 80035020
+  Name: ボルテージゲイン
+  SkillIcon: 80415021
+  SkillMainEffect: 10
+- Id: 80035030
+  Name: エクステンドハンド
+  SkillIcon: 80415022
+  SkillMainEffect: 20
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -4783,6 +4855,18 @@
   SkillIcon: 90410000
   SkillMainEffect: 19
 - Id: 90025020
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90035010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90035020
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90035030
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19

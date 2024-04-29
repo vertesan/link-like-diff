@@ -683,6 +683,11 @@
   ExchangeItemType: 2
   ExchangeItemId: 10315200
   ExchangeItemQuantity: 1
+- Id: 2030704021
+  SelectTicketSeriesId: 2030704
+  ExchangeItemType: 2
+  ExchangeItemId: 10415020
+  ExchangeItemQuantity: 1
 - Id: 2030705001
   SelectTicketSeriesId: 2030705
   ExchangeItemType: 2
@@ -1327,6 +1332,11 @@
   SelectTicketSeriesId: 2030712
   ExchangeItemType: 2
   ExchangeItemId: 10235140
+  ExchangeItemQuantity: 1
+- Id: 2030712015
+  SelectTicketSeriesId: 2030712
+  ExchangeItemType: 2
+  ExchangeItemId: 10435020
   ExchangeItemQuantity: 1
 - Id: 3030801001
   SelectTicketSeriesId: 3030801

@@ -159,3 +159,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-04-19T19:00:00Z
   EndTime: 2024-04-21T18:59:59Z
+- Id: 201024
+  Name: 365Daysリンクラ！もうすぐ1周年ゴールデンキャンペーン！
+  LoginBonusRewardSeriesId: 201024
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-01T19:00:00Z
+  EndTime: 2024-05-19T18:59:59Z
