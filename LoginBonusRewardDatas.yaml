@@ -894,3 +894,11 @@
   RewardNum: 500
   LifeTimeDay: 30
   RewardTextId: 40102177
+- Id: 20102601
+  LoginBonusRewardSeriesId: 201026
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000014
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102181

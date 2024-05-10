@@ -5102,6 +5102,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 402041021
+  LearningLiveSeriesId: 40204102
+  Name: 『Mix shake!!（104期Ver.）』
+  Description: Mix shake!!（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020410211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402041022
+  LearningLiveSeriesId: 40204102
+  Name: 『Mix shake!!（104期Ver.）』
+  Description: Mix shake!!（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020410221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402041023
+  LearningLiveSeriesId: 40204102
+  Name: 『Mix shake!!（104期Ver.）』
+  Description: Mix shake!!（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020410231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402041024
+  LearningLiveSeriesId: 40204102
+  Name: 『Mix shake!!（104期Ver.）』
+  Description: Mix shake!!（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204102
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020410241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 403031011
   LearningLiveSeriesId: 40303101
   Name: 『On your mark』
@@ -7561,6 +7649,182 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4030410241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403041031
+  LearningLiveSeriesId: 40304103
+  Name: 『ココン東西（104期Ver.）』
+  Description: ココン東西（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030410311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403041032
+  LearningLiveSeriesId: 40304103
+  Name: 『ココン東西（104期Ver.）』
+  Description: ココン東西（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030410321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403041033
+  LearningLiveSeriesId: 40304103
+  Name: 『ココン東西（104期Ver.）』
+  Description: ココン東西（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030410331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403041034
+  LearningLiveSeriesId: 40304103
+  Name: 『ココン東西（104期Ver.）』
+  Description: ココン東西（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030410341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403041041
+  LearningLiveSeriesId: 40304104
+  Name: 『Tragic Drops（104期Ver.）』
+  Description: Tragic Drops（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030410411
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403041042
+  LearningLiveSeriesId: 40304104
+  Name: 『Tragic Drops（104期Ver.）』
+  Description: Tragic Drops（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030410421
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403041043
+  LearningLiveSeriesId: 40304104
+  Name: 『Tragic Drops（104期Ver.）』
+  Description: Tragic Drops（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030410431
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403041044
+  LearningLiveSeriesId: 40304104
+  Name: 『Tragic Drops（104期Ver.）』
+  Description: Tragic Drops（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030410441
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000

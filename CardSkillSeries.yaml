@@ -2830,6 +2830,18 @@
   Name: リゲインアトラクト
   SkillIcon: 10415020
   SkillMainEffect: 13
+- Id: 10415030
+  Name: ハートゲイン
+  SkillIcon: 10415030
+  SkillMainEffect: 1
+- Id: 10415031
+  Name: ハートゲイン
+  SkillIcon: 10415030
+  SkillMainEffect: 1
+- Id: 10415032
+  Name: ハートゲイン
+  SkillIcon: 10415030
+  SkillMainEffect: 1
 - Id: 10423010
   Name: ラブアトラクト
   SkillIcon: 10423010
@@ -2854,6 +2866,18 @@
   Name: ラブアトラクト
   SkillIcon: 10423020
   SkillMainEffect: 2
+- Id: 10424010
+  Name: プロテクトフィール
+  SkillIcon: 10424010
+  SkillMainEffect: 7
+- Id: 10424011
+  Name: プロテクトフィール
+  SkillIcon: 10424010
+  SkillMainEffect: 7
+- Id: 10424012
+  Name: プロテクトフィール
+  SkillIcon: 10424010
+  SkillMainEffect: 7
 - Id: 10425010
   Name: メンタルプロテクト
   SkillIcon: 10425010
@@ -2926,6 +2950,18 @@
   Name: サポーテッドフィール
   SkillIcon: 10435020
   SkillMainEffect: 5
+- Id: 10435030
+  Name: リフレッシュハート
+  SkillIcon: 10435030
+  SkillMainEffect: 13
+- Id: 10435031
+  Name: リフレッシュハート
+  SkillIcon: 10435030
+  SkillMainEffect: 13
+- Id: 10435032
+  Name: リフレッシュハート
+  SkillIcon: 10435030
+  SkillMainEffect: 13
 - Id: 20115010
   Name: ドリーミングサポート
   SkillIcon: 20115010
@@ -3882,6 +3918,10 @@
   Name: ドレス《Reflection in the mirror》
   SkillIcon: 20415020
   SkillMainEffect: 28
+- Id: 20415030
+  Name: ドレス《青嵐の鯉流し》
+  SkillIcon: 20415030
+  SkillMainEffect: 28
 - Id: 20423010
   Name: メンタルリカバー
   SkillIcon: 20423010
@@ -3890,6 +3930,10 @@
   Name: メンタルプロテクト
   SkillIcon: 20423020
   SkillMainEffect: 7
+- Id: 20424010
+  Name: ブレイブエクステボルテージ
+  SkillIcon: 20424010
+  SkillMainEffect: 10
 - Id: 20425010
   Name: ブレイブアトラクション
   SkillIcon: 20425010
@@ -3914,6 +3958,10 @@
   Name: ブレイブアトラクト
   SkillIcon: 20435020
   SkillMainEffect: 2
+- Id: 20435030
+  Name: アトラクトブースト：みらくらぱーく！
+  SkillIcon: 20435030
+  SkillMainEffect: 30
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
@@ -3927,9 +3975,9 @@
   SkillIcon: 30214020
   SkillMainEffect: 902
 - Id: 30214030
-  Name: アクセラレーション
+  Name: ドロー：ハートキャプチャ & アクセラレーション
   SkillIcon: 30214030
-  SkillMainEffect: 17
+  SkillMainEffect: 1
 - Id: 30214040
   Name: ドロー：APレデュース
   SkillIcon: 30214040
@@ -3995,15 +4043,15 @@
   SkillIcon: 30214190
   SkillMainEffect: 10
 - Id: 30215010
-  Name: フェイバリット：スタート
+  Name: フェイバリット：スタート & オーバーセクション：APレデュース & ラブアトラクト
   SkillIcon: 30215010
   SkillMainEffect: 902
 - Id: 30215020
-  Name: ドロー：APレデュース
+  Name: アーリードロー：3/APレデュース
   SkillIcon: 30215020
   SkillMainEffect: 17
 - Id: 30215030
-  Name: ドロー：メンタルリカバー
+  Name: ドロー：メンタルリカバー & APレデュース：チアフル
   SkillIcon: 30215030
   SkillMainEffect: 5
 - Id: 30215040
@@ -4079,11 +4127,11 @@
   SkillIcon: 30224020
   SkillMainEffect: 902
 - Id: 30224030
-  Name: フェイバリット：1
+  Name: ジャストドロー：1/APレデュース
   SkillIcon: 30224030
-  SkillMainEffect: 902
+  SkillMainEffect: 17
 - Id: 30224040
-  Name: ドロー：ボルテージゲイン
+  Name: ドロー：ボルテージゲイン & APレデュース：グルーヴィ
   SkillIcon: 30224040
   SkillMainEffect: 10
 - Id: 30224050
@@ -4151,7 +4199,7 @@
   SkillIcon: 30225010
   SkillMainEffect: 17
 - Id: 30225020
-  Name: フェイバリット：1
+  Name: フェイバリット：1 & ウォームアップ
   SkillIcon: 30225020
   SkillMainEffect: 902
 - Id: 30225030
@@ -4271,7 +4319,7 @@
   SkillIcon: 30234120
   SkillMainEffect: 10
 - Id: 30235010
-  Name: APレデュース：ローメンタル
+  Name: APレデュース：ブレイブ
   SkillIcon: 30235010
   SkillMainEffect: 17
 - Id: 30235020
@@ -4327,7 +4375,7 @@
   SkillIcon: 30235140
   SkillMainEffect: 7
 - Id: 30238010
-  Name: ドロー：プロテクト & APゲイン
+  Name: ドロー：メンタルプロテクト & APゲイン
   SkillIcon: 30238010
   SkillMainEffect: 7
 - Id: 30314010
@@ -4335,11 +4383,11 @@
   SkillIcon: 30314010
   SkillMainEffect: 902
 - Id: 30314020
-  Name: ドロー：メンタルリカバー
+  Name: ドロー：メンタルリカバー & APレデュース：チアフル
   SkillIcon: 30314020
   SkillMainEffect: 5
 - Id: 30314030
-  Name: ドロー：ボルテージゲイン
+  Name: ドロー：ボルテージゲイン & アクセラレーション
   SkillIcon: 30314030
   SkillMainEffect: 10
 - Id: 30314040
@@ -4407,11 +4455,11 @@
   SkillIcon: 30314190
   SkillMainEffect: 17
 - Id: 30315010
-  Name: フェイバリット：フィーバー
+  Name: フェイバリット：フィーバー & APレデュース：ラブアトラクト
   SkillIcon: 30315010
   SkillMainEffect: 902
 - Id: 30315020
-  Name: ドロー：APレデュース
+  Name: レイトドロー：3/APレデュース
   SkillIcon: 30315020
   SkillMainEffect: 17
 - Id: 30315030
@@ -4495,13 +4543,13 @@
   SkillIcon: 30324010
   SkillMainEffect: 902
 - Id: 30324020
-  Name: チェイン：綴理
+  Name: チェイン：綴理 & APレデュース：グルーヴィ
   SkillIcon: 30324020
   SkillMainEffect: 902
 - Id: 30324030
-  Name: フェイバリット：2
+  Name: ジャストドロー：2/APレデュース
   SkillIcon: 30324030
-  SkillMainEffect: 902
+  SkillMainEffect: 17
 - Id: 30324040
   Name: APレデュース：綴理
   SkillIcon: 30324040
@@ -4571,11 +4619,11 @@
   SkillIcon: 30324200
   SkillMainEffect: 17
 - Id: 30325010
-  Name: アキューミュレイト
+  Name: アキューミュレイト & アクセラレーション
   SkillIcon: 30325010
   SkillMainEffect: 17
 - Id: 30325020
-  Name: フェイバリット：4
+  Name: フェイバリット：4 & アクセラレーション
   SkillIcon: 30325020
   SkillMainEffect: 902
 - Id: 30325030
@@ -4699,7 +4747,7 @@
   SkillIcon: 30334130
   SkillMainEffect: 17
 - Id: 30335010
-  Name: ドロー：ボルテージゲイン
+  Name: ドロー：ボルテージゲイン & アーリードロー：3/APレデュース
   SkillIcon: 30335010
   SkillMainEffect: 10
 - Id: 30335020
@@ -4763,9 +4811,17 @@
   SkillIcon: 30415010
   SkillMainEffect: 17
 - Id: 30415020
-  Name: ドロー：メンタルバリア & APレデュース：ブレイブ
+  Name: ドロー：メンタルプロテクト & APレデュース：ブレイブ
   SkillIcon: 30415020
   SkillMainEffect: 7
+- Id: 30415030
+  Name: ドロー：APレデュース
+  SkillIcon: 30415030
+  SkillMainEffect: 17
+- Id: 30424010
+  Name: ドロー：APレデュース
+  SkillIcon: 30424010
+  SkillMainEffect: 17
 - Id: 30425010
   Name: アキューミュレイト
   SkillIcon: 30425010
@@ -4781,6 +4837,10 @@
 - Id: 30435020
   Name: APレデュース：みらくらぱーく！ & アキューミュレイト
   SkillIcon: 30435020
+  SkillMainEffect: 17
+- Id: 30435030
+  Name: ドロー：APレデュース
+  SkillIcon: 30435030
   SkillMainEffect: 17
 - Id: 80013010
   Name: ラブアトラクト
@@ -4826,6 +4886,10 @@
   Name: エクステンドハンド
   SkillIcon: 80415022
   SkillMainEffect: 20
+- Id: 80045010
+  Name: ハートアトラクション
+  SkillIcon: 80415030
+  SkillMainEffect: 1
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -4867,6 +4931,10 @@
   SkillIcon: 90410000
   SkillMainEffect: 19
 - Id: 90035030
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90045010
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19

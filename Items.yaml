@@ -4822,6 +4822,18 @@
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-04-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041503
+  Name: "[青嵐の鯉流し]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-05-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042301
   Name: "[レインボーシフォン]徒町小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4845,6 +4857,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042401
+  Name: "[青嵐の鯉流し]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-05-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042501
   Name: "[Dream Believers]徒町小鈴 解放Pt."
@@ -4917,4 +4941,16 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺姫芽)
   StartTime: 2024-04-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043503
+  Name: "[青嵐の鯉流し]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-05-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z

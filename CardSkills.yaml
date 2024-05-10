@@ -69382,6 +69382,300 @@
   ApperanceType: 10415021
   CardSkillEffectId: 10415020140,10415020141
   Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにこのステージ中、獲得するLOVEを$+10%$する。
+- Id: 1041503001
+  CardSkillSeriesId: 10415030
+  SkillLevel: 1
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030010,10415030011
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503002
+  CardSkillSeriesId: 10415030
+  SkillLevel: 2
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030020,10415030021
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503003
+  CardSkillSeriesId: 10415030
+  SkillLevel: 3
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030030,10415030031
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503004
+  CardSkillSeriesId: 10415030
+  SkillLevel: 4
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030040,10415030041
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503005
+  CardSkillSeriesId: 10415030
+  SkillLevel: 5
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030050,10415030051
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503006
+  CardSkillSeriesId: 10415030
+  SkillLevel: 6
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030060,10415030061
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503007
+  CardSkillSeriesId: 10415030
+  SkillLevel: 7
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030070,10415030071
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503008
+  CardSkillSeriesId: 10415030
+  SkillLevel: 8
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030080,10415030081
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503009
+  CardSkillSeriesId: 10415030
+  SkillLevel: 9
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030090,10415030091
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503010
+  CardSkillSeriesId: 10415030
+  SkillLevel: 10
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030100,10415030101
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503011
+  CardSkillSeriesId: 10415030
+  SkillLevel: 11
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030110,10415030111
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503012
+  CardSkillSeriesId: 10415030
+  SkillLevel: 12
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030120,10415030121
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503013
+  CardSkillSeriesId: 10415030
+  SkillLevel: 13
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030130,10415030131
+  Description: ビートハート$5回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503014
+  CardSkillSeriesId: 10415030
+  SkillLevel: 14
+  SkillCost: 2
+  ApperanceType: 10415030
+  CardSkillEffectId: 10415030140,10415030141
+  Description: ビートハート$6回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503101
+  CardSkillSeriesId: 10415031
+  SkillLevel: 1
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030010,10415030011
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503102
+  CardSkillSeriesId: 10415031
+  SkillLevel: 2
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030020,10415030021
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503103
+  CardSkillSeriesId: 10415031
+  SkillLevel: 3
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030030,10415030031
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503104
+  CardSkillSeriesId: 10415031
+  SkillLevel: 4
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030040,10415030041
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503105
+  CardSkillSeriesId: 10415031
+  SkillLevel: 5
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030050,10415030051
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503106
+  CardSkillSeriesId: 10415031
+  SkillLevel: 6
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030060,10415030061
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503107
+  CardSkillSeriesId: 10415031
+  SkillLevel: 7
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030070,10415030071
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503108
+  CardSkillSeriesId: 10415031
+  SkillLevel: 8
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030080,10415030081
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503109
+  CardSkillSeriesId: 10415031
+  SkillLevel: 9
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030090,10415030091
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503110
+  CardSkillSeriesId: 10415031
+  SkillLevel: 10
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030100,10415030101
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503111
+  CardSkillSeriesId: 10415031
+  SkillLevel: 11
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030110,10415030111
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503112
+  CardSkillSeriesId: 10415031
+  SkillLevel: 12
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030120,10415030121
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503113
+  CardSkillSeriesId: 10415031
+  SkillLevel: 13
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030130,10415030131
+  Description: ビートハート$5回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503114
+  CardSkillSeriesId: 10415031
+  SkillLevel: 14
+  SkillCost: 1
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030140,10415030141
+  Description: ビートハート$6回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503201
+  CardSkillSeriesId: 10415032
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030010,10415030011
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503202
+  CardSkillSeriesId: 10415032
+  SkillLevel: 2
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030020,10415030021
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503203
+  CardSkillSeriesId: 10415032
+  SkillLevel: 3
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030030,10415030031
+  Description: ビートハート$2回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503204
+  CardSkillSeriesId: 10415032
+  SkillLevel: 4
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030040,10415030041
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503205
+  CardSkillSeriesId: 10415032
+  SkillLevel: 5
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030050,10415030051
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503206
+  CardSkillSeriesId: 10415032
+  SkillLevel: 6
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030060,10415030061
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503207
+  CardSkillSeriesId: 10415032
+  SkillLevel: 7
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030070,10415030071
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503208
+  CardSkillSeriesId: 10415032
+  SkillLevel: 8
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030080,10415030081
+  Description: ビートハート$3回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503209
+  CardSkillSeriesId: 10415032
+  SkillLevel: 9
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030090,10415030091
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503210
+  CardSkillSeriesId: 10415032
+  SkillLevel: 10
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030100,10415030101
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503211
+  CardSkillSeriesId: 10415032
+  SkillLevel: 11
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030110,10415030111
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503212
+  CardSkillSeriesId: 10415032
+  SkillLevel: 12
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030120,10415030121
+  Description: ビートハート$4回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503213
+  CardSkillSeriesId: 10415032
+  SkillLevel: 13
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030130,10415030131
+  Description: ビートハート$5回分$のスキルハートを獲得する。さらにAPを3回復する。
+- Id: 1041503214
+  CardSkillSeriesId: 10415032
+  SkillLevel: 14
+  SkillCost: 0
+  ApperanceType: 10415031
+  CardSkillEffectId: 10415030140,10415030141
+  Description: ビートハート$6回分$のスキルハートを獲得する。さらにAPを3回復する。
 - Id: 1042301001
   CardSkillSeriesId: 10423010
   SkillLevel: 1
@@ -69970,6 +70264,300 @@
   ApperanceType: 10423021
   CardSkillEffectId: "10423020140"
   Description: このセクション中、獲得するLOVEを$+30%$する。
+- Id: 1042401001
+  CardSkillSeriesId: 10424010
+  SkillLevel: 1
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010010,10424010011
+  Description: このステージ中、メンタルの最大値の$2.8%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.2%$する。
+- Id: 1042401002
+  CardSkillSeriesId: 10424010
+  SkillLevel: 2
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010020,10424010021
+  Description: このステージ中、メンタルの最大値の$3.08%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.5%$する。
+- Id: 1042401003
+  CardSkillSeriesId: 10424010
+  SkillLevel: 3
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010030,10424010031
+  Description: このステージ中、メンタルの最大値の$3.36%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.8%$する。
+- Id: 1042401004
+  CardSkillSeriesId: 10424010
+  SkillLevel: 4
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010040,10424010041
+  Description: このステージ中、メンタルの最大値の$3.64%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.2%$する。
+- Id: 1042401005
+  CardSkillSeriesId: 10424010
+  SkillLevel: 5
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010050,10424010051
+  Description: このステージ中、メンタルの最大値の$3.92%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.5%$する。
+- Id: 1042401006
+  CardSkillSeriesId: 10424010
+  SkillLevel: 6
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010060,10424010061
+  Description: このステージ中、メンタルの最大値の$4.2%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.8%$する。
+- Id: 1042401007
+  CardSkillSeriesId: 10424010
+  SkillLevel: 7
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010070,10424010071
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.1%$する。
+- Id: 1042401008
+  CardSkillSeriesId: 10424010
+  SkillLevel: 8
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010080,10424010081
+  Description: このステージ中、メンタルの最大値の$4.76%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.4%$する。
+- Id: 1042401009
+  CardSkillSeriesId: 10424010
+  SkillLevel: 9
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010090,10424010091
+  Description: このステージ中、メンタルの最大値の$5.04%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.8%$する。
+- Id: 1042401010
+  CardSkillSeriesId: 10424010
+  SkillLevel: 10
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010100,10424010101
+  Description: このステージ中、メンタルの最大値の$5.6%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.4%$する。
+- Id: 1042401011
+  CardSkillSeriesId: 10424010
+  SkillLevel: 11
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010110,10424010111
+  Description: このステージ中、メンタルの最大値の$5.88%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.7%$する。
+- Id: 1042401012
+  CardSkillSeriesId: 10424010
+  SkillLevel: 12
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010120,10424010121
+  Description: このステージ中、メンタルの最大値の$6.16%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7%$する。
+- Id: 1042401013
+  CardSkillSeriesId: 10424010
+  SkillLevel: 13
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010130,10424010131
+  Description: このステージ中、メンタルの最大値の$6.44%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7.4%$する。
+- Id: 1042401014
+  CardSkillSeriesId: 10424010
+  SkillLevel: 14
+  SkillCost: 4
+  ApperanceType: 10424010
+  CardSkillEffectId: 10424010140,10424010141
+  Description: このステージ中、メンタルの最大値の$7%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+8%$する。
+- Id: 1042401101
+  CardSkillSeriesId: 10424011
+  SkillLevel: 1
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010010,10424010011
+  Description: このステージ中、メンタルの最大値の$2.8%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.2%$する。
+- Id: 1042401102
+  CardSkillSeriesId: 10424011
+  SkillLevel: 2
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010020,10424010021
+  Description: このステージ中、メンタルの最大値の$3.08%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.5%$する。
+- Id: 1042401103
+  CardSkillSeriesId: 10424011
+  SkillLevel: 3
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010030,10424010031
+  Description: このステージ中、メンタルの最大値の$3.36%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.8%$する。
+- Id: 1042401104
+  CardSkillSeriesId: 10424011
+  SkillLevel: 4
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010040,10424010041
+  Description: このステージ中、メンタルの最大値の$3.64%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.2%$する。
+- Id: 1042401105
+  CardSkillSeriesId: 10424011
+  SkillLevel: 5
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010050,10424010051
+  Description: このステージ中、メンタルの最大値の$3.92%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.5%$する。
+- Id: 1042401106
+  CardSkillSeriesId: 10424011
+  SkillLevel: 6
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010060,10424010061
+  Description: このステージ中、メンタルの最大値の$4.2%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.8%$する。
+- Id: 1042401107
+  CardSkillSeriesId: 10424011
+  SkillLevel: 7
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010070,10424010071
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.1%$する。
+- Id: 1042401108
+  CardSkillSeriesId: 10424011
+  SkillLevel: 8
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010080,10424010081
+  Description: このステージ中、メンタルの最大値の$4.76%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.4%$する。
+- Id: 1042401109
+  CardSkillSeriesId: 10424011
+  SkillLevel: 9
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010090,10424010091
+  Description: このステージ中、メンタルの最大値の$5.04%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.8%$する。
+- Id: 1042401110
+  CardSkillSeriesId: 10424011
+  SkillLevel: 10
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010100,10424010101
+  Description: このステージ中、メンタルの最大値の$5.6%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.4%$する。
+- Id: 1042401111
+  CardSkillSeriesId: 10424011
+  SkillLevel: 11
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010110,10424010111
+  Description: このステージ中、メンタルの最大値の$5.88%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.7%$する。
+- Id: 1042401112
+  CardSkillSeriesId: 10424011
+  SkillLevel: 12
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010120,10424010121
+  Description: このステージ中、メンタルの最大値の$6.16%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7%$する。
+- Id: 1042401113
+  CardSkillSeriesId: 10424011
+  SkillLevel: 13
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010130,10424010131
+  Description: このステージ中、メンタルの最大値の$6.44%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7.4%$する。
+- Id: 1042401114
+  CardSkillSeriesId: 10424011
+  SkillLevel: 14
+  SkillCost: 3
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010140,10424010141
+  Description: このステージ中、メンタルの最大値の$7%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+8%$する。
+- Id: 1042401201
+  CardSkillSeriesId: 10424012
+  SkillLevel: 1
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010010,10424010011
+  Description: このステージ中、メンタルの最大値の$2.8%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.2%$する。
+- Id: 1042401202
+  CardSkillSeriesId: 10424012
+  SkillLevel: 2
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010020,10424010021
+  Description: このステージ中、メンタルの最大値の$3.08%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.5%$する。
+- Id: 1042401203
+  CardSkillSeriesId: 10424012
+  SkillLevel: 3
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010030,10424010031
+  Description: このステージ中、メンタルの最大値の$3.36%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+3.8%$する。
+- Id: 1042401204
+  CardSkillSeriesId: 10424012
+  SkillLevel: 4
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010040,10424010041
+  Description: このステージ中、メンタルの最大値の$3.64%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.2%$する。
+- Id: 1042401205
+  CardSkillSeriesId: 10424012
+  SkillLevel: 5
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010050,10424010051
+  Description: このステージ中、メンタルの最大値の$3.92%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.5%$する。
+- Id: 1042401206
+  CardSkillSeriesId: 10424012
+  SkillLevel: 6
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010060,10424010061
+  Description: このステージ中、メンタルの最大値の$4.2%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+4.8%$する。
+- Id: 1042401207
+  CardSkillSeriesId: 10424012
+  SkillLevel: 7
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010070,10424010071
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.1%$する。
+- Id: 1042401208
+  CardSkillSeriesId: 10424012
+  SkillLevel: 8
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010080,10424010081
+  Description: このステージ中、メンタルの最大値の$4.76%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.4%$する。
+- Id: 1042401209
+  CardSkillSeriesId: 10424012
+  SkillLevel: 9
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010090,10424010091
+  Description: このステージ中、メンタルの最大値の$5.04%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+5.8%$する。
+- Id: 1042401210
+  CardSkillSeriesId: 10424012
+  SkillLevel: 10
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010100,10424010101
+  Description: このステージ中、メンタルの最大値の$5.6%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.4%$する。
+- Id: 1042401211
+  CardSkillSeriesId: 10424012
+  SkillLevel: 11
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010110,10424010111
+  Description: このステージ中、メンタルの最大値の$5.88%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+6.7%$する。
+- Id: 1042401212
+  CardSkillSeriesId: 10424012
+  SkillLevel: 12
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010120,10424010121
+  Description: このステージ中、メンタルの最大値の$6.16%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7%$する。
+- Id: 1042401213
+  CardSkillSeriesId: 10424012
+  SkillLevel: 13
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010130,10424010131
+  Description: このステージ中、メンタルの最大値の$6.44%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+7.4%$する。
+- Id: 1042401214
+  CardSkillSeriesId: 10424012
+  SkillLevel: 14
+  SkillCost: 2
+  ApperanceType: 10424011
+  CardSkillEffectId: 10424010140,10424010141
+  Description: このステージ中、メンタルの最大値の$7%$分のメンタルダメージを無効にする。さらにこのセクション中、獲得するLOVEを$+8%$する。
 - Id: 1042501001
   CardSkillSeriesId: 10425010
   SkillLevel: 1
@@ -71734,6 +72322,300 @@
   ApperanceType: 10435021
   CardSkillEffectId: 10435020140,10435020141
   Description: メンタルを最大値の$29%$回復させる。さらにこのステージ中、獲得するLOVEを$+6%$する。
+- Id: 1043503001
+  CardSkillSeriesId: 10435030
+  SkillLevel: 1
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030010,10435030011
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$5回分$のスキルハートを獲得する。
+- Id: 1043503002
+  CardSkillSeriesId: 10435030
+  SkillLevel: 2
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030020,10435030021
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503003
+  CardSkillSeriesId: 10435030
+  SkillLevel: 3
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030030,10435030031
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503004
+  CardSkillSeriesId: 10435030
+  SkillLevel: 4
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030040,10435030041
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503005
+  CardSkillSeriesId: 10435030
+  SkillLevel: 5
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030050,10435030051
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503006
+  CardSkillSeriesId: 10435030
+  SkillLevel: 6
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030060,10435030061
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503007
+  CardSkillSeriesId: 10435030
+  SkillLevel: 7
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030070,10435030071
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503008
+  CardSkillSeriesId: 10435030
+  SkillLevel: 8
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030080,10435030081
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503009
+  CardSkillSeriesId: 10435030
+  SkillLevel: 9
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030090,10435030091
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503010
+  CardSkillSeriesId: 10435030
+  SkillLevel: 10
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030100,10435030101
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$10回分$のスキルハートを獲得する。
+- Id: 1043503011
+  CardSkillSeriesId: 10435030
+  SkillLevel: 11
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030110,10435030111
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503012
+  CardSkillSeriesId: 10435030
+  SkillLevel: 12
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030120,10435030121
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503013
+  CardSkillSeriesId: 10435030
+  SkillLevel: 13
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030130,10435030131
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$12回分$のスキルハートを獲得する。
+- Id: 1043503014
+  CardSkillSeriesId: 10435030
+  SkillLevel: 14
+  SkillCost: 6
+  ApperanceType: 10435030
+  CardSkillEffectId: 10435030140,10435030141
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$13回分$のスキルハートを獲得する。
+- Id: 1043503101
+  CardSkillSeriesId: 10435031
+  SkillLevel: 1
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030010,10435030011
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$5回分$のスキルハートを獲得する。
+- Id: 1043503102
+  CardSkillSeriesId: 10435031
+  SkillLevel: 2
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030020,10435030021
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503103
+  CardSkillSeriesId: 10435031
+  SkillLevel: 3
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030030,10435030031
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503104
+  CardSkillSeriesId: 10435031
+  SkillLevel: 4
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030040,10435030041
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503105
+  CardSkillSeriesId: 10435031
+  SkillLevel: 5
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030050,10435030051
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503106
+  CardSkillSeriesId: 10435031
+  SkillLevel: 6
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030060,10435030061
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503107
+  CardSkillSeriesId: 10435031
+  SkillLevel: 7
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030070,10435030071
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503108
+  CardSkillSeriesId: 10435031
+  SkillLevel: 8
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030080,10435030081
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503109
+  CardSkillSeriesId: 10435031
+  SkillLevel: 9
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030090,10435030091
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503110
+  CardSkillSeriesId: 10435031
+  SkillLevel: 10
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030100,10435030101
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$10回分$のスキルハートを獲得する。
+- Id: 1043503111
+  CardSkillSeriesId: 10435031
+  SkillLevel: 11
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030110,10435030111
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503112
+  CardSkillSeriesId: 10435031
+  SkillLevel: 12
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030120,10435030121
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503113
+  CardSkillSeriesId: 10435031
+  SkillLevel: 13
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030130,10435030131
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$12回分$のスキルハートを獲得する。
+- Id: 1043503114
+  CardSkillSeriesId: 10435031
+  SkillLevel: 14
+  SkillCost: 5
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030140,10435030141
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$13回分$のスキルハートを獲得する。
+- Id: 1043503201
+  CardSkillSeriesId: 10435032
+  SkillLevel: 1
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030010,10435030011
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$5回分$のスキルハートを獲得する。
+- Id: 1043503202
+  CardSkillSeriesId: 10435032
+  SkillLevel: 2
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030020,10435030021
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503203
+  CardSkillSeriesId: 10435032
+  SkillLevel: 3
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030030,10435030031
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$6回分$のスキルハートを獲得する。
+- Id: 1043503204
+  CardSkillSeriesId: 10435032
+  SkillLevel: 4
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030040,10435030041
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503205
+  CardSkillSeriesId: 10435032
+  SkillLevel: 5
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030050,10435030051
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$7回分$のスキルハートを獲得する。
+- Id: 1043503206
+  CardSkillSeriesId: 10435032
+  SkillLevel: 6
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030060,10435030061
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503207
+  CardSkillSeriesId: 10435032
+  SkillLevel: 7
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030070,10435030071
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$8回分$のスキルハートを獲得する。
+- Id: 1043503208
+  CardSkillSeriesId: 10435032
+  SkillLevel: 8
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030080,10435030081
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503209
+  CardSkillSeriesId: 10435032
+  SkillLevel: 9
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030090,10435030091
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$9回分$のスキルハートを獲得する。
+- Id: 1043503210
+  CardSkillSeriesId: 10435032
+  SkillLevel: 10
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030100,10435030101
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$10回分$のスキルハートを獲得する。
+- Id: 1043503211
+  CardSkillSeriesId: 10435032
+  SkillLevel: 11
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030110,10435030111
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503212
+  CardSkillSeriesId: 10435032
+  SkillLevel: 12
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030120,10435030121
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$11回分$のスキルハートを獲得する。
+- Id: 1043503213
+  CardSkillSeriesId: 10435032
+  SkillLevel: 13
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030130,10435030131
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$12回分$のスキルハートを獲得する。
+- Id: 1043503214
+  CardSkillSeriesId: 10435032
+  SkillLevel: 14
+  SkillCost: 4
+  ApperanceType: 10435031
+  CardSkillEffectId: 10435030140,10435030141
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにビートハート$13回分$のスキルハートを獲得する。
 - Id: 2011501001
   CardSkillSeriesId: 20115010
   SkillLevel: 1
@@ -95156,6 +96038,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 20415020140,20415020141,20415020142
   Description: ドレスカード《Reflection in the mirror》を3種類(合計3枚)山札に追加する。
+- Id: 2041503001
+  CardSkillSeriesId: 20415030
+  SkillLevel: 1
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030010"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503002
+  CardSkillSeriesId: 20415030
+  SkillLevel: 2
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030020"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503003
+  CardSkillSeriesId: 20415030
+  SkillLevel: 3
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030030"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503004
+  CardSkillSeriesId: 20415030
+  SkillLevel: 4
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030040"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503005
+  CardSkillSeriesId: 20415030
+  SkillLevel: 5
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030050"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503006
+  CardSkillSeriesId: 20415030
+  SkillLevel: 6
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030060"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503007
+  CardSkillSeriesId: 20415030
+  SkillLevel: 7
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030070"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503008
+  CardSkillSeriesId: 20415030
+  SkillLevel: 8
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030080"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503009
+  CardSkillSeriesId: 20415030
+  SkillLevel: 9
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030090"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503010
+  CardSkillSeriesId: 20415030
+  SkillLevel: 10
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030100"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503011
+  CardSkillSeriesId: 20415030
+  SkillLevel: 11
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030110"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503012
+  CardSkillSeriesId: 20415030
+  SkillLevel: 12
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030120"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503013
+  CardSkillSeriesId: 20415030
+  SkillLevel: 13
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030130"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
+- Id: 2041503014
+  CardSkillSeriesId: 20415030
+  SkillLevel: 14
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20415030140"
+  Description: ドレスカード《青嵐の鯉流し》を1種類(合計2枚)山札に追加する。
 - Id: 2042301001
   CardSkillSeriesId: 20423010
   SkillLevel: 1
@@ -95352,6 +96332,104 @@
   ApperanceType: 10000070
   CardSkillEffectId: "20423020140"
   Description: このステージ中、メンタルの最大値の$6%$分のメンタルダメージを無効にする。
+- Id: 2042401001
+  CardSkillSeriesId: 20424010
+  SkillLevel: 1
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010010,20424010011
+  Description: ボルテージPt.を$+16$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401002
+  CardSkillSeriesId: 20424010
+  SkillLevel: 2
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010020,20424010021
+  Description: ボルテージPt.を$+18$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401003
+  CardSkillSeriesId: 20424010
+  SkillLevel: 3
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010030,20424010031
+  Description: ボルテージPt.を$+19$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401004
+  CardSkillSeriesId: 20424010
+  SkillLevel: 4
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010040,20424010041
+  Description: ボルテージPt.を$+21$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401005
+  CardSkillSeriesId: 20424010
+  SkillLevel: 5
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010050,20424010051
+  Description: ボルテージPt.を$+22$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401006
+  CardSkillSeriesId: 20424010
+  SkillLevel: 6
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010060,20424010061
+  Description: ボルテージPt.を$+24$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401007
+  CardSkillSeriesId: 20424010
+  SkillLevel: 7
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010070,20424010071
+  Description: ボルテージPt.を$+26$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401008
+  CardSkillSeriesId: 20424010
+  SkillLevel: 8
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010080,20424010081
+  Description: ボルテージPt.を$+27$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401009
+  CardSkillSeriesId: 20424010
+  SkillLevel: 9
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010090,20424010091
+  Description: ボルテージPt.を$+29$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401010
+  CardSkillSeriesId: 20424010
+  SkillLevel: 10
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010100,20424010101
+  Description: ボルテージPt.を$+32$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401011
+  CardSkillSeriesId: 20424010
+  SkillLevel: 11
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010110,20424010111
+  Description: ボルテージPt.を$+34$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401012
+  CardSkillSeriesId: 20424010
+  SkillLevel: 12
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010120,20424010121
+  Description: ボルテージPt.を$+35$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401013
+  CardSkillSeriesId: 20424010
+  SkillLevel: 13
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010130,20424010131
+  Description: ボルテージPt.を$+37$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
+- Id: 2042401014
+  CardSkillSeriesId: 20424010
+  SkillLevel: 14
+  SkillCost: 6
+  ApperanceType: 10000100
+  CardSkillEffectId: 20424010140,20424010141
+  Description: ボルテージPt.を$+40$する。さらにメンタルが50％以下のとき、このセクション中、手札の上限枚数を1枚増加する。
 - Id: 2042501001
   CardSkillSeriesId: 20425010
   SkillLevel: 1
@@ -95940,6 +97018,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 20435020140,20435020141
   Description: このセクション中、獲得するLOVEを$+25%$する。さらにメンタルが50％以下のとき、APを1回復する。
+- Id: 2043503001
+  CardSkillSeriesId: 20435030
+  SkillLevel: 1
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030010"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+50%$する。
+- Id: 2043503002
+  CardSkillSeriesId: 20435030
+  SkillLevel: 2
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030020"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+55%$する。
+- Id: 2043503003
+  CardSkillSeriesId: 20435030
+  SkillLevel: 3
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030030"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+60%$する。
+- Id: 2043503004
+  CardSkillSeriesId: 20435030
+  SkillLevel: 4
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030040"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+65%$する。
+- Id: 2043503005
+  CardSkillSeriesId: 20435030
+  SkillLevel: 5
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030050"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+70%$する。
+- Id: 2043503006
+  CardSkillSeriesId: 20435030
+  SkillLevel: 6
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030060"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+75%$する。
+- Id: 2043503007
+  CardSkillSeriesId: 20435030
+  SkillLevel: 7
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030070"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+80%$する。
+- Id: 2043503008
+  CardSkillSeriesId: 20435030
+  SkillLevel: 8
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030080"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+85%$する。
+- Id: 2043503009
+  CardSkillSeriesId: 20435030
+  SkillLevel: 9
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030090"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+90%$する。
+- Id: 2043503010
+  CardSkillSeriesId: 20435030
+  SkillLevel: 10
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030100"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+95%$する。
+- Id: 2043503011
+  CardSkillSeriesId: 20435030
+  SkillLevel: 11
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030110"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+100%$する。
+- Id: 2043503012
+  CardSkillSeriesId: 20435030
+  SkillLevel: 12
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030120"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+105%$する。
+- Id: 2043503013
+  CardSkillSeriesId: 20435030
+  SkillLevel: 13
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030130"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+110%$する。
+- Id: 2043503014
+  CardSkillSeriesId: 20435030
+  SkillLevel: 14
+  SkillCost: 6
+  ApperanceType: 10000020
+  CardSkillEffectId: "20435030140"
+  Description: 次にみらくらぱーく！のメンバーが使用するラブアトラクト効果を$+125%$する。
 - Id: 3011501001
   CardSkillSeriesId: 30115010
   SkillLevel: 1
@@ -95966,8 +97142,8 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30214030010"
-  Description: ボルテージLv.が8以上の間、消費AP-2
+  CardSkillEffectId: 30214030010,30214030012
+  Description: ドローした時、ビートハート3回分のスキルハートを獲得する。さらにボルテージLv.が8以上の間、消費AP-2。
 - Id: 3021404001
   CardSkillSeriesId: 30214040
   SkillLevel: 1
@@ -96085,22 +97261,22 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30215010010"
-  Description: 初期手札に加わる確率が増加する。
+  CardSkillEffectId: 30215010010,30215010011,30215010013
+  Description: 初期手札に加わる確率が大幅に増加する。さらに手札にある状態でセクションが変わるたび、手札のこのスキルの消費AP-4し、このステージ中、獲得するLOVEを+4%する。
 - Id: 3021502001
   CardSkillSeriesId: 30215020
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30215020010"
-  Description: ドローしたセクションの間、消費APを-1する。
+  Description: 3セクション目までにドローした時、消費APを-3する。
 - Id: 3021503001
   CardSkillSeriesId: 30215030
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30215030010"
-  Description: ドローした時、メンタルを最大値の10%回復する。
+  CardSkillEffectId: 30215030010,30215030012
+  Description: ドローした時、メンタルを最大値の10%回復する。さらにメンタルが50%以上の時にドローすると、消費APを-3する。
 - Id: 3021504001
   CardSkillSeriesId: 30215040
   SkillLevel: 1
@@ -96233,14 +97409,14 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30224030010"
-  Description: フィーバーセクションを除いた1セクション目でドローされる確率が増加する。
+  Description: 1セクション目でドローした時、消費APを-3する。
 - Id: 3022404001
   CardSkillSeriesId: 30224040
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30224040010"
-  Description: ドローした時、ボルテージ値を+12する。
+  CardSkillEffectId: 30224040010,30224040012
+  Description: ドローした時、ボルテージ値を+12する。さらにドローした時ボルテージLv.が5以上のとき、手札のこのスキルの消費AP-2。
 - Id: 3022405001
   CardSkillSeriesId: 30224050
   SkillLevel: 1
@@ -96358,8 +97534,8 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30225020010"
-  Description: フィーバーセクションを除いた1セクション目でドローされる確率が増加する。
+  CardSkillEffectId: 30225020010,30225020011
+  Description: フィーバーセクションを除いた1セクション目でドローされる確率が増加する。さらにボルテージLv.が7以下の間、消費AP-4。
 - Id: 3022503001
   CardSkillSeriesId: 30225030
   SkillLevel: 1
@@ -96569,7 +97745,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30235010010"
-  Description: メンタルが30%以下の時にドローすると、消費APを-2する。
+  Description: メンタルが50%以下の時にドローすると、消費APを-3する。
 - Id: 3023502001
   CardSkillSeriesId: 30235020
   SkillLevel: 1
@@ -96667,7 +97843,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: 30238010010,30238010012
-  Description: ドローした時、メンタルの最大値の4%分のメンタルダメージを無効にする。さらにAPを2回復する。
+  Description: ドローした時、このステージ中、メンタルの最大値の4%分のメンタルダメージを無効にする。さらにAPを2回復する。
 - Id: 3031401001
   CardSkillSeriesId: 30314010
   SkillLevel: 1
@@ -96680,15 +97856,15 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30314020010"
-  Description: ドローした時、メンタルを最大値の6%回復させる。
+  CardSkillEffectId: 30314020010,30314020012
+  Description: ドローした時、メンタルを最大値の6%回復させる。さらにメンタルが50%以上の時にドローすると、消費APを-3する。
 - Id: 3031403001
   CardSkillSeriesId: 30314030
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30314030010"
-  Description: ドローした時、ボルテージ値を+12する。
+  CardSkillEffectId: 30314030010,30314030012
+  Description: ドローした時、ボルテージ値を+12する。さらにボルテージLv.が8以上の間、消費AP-2。
 - Id: 3031404001
   CardSkillSeriesId: 30314040
   SkillLevel: 1
@@ -96806,15 +97982,15 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30315010010"
-  Description: フィーバーセクションでドローされる確率が増加する。
+  CardSkillEffectId: 30315010010,30315010011
+  Description: フィーバーセクションでドローされる確率が増加する。さらに適用されているラブアトラクト効果量が200%以上のとき、手札のこのスキルの消費AP-3。
 - Id: 3031502001
   CardSkillSeriesId: 30315020
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30315020010"
-  Description: ドローしたセクションの間、消費APを-1する。
+  Description: 3セクション目以降にドローした時、消費APを-3する。
 - Id: 3031503001
   CardSkillSeriesId: 30315030
   SkillLevel: 1
@@ -96960,15 +98136,15 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30324020010"
-  Description: 綴理のスキルを使用した後、ドローされる確率が増加する。
+  CardSkillEffectId: 30324020010,30324020011
+  Description: 綴理のスキルを使用した後、ドローされる確率が増加する。さらにドローした時ボルテージLv.が5以上のとき、手札のこのスキルの消費AP-2。
 - Id: 3032403001
   CardSkillSeriesId: 30324030
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30324030010"
-  Description: フィーバーセクションを除いた2セクション目でドローされる確率が増加する。
+  Description: 2セクション目でドローした時、消費APを-3する。
 - Id: 3032404001
   CardSkillSeriesId: 30324040
   SkillLevel: 1
@@ -97093,15 +98269,15 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30325010010"
-  Description: 手札にある時、ボルテージLvが上がるたびに消費APが低下する。
+  CardSkillEffectId: 30325010010,30325010012
+  Description: 手札にある時、ボルテージLv.が上がるたびに消費APが低下する。さらにボルテージLv.が7以上の間、消費AP-2。
 - Id: 3032502001
   CardSkillSeriesId: 30325020
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30325020010"
-  Description: フィーバーセクションを除いた4セクション目でドローされる確率が増加する。
+  CardSkillEffectId: 30325020010,30325020011
+  Description: フィーバーセクションを除いた4セクション目でドローされる確率が増加する。さらにボルテージLv.が8以上の間、消費AP-2。
 - Id: 3032503001
   CardSkillSeriesId: 30325030
   SkillLevel: 1
@@ -97317,8 +98493,8 @@
   SkillLevel: 1
   SkillCost: 0
   ApperanceType: 0
-  CardSkillEffectId: "30335010010"
-  Description: ドローした時、ボルテージPt.を+18する。
+  CardSkillEffectId: 30335010010,30335010012
+  Description: ドローした時、ボルテージPt.を+18する。さらに3セクション目までにドローした時、消費APを-1する。
 - Id: 3033502001
   CardSkillSeriesId: 30335020
   SkillLevel: 1
@@ -97431,6 +98607,20 @@
   ApperanceType: 0
   CardSkillEffectId: 30415020010,30415020012
   Description: ドローした時、このステージ中、メンタルの最大値の10%分のメンタルダメージを無効にする。さらにメンタルが50%以下の時にドローすると、消費APを-3する。
+- Id: 3041503001
+  CardSkillSeriesId: 30415030
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "30415030010"
+  Description: ドローしたセクションの間、消費APを-4する。
+- Id: 3042401001
+  CardSkillSeriesId: 30424010
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "30424010010"
+  Description: ドローしたセクションの間、消費APを-4する。
 - Id: 3042501001
   CardSkillSeriesId: 30425010
   SkillLevel: 1
@@ -97459,6 +98649,13 @@
   ApperanceType: 0
   CardSkillEffectId: 30435020010,30435020012,30435020014,30435020016,30435020018
   Description: みらくらぱーく！のスキルを使用するたび、手札のこのスキルの消費AP-1。さらにこのスキルを使用するたび、5回までスキルの効果値が増加する。
+- Id: 3043503001
+  CardSkillSeriesId: 30435030
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "30435030010"
+  Description: ドローしたセクションの間、消費APを-4する。
 - Id: 8001301001
   CardSkillSeriesId: 80013010
   SkillLevel: 1
@@ -98537,6 +99734,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: "80035030140"
   Description: このステージ中、手札の上限枚数を1枚増加する。
+- Id: 8004501001
+  CardSkillSeriesId: 80045010
+  SkillLevel: 1
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010010,80045010011
+  Description: ビートハート$5回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+1.9%$する。
+- Id: 8004501002
+  CardSkillSeriesId: 80045010
+  SkillLevel: 2
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010020,80045010021
+  Description: ビートハート$6回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+2.1%$する。
+- Id: 8004501003
+  CardSkillSeriesId: 80045010
+  SkillLevel: 3
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010030,80045010031
+  Description: ビートハート$6回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+2.3%$する。
+- Id: 8004501004
+  CardSkillSeriesId: 80045010
+  SkillLevel: 4
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010040,80045010041
+  Description: ビートハート$7回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+2.5%$する。
+- Id: 8004501005
+  CardSkillSeriesId: 80045010
+  SkillLevel: 5
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010050,80045010051
+  Description: ビートハート$7回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+2.7%$する。
+- Id: 8004501006
+  CardSkillSeriesId: 80045010
+  SkillLevel: 6
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010060,80045010061
+  Description: ビートハート$8回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+2.9%$する。
+- Id: 8004501007
+  CardSkillSeriesId: 80045010
+  SkillLevel: 7
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010070,80045010071
+  Description: ビートハート$8回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+3%$する。
+- Id: 8004501008
+  CardSkillSeriesId: 80045010
+  SkillLevel: 8
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010080,80045010081
+  Description: ビートハート$9回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+3.2%$する。
+- Id: 8004501009
+  CardSkillSeriesId: 80045010
+  SkillLevel: 9
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010090,80045010091
+  Description: ビートハート$9回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+3.4%$する。
+- Id: 8004501010
+  CardSkillSeriesId: 80045010
+  SkillLevel: 10
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010100,80045010101
+  Description: ビートハート$10回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+3.8%$する。
+- Id: 8004501011
+  CardSkillSeriesId: 80045010
+  SkillLevel: 11
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010110,80045010111
+  Description: ビートハート$11回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+4%$する。
+- Id: 8004501012
+  CardSkillSeriesId: 80045010
+  SkillLevel: 12
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010120,80045010121
+  Description: ビートハート$11回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+4.2%$する。
+- Id: 8004501013
+  CardSkillSeriesId: 80045010
+  SkillLevel: 13
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010130,80045010131
+  Description: ビートハート$12回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+4.4%$する。
+- Id: 8004501014
+  CardSkillSeriesId: 80045010
+  SkillLevel: 14
+  SkillCost: 1
+  ApperanceType: 10000010
+  CardSkillEffectId: 80045010140,80045010141
+  Description: ビートハート$12回分$のスキルハートを獲得する。さらにこのステージ中、獲得するLOVEを$+4.8%$する。
 - Id: 9001301001
   CardSkillSeriesId: 90013010
   SkillLevel: 1
@@ -98613,4 +99908,11 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "90035030010"
+  Description: このスキルを使用すると、デッキから除外される。
+- Id: 9004501001
+  CardSkillSeriesId: 90045010
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "90045010010"
   Description: このスキルを使用すると、デッキから除外される。

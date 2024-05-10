@@ -1390,6 +1390,30 @@
   ConditionsValue: 402041013
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4020410210
+  ReleaseLearningLiveId: 402041021
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4020410220
+  ReleaseLearningLiveId: 402041022
+  ConditionsType: 1
+  ConditionsValue: 402041021
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4020410230
+  ReleaseLearningLiveId: 402041023
+  ConditionsType: 1
+  ConditionsValue: 402041022
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4020410240
+  ReleaseLearningLiveId: 402041024
+  ConditionsType: 1
+  ConditionsValue: 402041023
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4030310110
   ReleaseLearningLiveId: 403031011
   ConditionsType: 0
@@ -2060,5 +2084,53 @@
   ReleaseLearningLiveId: 403041024
   ConditionsType: 1
   ConditionsValue: 403041023
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410310
+  ReleaseLearningLiveId: 403041031
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410320
+  ReleaseLearningLiveId: 403041032
+  ConditionsType: 1
+  ConditionsValue: 403041031
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410330
+  ReleaseLearningLiveId: 403041033
+  ConditionsType: 1
+  ConditionsValue: 403041032
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410340
+  ReleaseLearningLiveId: 403041034
+  ConditionsType: 1
+  ConditionsValue: 403041033
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410410
+  ReleaseLearningLiveId: 403041041
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410420
+  ReleaseLearningLiveId: 403041042
+  ConditionsType: 1
+  ConditionsValue: 403041041
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410430
+  ReleaseLearningLiveId: 403041043
+  ConditionsType: 1
+  ConditionsValue: 403041042
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030410440
+  ReleaseLearningLiveId: 403041044
+  ConditionsType: 1
+  ConditionsValue: 403041043
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
