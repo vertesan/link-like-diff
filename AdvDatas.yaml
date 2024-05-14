@@ -2014,3 +2014,73 @@
   SubTitleName: ED
   StartTime: 2024-04-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 10400201
+  AdvSeriesId: 104002
+  Name: 第2話『踊り続けよう、きみが見てる』
+  Description: PART 1
+  ScriptId: 10400201
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 145
+  SubTitleName: "1"
+  StartTime: 2024-05-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400202
+  AdvSeriesId: 104002
+  Name: 第2話『踊り続けよう、きみが見てる』
+  Description: PART 2
+  ScriptId: 10400202
+  OpenSeasonFanLevel: 2
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 146
+  SubTitleName: "2"
+  StartTime: 2024-05-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400203
+  AdvSeriesId: 104002
+  Name: 第2話『踊り続けよう、きみが見てる』
+  Description: PART 3
+  ScriptId: 10400203
+  OpenSeasonFanLevel: 3
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 147
+  SubTitleName: "3"
+  StartTime: 2024-05-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400204
+  AdvSeriesId: 104002
+  Name: 第2話『踊り続けよう、きみが見てる』
+  Description: PART 4
+  ScriptId: 10400204
+  OpenSeasonFanLevel: 4
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 148
+  SubTitleName: "4"
+  StartTime: 2024-05-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400205
+  AdvSeriesId: 104002
+  Name: 第2話『踊り続けよう、きみが見てる』
+  Description: PART 5
+  ScriptId: 0
+  OpenSeasonFanLevel: 5
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 149
+  SubTitleName: "5"
+  StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
