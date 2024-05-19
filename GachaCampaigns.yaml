@@ -49,8 +49,36 @@
   GachaSeriesId_1: 1040102
   GachaSeriesId_2: 1040105
   GachaSeriesId_3: 1040106
-  GachaSeriesId_4: 0
+  GachaSeriesId_4: 1040107
   GachaSeriesId_5: 0
   StartTime: 2024-05-01T19:00:00Z
   EndTime: 2024-05-19T18:59:59Z
   MiniBannerPopId: 101
+- Id: 5
+  CampaignName: 1日1回 PARTY! LIMITED COLLECTION EXTRA 無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040108
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-05-20T03:00:00Z
+  EndTime: 2024-05-23T18:59:59Z
+  MiniBannerPopId: 100
+- Id: 6
+  CampaignName: 1日1回 SPRING LIMITED COLLECTION MEMORY REVIVAL 無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040102
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-05-23T19:00:00Z
+  EndTime: 2024-05-29T18:59:59Z
+  MiniBannerPopId: 100

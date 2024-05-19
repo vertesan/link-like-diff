@@ -526,6 +526,20 @@
   Description: 2nd Live Tour ～Blooming with ○○○～ 兵庫公演 開催記念プレゼントです！
 - Id: 40102191
   Description: ラブライブ！flowers＊―蓮ノ空女学院スクールアイドルクラブ―発売記念プレゼントです！
+- Id: 40102201
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！1日目のプレゼントです。
+- Id: 40102202
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！2日目のプレゼントです。
+- Id: 40102203
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！3日目のプレゼントです。
+- Id: 40102204
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！4日目のプレゼントです。
+- Id: 40102205
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！5日目のプレゼントです。
+- Id: 40102206
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！6日目のプレゼントです。
+- Id: 40102207
+  Description: Bloom the リンクラ！1周年メモリアルキャンペーン！7日目のプレゼントです。
 - Id: 40201001
   Description: デイリーミッションで獲得したプレゼントです。
 - Id: 40202001
@@ -534,6 +548,8 @@
   Description: ミッションで獲得したプレゼントです。
 - Id: 40204001
   Description: ライブグランプリミッションで獲得したプレゼントです。
+- Id: 40205001
+  Description: 期間限定ミッションで獲得したプレゼントです。
 - Id: 60200001
   Description: 所持数上限超過のためプレゼントボックスに送られたアイテムです。
 - Id: 60201001
@@ -572,6 +588,14 @@
   Description: 「365Daysリンクラ！ゴールデンプレイPt.パック」を購入して獲得したアイテムです。
 - Id: 60401019
   Description: 「365Daysリンクラ！ゴールデンギフトパック」を購入して獲得したアイテムです。
+- Id: 60401020
+  Description: 「Bloom the リンクラ！メモリアルセット」を購入して獲得したアイテムです。
+- Id: 60401021
+  Description: 「Bloom the リンクラ！チャーミングセット」を購入して獲得したアイテムです。
+- Id: 60401022
+  Description: 「Bloom the リンクラ！リミテッドセレクトセット」を購入して獲得したアイテムです。
+- Id: 60401023
+  Description: 「Blooming with ○○○ 完走パック！」を購入して獲得したアイテムです。
 - Id: 90100001
   Description: 事前登録キャンペーンのプライズです。
 - Id: 90100002

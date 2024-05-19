@@ -839,6 +839,35 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+- Id: 104103
+  OrderId: 1018
+  Title: 365 Days
+  TitleFurigana: えぶりでい
+  JacketId: 104103
+  SoundId: 10410301
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 16364
+  ApIncrement: 767
+  SongTime: 7673
+  PlayTime: 92075
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -1706,6 +1735,35 @@
   ReleaseConditionType: 1
   ReleaseConditionDetail: 1000
   ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+- Id: 204301
+  OrderId: 5005
+  Title: Snow halation
+  TitleFurigana: すのうはれーしょん
+  JacketId: 204301
+  SoundId: 20430101
+  Description: LLカバー
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1021
+  SingerCharacterId: 1022,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 11392
+  ApIncrement: 983
+  SongTime: 9827
+  PlayTime: 117919
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20

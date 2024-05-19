@@ -5,6 +5,13 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61021802
+  CharactersId: 1021
+  Name: 乙宗 梢
+  OrderId: 7
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
 - Id: 61022801
   CharactersId: 1022
   Name: 夕霧 綴理
@@ -12,6 +19,13 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61022802
+  CharactersId: 1022
+  Name: 夕霧 綴理
+  OrderId: 8
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
 - Id: 61023801
   CharactersId: 1023
   Name: 藤島 慈
@@ -19,6 +33,13 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61023802
+  CharactersId: 1023
+  Name: 藤島 慈
+  OrderId: 9
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
 - Id: 61031801
   CharactersId: 1031
   Name: 日野下 花帆
@@ -26,6 +47,13 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61031802
+  CharactersId: 1031
+  Name: 日野下 花帆
+  OrderId: 4
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
 - Id: 61032801
   CharactersId: 1032
   Name: 村野 さやか
@@ -33,6 +61,13 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61032802
+  CharactersId: 1032
+  Name: 村野 さやか
+  OrderId: 5
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
 - Id: 61033801
   CharactersId: 1033
   Name: 大沢 瑠璃乃
@@ -40,3 +75,31 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DreamLiveSeriesListId: 1001
+- Id: 61033802
+  CharactersId: 1033
+  Name: 大沢 瑠璃乃
+  OrderId: 6
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
+- Id: 61041801
+  CharactersId: 1041
+  Name: 百生 吟子
+  OrderId: 1
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
+- Id: 61042801
+  CharactersId: 1042
+  Name: 徒町 小鈴
+  OrderId: 2
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002
+- Id: 61043801
+  CharactersId: 1043
+  Name: 安養寺 姫芽
+  OrderId: 3
+  StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DreamLiveSeriesListId: 1002

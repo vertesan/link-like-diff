@@ -166,6 +166,13 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-05-01T19:00:00Z
   EndTime: 2024-05-19T18:59:59Z
+- Id: 201025
+  Name: Bloom the リンクラ！1周年メモリアルキャンペーン！
+  LoginBonusRewardSeriesId: 201025
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-05-19T19:00:00Z
+  EndTime: 2024-06-09T18:59:59Z
 - Id: 201026
   Name: 2nd Live Tour ～Blooming with ○○○～ 兵庫公演 開催記念プレゼント！
   LoginBonusRewardSeriesId: 201026

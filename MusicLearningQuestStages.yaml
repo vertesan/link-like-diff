@@ -2550,6 +2550,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 401041031
+  LearningLiveSeriesId: 40104103
+  Name: 『365 Days』
+  Description: 365 Days
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010410311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401041032
+  LearningLiveSeriesId: 40104103
+  Name: 『365 Days』
+  Description: 365 Days
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010410321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401041033
+  LearningLiveSeriesId: 40104103
+  Name: 『365 Days』
+  Description: 365 Days
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010410331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401041034
+  LearningLiveSeriesId: 40104103
+  Name: 『365 Days』
+  Description: 365 Days
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010410341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 402031011
   LearningLiveSeriesId: 40203101
   Name: 『Mix shake!!』
@@ -5185,6 +5273,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4020410241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 402043011
+  LearningLiveSeriesId: 40204301
+  Name: 『Snow halation』
+  Description: Snow halation
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 12
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020430111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 2500000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402043012
+  LearningLiveSeriesId: 40204301
+  Name: 『Snow halation』
+  Description: Snow halation
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 24
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020430121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402043013
+  LearningLiveSeriesId: 40204301
+  Name: 『Snow halation』
+  Description: Snow halation
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020430131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402043014
+  LearningLiveSeriesId: 40204301
+  Name: 『Snow halation』
+  Description: Snow halation
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020430141
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000

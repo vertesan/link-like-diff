@@ -3273,6 +3273,81 @@
   AttributeId: 30215180
   SpineId: 41
   OrderId: 10350621
+- Id: 10215190
+  CardSeriesId: 1021519
+  Name: 365 Days
+  Description: 乙宗梢
+  CharactersId: 1021
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2380
+  InitialPure: 1630
+  InitialCool: 980
+  InitialMental: 233
+  MaxSmile: 4150
+  MaxPure: 3400
+  MaxCool: 2750
+  MaxMental: 410
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10215190
+  SkillSeriesId: 20215190
+  AttributeId: 30215190
+  SpineId: 45
+  OrderId: 10360921
+- Id: 10215191
+  CardSeriesId: 1021519
+  Name: 365 Days
+  Description: 乙宗梢
+  CharactersId: 1021
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4150
+  InitialPure: 3400
+  InitialCool: 2750
+  InitialMental: 410
+  MaxSmile: 4750
+  MaxPure: 4000
+  MaxCool: 3350
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10215191
+  SkillSeriesId: 20215190
+  AttributeId: 30215190
+  SpineId: 45
+  OrderId: 10360921
+- Id: 10215192
+  CardSeriesId: 1021519
+  Name: 365 Days
+  Description: 乙宗梢
+  CharactersId: 1021
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4750
+  InitialPure: 4000
+  InitialCool: 3350
+  InitialMental: 470
+  MaxSmile: 5350
+  MaxPure: 4600
+  MaxCool: 3950
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10215192
+  SkillSeriesId: 20215190
+  AttributeId: 30215190
+  SpineId: 45
+  OrderId: 10360921
 - Id: 10218011
   CardSeriesId: 1021801
   Name: Prism Echo
@@ -3297,7 +3372,7 @@
   SkillSeriesId: 20218010
   AttributeId: 30218010
   SpineId: 25
-  OrderId: 10300121
+  OrderId: 10300021
 - Id: 10218012
   CardSeriesId: 1021801
   Name: Prism Echo
@@ -3322,7 +3397,57 @@
   SkillSeriesId: 20218010
   AttributeId: 30218010
   SpineId: 25
-  OrderId: 10300121
+  OrderId: 10300021
+- Id: 10218021
+  CardSeriesId: 1021802
+  Name: Ether Aria
+  Description: 乙宗梢
+  CharactersId: 1021
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 1830
+  InitialPure: 1830
+  InitialCool: 3230
+  InitialMental: 203
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 6200
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10218021
+  SkillSeriesId: 20218020
+  AttributeId: 30218020
+  SpineId: 44
+  OrderId: 10300122
+- Id: 10218022
+  CardSeriesId: 1021802
+  Name: Ether Aria
+  Description: 乙宗梢
+  CharactersId: 1021
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 6200
+  InitialMental: 500
+  MaxSmile: 5400
+  MaxPure: 5400
+  MaxCool: 6800
+  MaxMental: 560
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10218022
+  SkillSeriesId: 20218020
+  AttributeId: 30218020
+  SpineId: 44
+  OrderId: 10300122
 - Id: 10223010
   CardSeriesId: 1022301
   Name: オーロラスカイ
@@ -5048,6 +5173,81 @@
   AttributeId: 30224190
   SpineId: 38
   OrderId: 10341522
+- Id: 10224200
+  CardSeriesId: 1022420
+  Name: 365 Days
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 4
+  InitialSmile: 2330
+  InitialPure: 1630
+  InitialCool: 1230
+  InitialMental: 213
+  MaxSmile: 3500
+  MaxPure: 2800
+  MaxCool: 2400
+  MaxMental: 330
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10224200
+  SkillSeriesId: 20224200
+  AttributeId: 30224200
+  SpineId: 45
+  OrderId: 10360922
+- Id: 10224201
+  CardSeriesId: 1022420
+  Name: 365 Days
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 4
+  InitialSmile: 3500
+  InitialPure: 2800
+  InitialCool: 2400
+  InitialMental: 330
+  MaxSmile: 4100
+  MaxPure: 3400
+  MaxCool: 3000
+  MaxMental: 390
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10224201
+  SkillSeriesId: 20224200
+  AttributeId: 30224200
+  SpineId: 45
+  OrderId: 10360922
+- Id: 10224202
+  CardSeriesId: 1022420
+  Name: 365 Days
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 4
+  InitialSmile: 4100
+  InitialPure: 3400
+  InitialCool: 3000
+  InitialMental: 390
+  MaxSmile: 4700
+  MaxPure: 4000
+  MaxCool: 3600
+  MaxMental: 450
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10224202
+  SkillSeriesId: 20224200
+  AttributeId: 30224200
+  SpineId: 45
+  OrderId: 10360922
 - Id: 10225010
   CardSeriesId: 1022501
   Name: Dream Believers
@@ -6422,7 +6622,7 @@
   SkillSeriesId: 20228010
   AttributeId: 30228010
   SpineId: 25
-  OrderId: 10300122
+  OrderId: 10300022
 - Id: 10228012
   CardSeriesId: 1022801
   Name: Prism Echo
@@ -6447,6 +6647,56 @@
   SkillSeriesId: 20228010
   AttributeId: 30228010
   SpineId: 25
+  OrderId: 10300022
+- Id: 10228021
+  CardSeriesId: 1022802
+  Name: Ether Aria
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 1630
+  InitialPure: 3430
+  InitialCool: 1830
+  InitialMental: 203
+  MaxSmile: 4600
+  MaxPure: 6400
+  MaxCool: 4800
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10228021
+  SkillSeriesId: 20228020
+  AttributeId: 30228020
+  SpineId: 44
+  OrderId: 10300122
+- Id: 10228022
+  CardSeriesId: 1022802
+  Name: Ether Aria
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 4600
+  InitialPure: 6400
+  InitialCool: 4800
+  InitialMental: 500
+  MaxSmile: 5200
+  MaxPure: 7000
+  MaxCool: 5400
+  MaxMental: 560
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10228022
+  SkillSeriesId: 20228020
+  AttributeId: 30228020
+  SpineId: 44
   OrderId: 10300122
 - Id: 10233010
   CardSeriesId: 1023301
@@ -8698,6 +8948,81 @@
   AttributeId: 30235140
   SpineId: 30
   OrderId: 10350623
+- Id: 10235150
+  CardSeriesId: 1023515
+  Name: 365 Days
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2480
+  InitialPure: 1530
+  InitialCool: 880
+  InitialMental: 243
+  MaxSmile: 4250
+  MaxPure: 3300
+  MaxCool: 2650
+  MaxMental: 420
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235150
+  SkillSeriesId: 20235150
+  AttributeId: 30235150
+  SpineId: 34
+  OrderId: 10360923
+- Id: 10235151
+  CardSeriesId: 1023515
+  Name: 365 Days
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4250
+  InitialPure: 3300
+  InitialCool: 2650
+  InitialMental: 420
+  MaxSmile: 4850
+  MaxPure: 3900
+  MaxCool: 3250
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235151
+  SkillSeriesId: 20235150
+  AttributeId: 30235150
+  SpineId: 34
+  OrderId: 10360923
+- Id: 10235152
+  CardSeriesId: 1023515
+  Name: 365 Days
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4850
+  InitialPure: 3900
+  InitialCool: 3250
+  InitialMental: 480
+  MaxSmile: 5450
+  MaxPure: 4500
+  MaxCool: 3850
+  MaxMental: 540
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235152
+  SkillSeriesId: 20235150
+  AttributeId: 30235150
+  SpineId: 34
+  OrderId: 10360923
 - Id: 10238011
   CardSeriesId: 1023801
   Name: Prism Echo
@@ -8722,7 +9047,7 @@
   SkillSeriesId: 20238010
   AttributeId: 30238010
   SpineId: 8
-  OrderId: 10300123
+  OrderId: 10300023
 - Id: 10238012
   CardSeriesId: 1023801
   Name: Prism Echo
@@ -8747,6 +9072,56 @@
   SkillSeriesId: 20238010
   AttributeId: 30238010
   SpineId: 8
+  OrderId: 10300023
+- Id: 10238021
+  CardSeriesId: 1023802
+  Name: Ether Aria
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 3230
+  InitialPure: 1730
+  InitialCool: 1530
+  InitialMental: 243
+  MaxSmile: 6200
+  MaxPure: 4700
+  MaxCool: 4500
+  MaxMental: 540
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10238021
+  SkillSeriesId: 20238020
+  AttributeId: 30238020
+  SpineId: 33
+  OrderId: 10300123
+- Id: 10238022
+  CardSeriesId: 1023802
+  Name: Ether Aria
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 6200
+  InitialPure: 4700
+  InitialCool: 4500
+  InitialMental: 540
+  MaxSmile: 6800
+  MaxPure: 5300
+  MaxCool: 5100
+  MaxMental: 600
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10238022
+  SkillSeriesId: 20238020
+  AttributeId: 30238020
+  SpineId: 33
   OrderId: 10300123
 - Id: 10313010
   CardSeriesId: 1031301
@@ -11972,7 +12347,7 @@
   SkillSeriesId: 20318010
   AttributeId: 30318010
   SpineId: 25
-  OrderId: 10300131
+  OrderId: 10300031
 - Id: 10318012
   CardSeriesId: 1031801
   Name: Prism Echo
@@ -11997,6 +12372,56 @@
   SkillSeriesId: 20318010
   AttributeId: 30318010
   SpineId: 25
+  OrderId: 10300031
+- Id: 10318021
+  CardSeriesId: 1031802
+  Name: Ether Aria
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 3630
+  InitialPure: 2030
+  InitialCool: 1130
+  InitialMental: 213
+  MaxSmile: 6600
+  MaxPure: 5000
+  MaxCool: 4100
+  MaxMental: 510
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10318021
+  SkillSeriesId: 20318020
+  AttributeId: 30318020
+  SpineId: 45
+  OrderId: 10300131
+- Id: 10318022
+  CardSeriesId: 1031802
+  Name: Ether Aria
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 6600
+  InitialPure: 5000
+  InitialCool: 4100
+  InitialMental: 510
+  MaxSmile: 7200
+  MaxPure: 5600
+  MaxCool: 4700
+  MaxMental: 570
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10318022
+  SkillSeriesId: 20318020
+  AttributeId: 30318020
+  SpineId: 45
   OrderId: 10300131
 - Id: 10323010
   CardSeriesId: 1032301
@@ -15172,7 +15597,7 @@
   SkillSeriesId: 20328010
   AttributeId: 30328010
   SpineId: 25
-  OrderId: 10300132
+  OrderId: 10300032
 - Id: 10328012
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -15197,6 +15622,56 @@
   SkillSeriesId: 20328010
   AttributeId: 30328010
   SpineId: 25
+  OrderId: 10300032
+- Id: 10328021
+  CardSeriesId: 1032802
+  Name: Ether Aria
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 1530
+  InitialPure: 1630
+  InitialCool: 3430
+  InitialMental: 233
+  MaxSmile: 4500
+  MaxPure: 4600
+  MaxCool: 6400
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10328021
+  SkillSeriesId: 20328020
+  AttributeId: 30328020
+  SpineId: 44
+  OrderId: 10300132
+- Id: 10328022
+  CardSeriesId: 1032802
+  Name: Ether Aria
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 4500
+  InitialPure: 4600
+  InitialCool: 6400
+  InitialMental: 530
+  MaxSmile: 5100
+  MaxPure: 5200
+  MaxCool: 7000
+  MaxMental: 590
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10328022
+  SkillSeriesId: 20328020
+  AttributeId: 30328020
+  SpineId: 44
   OrderId: 10300132
 - Id: 10333010
   CardSeriesId: 1033301
@@ -17547,7 +18022,7 @@
   SkillSeriesId: 20338010
   AttributeId: 30338010
   SpineId: 9
-  OrderId: 10300133
+  OrderId: 10300033
 - Id: 10338012
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -17572,6 +18047,56 @@
   SkillSeriesId: 20338010
   AttributeId: 30338010
   SpineId: 9
+  OrderId: 10300033
+- Id: 10338021
+  CardSeriesId: 1033802
+  Name: Ether Aria
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 1630
+  InitialPure: 3330
+  InitialCool: 1830
+  InitialMental: 213
+  MaxSmile: 4600
+  MaxPure: 6300
+  MaxCool: 4800
+  MaxMental: 510
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10338021
+  SkillSeriesId: 20338020
+  AttributeId: 30338020
+  SpineId: 33
+  OrderId: 10300133
+- Id: 10338022
+  CardSeriesId: 1033802
+  Name: Ether Aria
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 4600
+  InitialPure: 6300
+  InitialCool: 4800
+  InitialMental: 510
+  MaxSmile: 5200
+  MaxPure: 6900
+  MaxCool: 5400
+  MaxMental: 570
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10338022
+  SkillSeriesId: 20338020
+  AttributeId: 30338020
+  SpineId: 33
   OrderId: 10300133
 - Id: 10413010
   CardSeriesId: 1041301
@@ -17948,6 +18473,56 @@
   AttributeId: 30415030
   SpineId: 7
   OrderId: 10360841
+- Id: 10418011
+  CardSeriesId: 1041801
+  Name: Ether Aria
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 1030
+  InitialPure: 2930
+  InitialCool: 2630
+  InitialMental: 233
+  MaxSmile: 4000
+  MaxPure: 5900
+  MaxCool: 5600
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10418011
+  SkillSeriesId: 20418010
+  AttributeId: 30418010
+  SpineId: 4
+  OrderId: 10300141
+- Id: 10418012
+  CardSeriesId: 1041801
+  Name: Ether Aria
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 4000
+  InitialPure: 5900
+  InitialCool: 5600
+  InitialMental: 530
+  MaxSmile: 4600
+  MaxPure: 6500
+  MaxCool: 6200
+  MaxMental: 590
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10418012
+  SkillSeriesId: 20418010
+  AttributeId: 30418010
+  SpineId: 4
+  OrderId: 10300141
 - Id: 10423010
   CardSeriesId: 1042301
   Name: レインボーシフォン
@@ -18323,6 +18898,56 @@
   AttributeId: 30425020
   SpineId: 6
   OrderId: 10360742
+- Id: 10428011
+  CardSeriesId: 1042801
+  Name: Ether Aria
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 2930
+  InitialPure: 2630
+  InitialCool: 1230
+  InitialMental: 213
+  MaxSmile: 5900
+  MaxPure: 5600
+  MaxCool: 4200
+  MaxMental: 510
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10428011
+  SkillSeriesId: 20428010
+  AttributeId: 30428010
+  SpineId: 4
+  OrderId: 10300142
+- Id: 10428012
+  CardSeriesId: 1042801
+  Name: Ether Aria
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 8
+  InitialSmile: 5900
+  InitialPure: 5600
+  InitialCool: 4200
+  InitialMental: 510
+  MaxSmile: 6500
+  MaxPure: 6200
+  MaxCool: 4800
+  MaxMental: 570
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10428012
+  SkillSeriesId: 20428010
+  AttributeId: 30428010
+  SpineId: 4
+  OrderId: 10300142
 - Id: 10433010
   CardSeriesId: 1043301
   Name: レインボーシフォン
@@ -18698,3 +19323,53 @@
   AttributeId: 30435030
   SpineId: 7
   OrderId: 10360843
+- Id: 10438011
+  CardSeriesId: 1043801
+  Name: Ether Aria
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 1930
+  InitialPure: 2230
+  InitialCool: 2630
+  InitialMental: 213
+  MaxSmile: 4900
+  MaxPure: 5200
+  MaxCool: 5600
+  MaxMental: 510
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10438011
+  SkillSeriesId: 20438010
+  AttributeId: 30438010
+  SpineId: 4
+  OrderId: 10300143
+- Id: 10438012
+  CardSeriesId: 1043801
+  Name: Ether Aria
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 4900
+  InitialPure: 5200
+  InitialCool: 5600
+  InitialMental: 510
+  MaxSmile: 5500
+  MaxPure: 5800
+  MaxCool: 6200
+  MaxMental: 570
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10438012
+  SkillSeriesId: 20438010
+  AttributeId: 30438010
+  SpineId: 4
+  OrderId: 10300143

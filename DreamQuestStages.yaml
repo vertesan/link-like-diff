@@ -88,6 +88,96 @@
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
+- Id: 610218020
+  DreamQuestSeriesId: 61021802
+  Name: "[Ether Aria]乙宗 梢"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610218021
+  DreamQuestSeriesId: 61021802
+  Name: "[Ether Aria]乙宗 梢 Ⅰ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610218022
+  DreamQuestSeriesId: 61021802
+  Name: "[Ether Aria]乙宗 梢 Ⅱ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610218023
+  DreamQuestSeriesId: 61021802
+  Name: "[Ether Aria]乙宗 梢 Ⅲ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610218024
+  DreamQuestSeriesId: 61021802
+  Name: "[Ether Aria]乙宗 梢 Ⅳ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
 - Id: 610228010
   DreamQuestSeriesId: 61022801
   Name: "[Prism Echo]夕霧 綴理"
@@ -175,6 +265,96 @@
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   FirstClearRewardSeriesId: 6102280141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610228020
+  DreamQuestSeriesId: 61022802
+  Name: "[Ether Aria]夕霧 綴理"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610228021
+  DreamQuestSeriesId: 61022802
+  Name: "[Ether Aria]夕霧 綴理 Ⅰ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610228022
+  DreamQuestSeriesId: 61022802
+  Name: "[Ether Aria]夕霧 綴理 Ⅱ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610228023
+  DreamQuestSeriesId: 61022802
+  Name: "[Ether Aria]夕霧 綴理 Ⅲ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610228024
+  DreamQuestSeriesId: 61022802
+  Name: "[Ether Aria]夕霧 綴理 Ⅳ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280241
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
@@ -268,6 +448,96 @@
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
+- Id: 610238020
+  DreamQuestSeriesId: 61023802
+  Name: "[Ether Aria]藤島 慈"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610238021
+  DreamQuestSeriesId: 61023802
+  Name: "[Ether Aria]藤島 慈 Ⅰ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610238022
+  DreamQuestSeriesId: 61023802
+  Name: "[Ether Aria]藤島 慈 Ⅱ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610238023
+  DreamQuestSeriesId: 61023802
+  Name: "[Ether Aria]藤島 慈 Ⅲ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610238024
+  DreamQuestSeriesId: 61023802
+  Name: "[Ether Aria]藤島 慈 Ⅳ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
 - Id: 610318010
   DreamQuestSeriesId: 61031801
   Name: "[Prism Echo]日野下 花帆"
@@ -355,6 +625,96 @@
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   FirstClearRewardSeriesId: 6103180141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610318020
+  DreamQuestSeriesId: 61031802
+  Name: "[Ether Aria]日野下 花帆"
+  Description: 日野下 花帆
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1031
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103180201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610318021
+  DreamQuestSeriesId: 61031802
+  Name: "[Ether Aria]日野下 花帆 Ⅰ"
+  Description: 日野下 花帆
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1031
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103180211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610318022
+  DreamQuestSeriesId: 61031802
+  Name: "[Ether Aria]日野下 花帆 Ⅱ"
+  Description: 日野下 花帆
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1031
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103180221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610318023
+  DreamQuestSeriesId: 61031802
+  Name: "[Ether Aria]日野下 花帆 Ⅲ"
+  Description: 日野下 花帆
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1031
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103180231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610318024
+  DreamQuestSeriesId: 61031802
+  Name: "[Ether Aria]日野下 花帆 Ⅳ"
+  Description: 日野下 花帆
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1031
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103180241
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
@@ -448,6 +808,96 @@
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
+- Id: 610328020
+  DreamQuestSeriesId: 61032802
+  Name: "[Ether Aria]村野 さやか"
+  Description: 村野 さやか
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1032
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103280201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610328021
+  DreamQuestSeriesId: 61032802
+  Name: "[Ether Aria]村野 さやか Ⅰ"
+  Description: 村野 さやか
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1032
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103280211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610328022
+  DreamQuestSeriesId: 61032802
+  Name: "[Ether Aria]村野 さやか Ⅱ"
+  Description: 村野 さやか
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1032
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103280221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610328023
+  DreamQuestSeriesId: 61032802
+  Name: "[Ether Aria]村野 さやか Ⅲ"
+  Description: 村野 さやか
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1032
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103280231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610328024
+  DreamQuestSeriesId: 61032802
+  Name: "[Ether Aria]村野 さやか Ⅳ"
+  Description: 村野 さやか
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1032
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103280241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
 - Id: 610338010
   DreamQuestSeriesId: 61033801
   Name: "[Prism Echo]大沢 瑠璃乃"
@@ -535,6 +985,366 @@
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   FirstClearRewardSeriesId: 6103380141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610338020
+  DreamQuestSeriesId: 61033802
+  Name: "[Ether Aria]大沢 瑠璃乃"
+  Description: 大沢 瑠璃乃
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1033
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103380201
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610338021
+  DreamQuestSeriesId: 61033802
+  Name: "[Ether Aria]大沢 瑠璃乃 Ⅰ"
+  Description: 大沢 瑠璃乃
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1033
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103380211
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610338022
+  DreamQuestSeriesId: 61033802
+  Name: "[Ether Aria]大沢 瑠璃乃 Ⅱ"
+  Description: 大沢 瑠璃乃
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1033
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103380221
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610338023
+  DreamQuestSeriesId: 61033802
+  Name: "[Ether Aria]大沢 瑠璃乃 Ⅲ"
+  Description: 大沢 瑠璃乃
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1033
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103380231
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610338024
+  DreamQuestSeriesId: 61033802
+  Name: "[Ether Aria]大沢 瑠璃乃 Ⅳ"
+  Description: 大沢 瑠璃乃
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1033
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6103380241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610418010
+  DreamQuestSeriesId: 61041801
+  Name: "[Ether Aria]百生 吟子"
+  Description: 百生 吟子
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1041
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104180101
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610418011
+  DreamQuestSeriesId: 61041801
+  Name: "[Ether Aria]百生 吟子 Ⅰ"
+  Description: 百生 吟子
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1041
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104180111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610418012
+  DreamQuestSeriesId: 61041801
+  Name: "[Ether Aria]百生 吟子 Ⅱ"
+  Description: 百生 吟子
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1041
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104180121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610418013
+  DreamQuestSeriesId: 61041801
+  Name: "[Ether Aria]百生 吟子 Ⅲ"
+  Description: 百生 吟子
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1041
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104180131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610418014
+  DreamQuestSeriesId: 61041801
+  Name: "[Ether Aria]百生 吟子 Ⅳ"
+  Description: 百生 吟子
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1041
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104180141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610428010
+  DreamQuestSeriesId: 61042801
+  Name: "[Ether Aria]徒町 小鈴"
+  Description: 徒町 小鈴
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1042
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104280101
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610428011
+  DreamQuestSeriesId: 61042801
+  Name: "[Ether Aria]徒町 小鈴 Ⅰ"
+  Description: 徒町 小鈴
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1042
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104280111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610428012
+  DreamQuestSeriesId: 61042801
+  Name: "[Ether Aria]徒町 小鈴 Ⅱ"
+  Description: 徒町 小鈴
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1042
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104280121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610428013
+  DreamQuestSeriesId: 61042801
+  Name: "[Ether Aria]徒町 小鈴 Ⅲ"
+  Description: 徒町 小鈴
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1042
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104280131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610428014
+  DreamQuestSeriesId: 61042801
+  Name: "[Ether Aria]徒町 小鈴 Ⅳ"
+  Description: 徒町 小鈴
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1042
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104280141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610438010
+  DreamQuestSeriesId: 61043801
+  Name: "[Ether Aria]安養寺 姫芽"
+  Description: 安養寺 姫芽
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1043
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104380101
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610438011
+  DreamQuestSeriesId: 61043801
+  Name: "[Ether Aria]安養寺 姫芽 Ⅰ"
+  Description: 安養寺 姫芽
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1043
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104380111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610438012
+  DreamQuestSeriesId: 61043801
+  Name: "[Ether Aria]安養寺 姫芽 Ⅱ"
+  Description: 安養寺 姫芽
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1043
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104380121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610438013
+  DreamQuestSeriesId: 61043801
+  Name: "[Ether Aria]安養寺 姫芽 Ⅲ"
+  Description: 安養寺 姫芽
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1043
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104380131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610438014
+  DreamQuestSeriesId: 61043801
+  Name: "[Ether Aria]安養寺 姫芽 Ⅳ"
+  Description: 安養寺 姫芽
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008002
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1043
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6104380141
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000

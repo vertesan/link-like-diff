@@ -358,3 +358,48 @@
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0
+- Id: 4030008
+  ExchangeTicketName: SRセレクトチケット（103期GP PRIZEのみ）
+  Description: 103期のGP PRIZEカテゴリーのSRカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003025
+  OrderId: 10013
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2024-05-19T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030009
+  ExchangeTicketName: URセレクトチケット（103期GP PRIZEのみ）
+  Description: 103期のGP PRIZEカテゴリーのURカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003026
+  OrderId: 10014
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2024-05-19T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030010
+  ExchangeTicketName: 【1周年記念】《LIMITED》URセレクトチケット
+  Description: 103期のSPRING / SUMMER / AUTUMN / WINTERのURカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003027
+  OrderId: 10015
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2024-05-19T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0

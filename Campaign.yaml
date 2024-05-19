@@ -94,3 +94,19 @@
   EffectValue: 1000
   StartTime: 2024-05-13T19:00:00Z
   EndTime: 2024-05-19T18:59:59Z
+- Id: 13
+  CampaignType: 4
+  TargetContents: 103
+  Name: 獲得アイテム追加
+  Description: 期間中、デイリーライブでチャームが追加で獲得できる。
+  EffectValue: 1002
+  StartTime: 2024-05-29T19:00:00Z
+  EndTime: 2024-06-04T18:59:59Z
+- Id: 14
+  CampaignType: 6
+  TargetContents: 104
+  Name: 習得度の上昇量増加
+  Description: 期間中、ラーニングライブの習得度の上昇量が1.5倍に増加。
+  EffectValue: 150
+  StartTime: 2024-06-04T19:00:00Z
+  EndTime: 2024-06-09T18:59:59Z
