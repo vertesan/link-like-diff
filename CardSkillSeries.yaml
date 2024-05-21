@@ -1958,6 +1958,18 @@
   Name: オーバーブルーミング
   SkillIcon: 10318020
   SkillMainEffect: 25
+- Id: 10319010
+  Name: ワイドハート
+  SkillIcon: 10319010
+  SkillMainEffect: 25
+- Id: 10319011
+  Name: ワイドハート
+  SkillIcon: 10319010
+  SkillMainEffect: 25
+- Id: 10319012
+  Name: ワイドハート
+  SkillIcon: 10319010
+  SkillMainEffect: 25
 - Id: 10323010
   Name: ラブアトラクト
   SkillIcon: 10323010
@@ -3738,6 +3750,10 @@
   Name: ハートスプリンクル
   SkillIcon: 20318020
   SkillMainEffect: 1
+- Id: 20319010
+  Name: セレブレイション
+  SkillIcon: 20319010
+  SkillMainEffect: 16
 - Id: 20323010
   Name: ラブアトラクト
   SkillIcon: 20323010
@@ -4722,6 +4738,10 @@
   Name: ドロー：カームダウン ＆ アグレッシブ
   SkillIcon: 30318020
   SkillMainEffect: 10
+- Id: 30319010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30319010
+  SkillMainEffect: 29
 - Id: 30324010
   Name: フェイバリット：1
   SkillIcon: 30324010

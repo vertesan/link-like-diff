@@ -538,6 +538,51 @@
   SeasonFanLevel: 10
   Experience: 1160
   CumulativeExperience: 6120
+- Id: 1121
+  SeasonsId: 10312
+  SeasonFanLevel: 2
+  Experience: 200
+  CumulativeExperience: 200
+- Id: 1122
+  SeasonsId: 10312
+  SeasonFanLevel: 3
+  Experience: 320
+  CumulativeExperience: 520
+- Id: 1123
+  SeasonsId: 10312
+  SeasonFanLevel: 4
+  Experience: 440
+  CumulativeExperience: 960
+- Id: 1124
+  SeasonsId: 10312
+  SeasonFanLevel: 5
+  Experience: 560
+  CumulativeExperience: 1520
+- Id: 1125
+  SeasonsId: 10312
+  SeasonFanLevel: 6
+  Experience: 680
+  CumulativeExperience: 2200
+- Id: 1126
+  SeasonsId: 10312
+  SeasonFanLevel: 7
+  Experience: 800
+  CumulativeExperience: 3000
+- Id: 1127
+  SeasonsId: 10312
+  SeasonFanLevel: 8
+  Experience: 920
+  CumulativeExperience: 3920
+- Id: 1128
+  SeasonsId: 10312
+  SeasonFanLevel: 9
+  Experience: 1040
+  CumulativeExperience: 4960
+- Id: 1129
+  SeasonsId: 10312
+  SeasonFanLevel: 10
+  Experience: 1160
+  CumulativeExperience: 6120
 - Id: 1131
   SeasonsId: 10401
   SeasonFanLevel: 2

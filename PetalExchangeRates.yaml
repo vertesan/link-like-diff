@@ -73,3 +73,28 @@
   Price: 5
   ExchangeLimitLower: 101
   ExchangeLimitUpper: 9999
+- Id: 91
+  Rarity: 9
+  Price: 1
+  ExchangeLimitLower: 1
+  ExchangeLimitUpper: 25
+- Id: 92
+  Rarity: 9
+  Price: 2
+  ExchangeLimitLower: 26
+  ExchangeLimitUpper: 50
+- Id: 93
+  Rarity: 9
+  Price: 3
+  ExchangeLimitLower: 51
+  ExchangeLimitUpper: 75
+- Id: 94
+  Rarity: 9
+  Price: 4
+  ExchangeLimitLower: 76
+  ExchangeLimitUpper: 100
+- Id: 95
+  Rarity: 9
+  Price: 5
+  ExchangeLimitLower: 101
+  ExchangeLimitUpper: 9999

@@ -12423,6 +12423,56 @@
   AttributeId: 30318020
   SpineId: 45
   OrderId: 10300131
+- Id: 10319011
+  CardSeriesId: 1031901
+  Name: 17th Birthday
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 1830
+  InitialPure: 1830
+  InitialCool: 1830
+  InitialMental: 183
+  MaxSmile: 4200
+  MaxPure: 4200
+  MaxCool: 4200
+  MaxMental: 420
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319011
+  SkillSeriesId: 20319010
+  AttributeId: 30319010
+  SpineId: 47
+  OrderId: 10361031
+- Id: 10319012
+  CardSeriesId: 1031901
+  Name: 17th Birthday
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4200
+  InitialPure: 4200
+  InitialCool: 4200
+  InitialMental: 420
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319012
+  SkillSeriesId: 20319010
+  AttributeId: 30319010
+  SpineId: 47
+  OrderId: 10361031
 - Id: 10323010
   CardSeriesId: 1032301
   Name: オーロラスカイ

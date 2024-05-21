@@ -88,6 +88,36 @@
   TargetDetail: 5
   TargetNum: 4
   BonusValue: 14000
+- Id: 7000001090
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 0
+  BonusValue: 10000
+- Id: 7000001091
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 1
+  BonusValue: 12000
+- Id: 7000001092
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 2
+  BonusValue: 13000
+- Id: 7000001093
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 3
+  BonusValue: 13500
+- Id: 7000001094
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 4
+  BonusValue: 14000
 - Id: 7000002001
   GrandPrixesId: 700000
   TargetType: 2
@@ -5846,6 +5876,36 @@
   GrandPrixesId: 704102
   TargetType: 1
   TargetDetail: 5
+  TargetNum: 4
+  BonusValue: 14000
+- Id: 7041021090
+  GrandPrixesId: 704102
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 0
+  BonusValue: 10000
+- Id: 7041021091
+  GrandPrixesId: 704102
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 1
+  BonusValue: 12000
+- Id: 7041021092
+  GrandPrixesId: 704102
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 2
+  BonusValue: 13000
+- Id: 7041021093
+  GrandPrixesId: 704102
+  TargetType: 1
+  TargetDetail: 9
+  TargetNum: 3
+  BonusValue: 13500
+- Id: 7041021094
+  GrandPrixesId: 704102
+  TargetType: 1
+  TargetDetail: 9
   TargetNum: 4
   BonusValue: 14000
 - Id: 7041022001

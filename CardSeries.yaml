@@ -2195,6 +2195,19 @@
   LimitBreak4FanLvPt: 500
   LimitedType: 0
   SideStyleSettingCharacterId: ""
+- Id: 1031901
+  Evolution0Id: 0
+  Evolution1Id: 10319011
+  Evolution2Id: 10319012
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 0
+  Evolution2FanLvPt: 400
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
 - Id: 1032301
   Evolution0Id: 10323010
   Evolution1Id: 10323011
