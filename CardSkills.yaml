@@ -103849,7 +103849,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: 30325190010,30325190012,30325190014
-  Description: DOLLCHESTRAのスキルを使用するたび、ビートハート3回分のスキルハートを獲得する。
+  Description: 手札にある状態でDOLLCHESTRAのスキルを使用するたび、ビートハート3回分のスキルハートを獲得する。
 - Id: 3032801001
   CardSkillSeriesId: 30328010
   SkillLevel: 1
