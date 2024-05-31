@@ -4927,7 +4927,7 @@
   RewardItemId: 4010501
   RewardNum: 300
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702060
 - Id: 7041020103
@@ -4972,7 +4972,7 @@
   RewardItemId: 4010501
   RewardNum: 200
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702061
 - Id: 7041020203
@@ -5017,7 +5017,7 @@
   RewardItemId: 4010501
   RewardNum: 150
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702062
 - Id: 7041020303
@@ -5062,7 +5062,7 @@
   RewardItemId: 4010501
   RewardNum: 150
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702063
 - Id: 7041020403
@@ -5107,7 +5107,7 @@
   RewardItemId: 4010501
   RewardNum: 100
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702064
 - Id: 7041020503
@@ -5152,7 +5152,7 @@
   RewardItemId: 4010501
   RewardNum: 100
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702065
 - Id: 7041020603
@@ -5197,7 +5197,7 @@
   RewardItemId: 4010500
   RewardNum: 1
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702066
 - Id: 7041020703
@@ -5242,7 +5242,7 @@
   RewardItemId: 4010500
   RewardNum: 1
   IsEmphasize: 0
-  IsUsePresentBox: 1
+  IsUsePresentBox: 0
   LifeTimeDay: 0
   RewardTextId: 10702067
 - Id: 7041020803
@@ -5515,6 +5515,132 @@
   IsUsePresentBox: 1
   LifeTimeDay: 0
   RewardTextId: 10702088
+- Id: 7041023001
+  GrandPrixRewardsId: 70410230
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702060
+- Id: 7041023002
+  GrandPrixRewardsId: 70410230
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 300
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702060
+- Id: 7041023101
+  GrandPrixRewardsId: 70410231
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702061
+- Id: 7041023102
+  GrandPrixRewardsId: 70410231
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 200
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702061
+- Id: 7041023201
+  GrandPrixRewardsId: 70410232
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702062
+- Id: 7041023202
+  GrandPrixRewardsId: 70410232
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 150
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702062
+- Id: 7041023301
+  GrandPrixRewardsId: 70410233
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702063
+- Id: 7041023302
+  GrandPrixRewardsId: 70410233
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 150
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702063
+- Id: 7041023401
+  GrandPrixRewardsId: 70410234
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702064
+- Id: 7041023402
+  GrandPrixRewardsId: 70410234
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 100
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702064
+- Id: 7041023501
+  GrandPrixRewardsId: 70410235
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702065
+- Id: 7041023502
+  GrandPrixRewardsId: 70410235
+  RewardType: 4
+  RewardItemId: 4022519
+  RewardNum: 100
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702065
+- Id: 7041023601
+  GrandPrixRewardsId: 70410236
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702066
+- Id: 7041023701
+  GrandPrixRewardsId: 70410237
+  RewardType: 2
+  RewardItemId: 10225190
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702067
 - Id: 8031010101
   GrandPrixRewardsId: 80310101
   RewardType: 3

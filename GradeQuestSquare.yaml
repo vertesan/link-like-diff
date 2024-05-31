@@ -40,6 +40,24 @@
   XCoord: 9
   YCoord: 6
   OpenGradeQuestSquareIds: ""
+- Id: 11041101
+  GradeQuestSeriesId: 10411
+  SquareId: 11041101
+  XCoord: 1
+  YCoord: 6
+  OpenGradeQuestSquareIds: ""
+- Id: 11041201
+  GradeQuestSeriesId: 10412
+  SquareId: 11041201
+  XCoord: 1
+  YCoord: 4
+  OpenGradeQuestSquareIds: ""
+- Id: 11041301
+  GradeQuestSeriesId: 10413
+  SquareId: 11041301
+  XCoord: 11
+  YCoord: 7
+  OpenGradeQuestSquareIds: ""
 - Id: 21031101
   GradeQuestSeriesId: 10311
   SquareId: 21031101
@@ -112,6 +130,78 @@
   XCoord: 5
   YCoord: 9
   OpenGradeQuestSquareIds: 11035601,51035601
+- Id: 21041101
+  GradeQuestSeriesId: 10411
+  SquareId: 21041101
+  XCoord: 3
+  YCoord: 5
+  OpenGradeQuestSquareIds: "11041101"
+- Id: 21041201
+  GradeQuestSeriesId: 10412
+  SquareId: 21041201
+  XCoord: 2
+  YCoord: 6
+  OpenGradeQuestSquareIds: 11041201,21041202
+- Id: 21041202
+  GradeQuestSeriesId: 10412
+  SquareId: 21041202
+  XCoord: 4
+  YCoord: 5
+  OpenGradeQuestSquareIds: 21041201,31041201
+- Id: 21041203
+  GradeQuestSeriesId: 10412
+  SquareId: 21041203
+  XCoord: 6
+  YCoord: 6
+  OpenGradeQuestSquareIds: 21041202,21041204
+- Id: 21041204
+  GradeQuestSeriesId: 10412
+  SquareId: 21041204
+  XCoord: 8
+  YCoord: 8
+  OpenGradeQuestSquareIds: 21041203,31041202
+- Id: 21041205
+  GradeQuestSeriesId: 10412
+  SquareId: 21041205
+  XCoord: 10
+  YCoord: 7
+  OpenGradeQuestSquareIds: "21041204"
+- Id: 21041206
+  GradeQuestSeriesId: 10412
+  SquareId: 21041206
+  XCoord: 12
+  YCoord: 8
+  OpenGradeQuestSquareIds: "21041205"
+- Id: 21041207
+  GradeQuestSeriesId: 10412
+  SquareId: 21041207
+  XCoord: 14
+  YCoord: 9
+  OpenGradeQuestSquareIds: 21041206,61041201
+- Id: 21041208
+  GradeQuestSeriesId: 10412
+  SquareId: 21041208
+  XCoord: 12
+  YCoord: 5
+  OpenGradeQuestSquareIds: "21041205"
+- Id: 21041301
+  GradeQuestSeriesId: 10413
+  SquareId: 21041301
+  XCoord: 10
+  YCoord: 9
+  OpenGradeQuestSquareIds: 31041301,31041305
+- Id: 21041302
+  GradeQuestSeriesId: 10413
+  SquareId: 21041302
+  XCoord: 10
+  YCoord: 5
+  OpenGradeQuestSquareIds: 31041301,31041305
+- Id: 21041303
+  GradeQuestSeriesId: 10413
+  SquareId: 21041303
+  XCoord: 3
+  YCoord: 9
+  OpenGradeQuestSquareIds: "41041301"
 - Id: 31031101
   GradeQuestSeriesId: 10311
   SquareId: 31031101
@@ -256,6 +346,72 @@
   XCoord: 7
   YCoord: 3
   OpenGradeQuestSquareIds: "41031503"
+- Id: 31041101
+  GradeQuestSeriesId: 10411
+  SquareId: 31041101
+  XCoord: 5
+  YCoord: 7
+  OpenGradeQuestSquareIds: "21041101"
+- Id: 31041102
+  GradeQuestSeriesId: 10411
+  SquareId: 31041102
+  XCoord: 8
+  YCoord: 8
+  OpenGradeQuestSquareIds: "31041101"
+- Id: 31041201
+  GradeQuestSeriesId: 10412
+  SquareId: 31041201
+  XCoord: 3
+  YCoord: 3
+  OpenGradeQuestSquareIds: 11041201,21041202
+- Id: 31041202
+  GradeQuestSeriesId: 10412
+  SquareId: 31041202
+  XCoord: 4
+  YCoord: 8
+  OpenGradeQuestSquareIds: 21041202,21041204
+- Id: 31041203
+  GradeQuestSeriesId: 10412
+  SquareId: 31041203
+  XCoord: 10
+  YCoord: 9
+  OpenGradeQuestSquareIds: "21041206"
+- Id: 31041204
+  GradeQuestSeriesId: 10412
+  SquareId: 31041204
+  XCoord: 14
+  YCoord: 6
+  OpenGradeQuestSquareIds: "21041205"
+- Id: 31041301
+  GradeQuestSeriesId: 10413
+  SquareId: 31041301
+  XCoord: 8
+  YCoord: 7
+  OpenGradeQuestSquareIds: "11041301"
+- Id: 31041302
+  GradeQuestSeriesId: 10413
+  SquareId: 31041302
+  XCoord: 3
+  YCoord: 5
+  OpenGradeQuestSquareIds: "41041301"
+- Id: 31041303
+  GradeQuestSeriesId: 10413
+  SquareId: 31041303
+  XCoord: 8
+  YCoord: 4
+  OpenGradeQuestSquareIds: "21041302"
+- Id: 31041304
+  GradeQuestSeriesId: 10413
+  SquareId: 31041304
+  XCoord: 8
+  YCoord: 10
+  OpenGradeQuestSquareIds: "21041301"
+- Id: 31041305
+  GradeQuestSeriesId: 10413
+  SquareId: 31041305
+  XCoord: 14
+  YCoord: 7
+  OpenGradeQuestSquareIds: 21041301,21041302
 - Id: 41031101
   GradeQuestSeriesId: 10311
   SquareId: 41031101
@@ -370,6 +526,60 @@
   XCoord: 10
   YCoord: 6
   OpenGradeQuestSquareIds: "31031504"
+- Id: 41041101
+  GradeQuestSeriesId: 10411
+  SquareId: 41041101
+  XCoord: 7
+  YCoord: 5
+  OpenGradeQuestSquareIds: "31041101"
+- Id: 41041102
+  GradeQuestSeriesId: 10411
+  SquareId: 41041102
+  XCoord: 11
+  YCoord: 7
+  OpenGradeQuestSquareIds: "31041102"
+- Id: 41041201
+  GradeQuestSeriesId: 10412
+  SquareId: 41041201
+  XCoord: 5
+  YCoord: 3
+  OpenGradeQuestSquareIds: "31041201"
+- Id: 41041202
+  GradeQuestSeriesId: 10412
+  SquareId: 41041202
+  XCoord: 4
+  YCoord: 10
+  OpenGradeQuestSquareIds: "31041202"
+- Id: 41041203
+  GradeQuestSeriesId: 10412
+  SquareId: 41041203
+  XCoord: 7
+  YCoord: 10
+  OpenGradeQuestSquareIds: "31041203"
+- Id: 41041204
+  GradeQuestSeriesId: 10412
+  SquareId: 41041204
+  XCoord: 15
+  YCoord: 4
+  OpenGradeQuestSquareIds: "31041204"
+- Id: 41041301
+  GradeQuestSeriesId: 10413
+  SquareId: 41041301
+  XCoord: 5
+  YCoord: 7
+  OpenGradeQuestSquareIds: "31041301"
+- Id: 41041302
+  GradeQuestSeriesId: 10413
+  SquareId: 41041302
+  XCoord: 16
+  YCoord: 7
+  OpenGradeQuestSquareIds: "31041305"
+- Id: 41041303
+  GradeQuestSeriesId: 10413
+  SquareId: 41041303
+  XCoord: 1
+  YCoord: 3
+  OpenGradeQuestSquareIds: "31041302"
 - Id: 51031201
   GradeQuestSeriesId: 10312
   SquareId: 51031201
@@ -430,6 +640,18 @@
   XCoord: 1
   YCoord: 6
   OpenGradeQuestSquareIds: 21035601,21035602
+- Id: 51041301
+  GradeQuestSeriesId: 10413
+  SquareId: 51041301
+  XCoord: 6
+  YCoord: 5
+  OpenGradeQuestSquareIds: "31041303"
+- Id: 51041302
+  GradeQuestSeriesId: 10413
+  SquareId: 51041302
+  XCoord: 6
+  YCoord: 9
+  OpenGradeQuestSquareIds: "31041304"
 - Id: 61031101
   GradeQuestSeriesId: 10311
   SquareId: 61031101
@@ -454,6 +676,24 @@
   XCoord: 22
   YCoord: 9
   OpenGradeQuestSquareIds: "31031403"
+- Id: 61041101
+  GradeQuestSeriesId: 10411
+  SquareId: 61041101
+  XCoord: 12
+  YCoord: 9
+  OpenGradeQuestSquareIds: "41041102"
+- Id: 61041201
+  GradeQuestSeriesId: 10412
+  SquareId: 61041201
+  XCoord: 12
+  YCoord: 10
+  OpenGradeQuestSquareIds: 21041207,31041203
+- Id: 61041301
+  GradeQuestSeriesId: 10413
+  SquareId: 61041301
+  XCoord: 18
+  YCoord: 7
+  OpenGradeQuestSquareIds: "41041302"
 - Id: 71031101
   GradeQuestSeriesId: 10311
   SquareId: 71031101
@@ -496,3 +736,21 @@
   XCoord: 18
   YCoord: 6
   OpenGradeQuestSquareIds: "11035601"
+- Id: 71041101
+  GradeQuestSeriesId: 10411
+  SquareId: 71041101
+  XCoord: 9
+  YCoord: 3
+  OpenGradeQuestSquareIds: "41041101"
+- Id: 71041201
+  GradeQuestSeriesId: 10412
+  SquareId: 71041201
+  XCoord: 11
+  YCoord: 3
+  OpenGradeQuestSquareIds: 21041208,31041204
+- Id: 71041301
+  GradeQuestSeriesId: 10413
+  SquareId: 71041301
+  XCoord: 1
+  YCoord: 7
+  OpenGradeQuestSquareIds: 21041303,31041302

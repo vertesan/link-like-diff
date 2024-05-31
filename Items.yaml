@@ -3034,6 +3034,18 @@
   Description: スタイル解放素材(夕霧綴理)
   StartTime: 2024-03-29T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4022519
+  Name: "[レディバグ]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4022801
   Name: "[Prism Echo]夕霧綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4510,6 +4522,18 @@
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-03-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032519
+  Name: "[レディバグ]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5061,6 +5085,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-04-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042503
+  Name: "[レディバグ]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町小鈴 解放Pt."

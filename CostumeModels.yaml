@@ -78,6 +78,21 @@
   CharactersId: 1033
   CostumesId: 1002
   HairStyleId: 1
+- Id: 1002104101
+  Label: 制服(夏)_上靴_百生吟子
+  CharactersId: 1041
+  CostumesId: 1002
+  HairStyleId: 1
+- Id: 1002104201
+  Label: 制服(夏)_上靴_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1002
+  HairStyleId: 1
+- Id: 1002104301
+  Label: 制服(夏)_上靴_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 1002
+  HairStyleId: 1
 - Id: 1002900701
   Label: 制服(夏)_上靴_大賀美沙知
   CharactersId: 9007
@@ -93,6 +108,11 @@
   CharactersId: 1022
   CostumesId: 1003
   HairStyleId: 1
+- Id: 1003102301
+  Label: 制服(夏)_ローファー_藤島慈
+  CharactersId: 1023
+  CostumesId: 1003
+  HairStyleId: 1
 - Id: 1003103101
   Label: 制服(夏)_ローファー_日野下花帆
   CharactersId: 1031
@@ -106,6 +126,21 @@
 - Id: 1003103301
   Label: 制服(夏)_ローファー_大沢瑠璃乃
   CharactersId: 1033
+  CostumesId: 1003
+  HairStyleId: 1
+- Id: 1003104101
+  Label: 制服(夏)_ローファー_百生吟子
+  CharactersId: 1041
+  CostumesId: 1003
+  HairStyleId: 1
+- Id: 1003104201
+  Label: 制服(夏)_ローファー_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1003
+  HairStyleId: 1
+- Id: 1003104301
+  Label: 制服(夏)_ローファー_安養寺姫芽
+  CharactersId: 1043
   CostumesId: 1003
   HairStyleId: 1
 - Id: 1004102101
@@ -147,6 +182,21 @@
   Label: 体操服(冬)_大賀美沙知
   CharactersId: 9007
   CostumesId: 1004
+  HairStyleId: 1
+- Id: 1005104101
+  Label: 体操服(夏)_百生吟子
+  CharactersId: 1041
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005104201
+  Label: 体操服(夏)_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005104301
+  Label: 体操服(夏)_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 1005
   HairStyleId: 1
 - Id: 1006102102
   Label: 制服(冬)_ローファー_乙宗梢
@@ -324,7 +374,7 @@
   CostumesId: 2004
   HairStyleId: 1
 - Id: 2004104305
-  Label: 【仮】部屋着(春夏)_安養寺姫芽
+  Label: 部屋着(春夏)_安養寺姫芽
   CharactersId: 1043
   CostumesId: 2004
   HairStyleId: 5
@@ -804,7 +854,7 @@
   CostumesId: 3009
   HairStyleId: 1
 - Id: 3009104301
-  Label: 【仮】トレーニングウェア(春夏)_安養寺姫芽
+  Label: トレーニングウェア(春夏)_安養寺姫芽
   CharactersId: 1043
   CostumesId: 3009
   HairStyleId: 1

@@ -184,6 +184,24 @@
   SkillIcon: 10101400
   GradeAddSkillEffectsId: "4101433100"
   OrderId: 1
+- Id: 41014411
+  Name: スキルAP -1（吟子）
+  Description: ライブ中、吟子のスキル消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101441100"
+  OrderId: 1
+- Id: 41014421
+  Name: スキルAP -1（小鈴）
+  Description: ライブ中、小鈴のスキル消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101442100"
+  OrderId: 1
+- Id: 41014431
+  Name: スキルAP -1（姫芽）
+  Description: ライブ中、姫芽のスキル消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101443100"
+  OrderId: 1
 - Id: 41015001
   Name: 手札の上限枚数 +1枚
   Description: ライブ中、手札の上限枚数が1枚増加する。
@@ -261,4 +279,22 @@
   Description: ライブ中、APの回復速度を+100%する。
   SkillIcon: 10100900
   GradeAddSkillEffectsId: "4100910000"
+  OrderId: 2
+- Id: 51041301
+  Name: 102期生のスキルAP +1
+  Description: ライブ中、102期生のスキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101421100,5101422100,5101423100
+  OrderId: 2
+- Id: 51041302
+  Name: 103期生のスキルAP +1
+  Description: ライブ中、103期生のスキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101431100,5101432100,5101433100
+  OrderId: 2
+- Id: 51041303
+  Name: AP回復速度 +50%
+  Description: ライブ中、APの回復速度を+50%する。
+  SkillIcon: 10100900
+  GradeAddSkillEffectsId: "4100905000"
   OrderId: 2

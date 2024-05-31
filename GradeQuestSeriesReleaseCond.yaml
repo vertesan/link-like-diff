@@ -61,6 +61,18 @@
 - Id: 104110
   GradeQuestSeriesId: 10411
   ConditionsType: 1
+  ConditionsValue: 10312
+  StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104120
+  GradeQuestSeriesId: 10412
+  ConditionsType: 1
   ConditionsValue: 10411
-  StartTime: 2029-12-31T15:00:00Z
+  StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104130
+  GradeQuestSeriesId: 10413
+  ConditionsType: 1
+  ConditionsValue: 10412
+  StartTime: 2024-05-31T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z

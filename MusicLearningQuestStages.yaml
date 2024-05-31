@@ -12,12 +12,12 @@
   QuestMusicsDetail: 103101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031012
@@ -34,12 +34,12 @@
   QuestMusicsDetail: 103101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031013
@@ -61,7 +61,7 @@
   FirstClearRewardSeriesId: 4010310131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031014
@@ -100,12 +100,12 @@
   QuestMusicsDetail: 103102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031022
@@ -122,12 +122,12 @@
   QuestMusicsDetail: 103102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031023
@@ -149,7 +149,7 @@
   FirstClearRewardSeriesId: 4010310231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031024
@@ -188,12 +188,12 @@
   QuestMusicsDetail: 103103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031032
@@ -210,12 +210,12 @@
   QuestMusicsDetail: 103103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031033
@@ -237,7 +237,7 @@
   FirstClearRewardSeriesId: 4010310331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031034
@@ -276,12 +276,12 @@
   QuestMusicsDetail: 103104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031042
@@ -298,12 +298,12 @@
   QuestMusicsDetail: 103104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031043
@@ -325,7 +325,7 @@
   FirstClearRewardSeriesId: 4010310431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031044
@@ -364,12 +364,12 @@
   QuestMusicsDetail: 103105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031052
@@ -386,12 +386,12 @@
   QuestMusicsDetail: 103105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031053
@@ -413,7 +413,7 @@
   FirstClearRewardSeriesId: 4010310531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031054
@@ -452,12 +452,12 @@
   QuestMusicsDetail: 103106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031062
@@ -474,12 +474,12 @@
   QuestMusicsDetail: 103106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031063
@@ -501,7 +501,7 @@
   FirstClearRewardSeriesId: 4010310631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031064
@@ -540,12 +540,12 @@
   QuestMusicsDetail: 103107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031072
@@ -562,12 +562,12 @@
   QuestMusicsDetail: 103107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031073
@@ -589,7 +589,7 @@
   FirstClearRewardSeriesId: 4010310731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031074
@@ -628,12 +628,12 @@
   QuestMusicsDetail: 103108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031082
@@ -650,12 +650,12 @@
   QuestMusicsDetail: 103108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031083
@@ -677,7 +677,7 @@
   FirstClearRewardSeriesId: 4010310831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031084
@@ -716,12 +716,12 @@
   QuestMusicsDetail: 103109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010310911
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031092
@@ -738,12 +738,12 @@
   QuestMusicsDetail: 103109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010310921
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031093
@@ -765,7 +765,7 @@
   FirstClearRewardSeriesId: 4010310931
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031094
@@ -804,12 +804,12 @@
   QuestMusicsDetail: 103110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311011
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031102
@@ -826,12 +826,12 @@
   QuestMusicsDetail: 103110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311021
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031103
@@ -853,7 +853,7 @@
   FirstClearRewardSeriesId: 4010311031
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031104
@@ -892,12 +892,12 @@
   QuestMusicsDetail: 103111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031112
@@ -914,12 +914,12 @@
   QuestMusicsDetail: 103111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031113
@@ -941,7 +941,7 @@
   FirstClearRewardSeriesId: 4010311131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031114
@@ -980,12 +980,12 @@
   QuestMusicsDetail: 103112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031122
@@ -1002,12 +1002,12 @@
   QuestMusicsDetail: 103112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031123
@@ -1029,7 +1029,7 @@
   FirstClearRewardSeriesId: 4010311231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031124
@@ -1068,12 +1068,12 @@
   QuestMusicsDetail: 103113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031132
@@ -1090,12 +1090,12 @@
   QuestMusicsDetail: 103113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031133
@@ -1117,7 +1117,7 @@
   FirstClearRewardSeriesId: 4010311331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031134
@@ -1156,12 +1156,12 @@
   QuestMusicsDetail: 103114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031142
@@ -1178,12 +1178,12 @@
   QuestMusicsDetail: 103114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031143
@@ -1205,7 +1205,7 @@
   FirstClearRewardSeriesId: 4010311431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031144
@@ -1244,12 +1244,12 @@
   QuestMusicsDetail: 103115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031152
@@ -1266,12 +1266,12 @@
   QuestMusicsDetail: 103115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031153
@@ -1293,7 +1293,7 @@
   FirstClearRewardSeriesId: 4010311531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031154
@@ -1332,12 +1332,12 @@
   QuestMusicsDetail: 103116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031162
@@ -1354,12 +1354,12 @@
   QuestMusicsDetail: 103116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031163
@@ -1381,7 +1381,7 @@
   FirstClearRewardSeriesId: 4010311631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031164
@@ -1420,12 +1420,12 @@
   QuestMusicsDetail: 103117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031172
@@ -1442,12 +1442,12 @@
   QuestMusicsDetail: 103117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031173
@@ -1469,7 +1469,7 @@
   FirstClearRewardSeriesId: 4010311731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031174
@@ -1508,12 +1508,12 @@
   QuestMusicsDetail: 103118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031182
@@ -1530,12 +1530,12 @@
   QuestMusicsDetail: 103118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031183
@@ -1557,7 +1557,7 @@
   FirstClearRewardSeriesId: 4010311831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031184
@@ -1596,12 +1596,12 @@
   QuestMusicsDetail: 103119
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010311911
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031192
@@ -1618,12 +1618,12 @@
   QuestMusicsDetail: 103119
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010311921
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031193
@@ -1645,7 +1645,7 @@
   FirstClearRewardSeriesId: 4010311931
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031194
@@ -1684,12 +1684,12 @@
   QuestMusicsDetail: 103120
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010312011
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401031202
@@ -1706,12 +1706,12 @@
   QuestMusicsDetail: 103120
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010312021
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401031203
@@ -1733,7 +1733,7 @@
   FirstClearRewardSeriesId: 4010312031
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401031204
@@ -1772,12 +1772,12 @@
   QuestMusicsDetail: 103201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010320111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401032012
@@ -1794,12 +1794,12 @@
   QuestMusicsDetail: 103201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010320121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401032013
@@ -1821,7 +1821,7 @@
   FirstClearRewardSeriesId: 4010320131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401032014
@@ -1860,12 +1860,12 @@
   QuestMusicsDetail: 103202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010320211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401032022
@@ -1882,12 +1882,12 @@
   QuestMusicsDetail: 103202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010320221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401032023
@@ -1909,7 +1909,7 @@
   FirstClearRewardSeriesId: 4010320231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401032024
@@ -1948,12 +1948,12 @@
   QuestMusicsDetail: 103203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010320311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401032032
@@ -1970,12 +1970,12 @@
   QuestMusicsDetail: 103203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010320321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401032033
@@ -1997,7 +1997,7 @@
   FirstClearRewardSeriesId: 4010320331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401032034
@@ -2036,12 +2036,12 @@
   QuestMusicsDetail: 103204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010320411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401032042
@@ -2058,12 +2058,12 @@
   QuestMusicsDetail: 103204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010320421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401032043
@@ -2085,7 +2085,7 @@
   FirstClearRewardSeriesId: 4010320431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401032044
@@ -2124,12 +2124,12 @@
   QuestMusicsDetail: 103205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010320511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401032052
@@ -2146,12 +2146,12 @@
   QuestMusicsDetail: 103205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010320521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401032053
@@ -2173,7 +2173,7 @@
   FirstClearRewardSeriesId: 4010320531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401032054
@@ -2212,12 +2212,12 @@
   QuestMusicsDetail: 103301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010330111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401033012
@@ -2234,12 +2234,12 @@
   QuestMusicsDetail: 103301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010330121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401033013
@@ -2261,7 +2261,7 @@
   FirstClearRewardSeriesId: 4010330131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401033014
@@ -2300,12 +2300,12 @@
   QuestMusicsDetail: 103302
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010330211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401033022
@@ -2322,12 +2322,12 @@
   QuestMusicsDetail: 103302
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010330221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401033023
@@ -2349,7 +2349,7 @@
   FirstClearRewardSeriesId: 4010330231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401033024
@@ -2388,12 +2388,12 @@
   QuestMusicsDetail: 104101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010410111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401041012
@@ -2410,12 +2410,12 @@
   QuestMusicsDetail: 104101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010410121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401041013
@@ -2437,7 +2437,7 @@
   FirstClearRewardSeriesId: 4010410131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401041014
@@ -2476,12 +2476,12 @@
   QuestMusicsDetail: 104102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010410211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401041022
@@ -2498,12 +2498,12 @@
   QuestMusicsDetail: 104102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010410221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401041023
@@ -2525,7 +2525,7 @@
   FirstClearRewardSeriesId: 4010410231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401041024
@@ -2564,12 +2564,12 @@
   QuestMusicsDetail: 104103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4010410311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 401041032
@@ -2586,12 +2586,12 @@
   QuestMusicsDetail: 104103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4010410321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 401041033
@@ -2613,7 +2613,7 @@
   FirstClearRewardSeriesId: 4010410331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 401041034
@@ -2652,12 +2652,12 @@
   QuestMusicsDetail: 203101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031012
@@ -2674,12 +2674,12 @@
   QuestMusicsDetail: 203101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031013
@@ -2701,7 +2701,7 @@
   FirstClearRewardSeriesId: 4020310131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031014
@@ -2740,12 +2740,12 @@
   QuestMusicsDetail: 203102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031022
@@ -2762,12 +2762,12 @@
   QuestMusicsDetail: 203102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031023
@@ -2789,7 +2789,7 @@
   FirstClearRewardSeriesId: 4020310231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031024
@@ -2828,12 +2828,12 @@
   QuestMusicsDetail: 203103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031032
@@ -2850,12 +2850,12 @@
   QuestMusicsDetail: 203103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031033
@@ -2877,7 +2877,7 @@
   FirstClearRewardSeriesId: 4020310331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031034
@@ -2916,12 +2916,12 @@
   QuestMusicsDetail: 203104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031042
@@ -2938,12 +2938,12 @@
   QuestMusicsDetail: 203104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031043
@@ -2965,7 +2965,7 @@
   FirstClearRewardSeriesId: 4020310431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031044
@@ -3004,12 +3004,12 @@
   QuestMusicsDetail: 203105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031052
@@ -3026,12 +3026,12 @@
   QuestMusicsDetail: 203105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031053
@@ -3053,7 +3053,7 @@
   FirstClearRewardSeriesId: 4020310531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031054
@@ -3092,12 +3092,12 @@
   QuestMusicsDetail: 203106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031062
@@ -3114,12 +3114,12 @@
   QuestMusicsDetail: 203106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031063
@@ -3141,7 +3141,7 @@
   FirstClearRewardSeriesId: 4020310631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031064
@@ -3180,12 +3180,12 @@
   QuestMusicsDetail: 203107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031072
@@ -3202,12 +3202,12 @@
   QuestMusicsDetail: 203107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031073
@@ -3229,7 +3229,7 @@
   FirstClearRewardSeriesId: 4020310731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031074
@@ -3268,12 +3268,12 @@
   QuestMusicsDetail: 203108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031082
@@ -3290,12 +3290,12 @@
   QuestMusicsDetail: 203108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031083
@@ -3317,7 +3317,7 @@
   FirstClearRewardSeriesId: 4020310831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031084
@@ -3356,12 +3356,12 @@
   QuestMusicsDetail: 203109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020310911
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031092
@@ -3378,12 +3378,12 @@
   QuestMusicsDetail: 203109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020310921
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031093
@@ -3405,7 +3405,7 @@
   FirstClearRewardSeriesId: 4020310931
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031094
@@ -3444,12 +3444,12 @@
   QuestMusicsDetail: 203110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311011
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031102
@@ -3466,12 +3466,12 @@
   QuestMusicsDetail: 203110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311021
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031103
@@ -3493,7 +3493,7 @@
   FirstClearRewardSeriesId: 4020311031
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031104
@@ -3532,12 +3532,12 @@
   QuestMusicsDetail: 203111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031112
@@ -3554,12 +3554,12 @@
   QuestMusicsDetail: 203111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031113
@@ -3581,7 +3581,7 @@
   FirstClearRewardSeriesId: 4020311131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031114
@@ -3620,12 +3620,12 @@
   QuestMusicsDetail: 203112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031122
@@ -3642,12 +3642,12 @@
   QuestMusicsDetail: 203112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031123
@@ -3669,7 +3669,7 @@
   FirstClearRewardSeriesId: 4020311231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031124
@@ -3708,12 +3708,12 @@
   QuestMusicsDetail: 203113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031132
@@ -3730,12 +3730,12 @@
   QuestMusicsDetail: 203113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031133
@@ -3757,7 +3757,7 @@
   FirstClearRewardSeriesId: 4020311331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031134
@@ -3796,12 +3796,12 @@
   QuestMusicsDetail: 203114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031142
@@ -3818,12 +3818,12 @@
   QuestMusicsDetail: 203114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031143
@@ -3845,7 +3845,7 @@
   FirstClearRewardSeriesId: 4020311431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031144
@@ -3884,12 +3884,12 @@
   QuestMusicsDetail: 203115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031152
@@ -3906,12 +3906,12 @@
   QuestMusicsDetail: 203115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031153
@@ -3933,7 +3933,7 @@
   FirstClearRewardSeriesId: 4020311531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031154
@@ -3972,12 +3972,12 @@
   QuestMusicsDetail: 203116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031162
@@ -3994,12 +3994,12 @@
   QuestMusicsDetail: 203116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031163
@@ -4021,7 +4021,7 @@
   FirstClearRewardSeriesId: 4020311631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031164
@@ -4060,12 +4060,12 @@
   QuestMusicsDetail: 203117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031172
@@ -4082,12 +4082,12 @@
   QuestMusicsDetail: 203117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031173
@@ -4109,7 +4109,7 @@
   FirstClearRewardSeriesId: 4020311731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031174
@@ -4148,12 +4148,12 @@
   QuestMusicsDetail: 203118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020311811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402031182
@@ -4170,12 +4170,12 @@
   QuestMusicsDetail: 203118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020311821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402031183
@@ -4197,7 +4197,7 @@
   FirstClearRewardSeriesId: 4020311831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402031184
@@ -4236,12 +4236,12 @@
   QuestMusicsDetail: 203201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032012
@@ -4258,12 +4258,12 @@
   QuestMusicsDetail: 203201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032013
@@ -4285,7 +4285,7 @@
   FirstClearRewardSeriesId: 4020320131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032014
@@ -4324,12 +4324,12 @@
   QuestMusicsDetail: 203202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032022
@@ -4346,12 +4346,12 @@
   QuestMusicsDetail: 203202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032023
@@ -4373,7 +4373,7 @@
   FirstClearRewardSeriesId: 4020320231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032024
@@ -4412,12 +4412,12 @@
   QuestMusicsDetail: 203203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032032
@@ -4434,12 +4434,12 @@
   QuestMusicsDetail: 203203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032033
@@ -4461,7 +4461,7 @@
   FirstClearRewardSeriesId: 4020320331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032034
@@ -4500,12 +4500,12 @@
   QuestMusicsDetail: 203204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032042
@@ -4522,12 +4522,12 @@
   QuestMusicsDetail: 203204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032043
@@ -4549,7 +4549,7 @@
   FirstClearRewardSeriesId: 4020320431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032044
@@ -4588,12 +4588,12 @@
   QuestMusicsDetail: 203205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032052
@@ -4610,12 +4610,12 @@
   QuestMusicsDetail: 203205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032053
@@ -4637,7 +4637,7 @@
   FirstClearRewardSeriesId: 4020320531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032054
@@ -4676,12 +4676,12 @@
   QuestMusicsDetail: 203206
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032062
@@ -4698,12 +4698,12 @@
   QuestMusicsDetail: 203206
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032063
@@ -4725,7 +4725,7 @@
   FirstClearRewardSeriesId: 4020320631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032064
@@ -4764,12 +4764,12 @@
   QuestMusicsDetail: 203207
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032072
@@ -4786,12 +4786,12 @@
   QuestMusicsDetail: 203207
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032073
@@ -4813,7 +4813,7 @@
   FirstClearRewardSeriesId: 4020320731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032074
@@ -4852,12 +4852,12 @@
   QuestMusicsDetail: 203208
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020320811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402032082
@@ -4874,12 +4874,12 @@
   QuestMusicsDetail: 203208
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020320821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402032083
@@ -4901,7 +4901,7 @@
   FirstClearRewardSeriesId: 4020320831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402032084
@@ -4940,12 +4940,12 @@
   QuestMusicsDetail: 203301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020330111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402033012
@@ -4962,12 +4962,12 @@
   QuestMusicsDetail: 203301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020330121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402033013
@@ -4989,7 +4989,7 @@
   FirstClearRewardSeriesId: 4020330131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402033014
@@ -5028,12 +5028,12 @@
   QuestMusicsDetail: 203302
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020330211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402033022
@@ -5050,12 +5050,12 @@
   QuestMusicsDetail: 203302
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020330221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402033023
@@ -5077,7 +5077,7 @@
   FirstClearRewardSeriesId: 4020330231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402033024
@@ -5116,12 +5116,12 @@
   QuestMusicsDetail: 204101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020410111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402041012
@@ -5138,12 +5138,12 @@
   QuestMusicsDetail: 204101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020410121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402041013
@@ -5165,7 +5165,7 @@
   FirstClearRewardSeriesId: 4020410131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402041014
@@ -5204,12 +5204,12 @@
   QuestMusicsDetail: 204102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020410211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402041022
@@ -5226,12 +5226,12 @@
   QuestMusicsDetail: 204102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020410221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402041023
@@ -5253,7 +5253,7 @@
   FirstClearRewardSeriesId: 4020410231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402041024
@@ -5292,12 +5292,12 @@
   QuestMusicsDetail: 204301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4020430111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 402043012
@@ -5314,12 +5314,12 @@
   QuestMusicsDetail: 204301
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4020430121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 402043013
@@ -5341,7 +5341,7 @@
   FirstClearRewardSeriesId: 4020430131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 402043014
@@ -5380,12 +5380,12 @@
   QuestMusicsDetail: 303101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031012
@@ -5402,12 +5402,12 @@
   QuestMusicsDetail: 303101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031013
@@ -5429,7 +5429,7 @@
   FirstClearRewardSeriesId: 4030310131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031014
@@ -5468,12 +5468,12 @@
   QuestMusicsDetail: 303102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031022
@@ -5490,12 +5490,12 @@
   QuestMusicsDetail: 303102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031023
@@ -5517,7 +5517,7 @@
   FirstClearRewardSeriesId: 4030310231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031024
@@ -5556,12 +5556,12 @@
   QuestMusicsDetail: 303103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031032
@@ -5578,12 +5578,12 @@
   QuestMusicsDetail: 303103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031033
@@ -5605,7 +5605,7 @@
   FirstClearRewardSeriesId: 4030310331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031034
@@ -5644,12 +5644,12 @@
   QuestMusicsDetail: 303104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031042
@@ -5666,12 +5666,12 @@
   QuestMusicsDetail: 303104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031043
@@ -5693,7 +5693,7 @@
   FirstClearRewardSeriesId: 4030310431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031044
@@ -5732,12 +5732,12 @@
   QuestMusicsDetail: 303105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031052
@@ -5754,12 +5754,12 @@
   QuestMusicsDetail: 303105
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031053
@@ -5781,7 +5781,7 @@
   FirstClearRewardSeriesId: 4030310531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031054
@@ -5820,12 +5820,12 @@
   QuestMusicsDetail: 303106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031062
@@ -5842,12 +5842,12 @@
   QuestMusicsDetail: 303106
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031063
@@ -5869,7 +5869,7 @@
   FirstClearRewardSeriesId: 4030310631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031064
@@ -5908,12 +5908,12 @@
   QuestMusicsDetail: 303107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031072
@@ -5930,12 +5930,12 @@
   QuestMusicsDetail: 303107
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031073
@@ -5957,7 +5957,7 @@
   FirstClearRewardSeriesId: 4030310731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031074
@@ -5996,12 +5996,12 @@
   QuestMusicsDetail: 303108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031082
@@ -6018,12 +6018,12 @@
   QuestMusicsDetail: 303108
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031083
@@ -6045,7 +6045,7 @@
   FirstClearRewardSeriesId: 4030310831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031084
@@ -6084,12 +6084,12 @@
   QuestMusicsDetail: 303109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030310911
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031092
@@ -6106,12 +6106,12 @@
   QuestMusicsDetail: 303109
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030310921
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031093
@@ -6133,7 +6133,7 @@
   FirstClearRewardSeriesId: 4030310931
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031094
@@ -6172,12 +6172,12 @@
   QuestMusicsDetail: 303110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311011
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031102
@@ -6194,12 +6194,12 @@
   QuestMusicsDetail: 303110
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311021
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031103
@@ -6221,7 +6221,7 @@
   FirstClearRewardSeriesId: 4030311031
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031104
@@ -6260,12 +6260,12 @@
   QuestMusicsDetail: 303111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031112
@@ -6282,12 +6282,12 @@
   QuestMusicsDetail: 303111
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031113
@@ -6309,7 +6309,7 @@
   FirstClearRewardSeriesId: 4030311131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031114
@@ -6348,12 +6348,12 @@
   QuestMusicsDetail: 303112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031122
@@ -6370,12 +6370,12 @@
   QuestMusicsDetail: 303112
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031123
@@ -6397,7 +6397,7 @@
   FirstClearRewardSeriesId: 4030311231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031124
@@ -6436,12 +6436,12 @@
   QuestMusicsDetail: 303113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031132
@@ -6458,12 +6458,12 @@
   QuestMusicsDetail: 303113
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031133
@@ -6485,7 +6485,7 @@
   FirstClearRewardSeriesId: 4030311331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031134
@@ -6524,12 +6524,12 @@
   QuestMusicsDetail: 303114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031142
@@ -6546,12 +6546,12 @@
   QuestMusicsDetail: 303114
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031143
@@ -6573,7 +6573,7 @@
   FirstClearRewardSeriesId: 4030311431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031144
@@ -6612,12 +6612,12 @@
   QuestMusicsDetail: 303115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031152
@@ -6634,12 +6634,12 @@
   QuestMusicsDetail: 303115
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031153
@@ -6661,7 +6661,7 @@
   FirstClearRewardSeriesId: 4030311531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031154
@@ -6700,12 +6700,12 @@
   QuestMusicsDetail: 303116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031162
@@ -6722,12 +6722,12 @@
   QuestMusicsDetail: 303116
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031163
@@ -6749,7 +6749,7 @@
   FirstClearRewardSeriesId: 4030311631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031164
@@ -6788,12 +6788,12 @@
   QuestMusicsDetail: 303117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031172
@@ -6810,12 +6810,12 @@
   QuestMusicsDetail: 303117
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031173
@@ -6837,7 +6837,7 @@
   FirstClearRewardSeriesId: 4030311731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031174
@@ -6876,12 +6876,12 @@
   QuestMusicsDetail: 303118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311811
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031182
@@ -6898,12 +6898,12 @@
   QuestMusicsDetail: 303118
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311821
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031183
@@ -6925,7 +6925,7 @@
   FirstClearRewardSeriesId: 4030311831
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031184
@@ -6964,12 +6964,12 @@
   QuestMusicsDetail: 303119
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030311911
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403031192
@@ -6986,12 +6986,12 @@
   QuestMusicsDetail: 303119
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030311921
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403031193
@@ -7013,7 +7013,7 @@
   FirstClearRewardSeriesId: 4030311931
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403031194
@@ -7052,12 +7052,12 @@
   QuestMusicsDetail: 303201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032012
@@ -7074,12 +7074,12 @@
   QuestMusicsDetail: 303201
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032013
@@ -7101,7 +7101,7 @@
   FirstClearRewardSeriesId: 4030320131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032014
@@ -7140,12 +7140,12 @@
   QuestMusicsDetail: 303202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032022
@@ -7162,12 +7162,12 @@
   QuestMusicsDetail: 303202
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032023
@@ -7189,7 +7189,7 @@
   FirstClearRewardSeriesId: 4030320231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032024
@@ -7228,12 +7228,12 @@
   QuestMusicsDetail: 303203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032032
@@ -7250,12 +7250,12 @@
   QuestMusicsDetail: 303203
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032033
@@ -7277,7 +7277,7 @@
   FirstClearRewardSeriesId: 4030320331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032034
@@ -7316,12 +7316,12 @@
   QuestMusicsDetail: 303204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032042
@@ -7338,12 +7338,12 @@
   QuestMusicsDetail: 303204
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032043
@@ -7365,7 +7365,7 @@
   FirstClearRewardSeriesId: 4030320431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032044
@@ -7404,12 +7404,12 @@
   QuestMusicsDetail: 303205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320511
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032052
@@ -7426,12 +7426,12 @@
   QuestMusicsDetail: 303205
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320521
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032053
@@ -7453,7 +7453,7 @@
   FirstClearRewardSeriesId: 4030320531
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032054
@@ -7492,12 +7492,12 @@
   QuestMusicsDetail: 303206
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320611
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032062
@@ -7514,12 +7514,12 @@
   QuestMusicsDetail: 303206
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320621
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032063
@@ -7541,7 +7541,7 @@
   FirstClearRewardSeriesId: 4030320631
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032064
@@ -7580,12 +7580,12 @@
   QuestMusicsDetail: 303207
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030320711
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403032072
@@ -7602,12 +7602,12 @@
   QuestMusicsDetail: 303207
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030320721
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403032073
@@ -7629,7 +7629,7 @@
   FirstClearRewardSeriesId: 4030320731
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403032074
@@ -7668,12 +7668,12 @@
   QuestMusicsDetail: 304101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030410111
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403041012
@@ -7690,12 +7690,12 @@
   QuestMusicsDetail: 304101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030410121
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403041013
@@ -7717,7 +7717,7 @@
   FirstClearRewardSeriesId: 4030410131
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403041014
@@ -7756,12 +7756,12 @@
   QuestMusicsDetail: 304102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030410211
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403041022
@@ -7778,12 +7778,12 @@
   QuestMusicsDetail: 304102
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030410221
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403041023
@@ -7805,7 +7805,7 @@
   FirstClearRewardSeriesId: 4030410231
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403041024
@@ -7844,12 +7844,12 @@
   QuestMusicsDetail: 304103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030410311
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403041032
@@ -7866,12 +7866,12 @@
   QuestMusicsDetail: 304103
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030410321
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403041033
@@ -7893,7 +7893,7 @@
   FirstClearRewardSeriesId: 4030410331
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403041034
@@ -7932,12 +7932,12 @@
   QuestMusicsDetail: 304104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 12
+  QuestLevel: 10
   QuestRank: 1
   FirstClearRewardSeriesId: 4030410411
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 2500000
+  Score1: 1800000
   GainStylePoint: 200
   GainMusicExp: 30
 - Id: 403041042
@@ -7954,12 +7954,12 @@
   QuestMusicsDetail: 304104
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
-  QuestLevel: 24
+  QuestLevel: 20
   QuestRank: 2
   FirstClearRewardSeriesId: 4030410421
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 10000000
+  Score1: 5800000
   GainStylePoint: 200
   GainMusicExp: 60
 - Id: 403041043
@@ -7981,7 +7981,7 @@
   FirstClearRewardSeriesId: 4030410431
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
-  Score1: 20000000
+  Score1: 17500000
   GainStylePoint: 200
   GainMusicExp: 100
 - Id: 403041044
@@ -8001,6 +8001,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4030410441
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403041051
+  LearningLiveSeriesId: 40304105
+  Name: 『レディバグ』
+  Description: レディバグ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030410511
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403041052
+  LearningLiveSeriesId: 40304105
+  Name: 『レディバグ』
+  Description: レディバグ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030410521
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403041053
+  LearningLiveSeriesId: 40304105
+  Name: 『レディバグ』
+  Description: レディバグ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030410531
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403041054
+  LearningLiveSeriesId: 40304105
+  Name: 『レディバグ』
+  Description: レディバグ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030410541
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000
