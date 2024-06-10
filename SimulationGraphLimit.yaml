@@ -1,49 +1,49 @@
 - Id: 10301
   NumberOfMember: 1
-  UpperLimitSmile: 17500
-  UpperLimitPure: 17500
-  UpperLimitCool: 17500
-  UpperLimitMental: 1200
+  UpperLimitSmile: 21000
+  UpperLimitPure: 21000
+  UpperLimitCool: 21000
+  UpperLimitMental: 1440
   UpperLimitBP: 200
 - Id: 10302
   NumberOfMember: 2
-  UpperLimitSmile: 35000
-  UpperLimitPure: 35000
-  UpperLimitCool: 35000
-  UpperLimitMental: 2400
+  UpperLimitSmile: 42000
+  UpperLimitPure: 42000
+  UpperLimitCool: 42000
+  UpperLimitMental: 2880
   UpperLimitBP: 400
 - Id: 10303
   NumberOfMember: 3
-  UpperLimitSmile: 52500
-  UpperLimitPure: 52500
-  UpperLimitCool: 52500
-  UpperLimitMental: 3600
+  UpperLimitSmile: 63000
+  UpperLimitPure: 63000
+  UpperLimitCool: 63000
+  UpperLimitMental: 4320
   UpperLimitBP: 600
 - Id: 10304
   NumberOfMember: 4
-  UpperLimitSmile: 70000
-  UpperLimitPure: 70000
-  UpperLimitCool: 70000
-  UpperLimitMental: 4800
+  UpperLimitSmile: 84000
+  UpperLimitPure: 84000
+  UpperLimitCool: 84000
+  UpperLimitMental: 5760
   UpperLimitBP: 800
 - Id: 10305
   NumberOfMember: 5
-  UpperLimitSmile: 87500
-  UpperLimitPure: 87500
-  UpperLimitCool: 87500
-  UpperLimitMental: 5900
-  UpperLimitBP: 1000
-- Id: 10306
-  NumberOfMember: 6
   UpperLimitSmile: 105000
   UpperLimitPure: 105000
   UpperLimitCool: 105000
-  UpperLimitMental: 7000
+  UpperLimitMental: 7080
+  UpperLimitBP: 1000
+- Id: 10306
+  NumberOfMember: 6
+  UpperLimitSmile: 126000
+  UpperLimitPure: 126000
+  UpperLimitCool: 126000
+  UpperLimitMental: 8400
   UpperLimitBP: 1200
 - Id: 10309
   NumberOfMember: 9
-  UpperLimitSmile: 157500
-  UpperLimitPure: 157500
-  UpperLimitCool: 157500
-  UpperLimitMental: 10500
+  UpperLimitSmile: 189000
+  UpperLimitPure: 189000
+  UpperLimitCool: 189000
+  UpperLimitMental: 12600
   UpperLimitBP: 1800

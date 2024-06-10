@@ -502,6 +502,18 @@
   Name: リブートエクステンド
   SkillIcon: 10215190
   SkillMainEffect: 13
+- Id: 10215200
+  Name: プロテクトゲイン
+  SkillIcon: 10215200
+  SkillMainEffect: 7
+- Id: 10215201
+  Name: プロテクトゲイン
+  SkillIcon: 10215200
+  SkillMainEffect: 7
+- Id: 10215202
+  Name: プロテクトゲイン
+  SkillIcon: 10215200
+  SkillMainEffect: 7
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -1242,6 +1254,18 @@
   Name: スイッチアトラクション
   SkillIcon: 10234120
   SkillMainEffect: 10
+- Id: 10234130
+  Name: リカバーゲイン
+  SkillIcon: 10234130
+  SkillMainEffect: 5
+- Id: 10234131
+  Name: リカバーゲイン
+  SkillIcon: 10234130
+  SkillMainEffect: 5
+- Id: 10234132
+  Name: リカバーゲイン
+  SkillIcon: 10234130
+  SkillMainEffect: 5
 - Id: 10235010
   Name: メンタルリカバー
   SkillIcon: 10235010
@@ -1954,6 +1978,18 @@
   Name: ラブアトラクト
   SkillIcon: 10315200
   SkillMainEffect: 2
+- Id: 10315210
+  Name: リカバーゲイン
+  SkillIcon: 10315210
+  SkillMainEffect: 5
+- Id: 10315211
+  Name: リカバーゲイン
+  SkillIcon: 10315210
+  SkillMainEffect: 5
+- Id: 10315212
+  Name: リカバーゲイン
+  SkillIcon: 10315210
+  SkillMainEffect: 5
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -3290,6 +3326,10 @@
   Name: アグレッシブアトラクトブースト
   SkillIcon: 20215190
   SkillMainEffect: 30
+- Id: 20215200
+  Name: ブーステッドフィール
+  SkillIcon: 20215200
+  SkillMainEffect: 5
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -3542,6 +3582,10 @@
   Name: カームアトラクト
   SkillIcon: 20234120
   SkillMainEffect: 20
+- Id: 20234130
+  Name: リブートアトラクト
+  SkillIcon: 20234130
+  SkillMainEffect: 13
 - Id: 20235010
   Name: サポーテッドフィール
   SkillIcon: 20235010
@@ -3782,6 +3826,10 @@
   Name: ハートキャプチャ
   SkillIcon: 20315200
   SkillMainEffect: 1
+- Id: 20315210
+  Name: アグレッシブアトラクトブースト
+  SkillIcon: 20315210
+  SkillMainEffect: 30
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -4338,6 +4386,10 @@
   Name: APゲイン & アンコール
   SkillIcon: 30215190
   SkillMainEffect: 14
+- Id: 30215200
+  Name: ショット：ヒートアップ
+  SkillIcon: 30215200
+  SkillMainEffect: 21
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -4558,6 +4610,10 @@
   Name: オーバーセクション：ボルテージゲイン
   SkillIcon: 30234120
   SkillMainEffect: 10
+- Id: 30234130
+  Name: ショット：ヒートアップ
+  SkillIcon: 30234130
+  SkillMainEffect: 21
 - Id: 30235010
   Name: APレデュース：ブレイブ
   SkillIcon: 30235010
@@ -4782,6 +4838,10 @@
   Name: アーリードロー：3/APゲイン & レイトドロー：3/APレデュース
   SkillIcon: 30315200
   SkillMainEffect: 14
+- Id: 30315210
+  Name: APレデュース：ボルテージ & ショット：ヒートアップ
+  SkillIcon: 30315210
+  SkillMainEffect: 17
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010

@@ -12346,6 +12346,300 @@
   ApperanceType: 10215191
   CardSkillEffectId: 10215190140,10215190141,10215190142
   Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらにこのステージ中、手札の上限枚数を1枚増加し、次に使用するラブアトラクト効果を$+34%$する。
+- Id: 1021520001
+  CardSkillSeriesId: 10215200
+  SkillLevel: 1
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200010,10215200011
+  Description: このステージ中、メンタルの最大値の$3.2%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520002
+  CardSkillSeriesId: 10215200
+  SkillLevel: 2
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200020,10215200021
+  Description: このステージ中、メンタルの最大値の$3.52%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520003
+  CardSkillSeriesId: 10215200
+  SkillLevel: 3
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200030,10215200031
+  Description: このステージ中、メンタルの最大値の$3.84%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520004
+  CardSkillSeriesId: 10215200
+  SkillLevel: 4
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200040,10215200041
+  Description: このステージ中、メンタルの最大値の$4.16%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520005
+  CardSkillSeriesId: 10215200
+  SkillLevel: 5
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200050,10215200051
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520006
+  CardSkillSeriesId: 10215200
+  SkillLevel: 6
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200060,10215200061
+  Description: このステージ中、メンタルの最大値の$4.8%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520007
+  CardSkillSeriesId: 10215200
+  SkillLevel: 7
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200070,10215200071
+  Description: このステージ中、メンタルの最大値の$5.12%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520008
+  CardSkillSeriesId: 10215200
+  SkillLevel: 8
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200080,10215200081
+  Description: このステージ中、メンタルの最大値の$5.44%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520009
+  CardSkillSeriesId: 10215200
+  SkillLevel: 9
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200090,10215200091
+  Description: このステージ中、メンタルの最大値の$5.76%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520010
+  CardSkillSeriesId: 10215200
+  SkillLevel: 10
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200100,10215200101
+  Description: このステージ中、メンタルの最大値の$6.4%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520011
+  CardSkillSeriesId: 10215200
+  SkillLevel: 11
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200110,10215200111
+  Description: このステージ中、メンタルの最大値の$6.72%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520012
+  CardSkillSeriesId: 10215200
+  SkillLevel: 12
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200120,10215200121
+  Description: このステージ中、メンタルの最大値の$7.04%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520013
+  CardSkillSeriesId: 10215200
+  SkillLevel: 13
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200130,10215200131
+  Description: このステージ中、メンタルの最大値の$7.36%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520014
+  CardSkillSeriesId: 10215200
+  SkillLevel: 14
+  SkillCost: 3
+  ApperanceType: 10215200
+  CardSkillEffectId: 10215200140,10215200141
+  Description: このステージ中、メンタルの最大値の$8%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520101
+  CardSkillSeriesId: 10215201
+  SkillLevel: 1
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200010,10215200011
+  Description: このステージ中、メンタルの最大値の$3.2%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520102
+  CardSkillSeriesId: 10215201
+  SkillLevel: 2
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200020,10215200021
+  Description: このステージ中、メンタルの最大値の$3.52%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520103
+  CardSkillSeriesId: 10215201
+  SkillLevel: 3
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200030,10215200031
+  Description: このステージ中、メンタルの最大値の$3.84%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520104
+  CardSkillSeriesId: 10215201
+  SkillLevel: 4
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200040,10215200041
+  Description: このステージ中、メンタルの最大値の$4.16%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520105
+  CardSkillSeriesId: 10215201
+  SkillLevel: 5
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200050,10215200051
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520106
+  CardSkillSeriesId: 10215201
+  SkillLevel: 6
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200060,10215200061
+  Description: このステージ中、メンタルの最大値の$4.8%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520107
+  CardSkillSeriesId: 10215201
+  SkillLevel: 7
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200070,10215200071
+  Description: このステージ中、メンタルの最大値の$5.12%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520108
+  CardSkillSeriesId: 10215201
+  SkillLevel: 8
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200080,10215200081
+  Description: このステージ中、メンタルの最大値の$5.44%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520109
+  CardSkillSeriesId: 10215201
+  SkillLevel: 9
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200090,10215200091
+  Description: このステージ中、メンタルの最大値の$5.76%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520110
+  CardSkillSeriesId: 10215201
+  SkillLevel: 10
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200100,10215200101
+  Description: このステージ中、メンタルの最大値の$6.4%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520111
+  CardSkillSeriesId: 10215201
+  SkillLevel: 11
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200110,10215200111
+  Description: このステージ中、メンタルの最大値の$6.72%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520112
+  CardSkillSeriesId: 10215201
+  SkillLevel: 12
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200120,10215200121
+  Description: このステージ中、メンタルの最大値の$7.04%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520113
+  CardSkillSeriesId: 10215201
+  SkillLevel: 13
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200130,10215200131
+  Description: このステージ中、メンタルの最大値の$7.36%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520114
+  CardSkillSeriesId: 10215201
+  SkillLevel: 14
+  SkillCost: 2
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200140,10215200141
+  Description: このステージ中、メンタルの最大値の$8%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520201
+  CardSkillSeriesId: 10215202
+  SkillLevel: 1
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200010,10215200011
+  Description: このステージ中、メンタルの最大値の$3.2%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520202
+  CardSkillSeriesId: 10215202
+  SkillLevel: 2
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200020,10215200021
+  Description: このステージ中、メンタルの最大値の$3.52%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520203
+  CardSkillSeriesId: 10215202
+  SkillLevel: 3
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200030,10215200031
+  Description: このステージ中、メンタルの最大値の$3.84%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520204
+  CardSkillSeriesId: 10215202
+  SkillLevel: 4
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200040,10215200041
+  Description: このステージ中、メンタルの最大値の$4.16%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520205
+  CardSkillSeriesId: 10215202
+  SkillLevel: 5
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200050,10215200051
+  Description: このステージ中、メンタルの最大値の$4.48%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520206
+  CardSkillSeriesId: 10215202
+  SkillLevel: 6
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200060,10215200061
+  Description: このステージ中、メンタルの最大値の$4.8%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520207
+  CardSkillSeriesId: 10215202
+  SkillLevel: 7
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200070,10215200071
+  Description: このステージ中、メンタルの最大値の$5.12%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520208
+  CardSkillSeriesId: 10215202
+  SkillLevel: 8
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200080,10215200081
+  Description: このステージ中、メンタルの最大値の$5.44%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520209
+  CardSkillSeriesId: 10215202
+  SkillLevel: 9
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200090,10215200091
+  Description: このステージ中、メンタルの最大値の$5.76%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520210
+  CardSkillSeriesId: 10215202
+  SkillLevel: 10
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200100,10215200101
+  Description: このステージ中、メンタルの最大値の$6.4%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520211
+  CardSkillSeriesId: 10215202
+  SkillLevel: 11
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200110,10215200111
+  Description: このステージ中、メンタルの最大値の$6.72%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520212
+  CardSkillSeriesId: 10215202
+  SkillLevel: 12
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200120,10215200121
+  Description: このステージ中、メンタルの最大値の$7.04%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520213
+  CardSkillSeriesId: 10215202
+  SkillLevel: 13
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200130,10215200131
+  Description: このステージ中、メンタルの最大値の$7.36%$分のメンタルダメージを無効にする。さらにAPを+5する。
+- Id: 1021520214
+  CardSkillSeriesId: 10215202
+  SkillLevel: 14
+  SkillCost: 1
+  ApperanceType: 10215201
+  CardSkillEffectId: 10215200140,10215200141
+  Description: このステージ中、メンタルの最大値の$8%$分のメンタルダメージを無効にする。さらにAPを+5する。
 - Id: 1021801101
   CardSkillSeriesId: 10218011
   SkillLevel: 1
@@ -30476,6 +30770,300 @@
   ApperanceType: 10234121
   CardSkillEffectId: 10234120140,10234120143
   Description: ボルテージLv.が5以下の時ボルテージPt.を$+32$する。ボルテージLv.が6以上の時ビートハート$7回分$のスキルハートを獲得し、このセクション中、獲得するLOVEを$+8%$する。
+- Id: 1023413001
+  CardSkillSeriesId: 10234130
+  SkillLevel: 1
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130010,10234130011
+  Description: メンタルを最大値の$4.8%$回復させる。さらにAPを+3する。
+- Id: 1023413002
+  CardSkillSeriesId: 10234130
+  SkillLevel: 2
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130020,10234130021
+  Description: メンタルを最大値の$5.28%$回復させる。さらにAPを+3する。
+- Id: 1023413003
+  CardSkillSeriesId: 10234130
+  SkillLevel: 3
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130030,10234130031
+  Description: メンタルを最大値の$5.76%$回復させる。さらにAPを+3する。
+- Id: 1023413004
+  CardSkillSeriesId: 10234130
+  SkillLevel: 4
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130040,10234130041
+  Description: メンタルを最大値の$6.24%$回復させる。さらにAPを+3する。
+- Id: 1023413005
+  CardSkillSeriesId: 10234130
+  SkillLevel: 5
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130050,10234130051
+  Description: メンタルを最大値の$6.72%$回復させる。さらにAPを+3する。
+- Id: 1023413006
+  CardSkillSeriesId: 10234130
+  SkillLevel: 6
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130060,10234130061
+  Description: メンタルを最大値の$7.2%$回復させる。さらにAPを+3する。
+- Id: 1023413007
+  CardSkillSeriesId: 10234130
+  SkillLevel: 7
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130070,10234130071
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+3する。
+- Id: 1023413008
+  CardSkillSeriesId: 10234130
+  SkillLevel: 8
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130080,10234130081
+  Description: メンタルを最大値の$8.16%$回復させる。さらにAPを+3する。
+- Id: 1023413009
+  CardSkillSeriesId: 10234130
+  SkillLevel: 9
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130090,10234130091
+  Description: メンタルを最大値の$8.64%$回復させる。さらにAPを+3する。
+- Id: 1023413010
+  CardSkillSeriesId: 10234130
+  SkillLevel: 10
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130100,10234130101
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+3する。
+- Id: 1023413011
+  CardSkillSeriesId: 10234130
+  SkillLevel: 11
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130110,10234130111
+  Description: メンタルを最大値の$10.08%$回復させる。さらにAPを+3する。
+- Id: 1023413012
+  CardSkillSeriesId: 10234130
+  SkillLevel: 12
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130120,10234130121
+  Description: メンタルを最大値の$10.56%$回復させる。さらにAPを+3する。
+- Id: 1023413013
+  CardSkillSeriesId: 10234130
+  SkillLevel: 13
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130130,10234130131
+  Description: メンタルを最大値の$11.04%$回復させる。さらにAPを+3する。
+- Id: 1023413014
+  CardSkillSeriesId: 10234130
+  SkillLevel: 14
+  SkillCost: 3
+  ApperanceType: 10234130
+  CardSkillEffectId: 10234130140,10234130141
+  Description: メンタルを最大値の$12%$回復させる。さらにAPを+3する。
+- Id: 1023413101
+  CardSkillSeriesId: 10234131
+  SkillLevel: 1
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130010,10234130011
+  Description: メンタルを最大値の$4.8%$回復させる。さらにAPを+3する。
+- Id: 1023413102
+  CardSkillSeriesId: 10234131
+  SkillLevel: 2
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130020,10234130021
+  Description: メンタルを最大値の$5.28%$回復させる。さらにAPを+3する。
+- Id: 1023413103
+  CardSkillSeriesId: 10234131
+  SkillLevel: 3
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130030,10234130031
+  Description: メンタルを最大値の$5.76%$回復させる。さらにAPを+3する。
+- Id: 1023413104
+  CardSkillSeriesId: 10234131
+  SkillLevel: 4
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130040,10234130041
+  Description: メンタルを最大値の$6.24%$回復させる。さらにAPを+3する。
+- Id: 1023413105
+  CardSkillSeriesId: 10234131
+  SkillLevel: 5
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130050,10234130051
+  Description: メンタルを最大値の$6.72%$回復させる。さらにAPを+3する。
+- Id: 1023413106
+  CardSkillSeriesId: 10234131
+  SkillLevel: 6
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130060,10234130061
+  Description: メンタルを最大値の$7.2%$回復させる。さらにAPを+3する。
+- Id: 1023413107
+  CardSkillSeriesId: 10234131
+  SkillLevel: 7
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130070,10234130071
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+3する。
+- Id: 1023413108
+  CardSkillSeriesId: 10234131
+  SkillLevel: 8
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130080,10234130081
+  Description: メンタルを最大値の$8.16%$回復させる。さらにAPを+3する。
+- Id: 1023413109
+  CardSkillSeriesId: 10234131
+  SkillLevel: 9
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130090,10234130091
+  Description: メンタルを最大値の$8.64%$回復させる。さらにAPを+3する。
+- Id: 1023413110
+  CardSkillSeriesId: 10234131
+  SkillLevel: 10
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130100,10234130101
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+3する。
+- Id: 1023413111
+  CardSkillSeriesId: 10234131
+  SkillLevel: 11
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130110,10234130111
+  Description: メンタルを最大値の$10.08%$回復させる。さらにAPを+3する。
+- Id: 1023413112
+  CardSkillSeriesId: 10234131
+  SkillLevel: 12
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130120,10234130121
+  Description: メンタルを最大値の$10.56%$回復させる。さらにAPを+3する。
+- Id: 1023413113
+  CardSkillSeriesId: 10234131
+  SkillLevel: 13
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130130,10234130131
+  Description: メンタルを最大値の$11.04%$回復させる。さらにAPを+3する。
+- Id: 1023413114
+  CardSkillSeriesId: 10234131
+  SkillLevel: 14
+  SkillCost: 2
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130140,10234130141
+  Description: メンタルを最大値の$12%$回復させる。さらにAPを+3する。
+- Id: 1023413201
+  CardSkillSeriesId: 10234132
+  SkillLevel: 1
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130010,10234130011
+  Description: メンタルを最大値の$4.8%$回復させる。さらにAPを+3する。
+- Id: 1023413202
+  CardSkillSeriesId: 10234132
+  SkillLevel: 2
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130020,10234130021
+  Description: メンタルを最大値の$5.28%$回復させる。さらにAPを+3する。
+- Id: 1023413203
+  CardSkillSeriesId: 10234132
+  SkillLevel: 3
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130030,10234130031
+  Description: メンタルを最大値の$5.76%$回復させる。さらにAPを+3する。
+- Id: 1023413204
+  CardSkillSeriesId: 10234132
+  SkillLevel: 4
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130040,10234130041
+  Description: メンタルを最大値の$6.24%$回復させる。さらにAPを+3する。
+- Id: 1023413205
+  CardSkillSeriesId: 10234132
+  SkillLevel: 5
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130050,10234130051
+  Description: メンタルを最大値の$6.72%$回復させる。さらにAPを+3する。
+- Id: 1023413206
+  CardSkillSeriesId: 10234132
+  SkillLevel: 6
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130060,10234130061
+  Description: メンタルを最大値の$7.2%$回復させる。さらにAPを+3する。
+- Id: 1023413207
+  CardSkillSeriesId: 10234132
+  SkillLevel: 7
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130070,10234130071
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+3する。
+- Id: 1023413208
+  CardSkillSeriesId: 10234132
+  SkillLevel: 8
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130080,10234130081
+  Description: メンタルを最大値の$8.16%$回復させる。さらにAPを+3する。
+- Id: 1023413209
+  CardSkillSeriesId: 10234132
+  SkillLevel: 9
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130090,10234130091
+  Description: メンタルを最大値の$8.64%$回復させる。さらにAPを+3する。
+- Id: 1023413210
+  CardSkillSeriesId: 10234132
+  SkillLevel: 10
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130100,10234130101
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+3する。
+- Id: 1023413211
+  CardSkillSeriesId: 10234132
+  SkillLevel: 11
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130110,10234130111
+  Description: メンタルを最大値の$10.08%$回復させる。さらにAPを+3する。
+- Id: 1023413212
+  CardSkillSeriesId: 10234132
+  SkillLevel: 12
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130120,10234130121
+  Description: メンタルを最大値の$10.56%$回復させる。さらにAPを+3する。
+- Id: 1023413213
+  CardSkillSeriesId: 10234132
+  SkillLevel: 13
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130130,10234130131
+  Description: メンタルを最大値の$11.04%$回復させる。さらにAPを+3する。
+- Id: 1023413214
+  CardSkillSeriesId: 10234132
+  SkillLevel: 14
+  SkillCost: 1
+  ApperanceType: 10234131
+  CardSkillEffectId: 10234130140,10234130141
+  Description: メンタルを最大値の$12%$回復させる。さらにAPを+3する。
 - Id: 1023501001
   CardSkillSeriesId: 10235010
   SkillLevel: 1
@@ -47920,6 +48508,300 @@
   ApperanceType: 10315201
   CardSkillEffectId: "10315200140"
   Description: このセクション中、獲得するLOVEを$+30%$する。
+- Id: 1031521001
+  CardSkillSeriesId: 10315210
+  SkillLevel: 1
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210010,10315210011
+  Description: メンタルを最大値の$6.4%$回復させる。さらにAPを+5する。
+- Id: 1031521002
+  CardSkillSeriesId: 10315210
+  SkillLevel: 2
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210020,10315210021
+  Description: メンタルを最大値の$7.04%$回復させる。さらにAPを+5する。
+- Id: 1031521003
+  CardSkillSeriesId: 10315210
+  SkillLevel: 3
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210030,10315210031
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+5する。
+- Id: 1031521004
+  CardSkillSeriesId: 10315210
+  SkillLevel: 4
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210040,10315210041
+  Description: メンタルを最大値の$8.32%$回復させる。さらにAPを+5する。
+- Id: 1031521005
+  CardSkillSeriesId: 10315210
+  SkillLevel: 5
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210050,10315210051
+  Description: メンタルを最大値の$8.96%$回復させる。さらにAPを+5する。
+- Id: 1031521006
+  CardSkillSeriesId: 10315210
+  SkillLevel: 6
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210060,10315210061
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+5する。
+- Id: 1031521007
+  CardSkillSeriesId: 10315210
+  SkillLevel: 7
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210070,10315210071
+  Description: メンタルを最大値の$10.24%$回復させる。さらにAPを+5する。
+- Id: 1031521008
+  CardSkillSeriesId: 10315210
+  SkillLevel: 8
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210080,10315210081
+  Description: メンタルを最大値の$10.88%$回復させる。さらにAPを+5する。
+- Id: 1031521009
+  CardSkillSeriesId: 10315210
+  SkillLevel: 9
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210090,10315210091
+  Description: メンタルを最大値の$11.52%$回復させる。さらにAPを+5する。
+- Id: 1031521010
+  CardSkillSeriesId: 10315210
+  SkillLevel: 10
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210100,10315210101
+  Description: メンタルを最大値の$12.8%$回復させる。さらにAPを+5する。
+- Id: 1031521011
+  CardSkillSeriesId: 10315210
+  SkillLevel: 11
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210110,10315210111
+  Description: メンタルを最大値の$13.44%$回復させる。さらにAPを+5する。
+- Id: 1031521012
+  CardSkillSeriesId: 10315210
+  SkillLevel: 12
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210120,10315210121
+  Description: メンタルを最大値の$14.08%$回復させる。さらにAPを+5する。
+- Id: 1031521013
+  CardSkillSeriesId: 10315210
+  SkillLevel: 13
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210130,10315210131
+  Description: メンタルを最大値の$14.72%$回復させる。さらにAPを+5する。
+- Id: 1031521014
+  CardSkillSeriesId: 10315210
+  SkillLevel: 14
+  SkillCost: 3
+  ApperanceType: 10315210
+  CardSkillEffectId: 10315210140,10315210141
+  Description: メンタルを最大値の$16%$回復させる。さらにAPを+5する。
+- Id: 1031521101
+  CardSkillSeriesId: 10315211
+  SkillLevel: 1
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210010,10315210011
+  Description: メンタルを最大値の$6.4%$回復させる。さらにAPを+5する。
+- Id: 1031521102
+  CardSkillSeriesId: 10315211
+  SkillLevel: 2
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210020,10315210021
+  Description: メンタルを最大値の$7.04%$回復させる。さらにAPを+5する。
+- Id: 1031521103
+  CardSkillSeriesId: 10315211
+  SkillLevel: 3
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210030,10315210031
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+5する。
+- Id: 1031521104
+  CardSkillSeriesId: 10315211
+  SkillLevel: 4
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210040,10315210041
+  Description: メンタルを最大値の$8.32%$回復させる。さらにAPを+5する。
+- Id: 1031521105
+  CardSkillSeriesId: 10315211
+  SkillLevel: 5
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210050,10315210051
+  Description: メンタルを最大値の$8.96%$回復させる。さらにAPを+5する。
+- Id: 1031521106
+  CardSkillSeriesId: 10315211
+  SkillLevel: 6
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210060,10315210061
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+5する。
+- Id: 1031521107
+  CardSkillSeriesId: 10315211
+  SkillLevel: 7
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210070,10315210071
+  Description: メンタルを最大値の$10.24%$回復させる。さらにAPを+5する。
+- Id: 1031521108
+  CardSkillSeriesId: 10315211
+  SkillLevel: 8
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210080,10315210081
+  Description: メンタルを最大値の$10.88%$回復させる。さらにAPを+5する。
+- Id: 1031521109
+  CardSkillSeriesId: 10315211
+  SkillLevel: 9
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210090,10315210091
+  Description: メンタルを最大値の$11.52%$回復させる。さらにAPを+5する。
+- Id: 1031521110
+  CardSkillSeriesId: 10315211
+  SkillLevel: 10
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210100,10315210101
+  Description: メンタルを最大値の$12.8%$回復させる。さらにAPを+5する。
+- Id: 1031521111
+  CardSkillSeriesId: 10315211
+  SkillLevel: 11
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210110,10315210111
+  Description: メンタルを最大値の$13.44%$回復させる。さらにAPを+5する。
+- Id: 1031521112
+  CardSkillSeriesId: 10315211
+  SkillLevel: 12
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210120,10315210121
+  Description: メンタルを最大値の$14.08%$回復させる。さらにAPを+5する。
+- Id: 1031521113
+  CardSkillSeriesId: 10315211
+  SkillLevel: 13
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210130,10315210131
+  Description: メンタルを最大値の$14.72%$回復させる。さらにAPを+5する。
+- Id: 1031521114
+  CardSkillSeriesId: 10315211
+  SkillLevel: 14
+  SkillCost: 2
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210140,10315210141
+  Description: メンタルを最大値の$16%$回復させる。さらにAPを+5する。
+- Id: 1031521201
+  CardSkillSeriesId: 10315212
+  SkillLevel: 1
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210010,10315210011
+  Description: メンタルを最大値の$6.4%$回復させる。さらにAPを+5する。
+- Id: 1031521202
+  CardSkillSeriesId: 10315212
+  SkillLevel: 2
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210020,10315210021
+  Description: メンタルを最大値の$7.04%$回復させる。さらにAPを+5する。
+- Id: 1031521203
+  CardSkillSeriesId: 10315212
+  SkillLevel: 3
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210030,10315210031
+  Description: メンタルを最大値の$7.68%$回復させる。さらにAPを+5する。
+- Id: 1031521204
+  CardSkillSeriesId: 10315212
+  SkillLevel: 4
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210040,10315210041
+  Description: メンタルを最大値の$8.32%$回復させる。さらにAPを+5する。
+- Id: 1031521205
+  CardSkillSeriesId: 10315212
+  SkillLevel: 5
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210050,10315210051
+  Description: メンタルを最大値の$8.96%$回復させる。さらにAPを+5する。
+- Id: 1031521206
+  CardSkillSeriesId: 10315212
+  SkillLevel: 6
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210060,10315210061
+  Description: メンタルを最大値の$9.6%$回復させる。さらにAPを+5する。
+- Id: 1031521207
+  CardSkillSeriesId: 10315212
+  SkillLevel: 7
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210070,10315210071
+  Description: メンタルを最大値の$10.24%$回復させる。さらにAPを+5する。
+- Id: 1031521208
+  CardSkillSeriesId: 10315212
+  SkillLevel: 8
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210080,10315210081
+  Description: メンタルを最大値の$10.88%$回復させる。さらにAPを+5する。
+- Id: 1031521209
+  CardSkillSeriesId: 10315212
+  SkillLevel: 9
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210090,10315210091
+  Description: メンタルを最大値の$11.52%$回復させる。さらにAPを+5する。
+- Id: 1031521210
+  CardSkillSeriesId: 10315212
+  SkillLevel: 10
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210100,10315210101
+  Description: メンタルを最大値の$12.8%$回復させる。さらにAPを+5する。
+- Id: 1031521211
+  CardSkillSeriesId: 10315212
+  SkillLevel: 11
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210110,10315210111
+  Description: メンタルを最大値の$13.44%$回復させる。さらにAPを+5する。
+- Id: 1031521212
+  CardSkillSeriesId: 10315212
+  SkillLevel: 12
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210120,10315210121
+  Description: メンタルを最大値の$14.08%$回復させる。さらにAPを+5する。
+- Id: 1031521213
+  CardSkillSeriesId: 10315212
+  SkillLevel: 13
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210130,10315210131
+  Description: メンタルを最大値の$14.72%$回復させる。さらにAPを+5する。
+- Id: 1031521214
+  CardSkillSeriesId: 10315212
+  SkillLevel: 14
+  SkillCost: 1
+  ApperanceType: 10315211
+  CardSkillEffectId: 10315210140,10315210141
+  Description: メンタルを最大値の$16%$回復させる。さらにAPを+5する。
 - Id: 1031801101
   CardSkillSeriesId: 10318011
   SkillLevel: 1
@@ -80652,6 +81534,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 20215190140,20215190141
   Description: 次に使用するラブアトラクト効果を$+27%$する。さらにメンタルを最大値の3％減少させる。
+- Id: 2021520001
+  CardSkillSeriesId: 20215200
+  SkillLevel: 1
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200010,20215200011,20215200012
+  Description: メンタルを最大値の$1.2%$回復し、ボルテージPt.を$+5$する。さらに次に使用するラブアトラクト効果を$+8.7%$する。
+- Id: 2021520002
+  CardSkillSeriesId: 20215200
+  SkillLevel: 2
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200020,20215200021,20215200022
+  Description: メンタルを最大値の$1.32%$回復し、ボルテージPt.を$+6$する。さらに次に使用するラブアトラクト効果を$+9.6%$する。
+- Id: 2021520003
+  CardSkillSeriesId: 20215200
+  SkillLevel: 3
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200030,20215200031,20215200032
+  Description: メンタルを最大値の$1.44%$回復し、ボルテージPt.を$+6$する。さらに次に使用するラブアトラクト効果を$+10.4%$する。
+- Id: 2021520004
+  CardSkillSeriesId: 20215200
+  SkillLevel: 4
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200040,20215200041,20215200042
+  Description: メンタルを最大値の$1.56%$回復し、ボルテージPt.を$+7$する。さらに次に使用するラブアトラクト効果を$+11.3%$する。
+- Id: 2021520005
+  CardSkillSeriesId: 20215200
+  SkillLevel: 5
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200050,20215200051,20215200052
+  Description: メンタルを最大値の$1.68%$回復し、ボルテージPt.を$+7$する。さらに次に使用するラブアトラクト効果を$+12.1%$する。
+- Id: 2021520006
+  CardSkillSeriesId: 20215200
+  SkillLevel: 6
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200060,20215200061,20215200062
+  Description: メンタルを最大値の$1.8%$回復し、ボルテージPt.を$+8$する。さらに次に使用するラブアトラクト効果を$+13%$する。
+- Id: 2021520007
+  CardSkillSeriesId: 20215200
+  SkillLevel: 7
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200070,20215200071,20215200072
+  Description: メンタルを最大値の$1.92%$回復し、ボルテージPt.を$+8$する。さらに次に使用するラブアトラクト効果を$+13.9%$する。
+- Id: 2021520008
+  CardSkillSeriesId: 20215200
+  SkillLevel: 8
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200080,20215200081,20215200082
+  Description: メンタルを最大値の$2.04%$回復し、ボルテージPt.を$+9$する。さらに次に使用するラブアトラクト効果を$+14.7%$する。
+- Id: 2021520009
+  CardSkillSeriesId: 20215200
+  SkillLevel: 9
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200090,20215200091,20215200092
+  Description: メンタルを最大値の$2.16%$回復し、ボルテージPt.を$+9$する。さらに次に使用するラブアトラクト効果を$+15.6%$する。
+- Id: 2021520010
+  CardSkillSeriesId: 20215200
+  SkillLevel: 10
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200100,20215200101,20215200102
+  Description: メンタルを最大値の$2.4%$回復し、ボルテージPt.を$+10$する。さらに次に使用するラブアトラクト効果を$+17.3%$する。
+- Id: 2021520011
+  CardSkillSeriesId: 20215200
+  SkillLevel: 11
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200110,20215200111,20215200112
+  Description: メンタルを最大値の$2.52%$回復し、ボルテージPt.を$+11$する。さらに次に使用するラブアトラクト効果を$+18.2%$する。
+- Id: 2021520012
+  CardSkillSeriesId: 20215200
+  SkillLevel: 12
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200120,20215200121,20215200122
+  Description: メンタルを最大値の$2.64%$回復し、ボルテージPt.を$+11$する。さらに次に使用するラブアトラクト効果を$+19.1%$する。
+- Id: 2021520013
+  CardSkillSeriesId: 20215200
+  SkillLevel: 13
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200130,20215200131,20215200132
+  Description: メンタルを最大値の$2.76%$回復し、ボルテージPt.を$+12$する。さらに次に使用するラブアトラクト効果を$+19.9%$する。
+- Id: 2021520014
+  CardSkillSeriesId: 20215200
+  SkillLevel: 14
+  SkillCost: 3
+  ApperanceType: 10000050
+  CardSkillEffectId: 20215200140,20215200141,20215200142
+  Description: メンタルを最大値の$3%$回復し、ボルテージPt.を$+13$する。さらに次に使用するラブアトラクト効果を$+21.6%$する。
 - Id: 2021801001
   CardSkillSeriesId: 20218010
   SkillLevel: 1
@@ -85166,98 +86146,98 @@
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020010,20228020011
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+24%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+24%$する。
 - Id: 2022802002
   CardSkillSeriesId: 20228020
   SkillLevel: 2
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020020,20228020021
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+26.4%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+26.4%$する。
 - Id: 2022802003
   CardSkillSeriesId: 20228020
   SkillLevel: 3
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020030,20228020031
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+28.8%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+28.8%$する。
 - Id: 2022802004
   CardSkillSeriesId: 20228020
   SkillLevel: 4
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020040,20228020041
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+31.2%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+31.2%$する。
 - Id: 2022802005
   CardSkillSeriesId: 20228020
   SkillLevel: 5
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020050,20228020051
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+33.6%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+33.6%$する。
 - Id: 2022802006
   CardSkillSeriesId: 20228020
   SkillLevel: 6
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020060,20228020061
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+36%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+36%$する。
 - Id: 2022802007
   CardSkillSeriesId: 20228020
   SkillLevel: 7
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020070,20228020071
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+38.4%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+38.4%$する。
 - Id: 2022802008
   CardSkillSeriesId: 20228020
   SkillLevel: 8
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020080,20228020081
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+40.8%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+40.8%$する。
 - Id: 2022802009
   CardSkillSeriesId: 20228020
   SkillLevel: 9
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020090,20228020091
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+43.2%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+43.2%$する。
 - Id: 2022802010
   CardSkillSeriesId: 20228020
   SkillLevel: 10
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020100,20228020101
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+45.6%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+45.6%$する。
 - Id: 2022802011
   CardSkillSeriesId: 20228020
   SkillLevel: 11
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020110,20228020111
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+48%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+48%$する。
 - Id: 2022802012
   CardSkillSeriesId: 20228020
   SkillLevel: 12
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020120,20228020121
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+50.4%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+50.4%$する。
 - Id: 2022802013
   CardSkillSeriesId: 20228020
   SkillLevel: 13
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020130,20228020131
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+52.8%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+52.8%$する。
 - Id: 2022802014
   CardSkillSeriesId: 20228020
   SkillLevel: 14
   SkillCost: 6
   ApperanceType: 10000020
   CardSkillEffectId: 20228020140,20228020141
-  Description: このステージ中、メイン効果にスキルハート獲得効果を持つスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+60%$する。
+  Description: メイン効果にスキルハート獲得効果を持つ、山札を含む全てのスキルの消費AP-2。さらに4回の間スキルハート獲得効果による獲得数を$+60%$する。
 - Id: 2023301001
   CardSkillSeriesId: 20233010
   SkillLevel: 1
@@ -86826,6 +87806,104 @@
   ApperanceType: 10000020
   CardSkillEffectId: 20234120140,20234120141,20234120142
   Description: このセクション中、手札の上限枚数を2枚増加し、獲得するLOVEを$+25%$する。さらにボルテージPt.を-20する。
+- Id: 2023413001
+  CardSkillSeriesId: 20234130
+  SkillLevel: 1
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130010,20234130011
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+8%$する。
+- Id: 2023413002
+  CardSkillSeriesId: 20234130
+  SkillLevel: 2
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130020,20234130021
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+8.8%$する。
+- Id: 2023413003
+  CardSkillSeriesId: 20234130
+  SkillLevel: 3
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130030,20234130031
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+9.6%$する。
+- Id: 2023413004
+  CardSkillSeriesId: 20234130
+  SkillLevel: 4
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130040,20234130041
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+10.4%$する。
+- Id: 2023413005
+  CardSkillSeriesId: 20234130
+  SkillLevel: 5
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130050,20234130051
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+11.2%$する。
+- Id: 2023413006
+  CardSkillSeriesId: 20234130
+  SkillLevel: 6
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130060,20234130061
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+12%$する。
+- Id: 2023413007
+  CardSkillSeriesId: 20234130
+  SkillLevel: 7
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130070,20234130071
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+12.8%$する。
+- Id: 2023413008
+  CardSkillSeriesId: 20234130
+  SkillLevel: 8
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130080,20234130081
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+13.6%$する。
+- Id: 2023413009
+  CardSkillSeriesId: 20234130
+  SkillLevel: 9
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130090,20234130091
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+14.4%$する。
+- Id: 2023413010
+  CardSkillSeriesId: 20234130
+  SkillLevel: 10
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130100,20234130101
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+16%$する。
+- Id: 2023413011
+  CardSkillSeriesId: 20234130
+  SkillLevel: 11
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130110,20234130111
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+16.8%$する。
+- Id: 2023413012
+  CardSkillSeriesId: 20234130
+  SkillLevel: 12
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130120,20234130121
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+17.6%$する。
+- Id: 2023413013
+  CardSkillSeriesId: 20234130
+  SkillLevel: 13
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130130,20234130131
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+18.4%$する。
+- Id: 2023413014
+  CardSkillSeriesId: 20234130
+  SkillLevel: 14
+  SkillCost: 4
+  ApperanceType: 10000130
+  CardSkillEffectId: 20234130140,20234130141
+  Description: 手札を全て捨てて、デッキから手札上限までスキルを引く。さらに次に使用するラブアトラクト効果を$+20%$する。
 - Id: 2023501001
   CardSkillSeriesId: 20235010
   SkillLevel: 1
@@ -92706,6 +93784,104 @@
   ApperanceType: 10000010
   CardSkillEffectId: "20315200140"
   Description: ビートハート$10回分$のスキルハートを獲得する。
+- Id: 2031521001
+  CardSkillSeriesId: 20315210
+  SkillLevel: 1
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210010,20315210011
+  Description: 2回の間ラブアトラクト効果を$+24%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521002
+  CardSkillSeriesId: 20315210
+  SkillLevel: 2
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210020,20315210021
+  Description: 2回の間ラブアトラクト効果を$+26.4%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521003
+  CardSkillSeriesId: 20315210
+  SkillLevel: 3
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210030,20315210031
+  Description: 2回の間ラブアトラクト効果を$+28.8%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521004
+  CardSkillSeriesId: 20315210
+  SkillLevel: 4
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210040,20315210041
+  Description: 2回の間ラブアトラクト効果を$+31.2%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521005
+  CardSkillSeriesId: 20315210
+  SkillLevel: 5
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210050,20315210051
+  Description: 2回の間ラブアトラクト効果を$+33.6%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521006
+  CardSkillSeriesId: 20315210
+  SkillLevel: 6
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210060,20315210061
+  Description: 2回の間ラブアトラクト効果を$+36%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521007
+  CardSkillSeriesId: 20315210
+  SkillLevel: 7
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210070,20315210071
+  Description: 2回の間ラブアトラクト効果を$+38.4%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521008
+  CardSkillSeriesId: 20315210
+  SkillLevel: 8
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210080,20315210081
+  Description: 2回の間ラブアトラクト効果を$+40.8%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521009
+  CardSkillSeriesId: 20315210
+  SkillLevel: 9
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210090,20315210091
+  Description: 2回の間ラブアトラクト効果を$+43.2%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521010
+  CardSkillSeriesId: 20315210
+  SkillLevel: 10
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210100,20315210101
+  Description: 2回の間ラブアトラクト効果を$+48%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521011
+  CardSkillSeriesId: 20315210
+  SkillLevel: 11
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210110,20315210111
+  Description: 2回の間ラブアトラクト効果を$+50.4%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521012
+  CardSkillSeriesId: 20315210
+  SkillLevel: 12
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210120,20315210121
+  Description: 2回の間ラブアトラクト効果を$+52.8%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521013
+  CardSkillSeriesId: 20315210
+  SkillLevel: 13
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210130,20315210131
+  Description: 2回の間ラブアトラクト効果を$+55.2%$する。さらにメンタルを最大値の10％減少させる。
+- Id: 2031521014
+  CardSkillSeriesId: 20315210
+  SkillLevel: 14
+  SkillCost: 10
+  ApperanceType: 10000020
+  CardSkillEffectId: 20315210140,20315210141
+  Description: 2回の間ラブアトラクト効果を$+60%$する。さらにメンタルを最大値の10％減少させる。
 - Id: 2031801001
   CardSkillSeriesId: 20318010
   SkillLevel: 1
@@ -97318,98 +98494,98 @@
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020010,20328020011
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+12%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+12%$する。
 - Id: 2032802002
   CardSkillSeriesId: 20328020
   SkillLevel: 2
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020020,20328020021
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+13.2%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+13.2%$する。
 - Id: 2032802003
   CardSkillSeriesId: 20328020
   SkillLevel: 3
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020030,20328020031
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+14.4%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+14.4%$する。
 - Id: 2032802004
   CardSkillSeriesId: 20328020
   SkillLevel: 4
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020040,20328020041
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+15.6%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+15.6%$する。
 - Id: 2032802005
   CardSkillSeriesId: 20328020
   SkillLevel: 5
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020050,20328020051
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+16.8%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+16.8%$する。
 - Id: 2032802006
   CardSkillSeriesId: 20328020
   SkillLevel: 6
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020060,20328020061
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+18%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+18%$する。
 - Id: 2032802007
   CardSkillSeriesId: 20328020
   SkillLevel: 7
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020070,20328020071
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+19.2%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+19.2%$する。
 - Id: 2032802008
   CardSkillSeriesId: 20328020
   SkillLevel: 8
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020080,20328020081
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+20.4%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+20.4%$する。
 - Id: 2032802009
   CardSkillSeriesId: 20328020
   SkillLevel: 9
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020090,20328020091
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+21.6%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+21.6%$する。
 - Id: 2032802010
   CardSkillSeriesId: 20328020
   SkillLevel: 10
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020100,20328020101
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+22.8%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+22.8%$する。
 - Id: 2032802011
   CardSkillSeriesId: 20328020
   SkillLevel: 11
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020110,20328020111
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+24%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+24%$する。
 - Id: 2032802012
   CardSkillSeriesId: 20328020
   SkillLevel: 12
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020120,20328020121
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+25.2%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+25.2%$する。
 - Id: 2032802013
   CardSkillSeriesId: 20328020
   SkillLevel: 13
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020130,20328020131
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+26.4%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+26.4%$する。
 - Id: 2032802014
   CardSkillSeriesId: 20328020
   SkillLevel: 14
   SkillCost: 5
   ApperanceType: 10000020
   CardSkillEffectId: 20328020140,20328020141
-  Description: このステージ中、メイン効果に獲得LOVE増加効果を持つスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+30%$する。
+  Description: メイン効果に獲得LOVE増加効果を持つ、山札を含む全てのスキルの消費AP-2。さらに2回の間ラブアトラクト効果を$+30%$する。
 - Id: 2033301001
   CardSkillSeriesId: 20333010
   SkillLevel: 1
@@ -102779,6 +103955,13 @@
   ApperanceType: 0
   CardSkillEffectId: 30215190010,30215190012
   Description: スキル使用時、APを+2し、山札に戻る。
+- Id: 3021520001
+  CardSkillSeriesId: 30215200
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "30215200010"
+  Description: スキル使用時4回まで、このステージ中、AP回復速度を+5%する。
 - Id: 3021801001
   CardSkillSeriesId: 30218010
   SkillLevel: 1
@@ -103079,7 +104262,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30228020010"
-  Description: 手札にある状態でセクションが変わるたび、このステージ中、メイン効果にメンタル回復効果を持つスキルの消費AP-2。
+  Description: 手札にある状態でセクションが変わるたび、メイン効果にメンタル回復効果を持つ、山札を含む全てのスキルの消費AP-2。
 - Id: 3023401001
   CardSkillSeriesId: 30234010
   SkillLevel: 1
@@ -103164,6 +104347,13 @@
   ApperanceType: 0
   CardSkillEffectId: "30234120010"
   Description: 手札にある状態でセクションが変わるたび、ボルテージPt.を＋12する。
+- Id: 3023413001
+  CardSkillSeriesId: 30234130
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: "30234130010"
+  Description: スキル使用時5回まで、このステージ中、AP回復速度を+3%する。
 - Id: 3023501001
   CardSkillSeriesId: 30235010
   SkillLevel: 1
@@ -103556,6 +104746,13 @@
   ApperanceType: 0
   CardSkillEffectId: 30315200010,30315200012
   Description: 3セクション目までにドローした時、AP+1。3セクション目以降にドローした時、消費APを-3する。
+- Id: 3031521001
+  CardSkillSeriesId: 30315210
+  SkillLevel: 1
+  SkillCost: 0
+  ApperanceType: 0
+  CardSkillEffectId: 30315210010,30315210012
+  Description: 現在のボルテージLv.が高いほどスキルの消費APダウン(最大-7)。さらにスキル使用時2回まで、このステージ中、AP回復速度を+10%する。
 - Id: 3031801001
   CardSkillSeriesId: 30318010
   SkillLevel: 1
@@ -103863,7 +105060,7 @@
   SkillCost: 0
   ApperanceType: 0
   CardSkillEffectId: "30328020010"
-  Description: 手札にある状態でセクションが変わるたび、このステージ中、メイン効果にボルテージ増加効果を持つスキルの消費AP-2。
+  Description: 手札にある状態でセクションが変わるたび、メイン効果にボルテージ増加効果を持つ、山札を含む全てのスキルの消費AP-2。
 - Id: 3033401001
   CardSkillSeriesId: 30334010
   SkillLevel: 1

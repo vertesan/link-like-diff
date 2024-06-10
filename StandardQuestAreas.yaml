@@ -273,3 +273,58 @@
   GenerationsId: 104
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1040201
+  Name: 104期 SUMMER Area1
+  Number: 1
+  Description: 104期 SUMMER Area1
+  OrderId: 101
+  ImageType: 2
+  BgImageId: 1040201
+  SoundId: 2
+  GenerationsId: 104
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1040202
+  Name: 104期 SUMMER Area2
+  Number: 2
+  Description: 104期 SUMMER Area2
+  OrderId: 102
+  ImageType: 2
+  BgImageId: 1040202
+  SoundId: 2
+  GenerationsId: 104
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1040203
+  Name: 104期 SUMMER Area3
+  Number: 3
+  Description: 104期 SUMMER Area3
+  OrderId: 103
+  ImageType: 2
+  BgImageId: 1040203
+  SoundId: 2
+  GenerationsId: 104
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1040204
+  Name: 104期 SUMMER Area4
+  Number: 4
+  Description: 104期 SUMMER Area4
+  OrderId: 104
+  ImageType: 2
+  BgImageId: 1040204
+  SoundId: 2
+  GenerationsId: 104
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1040205
+  Name: 104期 SUMMER Area5
+  Number: 5
+  Description: 104期 SUMMER Area5
+  OrderId: 105
+  ImageType: 2
+  BgImageId: 1040205
+  SoundId: 2
+  GenerationsId: 104
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z

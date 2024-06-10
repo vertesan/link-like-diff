@@ -103,3 +103,18 @@
   LimitedPaidGachaResetType: 1
   LimitedPaidButtonDesignType: 1
   MiniBannerPopId: 103
+- Id: 1040203
+  SingleGachaPrice: 0
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 0
+  ConsectiveGachaTimes: 0
+  ConsectiveGachaPopId: 0
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 3000
+  PaidSIsCaOnlyGachaTimes: 10
+  PaidSIsCaOnlyGachaPointFlag: 0
+  PaidSIsCaOnlyGachaaPopId: 301
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 0
+  LimitedPaidButtonDesignType: 1
+  MiniBannerPopId: 102

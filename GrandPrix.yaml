@@ -274,3 +274,15 @@
   InfoEndTime: 2024-05-19T14:59:59Z
   StartTime: 2024-05-10T03:00:00Z
   EndTime: 2024-05-15T18:59:59Z
+- Id: 804103
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦
+  Description: Live Grand Prix 104期1stTerm 第3回 個人戦
+  GrandPrixType: 1
+  GuildRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  PersonalRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2024-06-11T03:00:00Z
+  InfoEndTime: 2024-06-20T14:59:59Z
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2024-06-16T18:59:59Z

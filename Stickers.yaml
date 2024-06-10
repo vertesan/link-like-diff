@@ -1030,6 +1030,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10215201
+  Name: "[H.S.C.T.☆]乙宗梢"
+  Text: "[H.S.C.T.☆]乙宗梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 215201
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021520
+  RequirementText: "[H.S.C.T.☆]乙宗梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10218011
   Name: "[Prism Echo]乙宗梢"
   Text: "[Prism Echo]乙宗梢を4回解放した記念のステッカー"
@@ -1085,7 +1109,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 218021
+  Priority: 218022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -1109,7 +1133,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 218022
+  Priority: 218021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -2213,7 +2237,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 228021
+  Priority: 228022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -2237,7 +2261,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 228022
+  Priority: 228021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -2635,6 +2659,30 @@
   StartTime: 2024-02-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-02-10T01:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10234131
+  Name: "[H.S.C.T.☆]藤島慈"
+  Text: "[H.S.C.T.☆]藤島慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 234131
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023413
+  RequirementText: "[H.S.C.T.☆]藤島慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-10T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -3053,7 +3101,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 238021
+  Priority: 238022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -3077,7 +3125,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 238022
+  Priority: 238021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -4126,6 +4174,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315211
+  Name: "[H.S.C.T.☆]日野下花帆"
+  Text: "[H.S.C.T.☆]日野下花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 315211
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031521
+  RequirementText: "[H.S.C.T.☆]日野下花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10318011
   Name: "[Prism Echo]日野下花帆"
   Text: "[Prism Echo]日野下花帆を4回解放した記念のステッカー"
@@ -4181,7 +4253,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 318021
+  Priority: 318022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -4205,7 +4277,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 318022
+  Priority: 318021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -5333,7 +5405,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 328021
+  Priority: 328022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -5357,7 +5429,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 328022
+  Priority: 328021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -6173,7 +6245,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 338021
+  Priority: 338022
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -6197,7 +6269,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 338022
+  Priority: 338021
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -6341,7 +6413,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 418011
+  Priority: 418012
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -6365,7 +6437,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 418012
+  Priority: 418011
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -6533,7 +6605,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 428011
+  Priority: 428012
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -6557,7 +6629,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 428012
+  Priority: 428011
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -6701,7 +6773,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 430081
+  Priority: 430082
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
@@ -6725,7 +6797,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 430082
+  Priority: 430081
   IsVariant: 0
   RequirementType: 5
   RequirementDetail: 1_LIMIT_BREAK_COUNT
@@ -7006,6 +7078,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20002104
+  Name: キュートアートホルダー【梢】
+  Text: 乙宗梢のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1021
+  Priority: 1000004
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 乙宗梢のスペシャルアピールLv/スキルLvを合計500回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20002201
   Name: スタイルフレーム【綴理】
   Text: 夕霧綴理のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー
@@ -7067,6 +7163,30 @@
   RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
   RequirementValue: 300
   RequirementText: 夕霧綴理のスペシャルアピールLv/スキルLvを合計300回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20002204
+  Name: キュートアートホルダー【綴理】
+  Text: 夕霧綴理のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1022
+  Priority: 1000008
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 夕霧綴理のスペシャルアピールLv/スキルLvを合計500回上げる
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -7150,6 +7270,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20002304
+  Name: キュートアートホルダー【慈】
+  Text: 藤島慈のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1023
+  Priority: 1000012
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 藤島慈のスペシャルアピールLv/スキルLvを合計500回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20003101
   Name: スタイルフレーム【花帆】
   Text: 日野下花帆のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー
@@ -7211,6 +7355,30 @@
   RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
   RequirementValue: 300
   RequirementText: 日野下花帆のスペシャルアピールLv/スキルLvを合計300回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20003104
+  Name: キュートアートホルダー【花帆】
+  Text: 日野下花帆のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1031
+  Priority: 1000016
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 日野下花帆のスペシャルアピールLv/スキルLvを合計500回上げる
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -7294,6 +7462,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20003204
+  Name: キュートアートホルダー【さやか】
+  Text: 村野さやかのスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1032
+  Priority: 1000020
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 村野さやかのスペシャルアピールLv/スキルLvを合計500回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20003301
   Name: スタイルフレーム【瑠璃乃】
   Text: 大沢瑠璃乃のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー
@@ -7355,6 +7547,30 @@
   RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
   RequirementValue: 300
   RequirementText: 大沢瑠璃乃のスペシャルアピールLv/スキルLvを合計300回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20003304
+  Name: キュートアートホルダー【瑠璃乃】
+  Text: 大沢瑠璃乃のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1033
+  Priority: 1000024
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 大沢瑠璃乃のスペシャルアピールLv/スキルLvを合計500回上げる
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -7438,6 +7654,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20004104
+  Name: キュートアートホルダー【吟子】
+  Text: 百生吟子のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1041
+  Priority: 1000028
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 百生吟子のスペシャルアピールLv/スキルLvを合計500回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20004201
   Name: スタイルフレーム【小鈴】
   Text: 徒町小鈴のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー
@@ -7510,6 +7750,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20004204
+  Name: キュートアートホルダー【小鈴】
+  Text: 徒町小鈴のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1042
+  Priority: 1000032
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 徒町小鈴のスペシャルアピールLv/スキルLvを合計500回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20004301
   Name: スタイルフレーム【姫芽】
   Text: 安養寺姫芽のスペシャルアピールLv/スキルLvを合計100回上げた記念のステッカー
@@ -7571,6 +7835,30 @@
   RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
   RequirementValue: 300
   RequirementText: 安養寺姫芽のスペシャルアピールLv/スキルLvを合計300回上げる
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20004304
+  Name: キュートアートホルダー【姫芽】
+  Text: 安養寺姫芽のスペシャルアピールLv/スキルLvを合計500回上げた記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 1043
+  Priority: 1000036
+  IsVariant: 0
+  RequirementType: 9
+  RequirementDetail: SUM_SPECIAL_APPEAL_AND_SKILL_LEVEL_UP_COUNT
+  RequirementValue: 500
+  RequirementText: 安養寺姫芽のスペシャルアピールLv/スキルLvを合計500回上げる
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -18598,6 +18886,510 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340301
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 1位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540301
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340302
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 2位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540302
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340303
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 3位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540303
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340304
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 4位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540304
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340305
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 5位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540305
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340306
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 6位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540306
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340307
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 7位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540307
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340308
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 8位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540308
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340309
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 9位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540309
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340310
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 10位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540310
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340311
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP100位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540311
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340312
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP200位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540312
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340313
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP500位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540313
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340314
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP1000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540314
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340315
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP2000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540315
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340316
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP3000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP3000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540316
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP3000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340317
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP5000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP5000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540317
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP5000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340318
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP7000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP7000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540318
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP7000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340319
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP10000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP10000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540319
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP10000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340320
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP15000位
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP15000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540320
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦 TOP15000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340321
+  Name: Live Grand Prix 104期1stTerm 第3回 個人戦 参加
+  Text: Live Grand Prix 104期1stTerm 第3回 個人戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540321
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期1stTerm 第3回 個人戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-06-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-06-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103101
   Name: 『Dream Believers（4人Ver.）』マエストロ
   Text: 『Dream Believers（4人Ver.）』のマスタリーLv.をMAXにした記念のステッカー
@@ -19318,6 +20110,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40104104
+  Name: 『千変万華（104期Ver.）』マエストロ
+  Text: 『千変万華（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601217
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 104104
+  RequirementText: 『千変万華（104期Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203101
   Name: 『Mix shake!!』マエストロ
   Text: 『Mix shake!!』のマスタリーLv.をMAXにした記念のステッカー
@@ -20027,6 +20843,30 @@
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204102
   RequirementText: 『Mix shake!!（104期Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204103
+  Name: 『ノンフィクションヒーローショー（104期Ver.）』マエストロ
+  Text: 『ノンフィクションヒーローショー（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601613
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204103
+  RequirementText: 『ノンフィクションヒーローショー（104期Ver.）』マスタリーLv.MAX到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -20795,6 +21635,30 @@
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304105
   RequirementText: 『レディバグ』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304106
+  Name: 『KNOT（104期Ver.）』マエストロ
+  Text: 『KNOT（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601418
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304106
+  RequirementText: 『KNOT（104期Ver.）』マスタリーLv.MAX到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -22691,6 +23555,30 @@
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
   RequirementText: みらくら補習室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000019
+  Name: "[みらくら準備室]安養寺\u00a0姫芽"
+  Text: みらくら準備室ラジオの応援ありがとうございます！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150019
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: みらくら準備室ラジオを応援
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
