@@ -958,6 +958,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4021802
   CostNum: 200
+- Id: 10219011
+  CardSeriesId: 1021901
+  LimitBreakTimes: 1
+  CostItemsId: 4021901
+  CostNum: 75
+- Id: 10219012
+  CardSeriesId: 1021901
+  LimitBreakTimes: 2
+  CostItemsId: 4021901
+  CostNum: 75
+- Id: 10219013
+  CardSeriesId: 1021901
+  LimitBreakTimes: 3
+  CostItemsId: 4021901
+  CostNum: 75
+- Id: 10219014
+  CardSeriesId: 1021901
+  LimitBreakTimes: 4
+  CostItemsId: 4021901
+  CostNum: 75
 - Id: 10223011
   CardSeriesId: 1022301
   LimitBreakTimes: 1

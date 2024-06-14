@@ -673,6 +673,16 @@
   MovieType: 2
   Name: 特訓時
   ReleaseConditionText: ""
+- Id: 102190101
+  CardSeriesId: 1021901
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 102190103
+  CardSeriesId: 1021901
+  MovieType: 3
+  Name: 特訓時
+  ReleaseConditionText: ""
 - Id: 102230101
   CardSeriesId: 1022301
   MovieType: 1

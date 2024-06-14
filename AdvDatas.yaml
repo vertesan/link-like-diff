@@ -2140,3 +2140,87 @@
   SubTitleName: 幕間
   StartTime: 2024-06-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 10400302
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 1
+  ScriptId: 10400301
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 154
+  SubTitleName: "1"
+  StartTime: 2024-06-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400303
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 2
+  ScriptId: 10400302
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 155
+  SubTitleName: "2"
+  StartTime: 2024-06-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400304
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 3
+  ScriptId: 10400303
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 156
+  SubTitleName: "3"
+  StartTime: 2024-06-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400305
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 4
+  ScriptId: 10400304
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 157
+  SubTitleName: "4"
+  StartTime: 2024-06-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400306
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 5
+  ScriptId: 10400305
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 158
+  SubTitleName: "5"
+  StartTime: 2024-06-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10400307
+  AdvSeriesId: 104003
+  Name: 第3話『ゆえに、みらくらぱーく！あり』
+  Description: PART 6
+  ScriptId: 0
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 159
+  SubTitleName: "6"
+  StartTime: 2024-06-29T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z

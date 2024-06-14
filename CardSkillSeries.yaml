@@ -530,6 +530,18 @@
   Name: アトラクションゲイン
   SkillIcon: 10218020
   SkillMainEffect: 1
+- Id: 10219010
+  Name: ヒートアップ
+  SkillIcon: 10219010
+  SkillMainEffect: 21
+- Id: 10219011
+  Name: ヒートアップ
+  SkillIcon: 10219010
+  SkillMainEffect: 21
+- Id: 10219012
+  Name: ヒートアップ
+  SkillIcon: 10219010
+  SkillMainEffect: 21
 - Id: 10223010
   Name: ボルテージゲイン
   SkillIcon: 10223010
@@ -3338,6 +3350,10 @@
   Name: ハートチューニング
   SkillIcon: 20218020
   SkillMainEffect: 16
+- Id: 20219010
+  Name: セレブレイション
+  SkillIcon: 20219010
+  SkillMainEffect: 30
 - Id: 20223010
   Name: ボルテージゲイン
   SkillIcon: 20223010
@@ -4398,6 +4414,10 @@
   Name: ドロー：エクステンドハンド ＆ ハートブースト
   SkillIcon: 30218020
   SkillMainEffect: 20
+- Id: 30219010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30219010
+  SkillMainEffect: 29
 - Id: 30224010
   Name: ドロー：APレデュース
   SkillIcon: 30224010
