@@ -739,7 +739,7 @@
   EffectValue: 1
   LimitNum: 9999
   RequestableNum: 0
-  Description: カードパックガチャを1回引くことができるチケット。
+  Description: カードパックガチャを利用することができるチケット。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3002010
@@ -751,7 +751,7 @@
   EffectValue: 1
   LimitNum: 9999
   RequestableNum: 0
-  Description: カードパックガチャを10回引くことができるチケット。
+  Description: カードパックガチャ（10連）を利用することができるチケット。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3002110
@@ -763,7 +763,7 @@
   EffectValue: 1
   LimitNum: 9999
   RequestableNum: 0
-  Description: UR1枚以上確定10連カードパックガチャを10回引くことができるチケット。
+  Description: UR1枚以上確定10連カードパックガチャを利用することができるチケット。
   StartTime: 2023-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003001
@@ -1941,6 +1941,54 @@
   RequestableNum: 0
   Description: "ライブグランプリで獲得できるチケット。集めることで、\\n候補の中から選択したカード1枚と交換できる。"
   StartTime: 2024-04-15T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3012001
+  Name: ブロンズティア
+  NameFurigana: ぶろんずてぃあ
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 1
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "アイテム交換所で使用できる銅のひとしずく。\\nスクールアイドルたちのたゆまぬ鍛錬の賜物。"
+  StartTime: 2024-06-20T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3012002
+  Name: シルバーティア
+  NameFurigana: しるばーてぃあ
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 2
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "アイテム交換所で使用できる銀のひとしずく。\\nスクールアイドルたちのたゆまぬ鍛錬の賜物。"
+  StartTime: 2024-06-20T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3012003
+  Name: ゴールドティア
+  NameFurigana: ごーるどてぃあ
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 3
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "アイテム交換所で使用できる金のひとしずく。\\nスクールアイドルたちのたゆまぬ鍛錬の賜物。"
+  StartTime: 2024-06-20T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3012004
+  Name: クリスタルティア
+  NameFurigana: くりすたるてぃあ
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "アイテム交換所で使用できる煌めく水晶のひとしずく。\\nスクールアイドルたちのたゆまぬ鍛錬の賜物。"
+  StartTime: 2024-06-20T12:30:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4010400
   Name: SR[？？？]？？？
@@ -5062,6 +5110,18 @@
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-05-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041504
+  Name: "[Bloom the smile, Bloom the dream!]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-06-20T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5146,6 +5206,18 @@
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042504
+  Name: "[Bloom the smile, Bloom the dream!]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-06-20T12:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5181,6 +5253,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺姫芽)
   StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043401
+  Name: "[Bloom the smile, Bloom the dream!]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-06-20T12:30:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043501
   Name: "[Dream Believers]安養寺姫芽 解放Pt."

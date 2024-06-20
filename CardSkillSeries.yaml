@@ -3010,6 +3010,18 @@
   Name: ハートゲイン
   SkillIcon: 10415030
   SkillMainEffect: 1
+- Id: 10415040
+  Name: ワイドエクステンド
+  SkillIcon: 10415040
+  SkillMainEffect: 25
+- Id: 10415041
+  Name: ワイドエクステンド
+  SkillIcon: 10415040
+  SkillMainEffect: 25
+- Id: 10415042
+  Name: ワイドエクステンド
+  SkillIcon: 10415040
+  SkillMainEffect: 25
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3090,6 +3102,18 @@
   Name: ビリーフブースト
   SkillIcon: 10425030
   SkillMainEffect: 34
+- Id: 10425040
+  Name: ワイドエクステンド
+  SkillIcon: 10425040
+  SkillMainEffect: 25
+- Id: 10425041
+  Name: ワイドエクステンド
+  SkillIcon: 10425040
+  SkillMainEffect: 25
+- Id: 10425042
+  Name: ワイドエクステンド
+  SkillIcon: 10425040
+  SkillMainEffect: 25
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -3122,6 +3146,18 @@
   Name: メンタルリカバー
   SkillIcon: 10433020
   SkillMainEffect: 5
+- Id: 10434010
+  Name: リフレッシュワイド
+  SkillIcon: 10434010
+  SkillMainEffect: 13
+- Id: 10434011
+  Name: リフレッシュワイド
+  SkillIcon: 10434010
+  SkillMainEffect: 13
+- Id: 10434012
+  Name: リフレッシュワイド
+  SkillIcon: 10434010
+  SkillMainEffect: 13
 - Id: 10435010
   Name: エクステボルテージ
   SkillIcon: 10435010
@@ -4190,6 +4226,10 @@
   Name: ドレス《青嵐の鯉流し》
   SkillIcon: 20415030
   SkillMainEffect: 28
+- Id: 20415040
+  Name: ドレス《Bloom the smile, Bloom the dream!》
+  SkillIcon: 20415040
+  SkillMainEffect: 29
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -4218,6 +4258,10 @@
   Name: ブレイブアトラクション
   SkillIcon: 20425030
   SkillMainEffect: 1
+- Id: 20425040
+  Name: ブレイブワイドブースト
+  SkillIcon: 20425040
+  SkillMainEffect: 25
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -4230,6 +4274,10 @@
   Name: ラブアトラクト
   SkillIcon: 20433020
   SkillMainEffect: 2
+- Id: 20434010
+  Name: リブートハート
+  SkillIcon: 20434010
+  SkillMainEffect: 13
 - Id: 20435010
   Name: ハートブースト：みらくらぱーく！
   SkillIcon: 20435010
@@ -5166,6 +5214,10 @@
   Name: ドロー：APレデュース
   SkillIcon: 30415030
   SkillMainEffect: 17
+- Id: 30415040
+  Name: ドロー：ワイドハート
+  SkillIcon: 30415040
+  SkillMainEffect: 25
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -5186,10 +5238,18 @@
   Name: APゲイン：ブレイブ
   SkillIcon: 30425030
   SkillMainEffect: 14
+- Id: 30425040
+  Name: ドロー：ハートブースト
+  SkillIcon: 30425040
+  SkillMainEffect: 16
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
   SkillMainEffect: 20
+- Id: 30434010
+  Name: ドロー：ワイドハート
+  SkillIcon: 30434010
+  SkillMainEffect: 25
 - Id: 30435010
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 30435010
@@ -5258,6 +5318,14 @@
   Name: ハートアトラクション
   SkillIcon: 80415030
   SkillMainEffect: 1
+- Id: 80055010
+  Name: ワイドハート
+  SkillIcon: 80415040
+  SkillMainEffect: 25
+- Id: 80055020
+  Name: ハートキャプチャ
+  SkillIcon: 80415041
+  SkillMainEffect: 1
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -5307,6 +5375,14 @@
   SkillIcon: 90410000
   SkillMainEffect: 19
 - Id: 90045010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90055010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90055020
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19

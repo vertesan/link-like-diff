@@ -9,8 +9,16 @@
 - Id: 3001
   ShopType: 4
   Name: ペタルコイン交換所
-  OrderId: 3
+  OrderId: 4
 - Id: 4001
   ShopType: 6
   Name: アイテムストア
-  OrderId: 4
+  OrderId: 3
+- Id: 5001
+  ShopType: 7
+  Name: GP PRIZE交換所
+  OrderId: 5
+- Id: 6001
+  ShopType: 3
+  Name: アイテム交換所
+  OrderId: 6
