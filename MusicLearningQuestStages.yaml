@@ -5542,6 +5542,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 402041041
+  LearningLiveSeriesId: 40204104
+  Name: 『みらくりえーしょん』
+  Description: みらくりえーしょん
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020410411
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402041042
+  LearningLiveSeriesId: 40204104
+  Name: 『みらくりえーしょん』
+  Description: みらくりえーしょん
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020410421
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402041043
+  LearningLiveSeriesId: 40204104
+  Name: 『みらくりえーしょん』
+  Description: みらくりえーしょん
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020410431
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402041044
+  LearningLiveSeriesId: 40204104
+  Name: 『みらくりえーしょん』
+  Description: みらくりえーしょん
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020410441
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 402043011
   LearningLiveSeriesId: 40204301
   Name: 『Snow halation』

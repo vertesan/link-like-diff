@@ -216,12 +216,20 @@
   BonusLimitUp: 0
 - Id: 1035604
   GradeQuestSeriesId: 10356
-  OrderId: 4
+  OrderId: 5
   Description: レアリティ：DR
   ConditionsType: 2
   ConditionsValue: 8
   BonusNum: 0
   BonusLimitUp: 30
+- Id: 1035605
+  GradeQuestSeriesId: 10356
+  OrderId: 4
+  Description: レアリティ：BR
+  ConditionsType: 2
+  ConditionsValue: 9
+  BonusNum: 30
+  BonusLimitUp: 0
 - Id: 1041101
   GradeQuestSeriesId: 10411
   OrderId: 1
@@ -312,6 +320,102 @@
   BonusLimitUp: 0
 - Id: 1041304
   GradeQuestSeriesId: 10413
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1041401
+  GradeQuestSeriesId: 10414
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1041402
+  GradeQuestSeriesId: 10414
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1041403
+  GradeQuestSeriesId: 10414
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1041404
+  GradeQuestSeriesId: 10414
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1041501
+  GradeQuestSeriesId: 10415
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1041502
+  GradeQuestSeriesId: 10415
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1041503
+  GradeQuestSeriesId: 10415
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1041504
+  GradeQuestSeriesId: 10415
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1041601
+  GradeQuestSeriesId: 10416
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1041602
+  GradeQuestSeriesId: 10416
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1041603
+  GradeQuestSeriesId: 10416
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1041604
+  GradeQuestSeriesId: 10416
   OrderId: 4
   Description: レアリティ：DR
   ConditionsType: 2

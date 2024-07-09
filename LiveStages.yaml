@@ -2614,6 +2614,78 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100072
+- Id: 531041401
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100012
+- Id: 531041402
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100022
+- Id: 531041403
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100042
+- Id: 531041404
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100052
+- Id: 531041405
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 140
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100013
+- Id: 531041406
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 140
+  MentalStepClass: 2
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100023
+- Id: 531041501
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+- Id: 531041502
+  Name: 路上
+  Description: 路上
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100083
+- Id: 531041503
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100113
 - Id: 571031101
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2694,3 +2766,27 @@
   BaseGainVoltage: 450
   VoltageStepClass: 3
   BackGroundId: 100112
+- Id: 571041401
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 475
+  VoltageStepClass: 3
+  BackGroundId: 100133
+- Id: 571041501
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 3
+  BackGroundId: 100101
+- Id: 571041601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 80
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
