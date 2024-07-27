@@ -154,6 +154,18 @@
   InfoEndTime: 2024-07-01T14:59:59Z
   StartTime: 2024-06-22T03:00:00Z
   EndTime: 2024-06-27T18:59:59Z
+- Id: 704104
+  Name: 104期1stTerm 第4回 サークル対抗戦
+  Description: 104期1stTerm 第4回 サークル対抗戦
+  GrandPrixType: 2
+  GuildRankingTabs: 0,1,10,100,500,1000,1500,2000,5000
+  PersonalRankingTabs: 0,1,10,100,500,1000,1500,2000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2024-07-21T03:00:00Z
+  InfoEndTime: 2024-07-29T14:59:59Z
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2024-07-25T18:59:59Z
 - Id: 803101
   Name: ライブグランプリ 103期第1回個人戦
   Description: ライブグランプリ 103期第1回個人戦
@@ -298,3 +310,15 @@
   InfoEndTime: 2024-06-20T14:59:59Z
   StartTime: 2024-06-11T03:00:00Z
   EndTime: 2024-06-16T18:59:59Z
+- Id: 804104
+  Name: Live Grand Prix 104期1stTerm 第4回 個人戦
+  Description: Live Grand Prix 104期1stTerm 第4回 個人戦
+  GrandPrixType: 1
+  GuildRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  PersonalRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2024-07-11T03:00:00Z
+  InfoEndTime: 2024-07-20T14:59:59Z
+  StartTime: 2024-07-11T03:00:00Z
+  EndTime: 2024-07-16T18:59:59Z

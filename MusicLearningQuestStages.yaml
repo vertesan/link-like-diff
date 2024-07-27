@@ -2814,6 +2814,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 401042011
+  LearningLiveSeriesId: 40104201
+  Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
+  Description: ミラクルショッピング ～ドン・キホーテのテーマ～
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010420111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401042012
+  LearningLiveSeriesId: 40104201
+  Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
+  Description: ミラクルショッピング ～ドン・キホーテのテーマ～
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010420121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401042013
+  LearningLiveSeriesId: 40104201
+  Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
+  Description: ミラクルショッピング ～ドン・キホーテのテーマ～
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010420131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401042014
+  LearningLiveSeriesId: 40104201
+  Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
+  Description: ミラクルショッピング ～ドン・キホーテのテーマ～
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010420141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 402031011
   LearningLiveSeriesId: 40203101
   Name: 『Mix shake!!』
@@ -5625,6 +5713,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4020410441
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 402041051
+  LearningLiveSeriesId: 40204105
+  Name: 『アオクハルカ』
+  Description: アオクハルカ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020410511
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402041052
+  LearningLiveSeriesId: 40204105
+  Name: 『アオクハルカ』
+  Description: アオクハルカ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020410521
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402041053
+  LearningLiveSeriesId: 40204105
+  Name: 『アオクハルカ』
+  Description: アオクハルカ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020410531
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402041054
+  LearningLiveSeriesId: 40204105
+  Name: 『アオクハルカ』
+  Description: アオクハルカ
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204105
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020410541
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000
@@ -8617,6 +8793,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4030410641
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403043011
+  LearningLiveSeriesId: 40304301
+  Name: 『Daydream Warrior』
+  Description: Daydream Warrior
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030430111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403043012
+  LearningLiveSeriesId: 40304301
+  Name: 『Daydream Warrior』
+  Description: Daydream Warrior
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030430121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403043013
+  LearningLiveSeriesId: 40304301
+  Name: 『Daydream Warrior』
+  Description: Daydream Warrior
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030430131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403043014
+  LearningLiveSeriesId: 40304301
+  Name: 『Daydream Warrior』
+  Description: Daydream Warrior
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030430141
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000
