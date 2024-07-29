@@ -418,6 +418,16 @@
   CharactersId: 1041
   CostumesId: 2007
   HairStyleId: 1
+- Id: 2007104201
+  Label: 外出着(春夏)_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 2007
+  HairStyleId: 1
+- Id: 2007104301
+  Label: 外出着(春夏)_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 2007
+  HairStyleId: 1
 - Id: 2007900801
   Label: 外出着(春夏)_村野つかさ
   CharactersId: 9008
@@ -1173,3 +1183,48 @@
   CharactersId: 1043
   CostumesId: 3019
   HairStyleId: 1
+- Id: 3020102102
+  Label: ライブ衣装18_乙宗梢
+  CharactersId: 1021
+  CostumesId: 3020
+  HairStyleId: 2
+- Id: 3020102201
+  Label: ライブ衣装18_夕霧綴理
+  CharactersId: 1022
+  CostumesId: 3020
+  HairStyleId: 1
+- Id: 3020102301
+  Label: ライブ衣装18_藤島慈
+  CharactersId: 1023
+  CostumesId: 3020
+  HairStyleId: 1
+- Id: 3020103101
+  Label: ライブ衣装18_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3020
+  HairStyleId: 1
+- Id: 3020103202
+  Label: ライブ衣装18_村野さやか
+  CharactersId: 1032
+  CostumesId: 3020
+  HairStyleId: 2
+- Id: 3020103301
+  Label: ライブ衣装18_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3020
+  HairStyleId: 1
+- Id: 3020104102
+  Label: ライブ衣装18_百生吟子
+  CharactersId: 1041
+  CostumesId: 3020
+  HairStyleId: 2
+- Id: 3020104201
+  Label: ライブ衣装18_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3020
+  HairStyleId: 2
+- Id: 3020104301
+  Label: ライブ衣装18_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 3020
+  HairStyleId: 2

@@ -37,8 +37,8 @@
 - Id: 103210
   GradeQuestSeriesId: 10321
   ConditionsType: 1
-  ConditionsValue: 10321
-  StartTime: 2029-12-31T15:00:00Z
+  ConditionsValue: 10312
+  StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
 - Id: 103310
   GradeQuestSeriesId: 10331
@@ -75,4 +75,22 @@
   ConditionsType: 1
   ConditionsValue: 10412
   StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104140
+  GradeQuestSeriesId: 10414
+  ConditionsType: 1
+  ConditionsValue: 10413
+  StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104150
+  GradeQuestSeriesId: 10415
+  ConditionsType: 1
+  ConditionsValue: 10414
+  StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104160
+  GradeQuestSeriesId: 10416
+  ConditionsType: 1
+  ConditionsValue: 10415
+  StartTime: 2024-06-30T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z

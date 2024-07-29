@@ -12,10 +12,17 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31049
+  Label: 客電
+  MusicId: 3104
+  HaveMusic: 0
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 31056
   Label: Overture_103th_MusicB
   MusicId: 3105
-  HaveMusic: 0
+  HaveMusic: 1
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
@@ -65,21 +72,21 @@
   Label: SpecialThanks
   MusicId: 3175
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1021,1031
 - Id: 31762
   Label: 青とシャボン
   MusicId: 3176
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 31772
   Label: ミルク
   MusicId: 3177
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 31806
@@ -96,18 +103,67 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 41023
+  Label: みらくりえーしょん
+  MusicId: 4102
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
+- Id: 41033
+  Label: レディバグ
+  MusicId: 4103
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 41043
+  Label: アオクハルカ
+  MusicId: 4104
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 41053
+  Label: ノンフィクションヒーローショー(104期)
+  MusicId: 4105
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
+- Id: 41063
+  Label: Tragic Drops(104期)
+  MusicId: 4106
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 41073
+  Label: 月夜見海月
+  MusicId: 4107
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 41089
+  Label: 永遠のEuphoria(104期)
+  MusicId: 4108
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1031,1041,1022,1032,1042,1023,1033,1043
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 1031026
   Label: 永遠のEuphoria(103期)
   MusicId: 103102
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 1031032
@@ -121,7 +177,7 @@
   Label: Reflection in the mirror(103期)
   MusicId: 103104
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1021,1031
 - Id: 1031052
@@ -135,21 +191,21 @@
   Label: 眩耀夜行
   MusicId: 103106
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1021,1031
 - Id: 1031102
   Label: ハクチューアラモード
   MusicId: 103110
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 1031132
   Label: アイデンティティ(103期)
   MusicId: 103113
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 1031146
@@ -163,7 +219,7 @@
   Label: 千変万華
   MusicId: 103115
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1021,1031
 - Id: 1031186
@@ -205,14 +261,14 @@
   Label: Holiday∞Holiday
   MusicId: 203103
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1021,1031
 - Id: 2031042
   Label: MirageVoyage
   MusicId: 203104
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 2031056
@@ -226,7 +282,7 @@
   Label: ド!ド!ド!
   MusicId: 203106
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 2031072
@@ -240,7 +296,7 @@
   Label: ノンフィクションヒーローショー(103期)
   MusicId: 203108
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 2031091
@@ -261,7 +317,7 @@
   Label: On your mark(103期)
   MusicId: 303101
   HaveMusic: 1
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 3031022
@@ -282,7 +338,7 @@
   Label: Sparkly Spot(103期)
   MusicId: 303104
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 3031062
@@ -303,28 +359,28 @@
   Label: Tragic Drops(103期)
   MusicId: 303108
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 3031092
   Label: ココン東西
   MusicId: 303109
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1023,1033
 - Id: 3031112
   Label: TakeItOver
   MusicId: 303111
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 3031122
   Label: KNOT
   MusicId: 303112
   HaveMusic: 0
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 2
   CharactersIds: 1022,1032
 - Id: 3031136

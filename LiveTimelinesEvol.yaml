@@ -1,3 +1,31 @@
+- Id: 4103321
+  Label: レディバグ_鼓門
+  MusicId: 41033
+  LocationsId: 2
+  FreeId: 1
+  NextId: 31016021
+  MovieIds: ""
+- Id: 31016021
+  Label: 暗転_鼓門
+  MusicId: 31016
+  LocationsId: 2
+  FreeId: 1
+  NextId: -1
+  MovieIds: ""
+- Id: 31016022
+  Label: MCから暗転_鼓門
+  MusicId: 31016
+  LocationsId: 2
+  FreeId: 2
+  NextId: 31016021
+  MovieIds: ""
+- Id: 31016023
+  Label: 暗転から客電_鼓門
+  MusicId: 31016
+  LocationsId: 2
+  FreeId: 2
+  NextId: 31016021
+  MovieIds: ""
 - Id: 31016041
   Label: 暗転_卯辰山
   MusicId: 31016
@@ -19,26 +47,12 @@
   FreeId: 1
   NextId: 31016041
   MovieIds: ""
-- Id: 31016261
-  Label: 暗転(6人)_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
+- Id: 31036021
+  Label: MC_鼓門
+  MusicId: 31036
+  LocationsId: 2
   FreeId: 1
-  NextId: -1
-  MovieIds: ""
-- Id: 31016262
-  Label: MCから暗転(6人)_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
-  FreeId: 2
-  NextId: 31016261
-  MovieIds: ""
-- Id: 31016263
-  Label: 暗転Overture前(6人)_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
-  FreeId: 1
-  NextId: -1
+  NextId: 31016022
   MovieIds: ""
 - Id: 31036041
   Label: MC_卯辰山
@@ -47,27 +61,20 @@
   FreeId: 1
   NextId: 31016042
   MovieIds: ""
-- Id: 31036261
-  Label: MC(6人)_第二音楽堂
-  MusicId: 31036
-  LocationsId: 26
+- Id: 31049021
+  Label: 客電_鼓門
+  MusicId: 31049
+  LocationsId: 2
   FreeId: 1
-  NextId: 31016262
+  NextId: 31016023
   MovieIds: ""
-- Id: 31056261
-  Label: Overture_第二音楽堂
-  MusicId: 31076
-  LocationsId: 26
+- Id: 41019021
+  Label: Overture_鼓門
+  MusicId: 31056
+  LocationsId: 2
   FreeId: 1
-  NextId: 31016261
+  NextId: 31016021
   MovieIds: ""
-- Id: 31716261
-  Label: 抱きしめる花びら_第二音楽堂
-  MusicId: 31716
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
-  MovieIds: "0012"
 - Id: 41019041
   Label: Overture_卯辰山
   MusicId: 41019
@@ -75,19 +82,47 @@
   FreeId: 1
   NextId: 31016041
   MovieIds: "0013"
-- Id: 1031016261
-  Label: DreamBelievers_第二音楽堂
-  MusicId: 1031016
-  LocationsId: 26
+- Id: 41023021
+  Label: みらくりえーしょん_鼓門
+  MusicId: 41023
+  LocationsId: 2
   FreeId: 1
-  NextId: 31016261
+  NextId: 31016021
   MovieIds: ""
-- Id: 1031146261
-  Label: Legato_第二音楽堂
-  MusicId: 1031146
-  LocationsId: 26
+- Id: 41043021
+  Label: アオクハルカ_鼓門
+  MusicId: 41043
+  LocationsId: 2
   FreeId: 1
-  NextId: 31016261
+  NextId: 31016021
+  MovieIds: ""
+- Id: 41053021
+  Label: ノンフィクションヒーローショー (104期)_鼓門
+  MusicId: 41053
+  LocationsId: 2
+  FreeId: 1
+  NextId: 31016021
+  MovieIds: ""
+- Id: 41063021
+  Label: Tragic Drops (104期)_鼓門
+  MusicId: 41063
+  LocationsId: 2
+  FreeId: 1
+  NextId: 31016021
+  MovieIds: ""
+- Id: 41073021
+  Label: 月夜見海月_鼓門
+  MusicId: 41073
+  LocationsId: 2
+  FreeId: 1
+  NextId: 31016021
+  MovieIds: ""
+- Id: 41089021
+  Label: 永遠のEuphoria (104期)_鼓門
+  MusicId: 41089
+  LocationsId: 2
+  FreeId: 1
+  NextId: 31016021
   MovieIds: ""
 - Id: 1041019041
   Label: DreamBelievers_卯辰山
@@ -109,20 +144,6 @@
   LocationsId: 4
   FreeId: 1
   NextId: 31016041
-  MovieIds: ""
-- Id: 2031116261
-  Label: ツバサ・ラ・リベルテ_第二音楽堂
-  MusicId: 2031116
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
-  MovieIds: ""
-- Id: 3031016261
-  Label: OnYourMark_第二音楽堂
-  MusicId: 3031016
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
   MovieIds: ""
 - Id: 3041019041
   Label: OnYourMark_卯辰山

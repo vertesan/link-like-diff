@@ -70,6 +70,10 @@
   Label: 三角帽
   BindBoneId: 10
   PosesId: -1
+- Id: 3101043
+  Label: 三角帽
+  BindBoneId: 10
+  PosesId: -1
 - Id: 4101021
   Label: クリスマス帽
   BindBoneId: 10
@@ -118,12 +122,20 @@
   Label: トナカイカチューシャ
   BindBoneId: 10
   PosesId: -1
+- Id: 6101021
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
 - Id: 6101023
   Label: 黒猫カチューシャ
   BindBoneId: 10
   PosesId: -1
 - Id: 6101042
   Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
+- Id: 7101031
+  Label: うさ耳カチューシャ
   BindBoneId: 10
   PosesId: -1
 - Id: 8101042
@@ -136,5 +148,9 @@
   PosesId: -1
 - Id: 10101032
   Label: 一発芸シルクハット
+  BindBoneId: 10
+  PosesId: -1
+- Id: 11101041
+  Label: 狐耳カチューシャ
   BindBoneId: 10
   PosesId: -1
