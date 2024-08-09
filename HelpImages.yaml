@@ -93,6 +93,26 @@
   Scene: 109
   OrderId: 1
   TitleTextId: 90700001
+- Id: 11001
+  Name: グレードチャレンジ_1
+  Scene: 110
+  OrderId: 1
+  TitleTextId: 90700001
+- Id: 11002
+  Name: グレードチャレンジ_2
+  Scene: 110
+  OrderId: 2
+  TitleTextId: 90700001
+- Id: 11003
+  Name: グレードチャレンジ_3
+  Scene: 110
+  OrderId: 3
+  TitleTextId: 90700001
+- Id: 11004
+  Name: グレードチャレンジ_4
+  Scene: 110
+  OrderId: 4
+  TitleTextId: 90700001
 - Id: 20301
   Name: スクールアイドルコネクト_1
   Scene: 203

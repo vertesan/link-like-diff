@@ -70,6 +70,90 @@
   Description: Gradeを上昇させるのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1005002
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005003
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005004
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005005
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005006
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005007
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1005008
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011
   Name: 猫のダンベルボール
   NameFurigana: ねこのだんべるぼーる
@@ -5230,6 +5314,18 @@
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-06-20T12:30:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041505
+  Name: "[アオクハルカ/華]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-07-31T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5326,6 +5422,18 @@
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-06-20T12:30:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042505
+  Name: "[レディバグ/麗]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-07-31T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5421,6 +5529,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺姫芽)
   StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043505
+  Name: "[みらくりえーしょん/雅]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-07-31T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺姫芽 解放Pt."

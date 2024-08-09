@@ -3118,6 +3118,18 @@
   Name: ワイドエクステンド
   SkillIcon: 10415040
   SkillMainEffect: 25
+- Id: 10415050
+  Name: ワイドゲイン
+  SkillIcon: 10415050
+  SkillMainEffect: 25
+- Id: 10415051
+  Name: ワイドゲイン
+  SkillIcon: 10415050
+  SkillMainEffect: 25
+- Id: 10415052
+  Name: ワイドゲイン
+  SkillIcon: 10415050
+  SkillMainEffect: 25
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3210,6 +3222,18 @@
   Name: ワイドエクステンド
   SkillIcon: 10425040
   SkillMainEffect: 25
+- Id: 10425050
+  Name: アグレッシブビリーフブースト
+  SkillIcon: 10425050
+  SkillMainEffect: 34
+- Id: 10425051
+  Name: アグレッシブビリーフブースト
+  SkillIcon: 10425050
+  SkillMainEffect: 34
+- Id: 10425052
+  Name: アグレッシブビリーフブースト
+  SkillIcon: 10425050
+  SkillMainEffect: 34
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -3301,6 +3325,18 @@
 - Id: 10435042
   Name: イグニッションボルテージ
   SkillIcon: 10435040
+  SkillMainEffect: 35
+- Id: 10435050
+  Name: イグニッションプロテクション
+  SkillIcon: 10435050
+  SkillMainEffect: 35
+- Id: 10435051
+  Name: イグニッションプロテクション
+  SkillIcon: 10435050
+  SkillMainEffect: 35
+- Id: 10435052
+  Name: イグニッションプロテクション
+  SkillIcon: 10435050
   SkillMainEffect: 35
 - Id: 10438011
   Name: エイペックス
@@ -4370,6 +4406,10 @@
   Name: ドレス《Bloom the smile, Bloom the dream!》
   SkillIcon: 20415040
   SkillMainEffect: 28
+- Id: 20415050
+  Name: リメイクドレス《華・麗・雅》
+  SkillIcon: 20415050
+  SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -4402,6 +4442,10 @@
   Name: ブレイブワイドブースト
   SkillIcon: 20425040
   SkillMainEffect: 25
+- Id: 20425050
+  Name: ブレイブアトラクション
+  SkillIcon: 20425050
+  SkillMainEffect: 2
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -4434,6 +4478,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20435040
   SkillMainEffect: 1
+- Id: 20435050
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20435050
+  SkillMainEffect: 36
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -4442,9 +4490,17 @@
   Name: ボルテージゲイン
   SkillIcon: 21435040
   SkillMainEffect: 10
+- Id: 21435050
+  Name: アトラクトブースト
+  SkillIcon: 21435050
+  SkillMainEffect: 30
 - Id: 22435040
   Name: アグレッシブアトラクション
   SkillIcon: 22435040
+  SkillMainEffect: 1
+- Id: 22435050
+  Name: ハートアトラクション
+  SkillIcon: 22435050
   SkillMainEffect: 1
 - Id: 30115010
   Name: グラデュエーション
@@ -5402,6 +5458,10 @@
   Name: ドロー：ワイドハート
   SkillIcon: 30415040
   SkillMainEffect: 25
+- Id: 30415050
+  Name: APレデュース：スリーズブーケ & ショット：APゲイン
+  SkillIcon: 30415050
+  SkillMainEffect: 17
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -5426,6 +5486,10 @@
   Name: ドロー：ハートブースト
   SkillIcon: 30425040
   SkillMainEffect: 16
+- Id: 30425050
+  Name: APゲイン：ブレイブ
+  SkillIcon: 30425050
+  SkillMainEffect: 14
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -5450,6 +5514,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30435040
   SkillMainEffect: 36
+- Id: 30435050
+  Name: オルタネイト：イグニッション
+  SkillIcon: 30435050
+  SkillMainEffect: 36
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -5466,6 +5534,10 @@
   Name: ドロー：ボルテージブースト＆アトラクトブースト：みらくらぱーく！
   SkillIcon: 31435040
   SkillMainEffect: 31
+- Id: 31435050
+  Name: ドロー：アトラクトブースト
+  SkillIcon: 31435050
+  SkillMainEffect: 30
 - Id: 32235160
   Name: レイトドロー：4/APレデュース
   SkillIcon: 32235160
@@ -5477,6 +5549,10 @@
 - Id: 32435040
   Name: アクセラレーション
   SkillIcon: 32435040
+  SkillMainEffect: 17
+- Id: 32435050
+  Name: ドロー：APレデュース
+  SkillIcon: 32435050
   SkillMainEffect: 17
 - Id: 80013010
   Name: ラブアトラクト
@@ -5550,6 +5626,18 @@
   Name: ラブアトラクト
   SkillIcon: 80215210
   SkillMainEffect: 2
+- Id: 80085010
+  Name: ワイドエクステンド
+  SkillIcon: 80415050
+  SkillMainEffect: 20
+- Id: 80085020
+  Name: アグレッシブプロテクトブースト
+  SkillIcon: 80415051
+  SkillMainEffect: 16
+- Id: 80085030
+  Name: アトラクトブースト：みらくらぱーく！
+  SkillIcon: 80415052
+  SkillMainEffect: 30
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -5621,4 +5709,16 @@
 - Id: 90075010
   Name: インスタンス & ドロー：アトラクトブースト
   SkillIcon: 90215210
+  SkillMainEffect: 19
+- Id: 90085010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90085020
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90085030
+  Name: インスタンス
+  SkillIcon: 90410000
   SkillMainEffect: 19
