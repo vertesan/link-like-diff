@@ -2902,6 +2902,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 401041071
+  LearningLiveSeriesId: 40104107
+  Name: 『眩耀夜行（104期Ver.）』
+  Description: 眩耀夜行（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104107
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010410711
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401041072
+  LearningLiveSeriesId: 40104107
+  Name: 『眩耀夜行（104期Ver.）』
+  Description: 眩耀夜行（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104107
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010410721
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401041073
+  LearningLiveSeriesId: 40104107
+  Name: 『眩耀夜行（104期Ver.）』
+  Description: 眩耀夜行（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104107
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010410731
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401041074
+  LearningLiveSeriesId: 40104107
+  Name: 『眩耀夜行（104期Ver.）』
+  Description: 眩耀夜行（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104107
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010410741
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 401042011
   LearningLiveSeriesId: 40104201
   Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
@@ -2985,6 +3073,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4010420141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 401043011
+  LearningLiveSeriesId: 40104301
+  Name: 『夏色えがおで1,2,Jump!』
+  Description: 夏色えがおで1,2,Jump!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010430111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401043012
+  LearningLiveSeriesId: 40104301
+  Name: 『夏色えがおで1,2,Jump!』
+  Description: 夏色えがおで1,2,Jump!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010430121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401043013
+  LearningLiveSeriesId: 40104301
+  Name: 『夏色えがおで1,2,Jump!』
+  Description: 夏色えがおで1,2,Jump!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010430131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401043014
+  LearningLiveSeriesId: 40104301
+  Name: 『夏色えがおで1,2,Jump!』
+  Description: 夏色えがおで1,2,Jump!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104301
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010430141
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000
@@ -5889,6 +6065,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4020410541
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 402041061
+  LearningLiveSeriesId: 40204106
+  Name: 『Mirage Voyage（104期Ver.）』
+  Description: Mirage Voyage（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204106
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020410611
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402041062
+  LearningLiveSeriesId: 40204106
+  Name: 『Mirage Voyage（104期Ver.）』
+  Description: Mirage Voyage（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204106
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020410621
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402041063
+  LearningLiveSeriesId: 40204106
+  Name: 『Mirage Voyage（104期Ver.）』
+  Description: Mirage Voyage（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204106
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020410631
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402041064
+  LearningLiveSeriesId: 40204106
+  Name: 『Mirage Voyage（104期Ver.）』
+  Description: Mirage Voyage（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204106
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020410641
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000

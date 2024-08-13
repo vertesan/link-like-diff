@@ -22,3 +22,7 @@
   ShopType: 3
   Name: アイテム交換所
   OrderId: 6
+- Id: 7001
+  ShopType: 8
+  Name: セレクトチケット交換所
+  OrderId: 7

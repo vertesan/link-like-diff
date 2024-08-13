@@ -526,6 +526,18 @@
   Name: ワイドエクステンド
   SkillIcon: 10215210
   SkillMainEffect: 20
+- Id: 10215220
+  Name: エクステリカバーヒート
+  SkillIcon: 10215220
+  SkillMainEffect: 20
+- Id: 10215221
+  Name: エクステリカバーヒート
+  SkillIcon: 10215220
+  SkillMainEffect: 20
+- Id: 10215222
+  Name: エクステリカバーヒート
+  SkillIcon: 10215220
+  SkillMainEffect: 20
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -842,6 +854,18 @@
   Name: リゲインエクステンド
   SkillIcon: 10224200
   SkillMainEffect: 13
+- Id: 10224210
+  Name: エクステボルテージ
+  SkillIcon: 10224210
+  SkillMainEffect: 20
+- Id: 10224211
+  Name: エクステボルテージ
+  SkillIcon: 10224210
+  SkillMainEffect: 20
+- Id: 10224212
+  Name: エクステボルテージ
+  SkillIcon: 10224210
+  SkillMainEffect: 20
 - Id: 10225010
   Name: ボルテージゲイン
   SkillIcon: 10225010
@@ -1482,6 +1506,18 @@
   Name: リブートプロテクト
   SkillIcon: 10235160
   SkillMainEffect: 13
+- Id: 10235170
+  Name: エクステプロテクトヒート
+  SkillIcon: 10235170
+  SkillMainEffect: 20
+- Id: 10235171
+  Name: エクステプロテクトヒート
+  SkillIcon: 10235170
+  SkillMainEffect: 20
+- Id: 10235172
+  Name: エクステプロテクトヒート
+  SkillIcon: 10235170
+  SkillMainEffect: 20
 - Id: 10238011
   Name: プロテクトフィール
   SkillIcon: 10238011
@@ -3526,6 +3562,10 @@
   Name: ドレス《アオクハルカ》
   SkillIcon: 20215210
   SkillMainEffect: 28
+- Id: 20215220
+  Name: グルーヴィヒート
+  SkillIcon: 20215220
+  SkillMainEffect: 21
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -3633,6 +3673,10 @@
 - Id: 20224200
   Name: ボルテージサポート
   SkillIcon: 20224200
+  SkillMainEffect: 10
+- Id: 20224210
+  Name: グルーヴィボルテージ
+  SkillIcon: 20224210
   SkillMainEffect: 10
 - Id: 20225010
   Name: ボルテージハート
@@ -3849,6 +3893,10 @@
 - Id: 20235160
   Name: ハートブースト
   SkillIcon: 20235160
+  SkillMainEffect: 16
+- Id: 20235170
+  Name: グルーヴィブースト
+  SkillIcon: 20235170
   SkillMainEffect: 16
 - Id: 20238010
   Name: エンデュランス
@@ -4666,6 +4714,10 @@
   Name: ボルテージゲイン＆ワイドハート：スリーズブーケ
   SkillIcon: 30215210
   SkillMainEffect: 10
+- Id: 30215220
+  Name: オーバーセクション：ヒートアップ＆リシャッフル
+  SkillIcon: 30215220
+  SkillMainEffect: 21
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -4758,6 +4810,10 @@
   Name: APゲイン & アンコール
   SkillIcon: 30224200
   SkillMainEffect: 14
+- Id: 30224210
+  Name: ドロー：ヒートアップ
+  SkillIcon: 30224210
+  SkillMainEffect: 21
 - Id: 30225010
   Name: アキューミュレイト
   SkillIcon: 30225010
@@ -4958,6 +5014,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30235160
   SkillMainEffect: 36
+- Id: 30235170
+  Name: ショット：ヒートアップ
+  SkillIcon: 30235170
+  SkillMainEffect: 21
 - Id: 30238010
   Name: ドロー：メンタルプロテクト & APゲイン
   SkillIcon: 30238010

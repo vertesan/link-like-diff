@@ -1186,6 +1186,18 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-07-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003029
+  Name: 【コミケ104出展記念！】URセレクトチケット
+  NameFurigana: こみけいちまるよんしゅってんきねんうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-08-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと
@@ -2674,6 +2686,18 @@
   Description: スタイル解放素材(乙宗梢)
   StartTime: 2024-07-21T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4021522
+  Name: "[PASSION!!!!!!]乙宗梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗梢)
+  StartTime: 2024-08-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4021801
   Name: "[Prism Echo]乙宗梢 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -2997,6 +3021,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(夕霧綴理)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4022421
+  Name: "[PASSION!!!!!!]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-08-11T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4022501
   Name: "[Dream Believers]夕霧綴理 解放Pt."
@@ -3645,6 +3681,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(藤島慈)
   StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4023517
+  Name: "[PASSION!!!!!!]藤島慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島慈)
+  StartTime: 2024-08-11T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4023801
   Name: "[Prism Echo]藤島慈 解放Pt."
