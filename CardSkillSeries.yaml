@@ -3166,6 +3166,18 @@
   Name: ワイドゲイン
   SkillIcon: 10415050
   SkillMainEffect: 25
+- Id: 10415060
+  Name: エクステブーステッドヒート
+  SkillIcon: 10415060
+  SkillMainEffect: 20
+- Id: 10415061
+  Name: エクステブーステッドヒート
+  SkillIcon: 10415060
+  SkillMainEffect: 20
+- Id: 10415062
+  Name: エクステブーステッドヒート
+  SkillIcon: 10415060
+  SkillMainEffect: 20
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3210,6 +3222,18 @@
   Name: プロテクトフィール
   SkillIcon: 10424010
   SkillMainEffect: 7
+- Id: 10424020
+  Name: エクステボルテージ
+  SkillIcon: 10424020
+  SkillMainEffect: 20
+- Id: 10424021
+  Name: エクステボルテージ
+  SkillIcon: 10424020
+  SkillMainEffect: 20
+- Id: 10424022
+  Name: エクステボルテージ
+  SkillIcon: 10424020
+  SkillMainEffect: 20
 - Id: 10425010
   Name: メンタルプロテクト
   SkillIcon: 10425010
@@ -3374,6 +3398,18 @@
   Name: イグニッションプロテクション
   SkillIcon: 10435050
   SkillMainEffect: 35
+- Id: 10435060
+  Name: エクステブーステッドヒート
+  SkillIcon: 10435060
+  SkillMainEffect: 20
+- Id: 10435061
+  Name: エクステブーステッドヒート
+  SkillIcon: 10435060
+  SkillMainEffect: 20
+- Id: 10435062
+  Name: エクステブーステッドヒート
+  SkillIcon: 10435060
+  SkillMainEffect: 20
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -4458,6 +4494,10 @@
   Name: リメイクドレス《華・麗・雅》
   SkillIcon: 20415050
   SkillMainEffect: 28
+- Id: 20415060
+  Name: ドレス《PASSION!!!!!!》
+  SkillIcon: 20415060
+  SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -4473,6 +4513,10 @@
 - Id: 20424010
   Name: ブレイブエクステボルテージ
   SkillIcon: 20424010
+  SkillMainEffect: 10
+- Id: 20424020
+  Name: ブレイブボルテージハート
+  SkillIcon: 20424020
   SkillMainEffect: 10
 - Id: 20425010
   Name: ブレイブアトラクション
@@ -4530,6 +4574,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20435050
   SkillMainEffect: 36
+- Id: 20435060
+  Name: リフレッシュプロテクト
+  SkillIcon: 20435060
+  SkillMainEffect: 13
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -5522,6 +5570,10 @@
   Name: APレデュース：スリーズブーケ & ショット：APゲイン
   SkillIcon: 30415050
   SkillMainEffect: 17
+- Id: 30415060
+  Name: ヒートアップ：ハートキャプチャ
+  SkillIcon: 30415060
+  SkillMainEffect: 21
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -5530,6 +5582,10 @@
   Name: ドロー：APレデュース
   SkillIcon: 30424010
   SkillMainEffect: 17
+- Id: 30424020
+  Name: ヒートアップ：ブレイブ
+  SkillIcon: 30424020
+  SkillMainEffect: 21
 - Id: 30425010
   Name: アキューミュレイト
   SkillIcon: 30425010
@@ -5578,6 +5634,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30435050
   SkillMainEffect: 36
+- Id: 30435060
+  Name: ヒートアップ
+  SkillIcon: 30435060
+  SkillMainEffect: 21
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -5698,6 +5758,10 @@
   Name: アトラクトブースト：みらくらぱーく！
   SkillIcon: 80415052
   SkillMainEffect: 30
+- Id: 80095010
+  Name: ヒートアップ
+  SkillIcon: 80415060
+  SkillMainEffect: 21
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -5779,6 +5843,10 @@
   SkillIcon: 90410000
   SkillMainEffect: 19
 - Id: 90085030
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90095010
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19

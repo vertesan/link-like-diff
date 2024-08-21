@@ -494,6 +494,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 27000
   UrCardEffectBackgroundId: 12310
+- Id: 10415060
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 32500
+  UrCardEffectBackgroundId: 11250
 - Id: 10425010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 16500
@@ -534,3 +538,7 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 53500
   UrCardEffectBackgroundId: 15131
+- Id: 10435060
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 21000
+  UrCardEffectBackgroundId: 11250
