@@ -508,6 +508,21 @@
   CharactersId: 1033
   CostumesId: 2014
   HairStyleId: 5
+- Id: 2014104103
+  Label: 水着_百生吟子
+  CharactersId: 1041
+  CostumesId: 2014
+  HairStyleId: 3
+- Id: 2014104202
+  Label: 水着_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 2014
+  HairStyleId: 2
+- Id: 2014104302
+  Label: 水着_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 2014
+  HairStyleId: 2
 - Id: 2015102105
   Label: 綴理から借りたパジャマ_乙宗梢
   CharactersId: 1021
@@ -1228,3 +1243,13 @@
   CharactersId: 1043
   CostumesId: 3020
   HairStyleId: 2
+- Id: 3021102203
+  Label: ライブ衣装19_夕霧綴理
+  CharactersId: 1022
+  CostumesId: 3021
+  HairStyleId: 3
+- Id: 3021104204
+  Label: ライブ衣装19_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3021
+  HairStyleId: 4
