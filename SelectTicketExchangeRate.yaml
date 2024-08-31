@@ -963,6 +963,16 @@
   ExchangeItemType: 2
   ExchangeItemId: 10225190
   ExchangeItemQuantity: 1
+- Id: 2030706026
+  SelectTicketSeriesId: 2030706
+  ExchangeItemType: 2
+  ExchangeItemId: 10425060
+  ExchangeItemQuantity: 1
+- Id: 2030706027
+  SelectTicketSeriesId: 2030706
+  ExchangeItemType: 2
+  ExchangeItemId: 10225200
+  ExchangeItemQuantity: 1
 - Id: 2030707001
   SelectTicketSeriesId: 2030707
   ExchangeItemType: 2
@@ -2827,6 +2837,16 @@
   SelectTicketSeriesId: 4030011
   ExchangeItemType: 2
   ExchangeItemId: 10435050
+  ExchangeItemQuantity: 1
+- Id: 4030011064
+  SelectTicketSeriesId: 4030011
+  ExchangeItemType: 2
+  ExchangeItemId: 10425060
+  ExchangeItemQuantity: 1
+- Id: 4030011065
+  SelectTicketSeriesId: 4030011
+  ExchangeItemType: 2
+  ExchangeItemId: 10225200
   ExchangeItemQuantity: 1
 - Id: 4030012001
   SelectTicketSeriesId: 4030012
