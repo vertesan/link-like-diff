@@ -3214,6 +3214,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10235181
+  Name: "[DEEPNESS]藤島慈"
+  Text: "[DEEPNESS]藤島慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 235181
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023518
+  RequirementText: "[DEEPNESS]藤島慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-09-12T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-12T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10238011
   Name: "[Prism Echo]藤島慈"
   Text: "[Prism Echo]藤島慈を4回解放した記念のステッカー"
@@ -5110,6 +5134,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10324211
+  Name: "[魔法少女リズミックハート]村野さやか"
+  Text: "[魔法少女リズミックハート]村野さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 324211
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032421
+  RequirementText: "[魔法少女リズミックハート]村野さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-09-12T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-12T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10325011
   Name: "[Dream Believers]村野さやか"
   Text: "[Dream Believers]村野さやかを4回解放した記念のステッカー"
@@ -6499,6 +6547,30 @@
   StartTime: 2024-07-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-07-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10335171
+  Name: "[DEEPNESS]大沢瑠璃乃"
+  Text: "[DEEPNESS]大沢瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 335171
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033517
+  RequirementText: "[DEEPNESS]大沢瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-09-12T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-12T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -22390,6 +22462,510 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340601
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 1位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540601
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340602
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 2位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540602
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340603
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 3位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540603
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340604
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 4位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540604
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340605
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 5位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540605
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340606
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 6位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540606
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340607
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 7位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540607
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340608
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 8位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540608
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340609
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 9位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540609
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340610
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 10位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540610
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340611
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP100位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540611
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340612
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP200位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540612
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340613
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP500位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540613
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340614
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP1000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540614
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340615
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP2000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540615
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340616
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP3000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP3000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540616
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP3000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340617
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP5000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP5000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540617
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP5000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340618
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP7000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP7000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540618
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP7000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340619
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP10000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP10000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540619
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP10000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340620
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP15000位
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP15000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540620
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦 TOP15000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340621
+  Name: Live Grand Prix 104期2ndTerm 第2回 個人戦 参加
+  Text: Live Grand Prix 104期2ndTerm 第2回 個人戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540621
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期2ndTerm 第2回 個人戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103101
   Name: 『Dream Believers（4人Ver.）』マエストロ
   Text: 『Dream Believers（4人Ver.）』のマスタリーLv.をMAXにした記念のステッカー
@@ -25006,6 +25582,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304109
+  Name: 『DEEPNESS（ReC Ver.）』マエストロ
+  Text: 『DEEPNESS（ReC Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601022
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304109
+  RequirementText: 『DEEPNESS（ReC Ver.）』マスタリーLv.MAX到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304301
   Name: 『Daydream Warrior』マエストロ
   Text: 『Daydream Warrior』のマスタリーLv.をMAXにした記念のステッカー
@@ -26614,6 +27214,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000017
+  Name: Live『103期Fes×ReC：LIVE ～first crossing～』ライブキービジュアル
+  Text: 2024.9.12-13 in Zepp Haneda(TOKYO)
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130017
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「Fes×ReC：深化PACK」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 93001001
   Name: from スクフェス2 リズムアイコン
   Text: リズムにあわせてタップ！
@@ -27571,6 +28195,102 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000031
+  Name: みらくらぱーく！ラジオ公開録音 ～夏の大補習まつり～
+  Text: 2024.8.23-24 in ヒューリックホール東京
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150031
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大補習おつかれ☆公開録音ステッカーパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000032
+  Name: "[夏の大補習まつり]安養寺\u00a0姫芽"
+  Text: いつも応援ありがとうございます～
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150032
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大補習おつかれ☆公開録音ステッカーパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000033
+  Name: "[夏の大補習まつり]大沢\u00a0瑠璃乃"
+  Text: いつも応援、ありがとさんきゅ！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150033
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大補習おつかれ☆公開録音ステッカーパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000034
+  Name: "[夏の大補習まつり]藤島\u00a0慈"
+  Text: いつも応援ありがと♡
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150034
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大補習おつかれ☆公開録音ステッカーパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-09-13T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z

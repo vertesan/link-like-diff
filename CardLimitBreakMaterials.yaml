@@ -2638,6 +2638,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4023517
   CostNum: 100
+- Id: 10235181
+  CardSeriesId: 1023518
+  LimitBreakTimes: 1
+  CostItemsId: 4023518
+  CostNum: 100
+- Id: 10235182
+  CardSeriesId: 1023518
+  LimitBreakTimes: 2
+  CostItemsId: 4023518
+  CostNum: 100
+- Id: 10235183
+  CardSeriesId: 1023518
+  LimitBreakTimes: 3
+  CostItemsId: 4023518
+  CostNum: 100
+- Id: 10235184
+  CardSeriesId: 1023518
+  LimitBreakTimes: 4
+  CostItemsId: 4023518
+  CostNum: 100
 - Id: 10238011
   CardSeriesId: 1023801
   LimitBreakTimes: 1
@@ -4138,6 +4158,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4032420
   CostNum: 50
+- Id: 10324211
+  CardSeriesId: 1032421
+  LimitBreakTimes: 1
+  CostItemsId: 4032421
+  CostNum: 50
+- Id: 10324212
+  CardSeriesId: 1032421
+  LimitBreakTimes: 2
+  CostItemsId: 4032421
+  CostNum: 50
+- Id: 10324213
+  CardSeriesId: 1032421
+  LimitBreakTimes: 3
+  CostItemsId: 4032421
+  CostNum: 50
+- Id: 10324214
+  CardSeriesId: 1032421
+  LimitBreakTimes: 4
+  CostItemsId: 4032421
+  CostNum: 50
 - Id: 10325011
   CardSeriesId: 1032501
   LimitBreakTimes: 1
@@ -5257,6 +5297,26 @@
   CardSeriesId: 1033516
   LimitBreakTimes: 4
   CostItemsId: 4033516
+  CostNum: 100
+- Id: 10335171
+  CardSeriesId: 1033517
+  LimitBreakTimes: 1
+  CostItemsId: 4033517
+  CostNum: 100
+- Id: 10335172
+  CardSeriesId: 1033517
+  LimitBreakTimes: 2
+  CostItemsId: 4033517
+  CostNum: 100
+- Id: 10335173
+  CardSeriesId: 1033517
+  LimitBreakTimes: 3
+  CostItemsId: 4033517
+  CostNum: 100
+- Id: 10335174
+  CardSeriesId: 1033517
+  LimitBreakTimes: 4
+  CostItemsId: 4033517
   CostNum: 100
 - Id: 10338011
   CardSeriesId: 1033801

@@ -178,3 +178,33 @@
   ConditionsValue: 104020415
   StartTime: 2024-06-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 10403010
+  ReleaseAreaId: 1040301
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10403020
+  ReleaseAreaId: 1040302
+  ConditionsType: 1
+  ConditionsValue: 104030115
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10403030
+  ReleaseAreaId: 1040303
+  ConditionsType: 1
+  ConditionsValue: 104030215
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10403040
+  ReleaseAreaId: 1040304
+  ConditionsType: 1
+  ConditionsValue: 104030315
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 10403050
+  ReleaseAreaId: 1040305
+  ConditionsType: 1
+  ConditionsValue: 104030415
+  StartTime: 2024-09-13T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
