@@ -448,6 +448,36 @@
   SeriesNum: 3
   StartTime: 2024-08-22T03:00:00Z
   EndTime: 2024-08-27T18:59:59Z
+- Id: 7041061
+  Name: ステージA
+  Description: ステージA
+  GrandPrixesId: 704106
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 1
+  SeriesNum: 1
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2024-09-28T18:59:59Z
+- Id: 7041062
+  Name: ステージB
+  Description: ステージB
+  GrandPrixesId: 704106
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 2
+  SeriesNum: 2
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2024-09-28T18:59:59Z
+- Id: 7041063
+  Name: ステージC
+  Description: ステージC
+  GrandPrixesId: 704106
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 3
+  SeriesNum: 3
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2024-09-28T18:59:59Z
 - Id: 8031011
   Name: ステージA
   Description: ステージA
@@ -898,3 +928,33 @@
   SeriesNum: 3
   StartTime: 2024-09-14T03:00:00Z
   EndTime: 2024-09-19T18:59:59Z
+- Id: 8041071
+  Name: ステージA
+  Description: ステージA
+  GrandPrixesId: 804107
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 1
+  SeriesNum: 1
+  StartTime: 2024-10-11T03:00:00Z
+  EndTime: 2024-10-16T18:59:59Z
+- Id: 8041072
+  Name: ステージB
+  Description: ステージB
+  GrandPrixesId: 804107
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 2
+  SeriesNum: 2
+  StartTime: 2024-10-11T03:00:00Z
+  EndTime: 2024-10-16T18:59:59Z
+- Id: 8041073
+  Name: ステージC
+  Description: ステージC
+  GrandPrixesId: 804107
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 3
+  SeriesNum: 3
+  StartTime: 2024-10-11T03:00:00Z
+  EndTime: 2024-10-16T18:59:59Z

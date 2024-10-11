@@ -90,6 +90,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 50000
   UrCardEffectBackgroundId: 10271
+- Id: 10215230
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 37500
+  UrCardEffectBackgroundId: 20001
 - Id: 10219011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 43500
@@ -174,6 +178,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 33500
   UrCardEffectBackgroundId: 11250
+- Id: 10225210
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 37000
+  UrCardEffectBackgroundId: 20001
 - Id: 10235010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 17500
@@ -246,6 +254,14 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 26500
   UrCardEffectBackgroundId: 10900
+- Id: 10235190
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 27500
+  UrCardEffectBackgroundId: 10141
+- Id: 10235200
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 33500
+  UrCardEffectBackgroundId: 20001
 - Id: 10315010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 17500
@@ -334,6 +350,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 30000
   UrCardEffectBackgroundId: 12291
+- Id: 10315230
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 26500
+  UrCardEffectBackgroundId: 11240
 - Id: 10319011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 35000
@@ -490,6 +510,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 18500
   UrCardEffectBackgroundId: 10900
+- Id: 10335180
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 35000
+  UrCardEffectBackgroundId: 11191
 - Id: 10339011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 30500
@@ -518,6 +542,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 32500
   UrCardEffectBackgroundId: 11250
+- Id: 10415070
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 28000
+  UrCardEffectBackgroundId: 11240
 - Id: 10425010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 16500
@@ -566,3 +594,11 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 21000
   UrCardEffectBackgroundId: 11250
+- Id: 10435070
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 33500
+  UrCardEffectBackgroundId: 11191
+- Id: 10439011
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 38000
+  UrCardEffectBackgroundId: 0
