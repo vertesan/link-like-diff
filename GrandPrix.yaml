@@ -190,6 +190,18 @@
   InfoEndTime: 2024-10-02T14:59:59Z
   StartTime: 2024-09-23T03:00:00Z
   EndTime: 2024-09-28T18:59:59Z
+- Id: 704107
+  Name: 104期2ndTerm 第3回 サークル対抗戦
+  Description: 104期2ndTerm 第3回 サークル対抗戦
+  GrandPrixType: 2
+  GuildRankingTabs: 0,1,10,100,500,1000,1500,2000,5000
+  PersonalRankingTabs: 0,1,10,100,500,1000,1500,2000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2024-10-19T03:00:00Z
+  InfoEndTime: 2024-10-27T14:59:59Z
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2024-10-23T18:59:59Z
 - Id: 803101
   Name: ライブグランプリ 103期第1回個人戦
   Description: ライブグランプリ 103期第1回個人戦

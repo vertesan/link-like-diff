@@ -20306,7 +20306,7 @@
   Rarity: 4
   EvolveTimes: 0
   CardLevelLimitAddition: 0
-  Style: 3
+  Style: 4
   Mood: 2
   ExperienceType: 4
   InitialSmile: 45
@@ -20331,7 +20331,7 @@
   Rarity: 4
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 3
+  Style: 4
   Mood: 2
   ExperienceType: 4
   InitialSmile: 2250
@@ -20356,7 +20356,7 @@
   Rarity: 4
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 3
+  Style: 4
   Mood: 2
   ExperienceType: 4
   InitialSmile: 3150
@@ -20381,7 +20381,7 @@
   Rarity: 4
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 3
+  Style: 4
   Mood: 2
   ExperienceType: 4
   InitialSmile: 4500
@@ -20406,7 +20406,7 @@
   Rarity: 4
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 3
+  Style: 4
   Mood: 2
   ExperienceType: 4
   InitialSmile: 4950
@@ -29323,6 +29323,131 @@
   AttributeId: 30325210
   SpineId: 48
   OrderId: 10371132
+- Id: 10325220
+  CardSeriesId: 1032522
+  Name: 紅葉乃舞姫
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 49
+  InitialPure: 56
+  InitialCool: 38
+  InitialMental: 98
+  MaxSmile: 2450
+  MaxPure: 2800
+  MaxCool: 1900
+  MaxMental: 245
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325220
+  SkillSeriesId: 20325220
+  AttributeId: 30325220
+  SpineId: 50
+  OrderId: 10380932
+- Id: 10325221
+  CardSeriesId: 1032522
+  Name: 紅葉乃舞姫
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2450
+  InitialPure: 2800
+  InitialCool: 1900
+  InitialMental: 245
+  MaxSmile: 3430
+  MaxPure: 3920
+  MaxCool: 2660
+  MaxMental: 343
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325221
+  SkillSeriesId: 20325220
+  AttributeId: 30325220
+  SpineId: 50
+  OrderId: 10380932
+- Id: 10325222
+  CardSeriesId: 1032522
+  Name: 紅葉乃舞姫
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3430
+  InitialPure: 3920
+  InitialCool: 2660
+  InitialMental: 343
+  MaxSmile: 4900
+  MaxPure: 5600
+  MaxCool: 3800
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325222
+  SkillSeriesId: 20325220
+  AttributeId: 30325220
+  SpineId: 50
+  OrderId: 10380932
+- Id: 10325223
+  CardSeriesId: 1032522
+  Name: 紅葉乃舞姫
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4900
+  InitialPure: 5600
+  InitialCool: 3800
+  InitialMental: 490
+  MaxSmile: 5390
+  MaxPure: 6160
+  MaxCool: 4180
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325222
+  SkillSeriesId: 20325220
+  AttributeId: 30325220
+  SpineId: 50
+  OrderId: 10380932
+- Id: 10325224
+  CardSeriesId: 1032522
+  Name: 紅葉乃舞姫
+  Description: 村野さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5390
+  InitialPure: 6160
+  InitialCool: 4180
+  InitialMental: 490
+  MaxSmile: 5880
+  MaxPure: 6720
+  MaxCool: 4560
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325222
+  SkillSeriesId: 20325220
+  AttributeId: 30325220
+  SpineId: 50
+  OrderId: 10380932
 - Id: 10328011
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -33898,6 +34023,131 @@
   AttributeId: 30335180
   SpineId: 39
   OrderId: 10380533
+- Id: 10335190
+  CardSeriesId: 1033519
+  Name: 紅葉乃舞姫
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 50
+  InitialPure: 54
+  InitialCool: 39
+  InitialMental: 98
+  MaxSmile: 2500
+  MaxPure: 2700
+  MaxCool: 1950
+  MaxMental: 245
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335190
+  SkillSeriesId: 20335190
+  AttributeId: 30335190
+  SpineId: 40
+  OrderId: 10380933
+- Id: 10335191
+  CardSeriesId: 1033519
+  Name: 紅葉乃舞姫
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2500
+  InitialPure: 2700
+  InitialCool: 1950
+  InitialMental: 245
+  MaxSmile: 3500
+  MaxPure: 3780
+  MaxCool: 2730
+  MaxMental: 343
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335191
+  SkillSeriesId: 20335190
+  AttributeId: 30335190
+  SpineId: 40
+  OrderId: 10380933
+- Id: 10335192
+  CardSeriesId: 1033519
+  Name: 紅葉乃舞姫
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3500
+  InitialPure: 3780
+  InitialCool: 2730
+  InitialMental: 343
+  MaxSmile: 5000
+  MaxPure: 5400
+  MaxCool: 3900
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335192
+  SkillSeriesId: 20335190
+  AttributeId: 30335190
+  SpineId: 40
+  OrderId: 10380933
+- Id: 10335193
+  CardSeriesId: 1033519
+  Name: 紅葉乃舞姫
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5000
+  InitialPure: 5400
+  InitialCool: 3900
+  InitialMental: 490
+  MaxSmile: 5500
+  MaxPure: 5940
+  MaxCool: 4290
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335192
+  SkillSeriesId: 20335190
+  AttributeId: 30335190
+  SpineId: 40
+  OrderId: 10380933
+- Id: 10335194
+  CardSeriesId: 1033519
+  Name: 紅葉乃舞姫
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5500
+  InitialPure: 5940
+  InitialCool: 4290
+  InitialMental: 490
+  MaxSmile: 6000
+  MaxPure: 6480
+  MaxCool: 4680
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335192
+  SkillSeriesId: 20335190
+  AttributeId: 30335190
+  SpineId: 40
+  OrderId: 10380933
 - Id: 10338011
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -35548,6 +35798,106 @@
   AttributeId: 30418010
   SpineId: 4
   OrderId: 10300141
+- Id: 10419011
+  CardSeriesId: 1041901
+  Name: 16th Birthday
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10419011
+  SkillSeriesId: 20419010
+  AttributeId: 30419010
+  SpineId: 13
+  OrderId: 10381041
+- Id: 10419012
+  CardSeriesId: 1041901
+  Name: 16th Birthday
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10419012
+  SkillSeriesId: 20419010
+  AttributeId: 30419010
+  SpineId: 13
+  OrderId: 10381041
+- Id: 10419013
+  CardSeriesId: 1041901
+  Name: 16th Birthday
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10419012
+  SkillSeriesId: 20419010
+  AttributeId: 30419010
+  SpineId: 13
+  OrderId: 10381041
+- Id: 10419014
+  CardSeriesId: 1041901
+  Name: 16th Birthday
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10419012
+  SkillSeriesId: 20419010
+  AttributeId: 30419010
+  SpineId: 13
+  OrderId: 10381041
 - Id: 10423010
   CardSeriesId: 1042301
   Name: レインボーシフォン

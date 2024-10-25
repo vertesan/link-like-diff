@@ -81,7 +81,7 @@
   GradeQuestSeasonId: 1032
   OrderId: 1
   BackGroundId: 100041
-  MapImageId: "3111"
+  MapImageId: "3211"
   SoundId: 1
   IsTutorial: 0
   DefaultGradeAddSkillsId: ""
@@ -89,18 +89,70 @@
   LivePointBonusLimit: 300
   StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
-- Id: 10331
-  Name: ステージランク1
-  GradeQuestSeasonId: 1033
-  OrderId: 1
-  BackGroundId: 100011
-  MapImageId: "3111"
+- Id: 10322
+  Name: ステージランク2
+  GradeQuestSeasonId: 1032
+  OrderId: 2
+  BackGroundId: 100051
+  MapImageId: 3221,3222
   SoundId: 1
   IsTutorial: 0
   DefaultGradeAddSkillsId: ""
-  DefaultActionPoint: 10
+  DefaultActionPoint: 20
   LivePointBonusLimit: 300
-  StartTime: 2029-12-31T15:00:00Z
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10323
+  Name: ステージランク3
+  GradeQuestSeasonId: 1032
+  OrderId: 3
+  BackGroundId: 100112
+  MapImageId: 3231,3232
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: ""
+  DefaultActionPoint: 25
+  LivePointBonusLimit: 300
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10324
+  Name: ステージランク4
+  GradeQuestSeasonId: 1032
+  OrderId: 4
+  BackGroundId: 100133
+  MapImageId: 3241,3242
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51032401,51032402,51032403,51032404
+  DefaultActionPoint: 30
+  LivePointBonusLimit: 300
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10325
+  Name: ステージランク5
+  GradeQuestSeasonId: 1032
+  OrderId: 5
+  BackGroundId: 100101
+  MapImageId: 3251,3252
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51032501,51032502,51032503
+  DefaultActionPoint: 20
+  LivePointBonusLimit: 300
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10326
+  Name: ステージランク6
+  GradeQuestSeasonId: 1032
+  OrderId: 6
+  BackGroundId: 100121
+  MapImageId: "3241"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51032601,51032602
+  DefaultActionPoint: 1
+  LivePointBonusLimit: 300
+  StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
 - Id: 10341
   Name: ステージランク1
@@ -205,4 +257,82 @@
   DefaultActionPoint: 1
   LivePointBonusLimit: 300
   StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10421
+  Name: ステージランク1
+  GradeQuestSeasonId: 1042
+  OrderId: 1
+  BackGroundId: 100041
+  MapImageId: "3211"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: ""
+  DefaultActionPoint: 15
+  LivePointBonusLimit: 300
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10422
+  Name: ステージランク2
+  GradeQuestSeasonId: 1042
+  OrderId: 2
+  BackGroundId: 100051
+  MapImageId: 3221,3222
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: ""
+  DefaultActionPoint: 20
+  LivePointBonusLimit: 300
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10423
+  Name: ステージランク3
+  GradeQuestSeasonId: 1042
+  OrderId: 3
+  BackGroundId: 100112
+  MapImageId: 3231,3232
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: ""
+  DefaultActionPoint: 25
+  LivePointBonusLimit: 300
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10424
+  Name: ステージランク4
+  GradeQuestSeasonId: 1042
+  OrderId: 4
+  BackGroundId: 100133
+  MapImageId: 3241,3242
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51042401,51042402,51042403,51042404
+  DefaultActionPoint: 30
+  LivePointBonusLimit: 300
+  StartTime: 2024-09-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10425
+  Name: ステージランク5
+  GradeQuestSeasonId: 1042
+  OrderId: 5
+  BackGroundId: 100101
+  MapImageId: 3251,3252
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51042501,51042502,51042503
+  DefaultActionPoint: 20
+  LivePointBonusLimit: 300
+  StartTime: 2024-09-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10426
+  Name: ステージランク6
+  GradeQuestSeasonId: 1042
+  OrderId: 6
+  BackGroundId: 100121
+  MapImageId: "3241"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51042601,51042602,51042603
+  DefaultActionPoint: 1
+  LivePointBonusLimit: 300
+  StartTime: 2024-10-19T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z

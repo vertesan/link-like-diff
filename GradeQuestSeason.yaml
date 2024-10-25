@@ -12,13 +12,6 @@
   Season: 2
   StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
-- Id: 1033
-  Name: 103期AUTUMN
-  OrderId: 13
-  Generation: 103
-  Season: 3
-  StartTime: 2024-04-09T15:00:00Z
-  EndTime: 2035-12-30T15:00:00Z
 - Id: 1034
   Name: 103期WINTER
   OrderId: 14
@@ -39,4 +32,11 @@
   Generation: 104
   Season: 1
   StartTime: 2024-05-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 1042
+  Name: 104期SUMMER
+  OrderId: 7
+  Generation: 104
+  Season: 2
+  StartTime: 2024-08-31T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z

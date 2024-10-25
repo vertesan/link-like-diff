@@ -40,11 +40,35 @@
   ConditionsValue: 10312
   StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
-- Id: 103310
-  GradeQuestSeriesId: 10331
+- Id: 103220
+  GradeQuestSeriesId: 10322
   ConditionsType: 1
-  ConditionsValue: 10331
-  StartTime: 2029-12-31T15:00:00Z
+  ConditionsValue: 10321
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 103230
+  GradeQuestSeriesId: 10323
+  ConditionsType: 1
+  ConditionsValue: 10322
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 103240
+  GradeQuestSeriesId: 10324
+  ConditionsType: 1
+  ConditionsValue: 10323
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 103250
+  GradeQuestSeriesId: 10325
+  ConditionsType: 1
+  ConditionsValue: 10324
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 103260
+  GradeQuestSeriesId: 10326
+  ConditionsType: 1
+  ConditionsValue: 10325
+  StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
 - Id: 103410
   GradeQuestSeriesId: 10341
@@ -93,4 +117,40 @@
   ConditionsType: 1
   ConditionsValue: 10415
   StartTime: 2024-06-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104210
+  GradeQuestSeriesId: 10421
+  ConditionsType: 1
+  ConditionsValue: 10312
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104220
+  GradeQuestSeriesId: 10422
+  ConditionsType: 1
+  ConditionsValue: 10421
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104230
+  GradeQuestSeriesId: 10423
+  ConditionsType: 1
+  ConditionsValue: 10422
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104240
+  GradeQuestSeriesId: 10424
+  ConditionsType: 1
+  ConditionsValue: 10423
+  StartTime: 2024-09-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104250
+  GradeQuestSeriesId: 10425
+  ConditionsType: 1
+  ConditionsValue: 10424
+  StartTime: 2024-09-30T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 104260
+  GradeQuestSeriesId: 10426
+  ConditionsType: 1
+  ConditionsValue: 10425
+  StartTime: 2024-10-19T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z

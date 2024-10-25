@@ -1907,17 +1907,17 @@
   SkillIcon: 10314200
   SkillMainEffect: 5
 - Id: 10314210
-  Name: 仮
+  Name: リゲインボルテージ
   SkillIcon: 10314210
-  SkillMainEffect: 1
+  SkillMainEffect: 13
 - Id: 10314211
-  Name: 仮
+  Name: リゲインボルテージ
   SkillIcon: 10314210
-  SkillMainEffect: 1
+  SkillMainEffect: 13
 - Id: 10314212
-  Name: 仮
+  Name: リゲインボルテージ
   SkillIcon: 10314210
-  SkillMainEffect: 1
+  SkillMainEffect: 13
 - Id: 10315010
   Name: ハートキャプチャ
   SkillIcon: 10315010
@@ -2774,6 +2774,18 @@
   Name: アグレッシブブースト：DOLLCHESTRA
   SkillIcon: 10325210
   SkillMainEffect: 30
+- Id: 10325220
+  Name: リフレッシュハート
+  SkillIcon: 10325220
+  SkillMainEffect: 13
+- Id: 10325221
+  Name: リフレッシュハート
+  SkillIcon: 10325220
+  SkillMainEffect: 13
+- Id: 10325222
+  Name: リフレッシュハート
+  SkillIcon: 10325220
+  SkillMainEffect: 13
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -3210,6 +3222,18 @@
   Name: メンターリカバー
   SkillIcon: 10335180
   SkillMainEffect: 35
+- Id: 10335190
+  Name: リフレッシュプロテクト
+  SkillIcon: 10335190
+  SkillMainEffect: 13
+- Id: 10335191
+  Name: リフレッシュプロテクト
+  SkillIcon: 10335190
+  SkillMainEffect: 13
+- Id: 10335192
+  Name: リフレッシュプロテクト
+  SkillIcon: 10335190
+  SkillMainEffect: 13
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -3366,6 +3390,18 @@
   Name: リフレッシュブースト
   SkillIcon: 10418010
   SkillMainEffect: 13
+- Id: 10419010
+  Name: ドレス《16th Birthday》
+  SkillIcon: 10419010
+  SkillMainEffect: 28
+- Id: 10419011
+  Name: ドレス《16th Birthday》
+  SkillIcon: 10419010
+  SkillMainEffect: 28
+- Id: 10419012
+  Name: ドレス《16th Birthday》
+  SkillIcon: 10419010
+  SkillMainEffect: 28
 - Id: 10423010
   Name: ラブアトラクト
   SkillIcon: 10423010
@@ -4283,9 +4319,9 @@
   SkillIcon: 20314200
   SkillMainEffect: 13
 - Id: 20314210
-  Name: 仮
+  Name: フルネスエクステボルテージ
   SkillIcon: 20314210
-  SkillMainEffect: 1
+  SkillMainEffect: 20
 - Id: 20315010
   Name: ハートキャプチャ
   SkillIcon: 20315010
@@ -4574,6 +4610,10 @@
   Name: ブレイブブーステッドリカバー：DOLLCHESTRA
   SkillIcon: 20325210
   SkillMainEffect: 30
+- Id: 20325220
+  Name: フルネスエクステハート
+  SkillIcon: 20325220
+  SkillMainEffect: 20
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -4722,6 +4762,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20335180
   SkillMainEffect: 36
+- Id: 20335190
+  Name: フルネスエクステプロテクト
+  SkillIcon: 20335190
+  SkillMainEffect: 20
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -4778,6 +4822,10 @@
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
   SkillMainEffect: 28
+- Id: 20419010
+  Name: セレブレイション
+  SkillIcon: 20419010
+  SkillMainEffect: 30
 - Id: 20423010
   Name: メンタルリカバー
   SkillIcon: 20423010
@@ -5495,9 +5543,9 @@
   SkillIcon: 30314200
   SkillMainEffect: 14
 - Id: 30314210
-  Name: 仮
+  Name: ドロー：APレデュース：グルーヴィ＆チアフル
   SkillIcon: 30314210
-  SkillMainEffect: 904
+  SkillMainEffect: 17
 - Id: 30315010
   Name: フェイバリット：フィーバー & APレデュース：ラブアトラクト
   SkillIcon: 30315010
@@ -5770,6 +5818,10 @@
   Name: アトラクトブースト：DOLLCHESTRA：DOLLCHESTRA
   SkillIcon: 30325210
   SkillMainEffect: 30
+- Id: 30325220
+  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル
+  SkillIcon: 30325220
+  SkillMainEffect: 31
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -5902,6 +5954,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30335180
   SkillMainEffect: 36
+- Id: 30335190
+  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル
+  SkillIcon: 30335190
+  SkillMainEffect: 31
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -5950,6 +6006,10 @@
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
   SkillMainEffect: 28
+- Id: 30419010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30419010
+  SkillMainEffect: 29
 - Id: 30424010
   Name: ドロー：APレデュース
   SkillIcon: 30424010
@@ -6182,6 +6242,10 @@
   Name: アバンダンスアトラクション
   SkillIcon: 80415070
   SkillMainEffect: 2
+- Id: 80135010
+  Name: ファッシネイション
+  SkillIcon: 80419010
+  SkillMainEffect: 2
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -6281,4 +6345,8 @@
 - Id: 90125010
   Name: インスタンス
   SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90135010
+  Name: インスタンス＆ドロー：マルチブースト：ドレス
+  SkillIcon: 90419010
   SkillMainEffect: 19

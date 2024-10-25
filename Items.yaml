@@ -4978,6 +4978,18 @@
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-08-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032522
+  Name: "[紅葉乃舞姫]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5422,6 +5434,18 @@
   Description: スタイル解放素材(大沢瑠璃乃)
   StartTime: 2024-09-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033519
+  Name: "[紅葉乃舞姫]大沢瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢瑠璃乃)
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5589,6 +5613,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041901
+  Name: "[16th Birthday]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-10-19T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042301
   Name: "[レインボーシフォン]徒町小鈴 解放Pt."
