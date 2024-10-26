@@ -33,6 +33,13 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31069
+  Label: 幕間演出
+  MusicId: 3106
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 31076
   Label: Overture_103th_MusicA
   MusicId: 3107
@@ -152,6 +159,27 @@
   HaveMotion: 1
   CharactersCount: 9
   CharactersIds: 1021,1031,1041,1022,1032,1042,1023,1033,1043
+- Id: 41093
+  Label: proof
+  MusicId: 4109
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 41103
+  Label: ファンファーレ！！！
+  MusicId: 4110
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
+- Id: 41119
+  Label: Now or Never
+  MusicId: 4111
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
@@ -229,6 +257,13 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 1031189
+  Label: Link to the FUTURE(104期)
+  MusicId: 103118
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1041019
   Label: DreamBelievers(104期)
   MusicId: 104101
