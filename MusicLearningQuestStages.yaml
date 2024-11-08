@@ -3254,6 +3254,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 401041111
+  LearningLiveSeriesId: 40104111
+  Name: 『Link to the FUTURE（104期Ver.）』
+  Description: Link to the FUTURE（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010411111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 401041112
+  LearningLiveSeriesId: 40104111
+  Name: 『Link to the FUTURE（104期Ver.）』
+  Description: Link to the FUTURE（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010411121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 401041113
+  LearningLiveSeriesId: 40104111
+  Name: 『Link to the FUTURE（104期Ver.）』
+  Description: Link to the FUTURE（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010411131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 401041114
+  LearningLiveSeriesId: 40104111
+  Name: 『Link to the FUTURE（104期Ver.）』
+  Description: Link to the FUTURE（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010411141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 401042011
   LearningLiveSeriesId: 40104201
   Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』
@@ -10553,6 +10641,182 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4030411241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403041131
+  LearningLiveSeriesId: 40304113
+  Name: 『Now or Never』
+  Description: Now or Never
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030411311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403041132
+  LearningLiveSeriesId: 40304113
+  Name: 『Now or Never』
+  Description: Now or Never
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030411321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403041133
+  LearningLiveSeriesId: 40304113
+  Name: 『Now or Never』
+  Description: Now or Never
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030411331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403041134
+  LearningLiveSeriesId: 40304113
+  Name: 『Now or Never』
+  Description: Now or Never
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304113
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030411341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403042011
+  LearningLiveSeriesId: 40304201
+  Name: 『This game』
+  Description: This game
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030420111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403042012
+  LearningLiveSeriesId: 40304201
+  Name: 『This game』
+  Description: This game
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030420121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403042013
+  LearningLiveSeriesId: 40304201
+  Name: 『This game』
+  Description: This game
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030420131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403042014
+  LearningLiveSeriesId: 40304201
+  Name: 『This game』
+  Description: This game
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304201
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030420141
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000

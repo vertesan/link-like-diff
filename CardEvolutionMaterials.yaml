@@ -7943,6 +7943,34 @@
   CostNum2: 72
   CostItemsId3: 3005041
   CostNum3: 144
+- Id: 10415081
+  CostItemsId1: 3005042
+  CostNum1: 24
+  CostItemsId2: 3005041
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10415082
+  CostItemsId1: 3005043
+  CostNum1: 24
+  CostItemsId2: 3005042
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10415083
+  CostItemsId1: 3005043
+  CostNum1: 36
+  CostItemsId2: 3005042
+  CostNum2: 60
+  CostItemsId3: 3005041
+  CostNum3: 96
+- Id: 10415084
+  CostItemsId1: 3005043
+  CostNum1: 48
+  CostItemsId2: 3005042
+  CostNum2: 72
+  CostItemsId3: 3005041
+  CostNum3: 144
 - Id: 10418012
   CostItemsId1: 3005043
   CostNum1: 60
@@ -8265,6 +8293,34 @@
   CostNum2: 72
   CostItemsId3: 3005011
   CostNum3: 144
+- Id: 10425071
+  CostItemsId1: 3005022
+  CostNum1: 24
+  CostItemsId2: 3005021
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10425072
+  CostItemsId1: 3005023
+  CostNum1: 24
+  CostItemsId2: 3005022
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10425073
+  CostItemsId1: 3005023
+  CostNum1: 36
+  CostItemsId2: 3005022
+  CostNum2: 60
+  CostItemsId3: 3005021
+  CostNum3: 96
+- Id: 10425074
+  CostItemsId1: 3005023
+  CostNum1: 48
+  CostItemsId2: 3005022
+  CostNum2: 72
+  CostItemsId3: 3005021
+  CostNum3: 144
 - Id: 10428012
   CostItemsId1: 3005033
   CostNum1: 60
@@ -8565,6 +8621,34 @@
   CostItemsId2: 3005012
   CostNum2: 72
   CostItemsId3: 3005011
+  CostNum3: 144
+- Id: 10435081
+  CostItemsId1: 3005032
+  CostNum1: 24
+  CostItemsId2: 3005031
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10435082
+  CostItemsId1: 3005033
+  CostNum1: 24
+  CostItemsId2: 3005032
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10435083
+  CostItemsId1: 3005033
+  CostNum1: 36
+  CostItemsId2: 3005032
+  CostNum2: 60
+  CostItemsId3: 3005031
+  CostNum3: 96
+- Id: 10435084
+  CostItemsId1: 3005033
+  CostNum1: 48
+  CostItemsId2: 3005032
+  CostNum2: 72
+  CostItemsId3: 3005031
   CostNum3: 144
 - Id: 10438012
   CostItemsId1: 3005023

@@ -3382,6 +3382,18 @@
   Name: リフレッシュゲイン
   SkillIcon: 10415070
   SkillMainEffect: 13
+- Id: 10415080
+  Name: Link! Like! Order! 9
+  SkillIcon: 10415080
+  SkillMainEffect: 24
+- Id: 10415081
+  Name: Link! Like! Order! 9
+  SkillIcon: 10415080
+  SkillMainEffect: 24
+- Id: 10415082
+  Name: Link! Like! Order! 9
+  SkillIcon: 10415080
+  SkillMainEffect: 24
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3522,6 +3534,18 @@
   Name: ビリーフブースト：DOLLCHESTRA
   SkillIcon: 10425060
   SkillMainEffect: 34
+- Id: 10425070
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10425070
+  SkillMainEffect: 34
+- Id: 10425071
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10425070
+  SkillMainEffect: 34
+- Id: 10425072
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10425070
+  SkillMainEffect: 34
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -3649,6 +3673,18 @@
 - Id: 10435072
   Name: モードチェンジ
   SkillIcon: 10435070
+  SkillMainEffect: 35
+- Id: 10435080
+  Name: リフレッシュチェンジ
+  SkillIcon: 10435080
+  SkillMainEffect: 35
+- Id: 10435081
+  Name: リフレッシュチェンジ
+  SkillIcon: 10435080
+  SkillMainEffect: 35
+- Id: 10435082
+  Name: リフレッシュチェンジ
+  SkillIcon: 10435080
   SkillMainEffect: 35
 - Id: 10438011
   Name: エイペックス
@@ -4023,7 +4059,7 @@
   SkillIcon: 20225120
   SkillMainEffect: 10
 - Id: 20225130
-  Name: アグレッシブハート
+  Name: アグレッシブブレイブハート
   SkillIcon: 20225130
   SkillMainEffect: 1
 - Id: 20225140
@@ -4367,7 +4403,7 @@
   SkillIcon: 20315110
   SkillMainEffect: 16
 - Id: 20315120
-  Name: ハートアトラクション
+  Name: ブレイブアトラクション
   SkillIcon: 20315120
   SkillMainEffect: 1
 - Id: 20315130
@@ -4491,7 +4527,7 @@
   SkillIcon: 20324120
   SkillMainEffect: 2
 - Id: 20324130
-  Name: アグレッシブアトラクト
+  Name: アグレッシブブレイブアトラクション
   SkillIcon: 20324130
   SkillMainEffect: 2
 - Id: 20324140
@@ -4815,8 +4851,12 @@
   SkillIcon: 20415060
   SkillMainEffect: 28
 - Id: 20415070
-  Name: ドレス：月夜見海月
+  Name: ドレス《月夜見海月》
   SkillIcon: 20415070
+  SkillMainEffect: 28
+- Id: 20415080
+  Name: ドレス《Link to the FUTURE》
+  SkillIcon: 20415080
   SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
@@ -4866,6 +4906,10 @@
   Name: ブレイブアトラクション
   SkillIcon: 20425060
   SkillMainEffect: 1
+- Id: 20425070
+  Name: モジュレートボルテージハート
+  SkillIcon: 20425070
+  SkillMainEffect: 10
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -4910,6 +4954,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20435070
   SkillMainEffect: 36
+- Id: 20435080
+  Name: モジュレートエクステブースト
+  SkillIcon: 20435080
+  SkillMainEffect: 7
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -5011,7 +5059,7 @@
   SkillIcon: 30214120
   SkillMainEffect: 17
 - Id: 30214130
-  Name: オーバーセクション：アグレッシブ
+  Name: オーバーセクション：アグレッシブ & アキューミュレイト
   SkillIcon: 30214130
   SkillMainEffect: 5
 - Id: 30214140
@@ -5343,11 +5391,11 @@
   SkillIcon: 30234050
   SkillMainEffect: 17
 - Id: 30234060
-  Name: チェイン：花帆
+  Name: チェイン：花帆 & リカバーブースト：花帆
   SkillIcon: 30234060
   SkillMainEffect: 902
 - Id: 30234070
-  Name: ドロー：カームダウン
+  Name: ドロー：カームダウン & ハートブースト
   SkillIcon: 30234070
   SkillMainEffect: 10
 - Id: 30234080
@@ -5391,7 +5439,7 @@
   SkillIcon: 30235040
   SkillMainEffect: 5
 - Id: 30235050
-  Name: フェイバリット：1
+  Name: フェイバリット：1 & ジャストドロー：1/ボルテージブースト：みらくらぱーく！
   SkillIcon: 30235050
   SkillMainEffect: 902
 - Id: 30235060
@@ -5511,7 +5559,7 @@
   SkillIcon: 30314120
   SkillMainEffect: 17
 - Id: 30314130
-  Name: ドロー：APレデュース
+  Name: ドロー：APレデュース & アトラクトブースト：慈
   SkillIcon: 30314130
   SkillMainEffect: 17
 - Id: 30314140
@@ -5779,7 +5827,7 @@
   SkillIcon: 30325110
   SkillMainEffect: 17
 - Id: 30325120
-  Name: チェイン：瑠璃乃
+  Name: チェイン：瑠璃乃 & ドロー：ボルテージブースト
   SkillIcon: 30325120
   SkillMainEffect: 902
 - Id: 30325130
@@ -5851,7 +5899,7 @@
   SkillIcon: 30334050
   SkillMainEffect: 17
 - Id: 30334060
-  Name: フェイバリット：1
+  Name: フェイバリット：1 & ジャストドロー：1/リカバーブースト：みらくらぱーく！
   SkillIcon: 30334060
   SkillMainEffect: 902
 - Id: 30334070
@@ -5899,11 +5947,11 @@
   SkillIcon: 30335040
   SkillMainEffect: 18
 - Id: 30335050
-  Name: APレデュース：ハイメンタル
+  Name: APレデュース：ハイメンタル & リカバーブースト：さやか
   SkillIcon: 30335050
   SkillMainEffect: 17
 - Id: 30335060
-  Name: ドロー：カームダウン
+  Name: ドロー：カームダウン & アトラクトブースト
   SkillIcon: 30335060
   SkillMainEffect: 10
 - Id: 30335070
@@ -6002,6 +6050,10 @@
   Name: ドロー：アバンダンス/エクステンドハンド
   SkillIcon: 30415070
   SkillMainEffect: 20
+- Id: 30415080
+  Name: サーチ：小鈴 & ショット：APゲイン
+  SkillIcon: 30415080
+  SkillMainEffect: 905
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -6042,6 +6094,10 @@
   Name: ショット：ビリーフ＆APレデュース：ブレイブ
   SkillIcon: 30425060
   SkillMainEffect: 34
+- Id: 30425070
+  Name: サーチ：姫芽 & ショット：APゲイン
+  SkillIcon: 30425070
+  SkillMainEffect: 905
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -6078,6 +6134,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30435070
   SkillMainEffect: 36
+- Id: 30435080
+  Name: サーチ：吟子 & ショット：APゲイン
+  SkillIcon: 30435080
+  SkillMainEffect: 905
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -6246,6 +6306,10 @@
   Name: ファッシネイション
   SkillIcon: 80419010
   SkillMainEffect: 2
+- Id: 80145010
+  Name: アバンダンスボルテックスアトラクション
+  SkillIcon: 80415080
+  SkillMainEffect: 1
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -6349,4 +6413,8 @@
 - Id: 90135010
   Name: インスタンス＆ドロー：マルチブースト：ドレス
   SkillIcon: 90419010
+  SkillMainEffect: 19
+- Id: 90145010
+  Name: インスタンス
+  SkillIcon: 90410000
   SkillMainEffect: 19
