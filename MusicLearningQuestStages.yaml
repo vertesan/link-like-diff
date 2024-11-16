@@ -7038,6 +7038,94 @@
   Score1: 45000000
   GainStylePoint: 200
   GainMusicExp: 150
+- Id: 402041111
+  LearningLiveSeriesId: 40204111
+  Name: 『ド！ド！ド！（104期Ver.）』
+  Description: ド！ド！ド！（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4020411111
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 402041112
+  LearningLiveSeriesId: 40204111
+  Name: 『ド！ド！ド！（104期Ver.）』
+  Description: ド！ド！ド！（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4020411121
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 402041113
+  LearningLiveSeriesId: 40204111
+  Name: 『ド！ド！ド！（104期Ver.）』
+  Description: ド！ド！ド！（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4020411131
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 402041114
+  LearningLiveSeriesId: 40204111
+  Name: 『ド！ド！ド！（104期Ver.）』
+  Description: ド！ド！ド！（104期Ver.）
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4020411141
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
 - Id: 402042011
   LearningLiveSeriesId: 40204201
   Name: 『ビビデバ』
@@ -10729,6 +10817,94 @@
   QuestLevel: 60
   QuestRank: 4
   FirstClearRewardSeriesId: 4030411341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+- Id: 403041141
+  LearningLiveSeriesId: 40304114
+  Name: 『ジョーショーキリュー』
+  Description: ジョーショーキリュー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4030411411
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+- Id: 403041142
+  LearningLiveSeriesId: 40304114
+  Name: 『ジョーショーキリュー』
+  Description: ジョーショーキリュー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4030411421
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+- Id: 403041143
+  LearningLiveSeriesId: 40304114
+  Name: 『ジョーショーキリュー』
+  Description: ジョーショーキリュー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4030411431
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+- Id: 403041144
+  LearningLiveSeriesId: 40304114
+  Name: 『ジョーショーキリュー』
+  Description: ジョーショーキリュー
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 304114
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4030411441
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 45000000

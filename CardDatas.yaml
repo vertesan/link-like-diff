@@ -12473,6 +12473,106 @@
   AttributeId: 30228020
   SpineId: 44
   OrderId: 10300122
+- Id: 10229011
+  CardSeriesId: 1022901
+  Name: 18th Birthday
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10229011
+  SkillSeriesId: 20229010
+  AttributeId: 30229010
+  SpineId: 50
+  OrderId: 10381322
+- Id: 10229012
+  CardSeriesId: 1022901
+  Name: 18th Birthday
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10229012
+  SkillSeriesId: 20229010
+  AttributeId: 30229010
+  SpineId: 50
+  OrderId: 10381322
+- Id: 10229013
+  CardSeriesId: 1022901
+  Name: 18th Birthday
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10229012
+  SkillSeriesId: 20229010
+  AttributeId: 30229010
+  SpineId: 50
+  OrderId: 10381322
+- Id: 10229014
+  CardSeriesId: 1022901
+  Name: 18th Birthday
+  Description: 夕霧綴理
+  CharactersId: 1022
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10229012
+  SkillSeriesId: 20229010
+  AttributeId: 30229010
+  SpineId: 50
+  OrderId: 10381322
 - Id: 10233010
   CardSeriesId: 1023301
   Name: オーロラスカイ
@@ -17098,6 +17198,131 @@
   AttributeId: 30235200
   SpineId: 40
   OrderId: 10380823
+- Id: 10235210
+  CardSeriesId: 1023521
+  Name: ジョーショーキリュー
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 38
+  InitialPure: 41
+  InitialCool: 59
+  InitialMental: 108
+  MaxSmile: 1900
+  MaxPure: 2050
+  MaxCool: 2950
+  MaxMental: 270
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235210
+  SkillSeriesId: 20235210
+  AttributeId: 30235210
+  SpineId: 41
+  OrderId: 10381223
+- Id: 10235211
+  CardSeriesId: 1023521
+  Name: ジョーショーキリュー
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 1900
+  InitialPure: 2050
+  InitialCool: 2950
+  InitialMental: 270
+  MaxSmile: 2660
+  MaxPure: 2870
+  MaxCool: 4130
+  MaxMental: 378
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235211
+  SkillSeriesId: 20235210
+  AttributeId: 30235210
+  SpineId: 41
+  OrderId: 10381223
+- Id: 10235212
+  CardSeriesId: 1023521
+  Name: ジョーショーキリュー
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 2660
+  InitialPure: 2870
+  InitialCool: 4130
+  InitialMental: 378
+  MaxSmile: 3800
+  MaxPure: 4100
+  MaxCool: 5900
+  MaxMental: 540
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235212
+  SkillSeriesId: 20235210
+  AttributeId: 30235210
+  SpineId: 41
+  OrderId: 10381223
+- Id: 10235213
+  CardSeriesId: 1023521
+  Name: ジョーショーキリュー
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3800
+  InitialPure: 4100
+  InitialCool: 5900
+  InitialMental: 540
+  MaxSmile: 4180
+  MaxPure: 4510
+  MaxCool: 6490
+  MaxMental: 540
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235212
+  SkillSeriesId: 20235210
+  AttributeId: 30235210
+  SpineId: 41
+  OrderId: 10381223
+- Id: 10235214
+  CardSeriesId: 1023521
+  Name: ジョーショーキリュー
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 4180
+  InitialPure: 4510
+  InitialCool: 6490
+  InitialMental: 540
+  MaxSmile: 4560
+  MaxPure: 4920
+  MaxCool: 7080
+  MaxMental: 540
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10235212
+  SkillSeriesId: 20235210
+  AttributeId: 30235210
+  SpineId: 41
+  OrderId: 10381223
 - Id: 10238011
   CardSeriesId: 1023801
   Name: Prism Echo
@@ -34148,6 +34373,131 @@
   AttributeId: 30335190
   SpineId: 40
   OrderId: 10380933
+- Id: 10335200
+  CardSeriesId: 1033520
+  Name: ジョーショーキリュー
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 39
+  InitialPure: 40
+  InitialCool: 60
+  InitialMental: 106
+  MaxSmile: 1950
+  MaxPure: 2000
+  MaxCool: 3000
+  MaxMental: 265
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335200
+  SkillSeriesId: 20335200
+  AttributeId: 30335200
+  SpineId: 41
+  OrderId: 10381233
+- Id: 10335201
+  CardSeriesId: 1033520
+  Name: ジョーショーキリュー
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 1950
+  InitialPure: 2000
+  InitialCool: 3000
+  InitialMental: 265
+  MaxSmile: 2730
+  MaxPure: 2800
+  MaxCool: 4200
+  MaxMental: 371
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335201
+  SkillSeriesId: 20335200
+  AttributeId: 30335200
+  SpineId: 41
+  OrderId: 10381233
+- Id: 10335202
+  CardSeriesId: 1033520
+  Name: ジョーショーキリュー
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 2730
+  InitialPure: 2800
+  InitialCool: 4200
+  InitialMental: 371
+  MaxSmile: 3900
+  MaxPure: 4000
+  MaxCool: 6000
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335202
+  SkillSeriesId: 20335200
+  AttributeId: 30335200
+  SpineId: 41
+  OrderId: 10381233
+- Id: 10335203
+  CardSeriesId: 1033520
+  Name: ジョーショーキリュー
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3900
+  InitialPure: 4000
+  InitialCool: 6000
+  InitialMental: 530
+  MaxSmile: 4290
+  MaxPure: 4400
+  MaxCool: 6600
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335202
+  SkillSeriesId: 20335200
+  AttributeId: 30335200
+  SpineId: 41
+  OrderId: 10381233
+- Id: 10335204
+  CardSeriesId: 1033520
+  Name: ジョーショーキリュー
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 4290
+  InitialPure: 4400
+  InitialCool: 6600
+  InitialMental: 530
+  MaxSmile: 4680
+  MaxPure: 4800
+  MaxCool: 7200
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335202
+  SkillSeriesId: 20335200
+  AttributeId: 30335200
+  SpineId: 41
+  OrderId: 10381233
 - Id: 10338011
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -35722,7 +36072,7 @@
   SkillSeriesId: 20415080
   AttributeId: 30415080
   SpineId: 14
-  OrderId: 10381141
+  OrderId: 10340441
 - Id: 10415081
   CardSeriesId: 1041508
   Name: Link to the FUTURE
@@ -35747,7 +36097,7 @@
   SkillSeriesId: 20415080
   AttributeId: 30415080
   SpineId: 14
-  OrderId: 10381141
+  OrderId: 10340441
 - Id: 10415082
   CardSeriesId: 1041508
   Name: Link to the FUTURE
@@ -35772,7 +36122,7 @@
   SkillSeriesId: 20415080
   AttributeId: 30415080
   SpineId: 14
-  OrderId: 10381141
+  OrderId: 10340441
 - Id: 10415083
   CardSeriesId: 1041508
   Name: Link to the FUTURE
@@ -35797,7 +36147,7 @@
   SkillSeriesId: 20415080
   AttributeId: 30415080
   SpineId: 14
-  OrderId: 10381141
+  OrderId: 10340441
 - Id: 10415084
   CardSeriesId: 1041508
   Name: Link to the FUTURE
@@ -35822,7 +36172,7 @@
   SkillSeriesId: 20415080
   AttributeId: 30415080
   SpineId: 14
-  OrderId: 10381141
+  OrderId: 10340441
 - Id: 10418011
   CardSeriesId: 1041801
   Name: Ether Aria
@@ -35947,7 +36297,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10381041
+  OrderId: 10380441
 - Id: 10419012
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -35972,7 +36322,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10381041
+  OrderId: 10380441
 - Id: 10419013
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -35997,7 +36347,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10381041
+  OrderId: 10380441
 - Id: 10419014
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -36022,7 +36372,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10381041
+  OrderId: 10380441
 - Id: 10423010
   CardSeriesId: 1042301
   Name: レインボーシフォン
@@ -37297,7 +37647,7 @@
   SkillSeriesId: 20425070
   AttributeId: 30425070
   SpineId: 13
-  OrderId: 10381142
+  OrderId: 10340442
 - Id: 10425071
   CardSeriesId: 1042507
   Name: Link to the FUTURE
@@ -37322,7 +37672,7 @@
   SkillSeriesId: 20425070
   AttributeId: 30425070
   SpineId: 13
-  OrderId: 10381142
+  OrderId: 10340442
 - Id: 10425072
   CardSeriesId: 1042507
   Name: Link to the FUTURE
@@ -37347,7 +37697,7 @@
   SkillSeriesId: 20425070
   AttributeId: 30425070
   SpineId: 13
-  OrderId: 10381142
+  OrderId: 10340442
 - Id: 10425073
   CardSeriesId: 1042507
   Name: Link to the FUTURE
@@ -37372,7 +37722,7 @@
   SkillSeriesId: 20425070
   AttributeId: 30425070
   SpineId: 13
-  OrderId: 10381142
+  OrderId: 10340442
 - Id: 10425074
   CardSeriesId: 1042507
   Name: Link to the FUTURE
@@ -37397,7 +37747,7 @@
   SkillSeriesId: 20425070
   AttributeId: 30425070
   SpineId: 13
-  OrderId: 10381142
+  OrderId: 10340442
 - Id: 10428011
   CardSeriesId: 1042801
   Name: Ether Aria
@@ -37873,6 +38223,131 @@
   AttributeId: 30434010
   SpineId: 8
   OrderId: 10370343
+- Id: 10434020
+  CardSeriesId: 1043402
+  Name: ジョーショーキリュー
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 35
+  InitialPure: 38
+  InitialCool: 49
+  InitialMental: 92
+  MaxSmile: 1750
+  MaxPure: 1900
+  MaxCool: 2450
+  MaxMental: 230
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434020
+  SkillSeriesId: 20434020
+  AttributeId: 30434020
+  SpineId: 15
+  OrderId: 10381243
+- Id: 10434021
+  CardSeriesId: 1043402
+  Name: ジョーショーキリュー
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 1750
+  InitialPure: 1900
+  InitialCool: 2450
+  InitialMental: 230
+  MaxSmile: 2450
+  MaxPure: 2660
+  MaxCool: 3430
+  MaxMental: 322
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434021
+  SkillSeriesId: 20434020
+  AttributeId: 30434020
+  SpineId: 15
+  OrderId: 10381243
+- Id: 10434022
+  CardSeriesId: 1043402
+  Name: ジョーショーキリュー
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 2450
+  InitialPure: 2660
+  InitialCool: 3430
+  InitialMental: 322
+  MaxSmile: 3500
+  MaxPure: 3800
+  MaxCool: 4900
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434022
+  SkillSeriesId: 20434020
+  AttributeId: 30434020
+  SpineId: 15
+  OrderId: 10381243
+- Id: 10434023
+  CardSeriesId: 1043402
+  Name: ジョーショーキリュー
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 3500
+  InitialPure: 3800
+  InitialCool: 4900
+  InitialMental: 460
+  MaxSmile: 3850
+  MaxPure: 4180
+  MaxCool: 5390
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434022
+  SkillSeriesId: 20434020
+  AttributeId: 30434020
+  SpineId: 15
+  OrderId: 10381243
+- Id: 10434024
+  CardSeriesId: 1043402
+  Name: ジョーショーキリュー
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 3850
+  InitialPure: 4180
+  InitialCool: 5390
+  InitialMental: 460
+  MaxSmile: 4200
+  MaxPure: 4560
+  MaxCool: 5880
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434022
+  SkillSeriesId: 20434020
+  AttributeId: 30434020
+  SpineId: 15
+  OrderId: 10381243
 - Id: 10435010
   CardSeriesId: 1043501
   Name: Dream Believers
@@ -38772,7 +39247,7 @@
   SkillSeriesId: 20435080
   AttributeId: 30435080
   SpineId: 14
-  OrderId: 10381143
+  OrderId: 10340443
 - Id: 10435081
   CardSeriesId: 1043508
   Name: Link to the FUTURE
@@ -38797,7 +39272,7 @@
   SkillSeriesId: 20435080
   AttributeId: 30435080
   SpineId: 14
-  OrderId: 10381143
+  OrderId: 10340443
 - Id: 10435082
   CardSeriesId: 1043508
   Name: Link to the FUTURE
@@ -38822,7 +39297,7 @@
   SkillSeriesId: 20435080
   AttributeId: 30435080
   SpineId: 14
-  OrderId: 10381143
+  OrderId: 10340443
 - Id: 10435083
   CardSeriesId: 1043508
   Name: Link to the FUTURE
@@ -38847,7 +39322,7 @@
   SkillSeriesId: 20435080
   AttributeId: 30435080
   SpineId: 14
-  OrderId: 10381143
+  OrderId: 10340443
 - Id: 10435084
   CardSeriesId: 1043508
   Name: Link to the FUTURE
@@ -38872,7 +39347,7 @@
   SkillSeriesId: 20435080
   AttributeId: 30435080
   SpineId: 14
-  OrderId: 10381143
+  OrderId: 10340443
 - Id: 10438011
   CardSeriesId: 1043801
   Name: Ether Aria

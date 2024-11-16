@@ -958,6 +958,18 @@
   MusicsId: 204110
   Level: 30
   MusicMasterySkillsId: 2
+- Id: 20411110
+  MusicsId: 204111
+  Level: 10
+  MusicMasterySkillsId: 1
+- Id: 20411120
+  MusicsId: 204111
+  Level: 20
+  MusicMasterySkillsId: 1
+- Id: 20411130
+  MusicsId: 204111
+  Level: 30
+  MusicMasterySkillsId: 1
 - Id: 20420110
   MusicsId: 204201
   Level: 10
@@ -1462,6 +1474,18 @@
   MusicsId: 304113
   Level: 30
   MusicMasterySkillsId: 4
+- Id: 30411410
+  MusicsId: 304114
+  Level: 10
+  MusicMasterySkillsId: 1
+- Id: 30411420
+  MusicsId: 304114
+  Level: 20
+  MusicMasterySkillsId: 1
+- Id: 30411430
+  MusicsId: 304114
+  Level: 30
+  MusicMasterySkillsId: 1
 - Id: 30420110
   MusicsId: 304201
   Level: 10
