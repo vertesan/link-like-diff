@@ -19,7 +19,7 @@
   CostumesId: 1001
   HairStyleId: 1
 - Id: 1001103201
-  Label: 制服(冬)_上靴_村野さやか
+  Label: 制服(冬)_上靴_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1001
   HairStyleId: 1
@@ -229,7 +229,7 @@
   CostumesId: 1006
   HairStyleId: 1
 - Id: 1006103202
-  Label: 制服(冬)_ローファー_村野さやか
+  Label: 制服(冬)_ローファー_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1006
   HairStyleId: 1
@@ -292,6 +292,11 @@
   Label: 制服(冬)_腕章なし_大賀美沙知
   CharactersId: 9007
   CostumesId: 1008
+  HairStyleId: 1
+- Id: 1009105201
+  Label: 瑞河高校制服_コートなし_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 1009
   HairStyleId: 1
 - Id: 1010105101
   Label: 瑞河高校制服_コートあり_桂城泉
@@ -641,6 +646,11 @@
 - Id: 2020104101
   Label: 外出着(秋冬)_コートなし_百生吟子
   CharactersId: 1041
+  CostumesId: 2020
+  HairStyleId: 1
+- Id: 2020104201
+  Label: 外出着(秋冬)_コートなし_徒町小鈴
+  CharactersId: 1042
   CostumesId: 2020
   HairStyleId: 1
 - Id: 2021102106

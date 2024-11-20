@@ -1078,6 +1078,86 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102321
+- Id: 20103101
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 1
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 500
+  LifeTimeDay: 30
+  RewardTextId: 40102330
+- Id: 20103102
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 2
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 2
+  LifeTimeDay: 30
+  RewardTextId: 40102331
+- Id: 20103103
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 3
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 200
+  LifeTimeDay: 30
+  RewardTextId: 40102332
+- Id: 20103104
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 4
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 2
+  LifeTimeDay: 30
+  RewardTextId: 40102333
+- Id: 20103105
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 5
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 200
+  LifeTimeDay: 30
+  RewardTextId: 40102334
+- Id: 20103106
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 6
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 2
+  LifeTimeDay: 30
+  RewardTextId: 40102335
+- Id: 20103107
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 7
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 200
+  LifeTimeDay: 30
+  RewardTextId: 40102336
+- Id: 20103108
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 8
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 2
+  LifeTimeDay: 30
+  RewardTextId: 40102337
+- Id: 20103109
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 9
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 200
+  LifeTimeDay: 30
+  RewardTextId: 40102338
+- Id: 20103110
+  LoginBonusRewardSeriesId: 201031
+  DayCount: 10
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 700
+  LifeTimeDay: 30
+  RewardTextId: 40102339
 - Id: 20103201
   LoginBonusRewardSeriesId: 201032
   DayCount: 1
@@ -1086,3 +1166,11 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102341
+- Id: 20103301
+  LoginBonusRewardSeriesId: 201033
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000020
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102351

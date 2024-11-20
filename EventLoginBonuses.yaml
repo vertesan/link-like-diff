@@ -208,6 +208,13 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-09-11T19:00:00Z
   EndTime: 2024-09-13T18:59:59Z
+- Id: 201031
+  Name: Now or Never リンクラ！1.5周年メモリアルログインボーナス
+  LoginBonusRewardSeriesId: 201031
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-20T19:00:00Z
+  EndTime: 2024-12-04T18:59:59Z
 - Id: 201032
   Name: 3rd Live Tour TRY TRI UNITY!!! with みらくらぱーく！ 開催記念プレゼント！
   LoginBonusRewardSeriesId: 201032
@@ -215,3 +222,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-11-15T19:00:00Z
   EndTime: 2024-11-16T18:59:59Z
+- Id: 201033
+  Name: 3rd Live Tour TRY TRI UNITY!!! with DOLLCHESTRA 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201033
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-11-23T19:00:00Z
+  EndTime: 2024-11-24T18:59:59Z
