@@ -2472,7 +2472,7 @@
   GachaExchangePointId: 10404
   ExchangePointNoticeNum: 600
   ExchangePointLockFlag: 0
-  OrderId: 4
+  OrderId: 990
   FilterType: 1
   PickUpCardSeriesId_1: 1031515
   PickUpCardBonusItemQuantity_1: 0
@@ -2501,7 +2501,7 @@
   GachaExchangePointId: 0
   ExchangePointNoticeNum: 0
   ExchangePointLockFlag: 0
-  OrderId: 5
+  OrderId: 991
   FilterType: 1
   PickUpCardSeriesId_1: 1031515
   PickUpCardBonusItemQuantity_1: 0
@@ -2577,6 +2577,64 @@
   StartTime: 2024-12-12T03:00:00Z
   EndTime: 2024-12-26T02:59:59Z
   NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「O.N.G.E.K.I. LIMITED COLLECTION」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「O.N.G.E.K.I. LIMITED COLLECTION」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「O.N.G.E.K.I. LIMITED COLLECTION」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040406
+  GachaSeriesName: 2023 WINTER LIMITED COLLECTION MEMORY REVIVAL
+  Description: WINTER LIMITED COLLECTION MEMORY REVIVAL
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10404
+  ExchangePointNoticeNum: 600
+  ExchangePointLockFlag: 0
+  OrderId: 4
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031515
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1032514
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1033509
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1021514
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1023508
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1023509
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2025-03-20T02:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2023 WINTER LIMITED COLLECTION MEMORY REVIVAL」および「2024 WINTER LIMITED COLLECTION」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2024 WINTER LIMITED COLLECTION」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2023 WINTER LIMITED COLLECTION MEMORY REVIVAL」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040407
+  GachaSeriesName: 2023 WINTER LIMITED COLLECTION PREMIUM
+  Description: WINTER LIMITED COLLECTION PREMIUM
+  GachaType: 6
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 0
+  ExchangePointNoticeNum: 0
+  ExchangePointLockFlag: 0
+  OrderId: 5
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031515
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1032514
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1033509
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1021514
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1023508
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1023509
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2025-03-20T02:59:59Z
+  NoticeText: "{'mainTitle':'2023 WINTER LIMITED COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができ、URおよびSRカードは2023年度のWINTER LIMITEDのみ排出されます。','・本ガチャの10枚目がUR確定となります。','・WINTER LIMITEDのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
   GachaTimeLimitType: 0
   AvailableTime: 0
 - Id: 1041021
