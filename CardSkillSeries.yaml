@@ -286,6 +286,18 @@
   Name: リゲインバブリング
   SkillIcon: 10214200
   SkillMainEffect: 13
+- Id: 10214210
+  Name: リブートサポート
+  SkillIcon: 10214210
+  SkillMainEffect: 13
+- Id: 10214211
+  Name: リブートサポート
+  SkillIcon: 10214210
+  SkillMainEffect: 13
+- Id: 10214212
+  Name: リブートサポート
+  SkillIcon: 10214210
+  SkillMainEffect: 13
 - Id: 10215010
   Name: ラブアトラクト
   SkillIcon: 10215010
@@ -1142,6 +1154,30 @@
   Name: アブソリュートボルテージ
   SkillIcon: 10225210
   SkillMainEffect: 39
+- Id: 10225220
+  Name: エクステボルテージダック
+  SkillIcon: 10225220
+  SkillMainEffect: 34
+- Id: 10225221
+  Name: エクステボルテージダック
+  SkillIcon: 10225220
+  SkillMainEffect: 34
+- Id: 10225222
+  Name: エクステボルテージダック
+  SkillIcon: 10225220
+  SkillMainEffect: 34
+- Id: 10225230
+  Name: ジャスティスアタック
+  SkillIcon: 10225230
+  SkillMainEffect: 16
+- Id: 10225231
+  Name: ジャスティスアタック
+  SkillIcon: 10225230
+  SkillMainEffect: 16
+- Id: 10225232
+  Name: ジャスティスアタック
+  SkillIcon: 10225230
+  SkillMainEffect: 16
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -2218,6 +2254,30 @@
   Name: リフレッシュバブリング
   SkillIcon: 10315230
   SkillMainEffect: 13
+- Id: 10315240
+  Name: エクステゲイン
+  SkillIcon: 10315240
+  SkillMainEffect: 20
+- Id: 10315241
+  Name: エクステゲイン
+  SkillIcon: 10315240
+  SkillMainEffect: 20
+- Id: 10315242
+  Name: エクステゲイン
+  SkillIcon: 10315240
+  SkillMainEffect: 20
+- Id: 10315250
+  Name: エンジェルアタック
+  SkillIcon: 10315250
+  SkillMainEffect: 16
+- Id: 10315251
+  Name: エンジェルアタック
+  SkillIcon: 10315250
+  SkillMainEffect: 16
+- Id: 10315252
+  Name: エンジェルアタック
+  SkillIcon: 10315250
+  SkillMainEffect: 16
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -2810,6 +2870,18 @@
   Name: リフレッシュハート
   SkillIcon: 10325220
   SkillMainEffect: 13
+- Id: 10325230
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10325230
+  SkillMainEffect: 34
+- Id: 10325231
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10325230
+  SkillMainEffect: 34
+- Id: 10325232
+  Name: アグレッシブビリーフハート
+  SkillIcon: 10325230
+  SkillMainEffect: 34
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -3430,6 +3502,18 @@
   Name: Link! Like! Order! 9
   SkillIcon: 10415080
   SkillMainEffect: 24
+- Id: 10415090
+  Name: トキノイト
+  SkillIcon: 10415090
+  SkillMainEffect: 13
+- Id: 10415091
+  Name: トキノイト
+  SkillIcon: 10415090
+  SkillMainEffect: 13
+- Id: 10415092
+  Name: トキノイト
+  SkillIcon: 10415090
+  SkillMainEffect: 13
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3498,6 +3582,18 @@
   Name: エクステボルテージ
   SkillIcon: 10424020
   SkillMainEffect: 20
+- Id: 10424030
+  Name: エクステハート
+  SkillIcon: 10424030
+  SkillMainEffect: 1
+- Id: 10424031
+  Name: エクステハート
+  SkillIcon: 10424030
+  SkillMainEffect: 1
+- Id: 10424032
+  Name: エクステハート
+  SkillIcon: 10424030
+  SkillMainEffect: 1
 - Id: 10425010
   Name: メンタルプロテクト
   SkillIcon: 10425010
@@ -3581,6 +3677,18 @@
 - Id: 10425072
   Name: アグレッシブビリーフハート
   SkillIcon: 10425070
+  SkillMainEffect: 34
+- Id: 10425080
+  Name: アグレッシブビリーフヒート
+  SkillIcon: 10425080
+  SkillMainEffect: 34
+- Id: 10425081
+  Name: アグレッシブビリーフヒート
+  SkillIcon: 10425080
+  SkillMainEffect: 34
+- Id: 10425082
+  Name: アグレッシブビリーフヒート
+  SkillIcon: 10425080
   SkillMainEffect: 34
 - Id: 10428011
   Name: メンタルプロテクト
@@ -3734,6 +3842,18 @@
   Name: リフレッシュチェンジ
   SkillIcon: 10435080
   SkillMainEffect: 35
+- Id: 10435090
+  Name: トラストスラッシュ
+  SkillIcon: 10435090
+  SkillMainEffect: 2
+- Id: 10435091
+  Name: トラストスラッシュ
+  SkillIcon: 10435090
+  SkillMainEffect: 2
+- Id: 10435092
+  Name: トラストスラッシュ
+  SkillIcon: 10435090
+  SkillMainEffect: 2
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -3854,6 +3974,10 @@
   Name: アバンダンスアトラクト
   SkillIcon: 20214200
   SkillMainEffect: 2
+- Id: 20214210
+  Name: トキノイト
+  SkillIcon: 20214210
+  SkillMainEffect: 13
 - Id: 20215010
   Name: ボルテージゲイン
   SkillIcon: 20215010
@@ -4142,6 +4266,14 @@
   Name: ボルテージハート
   SkillIcon: 20225210
   SkillMainEffect: 10
+- Id: 20225220
+  Name: ブレイブボルテックスアトラクション
+  SkillIcon: 20225220
+  SkillMainEffect: 10
+- Id: 20225230
+  Name: ボルテックスヒートハート
+  SkillIcon: 20225230
+  SkillMainEffect: 10
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -4247,7 +4379,7 @@
   SkillIcon: 20235060
   SkillMainEffect: 16
 - Id: 20235070
-  Name: ハートキャプチャ
+  Name: チアフルハート
   SkillIcon: 20235070
   SkillMainEffect: 1
 - Id: 20235080
@@ -4506,6 +4638,14 @@
   Name: アバンダンスブースト：ドレス
   SkillIcon: 20315230
   SkillMainEffect: 16
+- Id: 20315240
+  Name: アバンダンスアトラクション
+  SkillIcon: 20315240
+  SkillMainEffect: 2
+- Id: 20315250
+  Name: リプレイブーステッドハート
+  SkillIcon: 20315250
+  SkillMainEffect: 1
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -4706,6 +4846,10 @@
   Name: フルネスエクステハート
   SkillIcon: 20325220
   SkillMainEffect: 20
+- Id: 20325230
+  Name: ブレイブファッシネイション
+  SkillIcon: 20325230
+  SkillMainEffect: 10
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -4918,6 +5062,10 @@
   Name: ドレス《Link to the FUTURE》
   SkillIcon: 20415080
   SkillMainEffect: 28
+- Id: 20415090
+  Name: ドレス《ハナムスビ》
+  SkillIcon: 20415090
+  SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -4942,6 +5090,10 @@
   Name: ブレイブボルテージハート
   SkillIcon: 20424020
   SkillMainEffect: 10
+- Id: 20424030
+  Name: アグレッシブアトラクション
+  SkillIcon: 20424030
+  SkillMainEffect: 1
 - Id: 20425010
   Name: ブレイブアトラクション
   SkillIcon: 20425010
@@ -4969,6 +5121,10 @@
 - Id: 20425070
   Name: モジュレートボルテージハート
   SkillIcon: 20425070
+  SkillMainEffect: 10
+- Id: 20425080
+  Name: ブレイブボルテックスブースト
+  SkillIcon: 20425080
   SkillMainEffect: 10
 - Id: 20428010
   Name: フューチャーブレッシング
@@ -5022,6 +5178,10 @@
   Name: モジュレートエクステブースト
   SkillIcon: 20435080
   SkillMainEffect: 7
+- Id: 20435090
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20435090
+  SkillMainEffect: 36
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -5062,6 +5222,10 @@
   Name: イグニッションスタンバイ
   SkillIcon: 21435070
   SkillMainEffect: 5
+- Id: 21435090
+  Name: ドレス《シュータードレス》
+  SkillIcon: 21435090
+  SkillMainEffect: 28
 - Id: 22235190
   Name: タッグハート
   SkillIcon: 22235190
@@ -5093,6 +5257,10 @@
 - Id: 22435070
   Name: フルパワーアトラクション
   SkillIcon: 22435070
+  SkillMainEffect: 1
+- Id: 22435090
+  Name: ブレイブハート
+  SkillIcon: 22435090
   SkillMainEffect: 1
 - Id: 30115010
   Name: グラデュエーション
@@ -5151,7 +5319,7 @@
   SkillIcon: 30214130
   SkillMainEffect: 5
 - Id: 30214140
-  Name: インタープリテーション & チェイン：花帆
+  Name: インタープリテーション & チェイン：花帆 & ドロー：ハッピー/アトラクトブースト：花帆
   SkillIcon: 30214140
   SkillMainEffect: 902
 - Id: 30214150
@@ -5178,6 +5346,10 @@
   Name: ドロー：バブリング
   SkillIcon: 30214200
   SkillMainEffect: 28
+- Id: 30214210
+  Name: ハートキャプチャ：スリーズブーケ & APコントロール：スリーズブーケ ＆ ドレス
+  SkillIcon: 30214210
+  SkillMainEffect: 1
 - Id: 30215010
   Name: フェイバリット：スタート & オーバーセクション：APレデュース & ラブアトラクト
   SkillIcon: 30215010
@@ -5227,7 +5399,7 @@
   SkillIcon: 30215120
   SkillMainEffect: 13
 - Id: 30215130
-  Name: APレデュース：メンタル
+  Name: APレデュース：メンタル & チアフル：メンタルプロテクト
   SkillIcon: 30215130
   SkillMainEffect: 17
 - Id: 30215140
@@ -5331,11 +5503,11 @@
   SkillIcon: 30224120
   SkillMainEffect: 17
 - Id: 30224130
-  Name: ドロー：ラブアトラクト
+  Name: ドロー：ラブアトラクト & ハッピー/マチュレーション
   SkillIcon: 30224130
   SkillMainEffect: 2
 - Id: 30224140
-  Name: オーバーセクション：APレデュース & マチュレーション
+  Name: オーバーセクション：APレデュース & マチュレーション & ボルテージゲイン：慈
   SkillIcon: 30224140
   SkillMainEffect: 17
 - Id: 30224150
@@ -5419,7 +5591,7 @@
   SkillIcon: 30225130
   SkillMainEffect: 2
 - Id: 30225140
-  Name: APレデュース：メンタル
+  Name: APレデュース：メンタル & チアフル：ハートキャプチャ
   SkillIcon: 30225140
   SkillMainEffect: 17
 - Id: 30225150
@@ -5450,6 +5622,14 @@
   Name: インクリーズ
   SkillIcon: 30225210
   SkillMainEffect: 18
+- Id: 30225220
+  Name: リベレイト
+  SkillIcon: 30225220
+  SkillMainEffect: 19
+- Id: 30225230
+  Name: ドロー：R.B.P
+  SkillIcon: 30225230
+  SkillMainEffect: 30
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -5491,7 +5671,7 @@
   SkillIcon: 30234070
   SkillMainEffect: 10
 - Id: 30234080
-  Name: オーバーセクション：APレデュース & マチュレーション
+  Name: オーバーセクション：APレデュース & マチュレーション & メンタルリカバー：綴理
   SkillIcon: 30234080
   SkillMainEffect: 17
 - Id: 30234090
@@ -5535,7 +5715,7 @@
   SkillIcon: 30235050
   SkillMainEffect: 902
 - Id: 30235060
-  Name: インタープリテーション & チェイン：さやか
+  Name: インタープリテーション & チェイン：さやか & ドロー：ハッピー/アトラクトブースト：さやか
   SkillIcon: 30235060
   SkillMainEffect: 902
 - Id: 30235070
@@ -5659,7 +5839,7 @@
   SkillIcon: 30314130
   SkillMainEffect: 17
 - Id: 30314140
-  Name: APレデュース：メンタル
+  Name: APレデュース：メンタル & チアフル：ボルテージゲイン
   SkillIcon: 30314140
   SkillMainEffect: 17
 - Id: 30314150
@@ -5739,11 +5919,11 @@
   SkillIcon: 30315120
   SkillMainEffect: 902
 - Id: 30315130
-  Name: インタープリテーション & チェイン：梢
+  Name: インタープリテーション & チェイン：梢 & ドロー：ハッピー/アトラクトブースト：梢
   SkillIcon: 30315130
   SkillMainEffect: 902
 - Id: 30315140
-  Name: オーバーセクション：APレデュース & マチュレーション
+  Name: オーバーセクション：APレデュース & マチュレーション & ボルテージゲイン：瑠璃乃
   SkillIcon: 30315140
   SkillMainEffect: 17
 - Id: 30315150
@@ -5782,6 +5962,14 @@
   Name: ドロー：バブリング
   SkillIcon: 30315230
   SkillMainEffect: 28
+- Id: 30315240
+  Name: ブーステッドハートゲイン：スリーズブーケ
+  SkillIcon: 30315240
+  SkillMainEffect: 1
+- Id: 30315250
+  Name: ドロー：ASTERISM
+  SkillIcon: 30315250
+  SkillMainEffect: 1
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -5927,7 +6115,7 @@
   SkillIcon: 30325120
   SkillMainEffect: 902
 - Id: 30325130
-  Name: インタープリテーション & チェイン：慈
+  Name: インタープリテーション & チェイン：慈 & ドロー：ハッピー/アトラクトブースト：慈
   SkillIcon: 30325130
   SkillMainEffect: 902
 - Id: 30325140
@@ -5966,6 +6154,10 @@
   Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル
   SkillIcon: 30325220
   SkillMainEffect: 31
+- Id: 30325230
+  Name: ブレイブ：オーバーセクション：リカバープロテクト & APサポート：DOLLCHESTRA
+  SkillIcon: 30325230
+  SkillMainEffect: 5
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -5999,7 +6191,7 @@
   SkillIcon: 30334060
   SkillMainEffect: 902
 - Id: 30334070
-  Name: ドロー：ハートキャプチャ
+  Name: ドロー：ハートキャプチャ & ハッピー/マチュレーション
   SkillIcon: 30334070
   SkillMainEffect: 1
 - Id: 30334080
@@ -6051,7 +6243,7 @@
   SkillIcon: 30335060
   SkillMainEffect: 10
 - Id: 30335070
-  Name: オーバーセクション：APレデュース & マチュレーション
+  Name: オーバーセクション：APレデュース & マチュレーション & メンタルリカバー：花帆
   SkillIcon: 30335070
   SkillMainEffect: 17
 - Id: 30335080
@@ -6154,6 +6346,10 @@
   Name: サーチ：小鈴 & ショット：APゲイン
   SkillIcon: 30415080
   SkillMainEffect: 905
+- Id: 30415090
+  Name: APレデュース：スリーズブーケ
+  SkillIcon: 30415090
+  SkillMainEffect: 17
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -6170,6 +6366,10 @@
   Name: ヒートアップ：ブレイブ
   SkillIcon: 30424020
   SkillMainEffect: 21
+- Id: 30424030
+  Name: ジャストドロー：フィーバー/APロス & APレデュース & ハートブースト & アトラクトブースト：小鈴
+  SkillIcon: 30424030
+  SkillMainEffect: 904
 - Id: 30425010
   Name: アキューミュレイト
   SkillIcon: 30425010
@@ -6198,6 +6398,10 @@
   Name: サーチ：姫芽 & ショット：APゲイン
   SkillIcon: 30425070
   SkillMainEffect: 905
+- Id: 30425080
+  Name: ジャストドロー：1/ビリーフ & アグレッシブ
+  SkillIcon: 30425080
+  SkillMainEffect: 34
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -6242,6 +6446,10 @@
   Name: サーチ：吟子 & ショット：APゲイン
   SkillIcon: 30435080
   SkillMainEffect: 905
+- Id: 30435090
+  Name: ドロー：⊿TRiEDGE
+  SkillIcon: 30435090
+  SkillMainEffect: 35
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -6438,6 +6646,26 @@
   Name: アバンダンスボルテックスアトラクション
   SkillIcon: 80415080
   SkillMainEffect: 1
+- Id: 80155010
+  Name: トリカゴ
+  SkillIcon: 80225220
+  SkillMainEffect: 34
+- Id: 80165010
+  Name: アバンダンスボルテージハート
+  SkillIcon: 80415090
+  SkillMainEffect: 10
+- Id: 80165020
+  Name: アバンダンスハートプロテクト
+  SkillIcon: 80415091
+  SkillMainEffect: 7
+- Id: 80165030
+  Name: アバンダンスリプレイアトラクション
+  SkillIcon: 80415092
+  SkillMainEffect: 13
+- Id: 80175010
+  Name: 《シュータードレス/RIO》
+  SkillIcon: 80435090
+  SkillMainEffect: 13
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -6543,6 +6771,26 @@
   SkillIcon: 90419010
   SkillMainEffect: 19
 - Id: 90145010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90155010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90165010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90165020
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90165030
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90175010
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19

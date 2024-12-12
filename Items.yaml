@@ -2482,6 +2482,18 @@
   Description: スタイル解放素材(乙宗梢)
   StartTime: 2024-09-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4021421
+  Name: "[ハナムスビ]乙宗梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗梢)
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4021501
   Name: "[Dream Believers]乙宗梢 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -3345,6 +3357,30 @@
   RequestableNum: 0
   Description: スタイル解放素材(夕霧綴理)
   StartTime: 2024-10-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4022522
+  Name: "[バアドケージ]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-11-24T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4022523
+  Name: "[102/R.B.P.]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2024-12-12T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4022801
   Name: "[Prism Echo]夕霧綴理 解放Pt."
@@ -4438,6 +4474,30 @@
   Description: スタイル解放素材(日野下花帆)
   StartTime: 2024-09-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031524
+  Name: "[ハナムスビ]日野下花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下花帆)
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4031525
+  Name: "[103/ASTERISM]日野下花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下花帆)
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031801
   Name: "[Prism Echo]日野下花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5037,6 +5097,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032523
+  Name: "[バアドケージ]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-12-01T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野さやか 解放Pt."
@@ -5674,6 +5746,18 @@
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-10-28T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041509
+  Name: "[ハナムスビ]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5745,6 +5829,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-08-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042403
+  Name: "[魔法少女リズミックハート２]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-12-12T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042501
   Name: "[Dream Believers]徒町小鈴 解放Pt."
@@ -5829,6 +5925,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042508
+  Name: "[バアドケージ]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2024-11-24T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町小鈴 解放Pt."
@@ -5985,6 +6093,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺姫芽)
   StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043509
+  Name: "[104/⊿TRiEDGE]安養寺姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺姫芽)
+  StartTime: 2024-12-12T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺姫芽 解放Pt."

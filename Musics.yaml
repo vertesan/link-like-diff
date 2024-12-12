@@ -27,6 +27,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103102
   OrderId: 1002
   Title: 永遠のEuphoria（4人Ver.）
@@ -56,6 +58,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103103
   OrderId: 1203
   Title: フォーチュンムービー
@@ -85,6 +89,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 3
 - Id: 103104
   OrderId: 1202
   Title: Reflection in the mirror
@@ -114,6 +120,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103105
   OrderId: 1205
   Title: 謳歌爛漫
@@ -143,6 +151,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103106
   OrderId: 1207
   Title: 眩耀夜行
@@ -172,6 +182,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 103107
   OrderId: 1208
   Title: Kawaii no susume
@@ -201,6 +213,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103108
   OrderId: 1408
   Title: ジブンダイアリー
@@ -230,6 +244,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103109
   OrderId: 1005
   Title: 永遠のEuphoria
@@ -259,6 +275,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103110
   OrderId: 1602
   Title: ハクチューアラモード
@@ -288,6 +306,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 3
 - Id: 103111
   OrderId: 1409
   Title: パラレルダンサー
@@ -317,6 +337,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103112
   OrderId: 1007
   Title: Dream Believers
@@ -346,6 +368,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 1
 - Id: 103113
   OrderId: 1604
   Title: アイデンティティ
@@ -375,6 +399,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103114
   OrderId: 1008
   Title: Legato
@@ -404,6 +430,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103115
   OrderId: 1211
   Title: 千変万華
@@ -433,6 +461,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103116
   OrderId: 1010
   Title: Yup! Yup! Yup!
@@ -462,6 +492,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103117
   OrderId: 1213
   Title: シュガーメルト
@@ -491,6 +523,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103118
   OrderId: 1013
   Title: Link to the FUTURE
@@ -520,6 +554,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 1
 - Id: 103119
   OrderId: 2001
   Title: ハッピー至上主義！
@@ -549,6 +585,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103120
   OrderId: 1610
   Title: マハラジャンボリー
@@ -578,6 +616,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103201
   OrderId: 6003
   Title: Preserved Roses
@@ -607,6 +647,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103202
   OrderId: 6012
   Title: 心予報
@@ -636,6 +678,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103203
   OrderId: 6015
   Title: ダンスロボットダンス
@@ -665,6 +709,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103204
   OrderId: 6018
   Title: 御旗のもとに
@@ -694,6 +740,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103205
   OrderId: 6019
   Title: ダイヤモンドハッピー
@@ -723,6 +771,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 3
 - Id: 103301
   OrderId: 5003
   Title: TOKIMEKI Runners
@@ -752,6 +802,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 103302
   OrderId: 5002
   Title: 君のこころは輝いてるかい?
@@ -781,6 +833,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104101
   OrderId: 1016
   Title: Dream Believers（104期Ver.）
@@ -810,6 +864,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104102
   OrderId: 1415
   Title: Sparkly Spot（104期NEW Ver.）
@@ -839,6 +895,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104103
   OrderId: 1018
   Title: 365 Days
@@ -868,6 +926,411 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 1
+- Id: 104104
+  OrderId: 1217
+  Title: 千変万華（104期Ver.）
+  TitleFurigana: せんぺんばんか
+  JacketId: 104104
+  SoundId: 10410401
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1031
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15789
+  ApIncrement: 900
+  SongTime: 9000
+  PlayTime: 108000
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104105
+  OrderId: 1019
+  Title: Bloom the smile, Bloom the dream!
+  TitleFurigana: ぶるーむざすまいるぶるーむざどりーむ
+  JacketId: 104105
+  SoundId: 10410501
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1022,1023,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 13636
+  ApIncrement: 837
+  SongTime: 8372
+  PlayTime: 100465
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 1
+- Id: 104106
+  OrderId: 1020
+  Title: 永遠のEuphoria（104期Ver.）
+  TitleFurigana: えいえんのゆーふぉりあ
+  JacketId: 104106
+  SoundId: 10410601
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 13433
+  ApIncrement: 914
+  SongTime: 9136
+  PlayTime: 109630
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104107
+  OrderId: 1220
+  Title: 眩耀夜行（104期Ver.）
+  TitleFurigana: げんようやこう
+  JacketId: 104107
+  SoundId: 10410701
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15789
+  ApIncrement: 810
+  SongTime: 8101
+  PlayTime: 97215
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104108
+  OrderId: 1616
+  Title: ハクチューアラモード（104期Ver.）
+  TitleFurigana: はくちゅーあらもーど
+  JacketId: 104108
+  SoundId: 10410801
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 21429
+  ApIncrement: 744
+  SongTime: 7442
+  PlayTime: 89302
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104109
+  OrderId: 1617
+  Title: ファンファーレ！！！
+  TitleFurigana: ふぁんふぁーれ
+  JacketId: 104109
+  SoundId: 10410901
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: 1023,1033
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 9184
+  ApIncrement: 939
+  SongTime: 9385
+  PlayTime: 112625
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104110
+  OrderId: 1618
+  Title: マハラジャンボリー（104期Ver.）
+  TitleFurigana: まはらじゃんぼりー
+  JacketId: 104110
+  SoundId: 10411001
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1023
+  SingerCharacterId: 1033,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15000
+  ApIncrement: 868
+  SongTime: 8684
+  PlayTime: 104211
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104111
+  OrderId: 1024
+  Title: Link to the FUTURE（104期Ver.）
+  TitleFurigana: りんくとぅざふゅーちゃー
+  JacketId: 104111
+  SoundId: 10411101
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1022,1023,1031,1032,1033,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 8911
+  ApIncrement: 1169
+  SongTime: 11694
+  PlayTime: 140328
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104112
+  OrderId: 1223
+  Title: ハナムスビ
+  TitleFurigana: はなむすび
+  JacketId: 104112
+  SoundId: 10411201
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 9375
+  ApIncrement: 1030
+  SongTime: 10303
+  PlayTime: 123636
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104201
+  OrderId: 6021
+  Title: ミラクルショッピング ～ドン・キホーテのテーマ～
+  TitleFurigana: みらくるしょっぴんぐどんきほーてのてーま
+  JacketId: 104201
+  SoundId: 10420101
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15789
+  ApIncrement: 754
+  SongTime: 7545
+  PlayTime: 90539
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104202
+  OrderId: 6022
+  Title: ルージュの伝言
+  TitleFurigana: るーじゅのでんごん
+  JacketId: 104202
+  SoundId: 10420201
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: "0"
+  SupportCharacterId: 1021,1022,1023,1031,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 13235
+  ApIncrement: 967
+  SongTime: 9673
+  PlayTime: 116078
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104301
+  OrderId: 5008
+  Title: 夏色えがおで1,2,Jump!
+  TitleFurigana: なついろえがおでわんつーじゃんぷ
+  JacketId: 104301
+  SoundId: 10430101
+  Description: LLカバー
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 11250
+  ApIncrement: 1012
+  SongTime: 10118
+  PlayTime: 121412
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 3
+- Id: 104302
+  OrderId: 5009
+  Title: 常夏☆サンシャイン
+  TitleFurigana: とこなつさんしゃいん
+  JacketId: 104302
+  SoundId: 10430201
+  Description: LLカバー
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 14754
+  ApIncrement: 843
+  SongTime: 8435
+  PlayTime: 101218
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -897,6 +1360,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203102
   OrderId: 1403
   Title: ツキマカセ
@@ -926,6 +1391,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 203103
   OrderId: 1206
   Title: Holiday∞Holiday
@@ -955,6 +1422,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 3
 - Id: 203104
   OrderId: 1407
   Title: Mirage Voyage
@@ -984,6 +1453,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 203105
   OrderId: 1006
   Title: 夏めきペイン
@@ -1013,6 +1484,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 1
 - Id: 203106
   OrderId: 1601
   Title: ド！ド！ド！
@@ -1042,6 +1515,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 3
 - Id: 203107
   OrderId: 1210
   Title: 素顔のピクセル
@@ -1071,6 +1546,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203108
   OrderId: 1605
   Title: ノンフィクションヒーローショー
@@ -1100,6 +1577,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203109
   OrderId: 3001
   Title: Runway
@@ -1129,6 +1608,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203110
   OrderId: 1412
   Title: 青春の輪郭
@@ -1158,6 +1639,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203111
   OrderId: 1012
   Title: ツバサ・ラ・リベルテ
@@ -1187,6 +1670,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 1
 - Id: 203112
   OrderId: 1606
   Title: 天才なのかもしれない
@@ -1216,6 +1701,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203113
   OrderId: 1214
   Title: Special Thanks
@@ -1245,6 +1732,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203114
   OrderId: 1607
   Title: ミルク
@@ -1274,6 +1763,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203115
   OrderId: 2003
   Title: Colorfulness
@@ -1303,6 +1794,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203116
   OrderId: 1608
   Title: BANG YOU グラビティ
@@ -1332,6 +1825,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203117
   OrderId: 1014
   Title: 抱きしめる花びら
@@ -1361,6 +1856,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 1
 - Id: 203118
   OrderId: 1015
   Title: STEP UP !
@@ -1390,6 +1887,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203201
   OrderId: 6004
   Title: そばかす
@@ -1419,6 +1918,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203202
   OrderId: 6001
   Title: ビバハピ
@@ -1448,6 +1949,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203203
   OrderId: 6007
   Title: 狙いうち
@@ -1477,6 +1980,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203204
   OrderId: 6008
   Title: ♡桃色片想い♡
@@ -1506,6 +2011,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203205
   OrderId: 6009
   Title: いーあるふぁんくらぶ
@@ -1535,6 +2042,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203206
   OrderId: 6010
   Title: ハッピーシンセサイザ
@@ -1564,6 +2073,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203207
   OrderId: 6014
   Title: 強風オールバック
@@ -1593,6 +2104,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203208
   OrderId: 6016
   Title: CHANGE!!!!
@@ -1622,6 +2135,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 3
 - Id: 203301
   OrderId: 5001
   Title: 僕らのLIVE 君とのLIFE
@@ -1651,6 +2166,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203302
   OrderId: 5004
   Title: 始まりは君の空
@@ -1680,6 +2197,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204101
   OrderId: 1611
   Title: アイデンティティ（104期NEW Ver.）
@@ -1709,6 +2228,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204102
   OrderId: 1216
   Title: Mix shake!!（104期Ver.）
@@ -1738,6 +2259,380 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204103
+  OrderId: 1613
+  Title: ノンフィクションヒーローショー（104期Ver.）
+  TitleFurigana: のんふぃくしょんひーろーしょー
+  JacketId: 204103
+  SoundId: 20410301
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: 1023,1033
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 8911
+  ApIncrement: 1189
+  SongTime: 11889
+  PlayTime: 142667
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204104
+  OrderId: 1614
+  Title: みらくりえーしょん
+  TitleFurigana: みらくりえーしょん
+  JacketId: 204104
+  SoundId: 20410401
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 8911
+  ApIncrement: 1274
+  SongTime: 12737
+  PlayTime: 152842
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 3
+- Id: 204105
+  OrderId: 1218
+  Title: アオクハルカ
+  TitleFurigana: あおくはるか
+  JacketId: 204105
+  SoundId: 20410501
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 11250
+  ApIncrement: 1186
+  SongTime: 11862
+  PlayTime: 142345
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 2
+- Id: 204106
+  OrderId: 1419
+  Title: Mirage Voyage（104期Ver.）
+  TitleFurigana: みらーじゅぼやーじゅ
+  JacketId: 204106
+  SoundId: 20410601
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1032
+  SingerCharacterId: 1022,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 985
+  SongTime: 9846
+  PlayTime: 118154
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204107
+  OrderId: 1420
+  Title: Proof
+  TitleFurigana: ぷるーふ
+  JacketId: 204107
+  SoundId: 20410701
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: 1022,1032
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12676
+  ApIncrement: 901
+  SongTime: 9006
+  PlayTime: 108070
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 2
+- Id: 204108
+  OrderId: 1021
+  Title: 夏めきペイン（104期Ver.）
+  TitleFurigana: なつめきぺいん
+  JacketId: 204108
+  SoundId: 20410801
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1021
+  SingerCharacterId: 1022,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 13636
+  ApIncrement: 766
+  SongTime: 7660
+  PlayTime: 91915
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204109
+  OrderId: 1221
+  Title: Holiday∞Holiday（104期Ver.）
+  TitleFurigana: ほりでいほりでい
+  JacketId: 204109
+  SoundId: 20410901
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1021
+  SingerCharacterId: 1031,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 19149
+  ApIncrement: 785
+  SongTime: 7852
+  PlayTime: 94222
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204110
+  OrderId: 1222
+  Title: 素顔のピクセル（104期Ver.）
+  TitleFurigana: すがおのぴくせる
+  JacketId: 204110
+  SoundId: 20411001
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 16071
+  ApIncrement: 899
+  SongTime: 8986
+  PlayTime: 107826
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204111
+  OrderId: 1620
+  Title: ド！ド！ド！（104期Ver.）
+  TitleFurigana: どどど
+  JacketId: 204111
+  SoundId: 20411101
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: 1023,1033
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12857
+  ApIncrement: 761
+  SongTime: 7614
+  PlayTime: 91371
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204112
+  OrderId: 1423
+  Title: バアドケージ
+  TitleFurigana: ばあどけーじ
+  JacketId: 204112
+  SoundId: 20411201
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 17308
+  ApIncrement: 859
+  SongTime: 8593
+  PlayTime: 103111
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204113
+  OrderId: 1026
+  Title: ツバサ・ラ・リベルテ（104期Ver.）
+  TitleFurigana: つばさらりべるて
+  JacketId: 204113
+  SoundId: 20411301
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1032
+  SingerCharacterId: 1021,1022,1023,1031,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12162
+  ApIncrement: 915
+  SongTime: 9153
+  PlayTime: 109831
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204201
+  OrderId: 6023
+  Title: ビビデバ
+  TitleFurigana: びびでば
+  JacketId: 204201
+  SoundId: 20420101
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: "0"
+  SupportCharacterId: 1021,1022,1023,1031,1032,1033,1041,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 21429
+  ApIncrement: 783
+  SongTime: 7833
+  PlayTime: 94000
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204301
   OrderId: 5005
   Title: Snow halation
@@ -1767,6 +2662,39 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204302
+  OrderId: 5006
+  Title: NEO SKY, NEO MAP!
+  TitleFurigana: ねおすかいねおまっぷ
+  JacketId: 204302
+  SoundId: 20430201
+  Description: LLカバー
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 18367
+  ApIncrement: 768
+  SongTime: 7676
+  PlayTime: 92113
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303101
   OrderId: 1003
   Title: On your mark
@@ -1796,6 +2724,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303102
   OrderId: 1201
   Title: 水彩世界
@@ -1825,6 +2755,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 3
 - Id: 303103
   OrderId: 1401
   Title: AWOKE
@@ -1854,6 +2786,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 303104
   OrderId: 1402
   Title: Sparkly Spot
@@ -1883,6 +2817,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303105
   OrderId: 1404
   Title: 希望的プリズム
@@ -1912,6 +2848,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303106
   OrderId: 1405
   Title: スケイプゴート
@@ -1941,6 +2879,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303107
   OrderId: 1004
   Title: DEEPNESS
@@ -1970,6 +2910,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 303108
   OrderId: 1406
   Title: Tragic Drops
@@ -1999,6 +2941,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 303109
   OrderId: 1603
   Title: ココン東西
@@ -2028,6 +2972,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 1
+  VideoBgId: 2
 - Id: 303110
   OrderId: 1209
   Title: 残陽
@@ -2057,6 +3003,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303111
   OrderId: 1410
   Title: Take It Over
@@ -2086,6 +3034,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303112
   OrderId: 1411
   Title: KNOT
@@ -2115,6 +3065,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303113
   OrderId: 1009
   Title: Trick & Cute
@@ -2144,6 +3096,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303114
   OrderId: 1212
   Title: Dear my future
@@ -2173,6 +3127,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303115
   OrderId: 1011
   Title: 明日の空の僕たちへ
@@ -2202,6 +3158,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303116
   OrderId: 1413
   Title: 飴色
@@ -2231,6 +3189,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303117
   OrderId: 1414
   Title: 青とシャボン
@@ -2260,6 +3220,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303118
   OrderId: 2002
   Title: Pleasure Feather
@@ -2289,6 +3251,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303119
   OrderId: 1609
   Title: 以心☆電信
@@ -2318,6 +3282,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303201
   OrderId: 6002
   Title: 深愛
@@ -2347,6 +3313,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303202
   OrderId: 6005
   Title: ロストワンの号哭
@@ -2376,6 +3344,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303203
   OrderId: 6006
   Title: 名前のない怪物
@@ -2405,6 +3375,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303204
   OrderId: 6011
   Title: ヴィラン
@@ -2434,6 +3406,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303205
   OrderId: 6013
   Title: 威風堂々
@@ -2463,6 +3437,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303206
   OrderId: 6017
   Title: 祝福
@@ -2492,6 +3468,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303207
   OrderId: 6020
   Title: lucky train!
@@ -2521,6 +3499,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 10
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304101
   OrderId: 1017
   Title: On your mark（104期Ver.）
@@ -2550,6 +3530,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304102
   OrderId: 1215
   Title: Reflection in the mirror（104期NEW Ver.）
@@ -2579,6 +3561,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304103
   OrderId: 1612
   Title: ココン東西（104期Ver.）
@@ -2608,6 +3592,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304104
   OrderId: 1416
   Title: Tragic Drops（104期Ver.）
@@ -2637,6 +3623,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304105
   OrderId: 1417
   Title: レディバグ
@@ -2666,3 +3654,439 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 2
+- Id: 304106
+  OrderId: 1418
+  Title: KNOT（104期Ver.）
+  TitleFurigana: のっと
+  JacketId: 304106
+  SoundId: 30410601
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: 1022,1032
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 13636
+  ApIncrement: 828
+  SongTime: 8276
+  PlayTime: 99310
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304107
+  OrderId: 1219
+  Title: 月夜見海月
+  TitleFurigana: つきよみくらげ
+  JacketId: 304107
+  SoundId: 30410701
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1031
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 14754
+  ApIncrement: 957
+  SongTime: 9571
+  PlayTime: 114857
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304108
+  OrderId: 1615
+  Title: 以心☆電信（104期Ver.）
+  TitleFurigana: いしんでんしん
+  JacketId: 304108
+  SoundId: 30410801
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 15254
+  ApIncrement: 855
+  SongTime: 8553
+  PlayTime: 102632
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2024-08-23T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304109
+  OrderId: 1022
+  Title: DEEPNESS（ReC Ver.）
+  TitleFurigana: でぃーぷねす
+  JacketId: 304109
+  SoundId: 30410901
+  Description: 102&103期曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1022
+  SingerCharacterId: 1021,1023,1031,1032,1033
+  SupportCharacterId: 1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 16364
+  ApIncrement: 868
+  SongTime: 8677
+  PlayTime: 104118
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 1
+  VideoBgId: 2
+- Id: 304110
+  OrderId: 1421
+  Title: 希望的プリズム（104期Ver.）
+  TitleFurigana: きぼうてきぷりずむ
+  JacketId: 304110
+  SoundId: 30411001
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 14063
+  ApIncrement: 956
+  SongTime: 9557
+  PlayTime: 114680
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304111
+  OrderId: 1023
+  Title: Trick & Cute（104期Ver.）
+  TitleFurigana: とりっくあんどきゅーと
+  JacketId: 304111
+  SoundId: 30411101
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1032
+  SingerCharacterId: 1021,1022,1023,1031,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 23684
+  ApIncrement: 721
+  SongTime: 7213
+  PlayTime: 86557
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304112
+  OrderId: 1422
+  Title: Take It Over（104期Ver.）
+  TitleFurigana: ていくいっとおーばー
+  JacketId: 304112
+  SoundId: 30411201
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 18000
+  ApIncrement: 747
+  SongTime: 7467
+  PlayTime: 89600
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304113
+  OrderId: 1025
+  Title: Now or Never
+  TitleFurigana: なうおあねばー
+  JacketId: 304113
+  SoundId: 30411301
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1032
+  SingerCharacterId: 1021,1022,1023,1031,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 13433
+  ApIncrement: 1043
+  SongTime: 10429
+  PlayTime: 125143
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304114
+  OrderId: 1619
+  Title: ジョーショーキリュー
+  TitleFurigana: じょーしょーきりゅー
+  JacketId: 304114
+  SoundId: 30411401
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 15000
+  ApIncrement: 957
+  SongTime: 9565
+  PlayTime: 114783
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304115
+  OrderId: 1424
+  Title: AWOKE（104期Ver.）
+  TitleFurigana: あうぉーく
+  JacketId: 304115
+  SoundId: 30411501
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: 1022,1032
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 12500
+  ApIncrement: 1053
+  SongTime: 10533
+  PlayTime: 126400
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304116
+  OrderId: 1224
+  Title: 水彩世界（104期Ver.）
+  TitleFurigana: すいさいせかい
+  JacketId: 304116
+  SoundId: 30411601
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1031
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 813
+  SongTime: 8125
+  PlayTime: 97500
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304201
+  OrderId: 6024
+  Title: This game
+  TitleFurigana: でぃすげーむ
+  JacketId: 304201
+  SoundId: 30420101
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: "0"
+  SupportCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 11392
+  ApIncrement: 1156
+  SongTime: 11565
+  PlayTime: 138776
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304202
+  OrderId: 6025
+  Title: STARTLINER
+  TitleFurigana: すたーとらいなー
+  JacketId: 304202
+  SoundId: 30420201
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1043
+  SingerCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 10843
+  ApIncrement: 1319
+  SongTime: 13185
+  PlayTime: 158222
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304301
+  OrderId: 5007
+  Title: Daydream Warrior
+  TitleFurigana: でいどりーむうぉりあー
+  JacketId: 304301
+  SoundId: 30430101
+  Description: LLカバー
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1032
+  SingerCharacterId: 1022,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 16364
+  ApIncrement: 904
+  SongTime: 9037
+  PlayTime: 108444
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0

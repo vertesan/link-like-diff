@@ -188,6 +188,11 @@
   Name: Link to the FUTURE（104期Ver.）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 40104112
+  MusicsId: 104112
+  Name: ハナムスビ
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 40104201
   MusicsId: 104201
   Name: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -401,6 +406,16 @@
 - Id: 40204111
   MusicsId: 204111
   Name: ド！ド！ド！（104期Ver.）
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 40204112
+  MusicsId: 204112
+  Name: バアドケージ
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 40204113
+  MusicsId: 204113
+  Name: ツバサ・ラ・リベルテ（104期Ver.）
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 40204201
@@ -618,9 +633,24 @@
   Name: ジョーショーキリュー
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 40304115
+  MusicsId: 304115
+  Name: AWOKE（104期Ver.）
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 40304116
+  MusicsId: 304116
+  Name: 水彩世界（104期Ver.）
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 40304201
   MusicsId: 304201
   Name: This game
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 40304202
+  MusicsId: 304202
+  Name: STARTLINER
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 40304301

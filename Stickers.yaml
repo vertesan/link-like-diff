@@ -598,6 +598,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10214211
+  Name: "[ハナムスビ]乙宗梢"
+  Text: "[ハナムスビ]乙宗梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 214211
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021421
+  RequirementText: "[ハナムスビ]乙宗梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-01T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10215011
   Name: "[Dream Believers]乙宗梢"
   Text: "[Dream Believers]乙宗梢を4回解放した記念のステッカー"
@@ -2371,6 +2395,54 @@
   StartTime: 2024-10-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-10-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10225221
+  Name: "[バアドケージ]夕霧綴理"
+  Text: "[バアドケージ]夕霧綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 225221
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022522
+  RequirementText: "[バアドケージ]夕霧綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-11-24T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-24T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10225231
+  Name: "[102/R.B.P.]夕霧綴理"
+  Text: "[102/R.B.P.]夕霧綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 225231
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022523
+  RequirementText: "[102/R.B.P.]夕霧綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -4654,6 +4726,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315241
+  Name: "[ハナムスビ]日野下花帆"
+  Text: "[ハナムスビ]日野下花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 315241
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031524
+  RequirementText: "[ハナムスビ]日野下花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-01T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315251
+  Name: "[103/ASTERISM]日野下花帆"
+  Text: "[103/ASTERISM]日野下花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 315251
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031525
+  RequirementText: "[103/ASTERISM]日野下花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10318011
   Name: "[Prism Echo]日野下花帆"
   Text: "[Prism Echo]日野下花帆を4回解放した記念のステッカー"
@@ -5899,6 +6019,30 @@
   StartTime: 2024-10-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-10-19T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10325231
+  Name: "[バアドケージ]村野さやか"
+  Text: "[バアドケージ]村野さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 325231
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032523
+  RequirementText: "[バアドケージ]村野さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-01T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -7270,6 +7414,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10415091
+  Name: "[ハナムスビ]百生吟子"
+  Text: "[ハナムスビ]百生吟子 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 415091
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1041509
+  RequirementText: "[ハナムスビ]百生吟子 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-01T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10418011
   Name: "[Ether Aria]百生吟子"
   Text: "[Ether Aria]百生吟子 を4回解放した記念のステッカー"
@@ -7438,6 +7606,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10424031
+  Name: "[魔法少女リズミックハート２]徒町小鈴"
+  Text: "[魔法少女リズミックハート２]徒町小鈴 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 424031
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1042403
+  RequirementText: "[魔法少女リズミックハート２]徒町小鈴 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10425011
   Name: "[Dream Believers]徒町小鈴"
   Text: "[Dream Believers]徒町小鈴 を4回解放した記念のステッカー"
@@ -7603,6 +7795,30 @@
   StartTime: 2024-10-28T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-10-28T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10425081
+  Name: "[バアドケージ]徒町小鈴"
+  Text: "[バアドケージ]徒町小鈴 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 425081
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1042508
+  RequirementText: "[バアドケージ]徒町小鈴 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-11-24T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-24T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -7939,6 +8155,30 @@
   StartTime: 2024-10-28T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-10-28T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10435091
+  Name: "[104/⊿TRiEDGE]安養寺姫芽"
+  Text: "[104/⊿TRiEDGE]安養寺姫芽 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 430059
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1043509
+  RequirementText: "[104/⊿TRiEDGE]安養寺姫芽 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -16822,6 +17062,462 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240801
+  Name: 104期3rdTerm 第1回 サークル対抗戦 1位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440801
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240802
+  Name: 104期3rdTerm 第1回 サークル対抗戦 2位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440802
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240803
+  Name: 104期3rdTerm 第1回 サークル対抗戦 3位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440803
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240804
+  Name: 104期3rdTerm 第1回 サークル対抗戦 4位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440804
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240805
+  Name: 104期3rdTerm 第1回 サークル対抗戦 5位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440805
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240806
+  Name: 104期3rdTerm 第1回 サークル対抗戦 6位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440806
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240807
+  Name: 104期3rdTerm 第1回 サークル対抗戦 7位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440807
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240808
+  Name: 104期3rdTerm 第1回 サークル対抗戦 8位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440808
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240809
+  Name: 104期3rdTerm 第1回 サークル対抗戦 9位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440809
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240810
+  Name: 104期3rdTerm 第1回 サークル対抗戦 10位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440810
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240811
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP30位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP30位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440811
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP30位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240812
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP100位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440812
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240813
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP200位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440813
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240814
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP300位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP300位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440814
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP300位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240815
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP500位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440815
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240816
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP1000位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440816
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240817
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP1500位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP1500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440817
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP1500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240818
+  Name: 104期3rdTerm 第1回 サークル対抗戦 TOP2000位
+  Text: 104期3rdTerm 第1回 サークル対抗戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440818
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20240819
+  Name: 104期3rdTerm 第1回 サークル対抗戦 参加
+  Text: 104期3rdTerm 第1回 サークル対抗戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 440819
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第1回 サークル対抗戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-25T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20330101
   Name: Live Grand Prix 103期第1回個人戦 1位
   Text: Live Grand Prix 103期第1回個人戦 1位 を称えるステッカー
@@ -25390,9 +26086,513 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340901
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 1位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540901
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340902
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 2位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540902
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340903
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 3位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540903
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340904
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 4位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540904
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340905
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 5位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540905
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340906
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 6位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540906
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340907
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 7位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540907
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340908
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 8位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540908
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340909
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 9位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540909
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340910
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 10位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540910
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340911
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP100位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540911
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340912
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP200位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540912
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340913
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP500位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540913
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340914
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP1000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540914
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340915
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP2000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540915
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340916
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP3000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP3000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540916
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP3000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340917
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP5000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP5000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540917
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP5000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340918
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP7000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP7000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540918
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP7000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340919
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP10000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP10000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540919
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP10000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340920
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP15000位
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP15000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540920
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦 TOP15000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20340921
+  Name: Live Grand Prix 104期3rdTerm 第2回 個人戦 参加
+  Text: Live Grand Prix 104期3rdTerm 第2回 個人戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 540921
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 104期3rdTerm 第2回 個人戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103101
   Name: 『Dream Believers（4人Ver.）』マエストロ
-  Text: 『Dream Believers（4人Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25402,7 +26602,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103101
-  RequirementText: 『Dream Believers（4人Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Dream Believers（4人Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25416,7 +26616,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103102
   Name: 『永遠のEuphoria（4人Ver.）』マエストロ
-  Text: 『永遠のEuphoria（4人Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『永遠のEuphoria（4人Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25426,7 +26626,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103102
-  RequirementText: 『永遠のEuphoria（4人Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『永遠のEuphoria（4人Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25440,7 +26640,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103103
   Name: 『フォーチュンムービー』マエストロ
-  Text: 『フォーチュンムービー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『フォーチュンムービー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25450,7 +26650,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103103
-  RequirementText: 『フォーチュンムービー』マスタリーLv.MAX到達
+  RequirementText: 『フォーチュンムービー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25464,7 +26664,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103104
   Name: 『Reflection in the mirror』マエストロ
-  Text: 『Reflection in the mirror』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Reflection in the mirror』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25474,7 +26674,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103104
-  RequirementText: 『Reflection in the mirror』マスタリーLv.MAX到達
+  RequirementText: 『Reflection in the mirror』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25488,7 +26688,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103105
   Name: 『謳歌爛漫』マエストロ
-  Text: 『謳歌爛漫』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『謳歌爛漫』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25498,7 +26698,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103105
-  RequirementText: 『謳歌爛漫』マスタリーLv.MAX到達
+  RequirementText: 『謳歌爛漫』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25512,7 +26712,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103106
   Name: 『眩耀夜行』マエストロ
-  Text: 『眩耀夜行』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『眩耀夜行』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25522,7 +26722,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103106
-  RequirementText: 『眩耀夜行』マスタリーLv.MAX到達
+  RequirementText: 『眩耀夜行』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25536,7 +26736,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103107
   Name: 『Kawaii no susume』マエストロ
-  Text: 『Kawaii no susume』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Kawaii no susume』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25546,7 +26746,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103107
-  RequirementText: 『Kawaii no susume』マスタリーLv.MAX到達
+  RequirementText: 『Kawaii no susume』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25560,7 +26760,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103108
   Name: 『ジブンダイアリー』マエストロ
-  Text: 『ジブンダイアリー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ジブンダイアリー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25570,7 +26770,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103108
-  RequirementText: 『ジブンダイアリー』マスタリーLv.MAX到達
+  RequirementText: 『ジブンダイアリー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25584,7 +26784,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103109
   Name: 『永遠のEuphoria』マエストロ
-  Text: 『永遠のEuphoria』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『永遠のEuphoria』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25594,7 +26794,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103109
-  RequirementText: 『永遠のEuphoria』マスタリーLv.MAX到達
+  RequirementText: 『永遠のEuphoria』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25608,7 +26808,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103110
   Name: 『ハクチューアラモード』マエストロ
-  Text: 『ハクチューアラモード』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ハクチューアラモード』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25618,7 +26818,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103110
-  RequirementText: 『ハクチューアラモード』マスタリーLv.MAX到達
+  RequirementText: 『ハクチューアラモード』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25632,7 +26832,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103111
   Name: 『パラレルダンサー』マエストロ
-  Text: 『パラレルダンサー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『パラレルダンサー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25642,7 +26842,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103111
-  RequirementText: 『パラレルダンサー』マスタリーLv.MAX到達
+  RequirementText: 『パラレルダンサー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25656,7 +26856,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103112
   Name: 『Dream Believers』マエストロ
-  Text: 『Dream Believers』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Dream Believers』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25666,7 +26866,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103112
-  RequirementText: 『Dream Believers』マスタリーLv.MAX到達
+  RequirementText: 『Dream Believers』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25680,7 +26880,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103113
   Name: 『アイデンティティ』マエストロ
-  Text: 『アイデンティティ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『アイデンティティ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25690,7 +26890,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103113
-  RequirementText: 『アイデンティティ』マスタリーLv.MAX到達
+  RequirementText: 『アイデンティティ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25704,7 +26904,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103114
   Name: 『Legato』マエストロ
-  Text: 『Legato』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Legato』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25714,7 +26914,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103114
-  RequirementText: 『Legato』マスタリーLv.MAX到達
+  RequirementText: 『Legato』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25728,7 +26928,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103115
   Name: 『千変万華』マエストロ
-  Text: 『千変万華』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『千変万華』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25738,7 +26938,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103115
-  RequirementText: 『千変万華』マスタリーLv.MAX到達
+  RequirementText: 『千変万華』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25752,7 +26952,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103116
   Name: 『Yup! Yup! Yup!』マエストロ
-  Text: 『Yup! Yup! Yup!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Yup! Yup! Yup!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25762,7 +26962,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103116
-  RequirementText: 『Yup! Yup! Yup!』マスタリーLv.MAX到達
+  RequirementText: 『Yup! Yup! Yup!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25776,7 +26976,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103117
   Name: 『シュガーメルト』マエストロ
-  Text: 『シュガーメルト』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『シュガーメルト』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25786,7 +26986,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103117
-  RequirementText: 『シュガーメルト』マスタリーLv.MAX到達
+  RequirementText: 『シュガーメルト』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25800,7 +27000,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103118
   Name: 『Link to the FUTURE』マエストロ
-  Text: 『Link to the FUTURE』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Link to the FUTURE』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25810,7 +27010,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103118
-  RequirementText: 『Link to the FUTURE』マスタリーLv.MAX到達
+  RequirementText: 『Link to the FUTURE』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25824,7 +27024,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103119
   Name: 『ハッピー至上主義！』マエストロ
-  Text: 『ハッピー至上主義！』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ハッピー至上主義！』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25834,7 +27034,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103119
-  RequirementText: 『ハッピー至上主義！』マスタリーLv.MAX到達
+  RequirementText: 『ハッピー至上主義！』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25848,7 +27048,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103120
   Name: 『マハラジャンボリー』マエストロ
-  Text: 『マハラジャンボリー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『マハラジャンボリー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25858,7 +27058,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103120
-  RequirementText: 『マハラジャンボリー』マスタリーLv.MAX到達
+  RequirementText: 『マハラジャンボリー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25872,7 +27072,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103201
   Name: 『Preserved Roses』マエストロ
-  Text: 『Preserved Roses』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Preserved Roses』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25882,7 +27082,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103201
-  RequirementText: 『Preserved Roses』マスタリーLv.MAX到達
+  RequirementText: 『Preserved Roses』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25896,7 +27096,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103202
   Name: 『心予報』マエストロ
-  Text: 『心予報』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『心予報』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25906,7 +27106,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103202
-  RequirementText: 『心予報』マスタリーLv.MAX到達
+  RequirementText: 『心予報』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25920,7 +27120,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103203
   Name: 『ダンスロボットダンス』マエストロ
-  Text: 『ダンスロボットダンス』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ダンスロボットダンス』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25930,7 +27130,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103203
-  RequirementText: 『ダンスロボットダンス』マスタリーLv.MAX到達
+  RequirementText: 『ダンスロボットダンス』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25944,7 +27144,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103204
   Name: 『御旗のもとに』マエストロ
-  Text: 『御旗のもとに』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『御旗のもとに』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25954,7 +27154,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103204
-  RequirementText: 『御旗のもとに』マスタリーLv.MAX到達
+  RequirementText: 『御旗のもとに』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25968,7 +27168,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103205
   Name: 『ダイヤモンドハッピー』マエストロ
-  Text: 『ダイヤモンドハッピー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ダイヤモンドハッピー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -25978,7 +27178,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103205
-  RequirementText: 『ダイヤモンドハッピー』マスタリーLv.MAX到達
+  RequirementText: 『ダイヤモンドハッピー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -25992,7 +27192,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103301
   Name: 『TOKIMEKI Runners』マエストロ
-  Text: 『TOKIMEKI Runners』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『TOKIMEKI Runners』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26002,7 +27202,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103301
-  RequirementText: 『TOKIMEKI Runners』マスタリーLv.MAX到達
+  RequirementText: 『TOKIMEKI Runners』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26016,7 +27216,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103302
   Name: 『君のこころは輝いてるかい?』マエストロ
-  Text: 『君のこころは輝いてるかい?』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『君のこころは輝いてるかい?』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26026,7 +27226,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 103302
-  RequirementText: 『君のこころは輝いてるかい?』マスタリーLv.MAX到達
+  RequirementText: 『君のこころは輝いてるかい?』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26040,7 +27240,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104101
   Name: 『Dream Believers（104期Ver.）』マエストロ
-  Text: 『Dream Believers（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Dream Believers（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26050,7 +27250,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104101
-  RequirementText: 『Dream Believers（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Dream Believers（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26064,7 +27264,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104102
   Name: 『Sparkly Spot（104期NEW Ver.）』マエストロ
-  Text: 『Sparkly Spot（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Sparkly Spot（104期NEW Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26074,7 +27274,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104102
-  RequirementText: 『Sparkly Spot（104期NEW Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Sparkly Spot（104期NEW Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26088,7 +27288,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104103
   Name: 『365 Days』マエストロ
-  Text: 『365 Days』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『365 Days』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26098,7 +27298,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104103
-  RequirementText: 『365 Days』マスタリーLv.MAX到達
+  RequirementText: 『365 Days』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26112,7 +27312,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104104
   Name: 『千変万華（104期Ver.）』マエストロ
-  Text: 『千変万華（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『千変万華（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26122,7 +27322,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104104
-  RequirementText: 『千変万華（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『千変万華（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26136,7 +27336,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104105
   Name: 『Bloom the smile, Bloom the dream!』マエストロ
-  Text: 『Bloom the smile, Bloom the dream!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Bloom the smile, Bloom the dream!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26146,7 +27346,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104105
-  RequirementText: 『Bloom the smile, Bloom the dream!』マスタリーLv.MAX到達
+  RequirementText: 『Bloom the smile, Bloom the dream!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26160,7 +27360,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104106
   Name: 『永遠のEuphoria（104期Ver.）』マエストロ
-  Text: 『永遠のEuphoria（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『永遠のEuphoria（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26170,7 +27370,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104106
-  RequirementText: 『永遠のEuphoria（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『永遠のEuphoria（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26184,7 +27384,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104107
   Name: 『眩耀夜行（104期Ver.）』マエストロ
-  Text: 『眩耀夜行（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『眩耀夜行（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26194,7 +27394,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104107
-  RequirementText: 『眩耀夜行（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『眩耀夜行（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26208,7 +27408,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104108
   Name: 『ハクチューアラモード（104期Ver.）』マエストロ
-  Text: 『ハクチューアラモード（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ハクチューアラモード（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26218,7 +27418,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104108
-  RequirementText: 『ハクチューアラモード（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『ハクチューアラモード（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26232,7 +27432,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104109
   Name: 『ファンファーレ！！！』マエストロ
-  Text: 『ファンファーレ！！！』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ファンファーレ！！！』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26242,7 +27442,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104109
-  RequirementText: 『ファンファーレ！！！』マスタリーLv.MAX到達
+  RequirementText: 『ファンファーレ！！！』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26256,7 +27456,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104110
   Name: 『マハラジャンボリー（104期Ver.）』マエストロ
-  Text: 『マハラジャンボリー（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『マハラジャンボリー（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26266,7 +27466,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104110
-  RequirementText: 『マハラジャンボリー（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『マハラジャンボリー（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26280,7 +27480,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104111
   Name: 『Link to the FUTURE（104期Ver.）』マエストロ
-  Text: 『Link to the FUTURE（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Link to the FUTURE（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26290,7 +27490,31 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104111
-  RequirementText: 『Link to the FUTURE（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Link to the FUTURE（104期Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40104112
+  Name: 『ハナムスビ』マエストロ
+  Text: 『ハナムスビ』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601223
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 104112
+  RequirementText: 『ハナムスビ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26304,7 +27528,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104201
   Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』マエストロ
-  Text: 『ミラクルショッピング ～ドン・キホーテのテーマ～』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ミラクルショッピング ～ドン・キホーテのテーマ～』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26314,7 +27538,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104201
-  RequirementText: 『ミラクルショッピング ～ドン・キホーテのテーマ～』マスタリーLv.MAX到達
+  RequirementText: 『ミラクルショッピング ～ドン・キホーテのテーマ～』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26328,7 +27552,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104202
   Name: 『ルージュの伝言』マエストロ
-  Text: 『ルージュの伝言』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ルージュの伝言』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26338,7 +27562,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104202
-  RequirementText: 『ルージュの伝言』マスタリーLv.MAX到達
+  RequirementText: 『ルージュの伝言』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26352,7 +27576,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104301
   Name: 『夏色えがおで1,2,Jump!』マエストロ
-  Text: 『夏色えがおで1,2,Jump!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『夏色えがおで1,2,Jump!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26362,7 +27586,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104301
-  RequirementText: 『夏色えがおで1,2,Jump!』マスタリーLv.MAX到達
+  RequirementText: 『夏色えがおで1,2,Jump!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26376,7 +27600,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104302
   Name: 『常夏☆サンシャイン』マエストロ
-  Text: 『常夏☆サンシャイン』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『常夏☆サンシャイン』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26386,7 +27610,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 104302
-  RequirementText: 『常夏☆サンシャイン』マスタリーLv.MAX到達
+  RequirementText: 『常夏☆サンシャイン』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26400,7 +27624,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203101
   Name: 『Mix shake!!』マエストロ
-  Text: 『Mix shake!!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Mix shake!!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26410,7 +27634,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203101
-  RequirementText: 『Mix shake!!』マスタリーLv.MAX到達
+  RequirementText: 『Mix shake!!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26424,7 +27648,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203102
   Name: 『ツキマカセ』マエストロ
-  Text: 『ツキマカセ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ツキマカセ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26434,7 +27658,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203102
-  RequirementText: 『ツキマカセ』マスタリーLv.MAX到達
+  RequirementText: 『ツキマカセ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26448,7 +27672,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203103
   Name: 『Holiday∞Holiday』マエストロ
-  Text: 『Holiday∞Holiday』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Holiday∞Holiday』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26458,7 +27682,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203103
-  RequirementText: 『Holiday∞Holiday』マスタリーLv.MAX到達
+  RequirementText: 『Holiday∞Holiday』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26472,7 +27696,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203104
   Name: 『Mirage Voyage』マエストロ
-  Text: 『Mirage Voyage』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Mirage Voyage』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26482,7 +27706,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203104
-  RequirementText: 『Mirage Voyage』マスタリーLv.MAX到達
+  RequirementText: 『Mirage Voyage』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26496,7 +27720,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203105
   Name: 『夏めきペイン』マエストロ
-  Text: 『夏めきペイン』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『夏めきペイン』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26506,7 +27730,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203105
-  RequirementText: 『夏めきペイン』マスタリーLv.MAX到達
+  RequirementText: 『夏めきペイン』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26520,7 +27744,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203106
   Name: 『ド！ド！ド！』マエストロ
-  Text: 『ド！ド！ド！』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ド！ド！ド！』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26530,7 +27754,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203106
-  RequirementText: 『ド！ド！ド！』マスタリーLv.MAX到達
+  RequirementText: 『ド！ド！ド！』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26544,7 +27768,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203107
   Name: 『素顔のピクセル』マエストロ
-  Text: 『素顔のピクセル』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『素顔のピクセル』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26554,7 +27778,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203107
-  RequirementText: 『素顔のピクセル』マスタリーLv.MAX到達
+  RequirementText: 『素顔のピクセル』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26568,7 +27792,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203108
   Name: 『ノンフィクションヒーローショー』マエストロ
-  Text: 『ノンフィクションヒーローショー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ノンフィクションヒーローショー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26578,7 +27802,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203108
-  RequirementText: 『ノンフィクションヒーローショー』マスタリーLv.MAX到達
+  RequirementText: 『ノンフィクションヒーローショー』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26592,7 +27816,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203109
   Name: 『Runway』マエストロ
-  Text: 『Runway』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Runway』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26602,7 +27826,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203109
-  RequirementText: 『Runway』マスタリーLv.MAX到達
+  RequirementText: 『Runway』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26616,7 +27840,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203110
   Name: 『青春の輪郭』マエストロ
-  Text: 『青春の輪郭』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『青春の輪郭』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26626,7 +27850,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203110
-  RequirementText: 『青春の輪郭』マスタリーLv.MAX到達
+  RequirementText: 『青春の輪郭』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26640,7 +27864,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203111
   Name: 『ツバサ・ラ・リベルテ』マエストロ
-  Text: 『ツバサ・ラ・リベルテ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ツバサ・ラ・リベルテ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26650,7 +27874,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203111
-  RequirementText: 『ツバサ・ラ・リベルテ』マスタリーLv.MAX到達
+  RequirementText: 『ツバサ・ラ・リベルテ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26664,7 +27888,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203112
   Name: 『天才なのかもしれない』マエストロ
-  Text: 『天才なのかもしれない』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『天才なのかもしれない』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26674,7 +27898,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203112
-  RequirementText: 『天才なのかもしれない』マスタリーLv.MAX到達
+  RequirementText: 『天才なのかもしれない』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26688,7 +27912,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203113
   Name: 『Special Thanks』マエストロ
-  Text: 『Special Thanks』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Special Thanks』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26698,7 +27922,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203113
-  RequirementText: 『Special Thanks』マスタリーLv.MAX到達
+  RequirementText: 『Special Thanks』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26712,7 +27936,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203114
   Name: 『ミルク』マエストロ
-  Text: 『ミルク』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ミルク』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26722,7 +27946,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203114
-  RequirementText: 『ミルク』マスタリーLv.MAX到達
+  RequirementText: 『ミルク』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26736,7 +27960,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203115
   Name: 『Colorfulness』マエストロ
-  Text: 『Colorfulness』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Colorfulness』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26746,7 +27970,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203115
-  RequirementText: 『Colorfulness』マスタリーLv.MAX到達
+  RequirementText: 『Colorfulness』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26760,7 +27984,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203116
   Name: 『BANG YOU グラビティ』マエストロ
-  Text: 『BANG YOU グラビティ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『BANG YOU グラビティ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26770,7 +27994,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203116
-  RequirementText: 『BANG YOU グラビティ』マスタリーLv.MAX到達
+  RequirementText: 『BANG YOU グラビティ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26784,7 +28008,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203117
   Name: 『抱きしめる花びら』マエストロ
-  Text: 『抱きしめる花びら』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『抱きしめる花びら』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26794,7 +28018,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203117
-  RequirementText: 『抱きしめる花びら』マスタリーLv.MAX到達
+  RequirementText: 『抱きしめる花びら』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26808,7 +28032,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203118
   Name: 『STEP UP !』マエストロ
-  Text: 『STEP UP !』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『STEP UP !』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26818,7 +28042,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203118
-  RequirementText: 『STEP UP !』マスタリーLv.MAX到達
+  RequirementText: 『STEP UP !』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26832,7 +28056,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203201
   Name: 『そばかす』マエストロ
-  Text: 『そばかす』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『そばかす』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26842,7 +28066,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203201
-  RequirementText: 『そばかす』マスタリーLv.MAX到達
+  RequirementText: 『そばかす』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26856,7 +28080,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203202
   Name: 『ビバハピ』マエストロ
-  Text: 『ビバハピ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ビバハピ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26866,7 +28090,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203202
-  RequirementText: 『ビバハピ』マスタリーLv.MAX到達
+  RequirementText: 『ビバハピ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26880,7 +28104,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203203
   Name: 『狙いうち』マエストロ
-  Text: 『狙いうち』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『狙いうち』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26890,7 +28114,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203203
-  RequirementText: 『狙いうち』マスタリーLv.MAX到達
+  RequirementText: 『狙いうち』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26904,7 +28128,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203204
   Name: 『♡桃色片想い♡』マエストロ
-  Text: 『♡桃色片想い♡』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『♡桃色片想い♡』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26914,7 +28138,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203204
-  RequirementText: 『♡桃色片想い♡』マスタリーLv.MAX到達
+  RequirementText: 『♡桃色片想い♡』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26928,7 +28152,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203205
   Name: 『いーあるふぁんくらぶ』マエストロ
-  Text: 『いーあるふぁんくらぶ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『いーあるふぁんくらぶ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26938,7 +28162,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203205
-  RequirementText: 『いーあるふぁんくらぶ』マスタリーLv.MAX到達
+  RequirementText: 『いーあるふぁんくらぶ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26952,7 +28176,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203206
   Name: 『ハッピーシンセサイザ』マエストロ
-  Text: 『ハッピーシンセサイザ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ハッピーシンセサイザ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26962,7 +28186,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203206
-  RequirementText: 『ハッピーシンセサイザ』マスタリーLv.MAX到達
+  RequirementText: 『ハッピーシンセサイザ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -26976,7 +28200,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203207
   Name: 『強風オールバック』マエストロ
-  Text: 『強風オールバック』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『強風オールバック』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -26986,7 +28210,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203207
-  RequirementText: 『強風オールバック』マスタリーLv.MAX到達
+  RequirementText: 『強風オールバック』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27000,7 +28224,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203208
   Name: 『CHANGE!!!!』マエストロ
-  Text: 『CHANGE!!!!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『CHANGE!!!!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27010,7 +28234,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203208
-  RequirementText: 『CHANGE!!!!』マスタリーLv.MAX到達
+  RequirementText: 『CHANGE!!!!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27024,7 +28248,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203301
   Name: 『僕らのLIVE 君とのLIFE』マエストロ
-  Text: 『僕らのLIVE 君とのLIFE』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『僕らのLIVE 君とのLIFE』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27034,7 +28258,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203301
-  RequirementText: 『僕らのLIVE 君とのLIFE』マスタリーLv.MAX到達
+  RequirementText: 『僕らのLIVE 君とのLIFE』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27048,7 +28272,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40203302
   Name: 『始まりは君の空』マエストロ
-  Text: 『始まりは君の空』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『始まりは君の空』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27058,7 +28282,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 203302
-  RequirementText: 『始まりは君の空』マスタリーLv.MAX到達
+  RequirementText: 『始まりは君の空』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27072,7 +28296,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204101
   Name: 『アイデンティティ（104期NEW Ver.）』マエストロ
-  Text: 『アイデンティティ（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『アイデンティティ（104期NEW Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27082,7 +28306,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204101
-  RequirementText: 『アイデンティティ（104期NEW Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『アイデンティティ（104期NEW Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27096,7 +28320,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204102
   Name: 『Mix shake!!（104期Ver.）』マエストロ
-  Text: 『Mix shake!!（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Mix shake!!（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27106,7 +28330,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204102
-  RequirementText: 『Mix shake!!（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Mix shake!!（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27120,7 +28344,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204103
   Name: 『ノンフィクションヒーローショー（104期Ver.）』マエストロ
-  Text: 『ノンフィクションヒーローショー（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ノンフィクションヒーローショー（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27130,7 +28354,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204103
-  RequirementText: 『ノンフィクションヒーローショー（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『ノンフィクションヒーローショー（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27144,7 +28368,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204104
   Name: 『みらくりえーしょん』マエストロ
-  Text: 『みらくりえーしょん』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『みらくりえーしょん』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27154,7 +28378,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204104
-  RequirementText: 『みらくりえーしょん』マスタリーLv.MAX到達
+  RequirementText: 『みらくりえーしょん』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27168,7 +28392,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204105
   Name: 『アオクハルカ』マエストロ
-  Text: 『アオクハルカ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『アオクハルカ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27178,7 +28402,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204105
-  RequirementText: 『アオクハルカ』マスタリーLv.MAX到達
+  RequirementText: 『アオクハルカ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27192,7 +28416,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204106
   Name: 『Mirage Voyage（104期Ver.）』マエストロ
-  Text: 『Mirage Voyage（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Mirage Voyage（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27202,7 +28426,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204106
-  RequirementText: 『Mirage Voyage（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Mirage Voyage（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27216,7 +28440,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204107
   Name: 『Proof』マエストロ
-  Text: 『Proof』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Proof』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27226,7 +28450,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204107
-  RequirementText: 『Proof』マスタリーLv.MAX到達
+  RequirementText: 『Proof』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27240,7 +28464,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204108
   Name: 『夏めきペイン（104期Ver.）』マエストロ
-  Text: 『夏めきペイン（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『夏めきペイン（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27250,7 +28474,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204108
-  RequirementText: 『夏めきペイン（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『夏めきペイン（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27264,7 +28488,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204109
   Name: 『Holiday∞Holiday（104期Ver.）』マエストロ
-  Text: 『Holiday∞Holiday（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Holiday∞Holiday（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27274,7 +28498,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204109
-  RequirementText: 『Holiday∞Holiday（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Holiday∞Holiday（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27288,7 +28512,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204110
   Name: 『素顔のピクセル（104期Ver.）』マエストロ
-  Text: 『素顔のピクセル（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『素顔のピクセル（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27298,7 +28522,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204110
-  RequirementText: 『素顔のピクセル（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『素顔のピクセル（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27312,7 +28536,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204111
   Name: 『ド！ド！ド！（104期Ver.）』マエストロ
-  Text: 『ド！ド！ド！（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ド！ド！ド！（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27322,7 +28546,55 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204111
-  RequirementText: 『ド！ド！ド！（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『ド！ド！ド！（104期Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204112
+  Name: 『バアドケージ』マエストロ
+  Text: 『バアドケージ』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601423
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204112
+  RequirementText: 『バアドケージ』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204113
+  Name: 『ツバサ・ラ・リベルテ（104期Ver.）』マエストロ
+  Text: 『ツバサ・ラ・リベルテ（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601026
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204113
+  RequirementText: 『ツバサ・ラ・リベルテ（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27336,7 +28608,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204201
   Name: 『ビビデバ』マエストロ
-  Text: 『ビビデバ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ビビデバ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27346,7 +28618,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204201
-  RequirementText: 『ビビデバ』マスタリーLv.MAX到達
+  RequirementText: 『ビビデバ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27360,7 +28632,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204301
   Name: 『Snow halation』マエストロ
-  Text: 『Snow halation』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Snow halation』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27370,7 +28642,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204301
-  RequirementText: 『Snow halation』マスタリーLv.MAX到達
+  RequirementText: 『Snow halation』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27384,7 +28656,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204302
   Name: 『NEO SKY, NEO MAP!』マエストロ
-  Text: 『NEO SKY, NEO MAP!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『NEO SKY, NEO MAP!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27394,7 +28666,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 204302
-  RequirementText: 『NEO SKY, NEO MAP!』マスタリーLv.MAX到達
+  RequirementText: 『NEO SKY, NEO MAP!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27408,7 +28680,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303101
   Name: 『On your mark』マエストロ
-  Text: 『On your mark』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『On your mark』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27418,7 +28690,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303101
-  RequirementText: 『On your mark』マスタリーLv.MAX到達
+  RequirementText: 『On your mark』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27432,7 +28704,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303102
   Name: 『水彩世界』マエストロ
-  Text: 『水彩世界』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『水彩世界』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27442,7 +28714,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303102
-  RequirementText: 『水彩世界』マスタリーLv.MAX到達
+  RequirementText: 『水彩世界』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27456,7 +28728,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303103
   Name: 『AWOKE』マエストロ
-  Text: 『AWOKE』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『AWOKE』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27466,7 +28738,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303103
-  RequirementText: 『AWOKE』マスタリーLv.MAX到達
+  RequirementText: 『AWOKE』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27480,7 +28752,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303104
   Name: 『Sparkly Spot』マエストロ
-  Text: 『Sparkly Spot』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Sparkly Spot』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27490,7 +28762,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303104
-  RequirementText: 『Sparkly Spot』マスタリーLv.MAX到達
+  RequirementText: 『Sparkly Spot』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27504,7 +28776,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303105
   Name: 『希望的プリズム』マエストロ
-  Text: 『希望的プリズム』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『希望的プリズム』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27514,7 +28786,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303105
-  RequirementText: 『希望的プリズム』マスタリーLv.MAX到達
+  RequirementText: 『希望的プリズム』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27528,7 +28800,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303106
   Name: 『スケイプゴート』マエストロ
-  Text: 『スケイプゴート』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『スケイプゴート』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27538,7 +28810,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303106
-  RequirementText: 『スケイプゴート』マスタリーLv.MAX到達
+  RequirementText: 『スケイプゴート』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27552,7 +28824,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303107
   Name: 『DEEPNESS』マエストロ
-  Text: 『DEEPNESS』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『DEEPNESS』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27562,7 +28834,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303107
-  RequirementText: 『DEEPNESS』マスタリーLv.MAX到達
+  RequirementText: 『DEEPNESS』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27576,7 +28848,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303108
   Name: 『Tragic Drops』マエストロ
-  Text: 『Tragic Drops』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Tragic Drops』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27586,7 +28858,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303108
-  RequirementText: 『Tragic Drops』マスタリーLv.MAX到達
+  RequirementText: 『Tragic Drops』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27600,7 +28872,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303109
   Name: 『ココン東西』マエストロ
-  Text: 『ココン東西』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ココン東西』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27610,7 +28882,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303109
-  RequirementText: 『ココン東西』マスタリーLv.MAX到達
+  RequirementText: 『ココン東西』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27624,7 +28896,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303110
   Name: 『残陽』マエストロ
-  Text: 『残陽』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『残陽』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27634,7 +28906,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303110
-  RequirementText: 『残陽』マスタリーLv.MAX到達
+  RequirementText: 『残陽』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27648,7 +28920,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303111
   Name: 『Take It Over』マエストロ
-  Text: 『Take It Over』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Take It Over』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27658,7 +28930,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303111
-  RequirementText: 『Take It Over』マスタリーLv.MAX到達
+  RequirementText: 『Take It Over』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27672,7 +28944,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303112
   Name: 『KNOT』マエストロ
-  Text: 『KNOT』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『KNOT』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27682,7 +28954,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303112
-  RequirementText: 『KNOT』マスタリーLv.MAX到達
+  RequirementText: 『KNOT』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27696,7 +28968,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303113
   Name: 『Trick & Cute』マエストロ
-  Text: 『Trick & Cute』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Trick & Cute』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27706,7 +28978,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303113
-  RequirementText: 『Trick & Cute』マスタリーLv.MAX到達
+  RequirementText: 『Trick & Cute』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27720,7 +28992,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303114
   Name: 『Dear my future』マエストロ
-  Text: 『Dear my future』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Dear my future』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27730,7 +29002,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303114
-  RequirementText: 『Dear my future』マスタリーLv.MAX到達
+  RequirementText: 『Dear my future』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27744,7 +29016,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303115
   Name: 『明日の空の僕たちへ』マエストロ
-  Text: 『明日の空の僕たちへ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『明日の空の僕たちへ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27754,7 +29026,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303115
-  RequirementText: 『明日の空の僕たちへ』マスタリーLv.MAX到達
+  RequirementText: 『明日の空の僕たちへ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27768,7 +29040,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303116
   Name: 『飴色』マエストロ
-  Text: 『飴色』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『飴色』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27778,7 +29050,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303116
-  RequirementText: 『飴色』マスタリーLv.MAX到達
+  RequirementText: 『飴色』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27792,7 +29064,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303117
   Name: 『青とシャボン』マエストロ
-  Text: 『青とシャボン』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『青とシャボン』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27802,7 +29074,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303117
-  RequirementText: 『青とシャボン』マスタリーLv.MAX到達
+  RequirementText: 『青とシャボン』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27816,7 +29088,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303118
   Name: 『Pleasure Feather』マエストロ
-  Text: 『Pleasure Feather』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Pleasure Feather』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27826,7 +29098,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303118
-  RequirementText: 『Pleasure Feather』マスタリーLv.MAX到達
+  RequirementText: 『Pleasure Feather』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27840,7 +29112,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303119
   Name: 『以心☆電信』マエストロ
-  Text: 『以心☆電信』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『以心☆電信』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27850,7 +29122,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303119
-  RequirementText: 『以心☆電信』マスタリーLv.MAX到達
+  RequirementText: 『以心☆電信』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27864,7 +29136,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303201
   Name: 『深愛』マエストロ
-  Text: 『深愛』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『深愛』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27874,7 +29146,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303201
-  RequirementText: 『深愛』マスタリーLv.MAX到達
+  RequirementText: 『深愛』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27888,7 +29160,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303202
   Name: 『ロストワンの号哭』マエストロ
-  Text: 『ロストワンの号哭』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ロストワンの号哭』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27898,7 +29170,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303202
-  RequirementText: 『ロストワンの号哭』マスタリーLv.MAX到達
+  RequirementText: 『ロストワンの号哭』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27912,7 +29184,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303203
   Name: 『名前のない怪物』マエストロ
-  Text: 『名前のない怪物』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『名前のない怪物』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27922,7 +29194,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303203
-  RequirementText: 『名前のない怪物』マスタリーLv.MAX到達
+  RequirementText: 『名前のない怪物』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27936,7 +29208,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303204
   Name: 『ヴィラン』マエストロ
-  Text: 『ヴィラン』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ヴィラン』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27946,7 +29218,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303204
-  RequirementText: 『ヴィラン』マスタリーLv.MAX到達
+  RequirementText: 『ヴィラン』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27960,7 +29232,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303205
   Name: 『威風堂々』マエストロ
-  Text: 『威風堂々』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『威風堂々』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27970,7 +29242,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303205
-  RequirementText: 『威風堂々』マスタリーLv.MAX到達
+  RequirementText: 『威風堂々』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -27984,7 +29256,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303206
   Name: 『祝福』マエストロ
-  Text: 『祝福』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『祝福』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -27994,7 +29266,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303206
-  RequirementText: 『祝福』マスタリーLv.MAX到達
+  RequirementText: 『祝福』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28008,7 +29280,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40303207
   Name: 『lucky train!』マエストロ
-  Text: 『lucky train!』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『lucky train!』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28018,7 +29290,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 303207
-  RequirementText: 『lucky train!』マスタリーLv.MAX到達
+  RequirementText: 『lucky train!』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28032,7 +29304,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304101
   Name: 『On your mark（104期Ver.）』マエストロ
-  Text: 『On your mark（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『On your mark（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28042,7 +29314,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304101
-  RequirementText: 『On your mark（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『On your mark（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28056,7 +29328,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304102
   Name: 『Reflection in the mirror（104期NEW Ver.）』マエストロ
-  Text: 『Reflection in the mirror（104期NEW Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Reflection in the mirror（104期NEW Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28066,7 +29338,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304102
-  RequirementText: 『Reflection in the mirror（104期NEW Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Reflection in the mirror（104期NEW Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28080,7 +29352,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304103
   Name: 『ココン東西（104期Ver.）』マエストロ
-  Text: 『ココン東西（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ココン東西（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28090,7 +29362,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304103
-  RequirementText: 『ココン東西（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『ココン東西（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28104,7 +29376,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304104
   Name: 『Tragic Drops（104期Ver.）』マエストロ
-  Text: 『Tragic Drops（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Tragic Drops（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28114,7 +29386,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304104
-  RequirementText: 『Tragic Drops（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Tragic Drops（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28128,7 +29400,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304105
   Name: 『レディバグ』マエストロ
-  Text: 『レディバグ』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『レディバグ』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28138,7 +29410,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304105
-  RequirementText: 『レディバグ』マスタリーLv.MAX到達
+  RequirementText: 『レディバグ』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28152,7 +29424,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304106
   Name: 『KNOT（104期Ver.）』マエストロ
-  Text: 『KNOT（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『KNOT（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28162,7 +29434,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304106
-  RequirementText: 『KNOT（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『KNOT（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28176,7 +29448,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304107
   Name: 『月夜見海月』マエストロ
-  Text: 『月夜見海月』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『月夜見海月』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28186,7 +29458,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304107
-  RequirementText: 『月夜見海月』マスタリーLv.MAX到達
+  RequirementText: 『月夜見海月』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28200,7 +29472,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304108
   Name: 『以心☆電信（104期Ver.）』マエストロ
-  Text: 『以心☆電信（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『以心☆電信（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28210,7 +29482,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304108
-  RequirementText: 『以心☆電信（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『以心☆電信（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28224,7 +29496,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304109
   Name: 『DEEPNESS（ReC Ver.）』マエストロ
-  Text: 『DEEPNESS（ReC Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『DEEPNESS（ReC Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28234,7 +29506,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304109
-  RequirementText: 『DEEPNESS（ReC Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『DEEPNESS（ReC Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28248,7 +29520,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304110
   Name: 『希望的プリズム（104期Ver.）』マエストロ
-  Text: 『希望的プリズム（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『希望的プリズム（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28258,7 +29530,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304110
-  RequirementText: 『希望的プリズム（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『希望的プリズム（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28272,7 +29544,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304111
   Name: 『Trick & Cute（104期Ver.）』マエストロ
-  Text: 『Trick & Cute（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Trick & Cute（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28282,7 +29554,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304111
-  RequirementText: 『Trick & Cute（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Trick & Cute（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28296,7 +29568,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304112
   Name: 『Take It Over（104期Ver.）』マエストロ
-  Text: 『Take It Over（104期Ver.）』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Take It Over（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28306,7 +29578,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304112
-  RequirementText: 『Take It Over（104期Ver.）』マスタリーLv.MAX到達
+  RequirementText: 『Take It Over（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28320,7 +29592,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304113
   Name: 『Now or Never』マエストロ
-  Text: 『Now or Never』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Now or Never』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28330,7 +29602,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304113
-  RequirementText: 『Now or Never』マスタリーLv.MAX到達
+  RequirementText: 『Now or Never』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28344,7 +29616,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304114
   Name: 『ジョーショーキリュー』マエストロ
-  Text: 『ジョーショーキリュー』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『ジョーショーキリュー』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28354,7 +29626,55 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304114
-  RequirementText: 『ジョーショーキリュー』マスタリーLv.MAX到達
+  RequirementText: 『ジョーショーキリュー』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304115
+  Name: 『AWOKE（104期Ver.）』マエストロ
+  Text: 『AWOKE（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601424
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304115
+  RequirementText: 『AWOKE（104期Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304116
+  Name: 『水彩世界（104期Ver.）』マエストロ
+  Text: 『水彩世界（104期Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601224
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304116
+  RequirementText: 『水彩世界（104期Ver.）』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28368,7 +29688,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304201
   Name: 『This game』マエストロ
-  Text: 『This game』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『This game』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28378,7 +29698,31 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304201
-  RequirementText: 『This game』マスタリーLv.MAX到達
+  RequirementText: 『This game』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304202
+  Name: 『STARTLINER』マエストロ
+  Text: 『STARTLINER』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 606025
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304202
+  RequirementText: 『STARTLINER』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -28392,7 +29736,7 @@
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304301
   Name: 『Daydream Warrior』マエストロ
-  Text: 『Daydream Warrior』のマスタリーLv.をMAXにした記念のステッカー
+  Text: 『Daydream Warrior』のマスタリーLv.を30にした記念のステッカー
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -28402,7 +29746,7 @@
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 304301
-  RequirementText: 『Daydream Warrior』マスタリーLv.MAX到達
+  RequirementText: 『Daydream Warrior』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -29158,6 +30502,222 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000032
+  Name: "[ウェンディーズ・ファーストキッチン]日野下花帆"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100032
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000033
+  Name: "[ウェンディーズ・ファーストキッチン]村野さやか"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100033
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000034
+  Name: "[ウェンディーズ・ファーストキッチン]乙宗梢"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100034
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000035
+  Name: "[ウェンディーズ・ファーストキッチン]夕霧綴理"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100035
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000036
+  Name: "[ウェンディーズ・ファーストキッチン]大沢瑠璃乃"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100036
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000037
+  Name: "[ウェンディーズ・ファーストキッチン]藤島慈"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100037
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000038
+  Name: "[ウェンディーズ・ファーストキッチン]百生吟子"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100038
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000039
+  Name: "[ウェンディーズ・ファーストキッチン]徒町小鈴"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100039
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000040
+  Name: "[ウェンディーズ・ファーストキッチン]安養寺姫芽"
+  Text: ウェンディーズ・ファーストキッチン コラボ記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100040
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ウェンディーズ・ファーストキッチン コラボ記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-15T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-15T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90010210
   Name: Kozue Birthday 2023
   Text: Happy 17th Birthday to Dear Kozue!
@@ -29819,6 +31379,30 @@
   RequirementDetail: SERIAL
   RequirementValue: 240624001
   RequirementText: CD『Proof』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90204112
+  Name: Jacket『ハナムスビ / バアドケージ / ジョーショーキリュー』
+  Text: いつかまた会えるように　巡る 巡る 風に乗って　出会えた奇跡が繋いだ空を行こう
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120032
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 240926001
+  RequirementText: CD『ハナムスビ / バアドケージ / ジョーショーキリュー』購入特典
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -30670,6 +32254,78 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000021
+  Name: Live『3rd Live Tour TRY TRI UNITY!!! with DOLLCHESTRA』ライブキービジュアル
+  Text: 2024.11.24 in 大阪・オリックス劇場
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130021
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「3rd Live Tour TRY TRI UNITY!!! with DOLLCHESTRA 公演記念パック！」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-24T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-24T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000022
+  Name: Live『3rd Live Tour TRY TRI UNITY!!! with スリーズブーケ』
+  Text: 2024.12.1 in 愛知・名古屋国際会議場センチュリーホール
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130022
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 3rd Live Tour TRY TRI UNITY!!! with スリーズブーケ 開催日にログイン
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-11-30T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-11-30T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000023
+  Name: Live『3rd Live Tour TRY TRI UNITY!!! with スリーズブーケ』ライブキービジュアル
+  Text: 2024.12.1 in 愛知・名古屋国際会議場センチュリーホール
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130023
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「3rd Live Tour TRY TRI UNITY!!! with スリーズブーケ 公演記念パック！」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-01T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 93001001
   Name: from スクフェス2 リズムアイコン
   Text: リズムにあわせてタップ！
@@ -30931,6 +32587,126 @@
   StartTime: 2024-02-20T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-02-20T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 93001012
+  Name: "[オンゲキ/Navi]ナビニャン"
+  Text: 「これから」を奏でていこうよ!!
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 140012
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 93001013
+  Name: "[CHUNITHM/Jump]チュウニペンギン"
+  Text: 空間を切り裂く新感覚音ゲー
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 140013
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 93001014
+  Name: "[maimai\u00a0でらっくす]でらっくま"
+  Text: 超・パワーアップ　新型登場
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 140014
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 93001015
+  Name: "[CHUNITHM/Point]チュウニペンギン"
+  Text: 音ゲーで欲望-デザイア-を解き放て！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 140015
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 93001016
+  Name: "[オンゲキ/Doya]ナビニャン"
+  Text: 「これから」も奏でていこうよ!!
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 140016
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ゲキ！チュウマイ×リンクラ Shooting Heart♡Collaboration! ログインキャンペーン！」で入手
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-12T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-12T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -31763,6 +33539,54 @@
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
   RequirementText: みらくら準備室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000037
+  Name: "[みらくら視聴覚室]大沢\u00a0瑠璃乃"
+  Text: みらくら視聴覚室ラジオの応援ありがとうございます！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150037
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: みらくら視聴覚室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000038
+  Name: YouTube Endcard『蓮ノ空女学院スクールアイドルクラブ公式チャンネル（104期Ver.）』
+  Text: 蓮ノ空女学院スクールアイドルクラブ公式チャンネルの応援ありがとうございます！ 
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150038
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 蓮ノ空女学院スクールアイドルクラブ公式チャンネルを応援
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

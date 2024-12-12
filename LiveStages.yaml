@@ -6,6 +6,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100021
   Name: 体育館
   Description: 学校の体育館
@@ -14,6 +18,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100031
   Name: 講堂
   Description: 静かな講堂
@@ -22,6 +30,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100041
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -30,6 +42,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100042
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -38,6 +54,10 @@
   BaseGainVoltage: 550
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100051
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -46,6 +66,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 100061
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -54,6 +78,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703011
   Name: 教室
   Description: いつもの教室
@@ -62,6 +90,10 @@
   BaseGainVoltage: 334
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703012
   Name: 体育館
   Description: 学校の体育館
@@ -70,6 +102,10 @@
   BaseGainVoltage: 319
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703013
   Name: 講堂
   Description: 静かな講堂
@@ -78,6 +114,10 @@
   BaseGainVoltage: 304
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703014
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -86,6 +126,10 @@
   BaseGainVoltage: 291
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703021
   Name: 教室
   Description: いつもの教室
@@ -94,6 +138,10 @@
   BaseGainVoltage: 1667
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703022
   Name: 体育館
   Description: 学校の体育館
@@ -102,6 +150,10 @@
   BaseGainVoltage: 1588
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703023
   Name: 講堂
   Description: 静かな講堂
@@ -110,6 +162,10 @@
   BaseGainVoltage: 1516
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703024
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -118,6 +174,10 @@
   BaseGainVoltage: 1450
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703031
   Name: 教室
   Description: いつもの教室
@@ -126,6 +186,10 @@
   BaseGainVoltage: 667
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703032
   Name: 体育館
   Description: 学校の体育館
@@ -134,6 +198,10 @@
   BaseGainVoltage: 636
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703033
   Name: 講堂
   Description: 静かな講堂
@@ -142,6 +210,10 @@
   BaseGainVoltage: 607
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703034
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -150,6 +222,10 @@
   BaseGainVoltage: 580
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703041
   Name: 教室
   Description: いつもの教室
@@ -158,6 +234,10 @@
   BaseGainVoltage: 334
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703042
   Name: 体育館
   Description: 学校の体育館
@@ -166,6 +246,10 @@
   BaseGainVoltage: 304
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703043
   Name: 講堂
   Description: 静かな講堂
@@ -174,6 +258,10 @@
   BaseGainVoltage: 279
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703044
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -182,6 +270,10 @@
   BaseGainVoltage: 257
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703051
   Name: 教室
   Description: いつもの教室
@@ -190,6 +282,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703052
   Name: 体育館
   Description: 学校の体育館
@@ -198,6 +294,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703053
   Name: 講堂
   Description: 静かな講堂
@@ -206,6 +306,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703054
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -214,6 +318,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703061
   Name: 教室
   Description: いつもの教室
@@ -222,6 +330,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703062
   Name: 体育館
   Description: 学校の体育館
@@ -230,6 +342,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703063
   Name: 講堂
   Description: 静かな講堂
@@ -238,6 +354,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703064
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -246,6 +366,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703071
   Name: 教室
   Description: いつもの教室
@@ -254,6 +378,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703072
   Name: 体育館
   Description: 学校の体育館
@@ -262,6 +390,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703073
   Name: 講堂
   Description: 静かな講堂
@@ -270,6 +402,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703074
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -278,6 +414,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703081
   Name: 教室
   Description: いつもの教室
@@ -286,6 +426,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703082
   Name: 体育館
   Description: 学校の体育館
@@ -294,6 +438,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703083
   Name: 講堂
   Description: 静かな講堂
@@ -302,6 +450,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703084
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -310,6 +462,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703091
   Name: 教室
   Description: いつもの教室
@@ -318,6 +474,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703092
   Name: 体育館
   Description: 学校の体育館
@@ -326,6 +486,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703093
   Name: 講堂
   Description: 静かな講堂
@@ -334,6 +498,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703094
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -342,6 +510,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703101
   Name: 教室
   Description: いつもの教室
@@ -350,6 +522,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703102
   Name: 体育館
   Description: 学校の体育館
@@ -358,6 +534,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703103
   Name: 講堂
   Description: 静かな講堂
@@ -366,6 +546,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703104
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -374,6 +558,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703111
   Name: 教室
   Description: いつもの教室
@@ -382,6 +570,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703112
   Name: 体育館
   Description: 学校の体育館
@@ -390,6 +582,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703113
   Name: 講堂
   Description: 静かな講堂
@@ -398,6 +594,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703114
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -406,6 +606,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703121
   Name: 教室
   Description: いつもの教室
@@ -414,6 +618,10 @@
   BaseGainVoltage: 1667
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703122
   Name: 体育館
   Description: 学校の体育館
@@ -422,6 +630,10 @@
   BaseGainVoltage: 1516
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703123
   Name: 講堂
   Description: 静かな講堂
@@ -430,6 +642,10 @@
   BaseGainVoltage: 1390
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703124
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -438,6 +654,10 @@
   BaseGainVoltage: 1283
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703131
   Name: 教室
   Description: いつもの教室
@@ -446,6 +666,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703132
   Name: 体育館
   Description: 学校の体育館
@@ -454,6 +678,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703133
   Name: 講堂
   Description: 静かな講堂
@@ -462,6 +690,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703134
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -470,6 +702,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703141
   Name: 教室
   Description: いつもの教室
@@ -478,6 +714,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703142
   Name: 体育館
   Description: 学校の体育館
@@ -486,6 +726,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703143
   Name: 講堂
   Description: 静かな講堂
@@ -494,6 +738,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703144
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -502,6 +750,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703151
   Name: 教室
   Description: いつもの教室
@@ -510,6 +762,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703152
   Name: 体育館
   Description: 学校の体育館
@@ -518,6 +774,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703153
   Name: 講堂
   Description: 静かな講堂
@@ -526,6 +786,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703154
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -534,6 +798,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703161
   Name: 教室
   Description: いつもの教室
@@ -542,6 +810,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703162
   Name: 体育館
   Description: 学校の体育館
@@ -550,6 +822,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703163
   Name: 講堂
   Description: 静かな講堂
@@ -558,6 +834,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703164
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -566,6 +846,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703171
   Name: 教室
   Description: いつもの教室
@@ -574,6 +858,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703172
   Name: 体育館
   Description: 学校の体育館
@@ -582,6 +870,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703173
   Name: 講堂
   Description: 静かな講堂
@@ -590,6 +882,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703174
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -598,6 +894,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703181
   Name: 教室
   Description: いつもの教室
@@ -606,6 +906,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703182
   Name: 体育館
   Description: 学校の体育館
@@ -614,6 +918,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703183
   Name: 講堂
   Description: 静かな講堂
@@ -622,6 +930,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703184
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -630,6 +942,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703191
   Name: 教室
   Description: いつもの教室
@@ -638,6 +954,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703192
   Name: 体育館
   Description: 学校の体育館
@@ -646,6 +966,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703193
   Name: 講堂
   Description: 静かな講堂
@@ -654,6 +978,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703194
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -662,6 +990,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703201
   Name: 教室
   Description: いつもの教室
@@ -670,6 +1002,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703202
   Name: 体育館
   Description: 学校の体育館
@@ -678,6 +1014,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703203
   Name: 講堂
   Description: 静かな講堂
@@ -686,6 +1026,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703204
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -694,6 +1038,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703211
   Name: 教室
   Description: いつもの教室
@@ -702,6 +1050,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703212
   Name: 体育館
   Description: 学校の体育館
@@ -710,6 +1062,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703213
   Name: 講堂
   Description: 静かな講堂
@@ -718,6 +1074,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703214
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -726,6 +1086,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703221
   Name: 教室
   Description: いつもの教室
@@ -734,6 +1098,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703222
   Name: 体育館
   Description: 学校の体育館
@@ -742,6 +1110,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703223
   Name: 講堂
   Description: 静かな講堂
@@ -750,6 +1122,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703224
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -758,6 +1134,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703231
   Name: 教室
   Description: いつもの教室
@@ -766,6 +1146,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703232
   Name: 体育館
   Description: 学校の体育館
@@ -774,6 +1158,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703233
   Name: 講堂
   Description: 静かな講堂
@@ -782,6 +1170,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703234
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -790,6 +1182,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703241
   Name: 教室
   Description: いつもの教室
@@ -798,6 +1194,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703242
   Name: 体育館
   Description: 学校の体育館
@@ -806,6 +1206,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703243
   Name: 講堂
   Description: 静かな講堂
@@ -814,6 +1218,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703244
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -822,6 +1230,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703251
   Name: 教室
   Description: いつもの教室
@@ -830,6 +1242,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703252
   Name: 体育館
   Description: 学校の体育館
@@ -838,6 +1254,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703253
   Name: 講堂
   Description: 静かな講堂
@@ -846,6 +1266,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703254
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -854,6 +1278,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703261
   Name: 教室
   Description: いつもの教室
@@ -862,6 +1290,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703262
   Name: 体育館
   Description: 学校の体育館
@@ -870,6 +1302,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703263
   Name: 講堂
   Description: 静かな講堂
@@ -878,6 +1314,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703264
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -886,6 +1326,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703271
   Name: 教室
   Description: いつもの教室
@@ -894,6 +1338,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703272
   Name: 体育館
   Description: 学校の体育館
@@ -902,6 +1350,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703273
   Name: 講堂
   Description: 静かな講堂
@@ -910,6 +1362,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 703274
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -918,6 +1374,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704011
   Name: 教室
   Description: いつもの教室
@@ -926,6 +1386,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704012
   Name: 体育館
   Description: 学校の体育館
@@ -934,6 +1398,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704013
   Name: 講堂
   Description: 静かな講堂
@@ -942,6 +1410,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704014
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -950,6 +1422,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704021
   Name: 教室
   Description: いつもの教室
@@ -958,6 +1434,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704022
   Name: 体育館
   Description: 学校の体育館
@@ -966,6 +1446,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704023
   Name: 講堂
   Description: 静かな講堂
@@ -974,6 +1458,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704024
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -982,6 +1470,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704031
   Name: 教室
   Description: いつもの教室
@@ -990,6 +1482,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704032
   Name: 体育館
   Description: 学校の体育館
@@ -998,6 +1494,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704033
   Name: 講堂
   Description: 静かな講堂
@@ -1006,6 +1506,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704034
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1014,6 +1518,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704041
   Name: 教室
   Description: いつもの教室
@@ -1022,6 +1530,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704042
   Name: 体育館
   Description: 学校の体育館
@@ -1030,6 +1542,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704043
   Name: 講堂
   Description: 静かな講堂
@@ -1038,6 +1554,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704044
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1046,6 +1566,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704051
   Name: 教室
   Description: いつもの教室
@@ -1054,6 +1578,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704052
   Name: 体育館
   Description: 学校の体育館
@@ -1062,6 +1590,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704053
   Name: 講堂
   Description: 静かな講堂
@@ -1070,6 +1602,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704054
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1078,6 +1614,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704061
   Name: 教室
   Description: いつもの教室
@@ -1086,6 +1626,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704062
   Name: 体育館
   Description: 学校の体育館
@@ -1094,6 +1638,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704063
   Name: 講堂
   Description: 静かな講堂
@@ -1102,6 +1650,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704064
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1110,6 +1662,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704071
   Name: 教室
   Description: いつもの教室
@@ -1118,6 +1674,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704072
   Name: 体育館
   Description: 学校の体育館
@@ -1126,6 +1686,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704073
   Name: 講堂
   Description: 静かな講堂
@@ -1134,6 +1698,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704074
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1142,6 +1710,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704081
   Name: 教室
   Description: いつもの教室
@@ -1150,6 +1722,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704082
   Name: 体育館
   Description: 学校の体育館
@@ -1158,6 +1734,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704083
   Name: 講堂
   Description: 静かな講堂
@@ -1166,6 +1746,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704084
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1174,6 +1758,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704091
   Name: 教室
   Description: いつもの教室
@@ -1182,6 +1770,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704092
   Name: 体育館
   Description: 学校の体育館
@@ -1190,6 +1782,10 @@
   BaseGainVoltage: 380
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704093
   Name: 講堂
   Description: 静かな講堂
@@ -1198,6 +1794,10 @@
   BaseGainVoltage: 348
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704094
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1206,6 +1806,10 @@
   BaseGainVoltage: 321
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704101
   Name: 教室
   Description: いつもの教室
@@ -1214,6 +1818,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704102
   Name: 体育館
   Description: 学校の体育館
@@ -1222,6 +1830,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704103
   Name: 講堂
   Description: 静かな講堂
@@ -1230,6 +1842,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704104
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1238,6 +1854,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704111
   Name: 教室
   Description: いつもの教室
@@ -1246,6 +1866,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704112
   Name: 体育館
   Description: 学校の体育館
@@ -1254,6 +1878,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704113
   Name: 講堂
   Description: 静かな講堂
@@ -1262,6 +1890,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704114
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1270,6 +1902,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704121
   Name: 教室
   Description: いつもの教室
@@ -1278,6 +1914,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704122
   Name: 体育館
   Description: 学校の体育館
@@ -1286,6 +1926,10 @@
   BaseGainVoltage: 380
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704123
   Name: 講堂
   Description: 静かな講堂
@@ -1294,6 +1938,10 @@
   BaseGainVoltage: 348
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 704124
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1302,6 +1950,586 @@
   BaseGainVoltage: 321
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704131
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704132
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704133
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704134
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704141
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 267
+  MentalStepClass: 2
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704142
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 267
+  MentalStepClass: 2
+  BaseGainVoltage: 4546
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704143
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 267
+  MentalStepClass: 2
+  BaseGainVoltage: 4167
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704144
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 267
+  MentalStepClass: 2
+  BaseGainVoltage: 3847
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704151
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704152
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 455
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704153
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704154
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 385
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704161
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 834
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704162
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 759
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704163
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 695
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704164
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 642
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704171
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 10000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704172
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 9091
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704173
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 8334
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704174
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 7693
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704181
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704182
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 455
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704183
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704184
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 385
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704191
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 167
+  MentalStepClass: 2
+  BaseGainVoltage: 834
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704192
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 167
+  MentalStepClass: 2
+  BaseGainVoltage: 759
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704193
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 167
+  MentalStepClass: 2
+  BaseGainVoltage: 695
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704194
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 167
+  MentalStepClass: 2
+  BaseGainVoltage: 642
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704201
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 10000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704202
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 9091
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704203
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 8334
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704204
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 7693
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704211
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704212
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 455
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704213
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704214
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 385
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704221
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704222
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704223
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704224
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704231
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 10000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704232
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 9091
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704233
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 8334
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704234
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 7693
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704241
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704242
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 380
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704243
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 348
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 704244
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 321
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803011
   Name: 教室
   Description: いつもの教室
@@ -1310,6 +2538,10 @@
   BaseGainVoltage: 334
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803012
   Name: 体育館
   Description: 学校の体育館
@@ -1318,6 +2550,10 @@
   BaseGainVoltage: 304
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803013
   Name: 講堂
   Description: 静かな講堂
@@ -1326,6 +2562,10 @@
   BaseGainVoltage: 279
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803014
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1334,6 +2574,10 @@
   BaseGainVoltage: 257
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803021
   Name: 教室
   Description: いつもの教室
@@ -1342,6 +2586,10 @@
   BaseGainVoltage: 1667
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803022
   Name: 体育館
   Description: 学校の体育館
@@ -1350,6 +2598,10 @@
   BaseGainVoltage: 1516
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803023
   Name: 講堂
   Description: 静かな講堂
@@ -1358,6 +2610,10 @@
   BaseGainVoltage: 1390
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803024
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1366,6 +2622,10 @@
   BaseGainVoltage: 1283
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803031
   Name: 教室
   Description: いつもの教室
@@ -1374,6 +2634,10 @@
   BaseGainVoltage: 667
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803032
   Name: 体育館
   Description: 学校の体育館
@@ -1382,6 +2646,10 @@
   BaseGainVoltage: 607
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803033
   Name: 講堂
   Description: 静かな講堂
@@ -1390,6 +2658,10 @@
   BaseGainVoltage: 556
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803034
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1398,6 +2670,10 @@
   BaseGainVoltage: 514
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803041
   Name: 教室
   Description: いつもの教室
@@ -1406,6 +2682,10 @@
   BaseGainVoltage: 334
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803042
   Name: 体育館
   Description: 学校の体育館
@@ -1414,6 +2694,10 @@
   BaseGainVoltage: 304
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803043
   Name: 講堂
   Description: 静かな講堂
@@ -1422,6 +2706,10 @@
   BaseGainVoltage: 279
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803044
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1430,6 +2718,10 @@
   BaseGainVoltage: 257
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803051
   Name: 教室
   Description: いつもの教室
@@ -1438,6 +2730,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803052
   Name: 体育館
   Description: 学校の体育館
@@ -1446,6 +2742,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803053
   Name: 講堂
   Description: 静かな講堂
@@ -1454,6 +2754,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803054
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1462,6 +2766,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803061
   Name: 教室
   Description: いつもの教室
@@ -1470,6 +2778,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803062
   Name: 体育館
   Description: 学校の体育館
@@ -1478,6 +2790,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803063
   Name: 講堂
   Description: 静かな講堂
@@ -1486,6 +2802,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803064
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1494,6 +2814,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803071
   Name: 教室
   Description: いつもの教室
@@ -1502,6 +2826,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803072
   Name: 体育館
   Description: 学校の体育館
@@ -1510,6 +2838,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803073
   Name: 講堂
   Description: 静かな講堂
@@ -1518,6 +2850,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803074
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1526,6 +2862,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803081
   Name: 教室
   Description: いつもの教室
@@ -1534,6 +2874,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803082
   Name: 体育館
   Description: 学校の体育館
@@ -1542,6 +2886,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803083
   Name: 講堂
   Description: 静かな講堂
@@ -1550,6 +2898,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803084
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1558,6 +2910,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803091
   Name: 教室
   Description: いつもの教室
@@ -1566,6 +2922,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803092
   Name: 体育館
   Description: 学校の体育館
@@ -1574,6 +2934,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803093
   Name: 講堂
   Description: 静かな講堂
@@ -1582,6 +2946,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803094
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1590,6 +2958,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803101
   Name: 教室
   Description: いつもの教室
@@ -1598,6 +2970,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803102
   Name: 体育館
   Description: 学校の体育館
@@ -1606,6 +2982,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803103
   Name: 講堂
   Description: 静かな講堂
@@ -1614,6 +2994,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803104
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1622,6 +3006,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803111
   Name: 教室
   Description: いつもの教室
@@ -1630,6 +3018,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803112
   Name: 体育館
   Description: 学校の体育館
@@ -1638,6 +3030,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803113
   Name: 講堂
   Description: 静かな講堂
@@ -1646,6 +3042,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803114
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1654,6 +3054,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803121
   Name: 教室
   Description: いつもの教室
@@ -1662,6 +3066,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803122
   Name: 体育館
   Description: 学校の体育館
@@ -1670,6 +3078,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803123
   Name: 講堂
   Description: 静かな講堂
@@ -1678,6 +3090,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803124
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1686,6 +3102,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803131
   Name: 教室
   Description: いつもの教室
@@ -1694,6 +3114,10 @@
   BaseGainVoltage: 334
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803132
   Name: 体育館
   Description: 学校の体育館
@@ -1702,6 +3126,10 @@
   BaseGainVoltage: 304
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803133
   Name: 講堂
   Description: 静かな講堂
@@ -1710,6 +3138,10 @@
   BaseGainVoltage: 279
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803134
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1718,6 +3150,10 @@
   BaseGainVoltage: 257
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803141
   Name: 教室
   Description: いつもの教室
@@ -1726,6 +3162,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803142
   Name: 体育館
   Description: 学校の体育館
@@ -1734,6 +3174,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803143
   Name: 講堂
   Description: 静かな講堂
@@ -1742,6 +3186,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803144
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1750,6 +3198,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803151
   Name: 教室
   Description: いつもの教室
@@ -1758,6 +3210,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803152
   Name: 体育館
   Description: 学校の体育館
@@ -1766,6 +3222,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803153
   Name: 講堂
   Description: 静かな講堂
@@ -1774,6 +3234,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803154
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1782,6 +3246,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803161
   Name: 教室
   Description: いつもの教室
@@ -1790,6 +3258,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803162
   Name: 体育館
   Description: 学校の体育館
@@ -1798,6 +3270,10 @@
   BaseGainVoltage: 700
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803163
   Name: 講堂
   Description: 静かな講堂
@@ -1806,6 +3282,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803164
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1814,6 +3294,10 @@
   BaseGainVoltage: 593
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803171
   Name: 教室
   Description: いつもの教室
@@ -1822,6 +3306,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803172
   Name: 体育館
   Description: 学校の体育館
@@ -1830,6 +3318,10 @@
   BaseGainVoltage: 4546
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803173
   Name: 講堂
   Description: 静かな講堂
@@ -1838,6 +3330,10 @@
   BaseGainVoltage: 4167
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803174
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1846,6 +3342,10 @@
   BaseGainVoltage: 3847
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803181
   Name: 教室
   Description: いつもの教室
@@ -1854,6 +3354,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803182
   Name: 体育館
   Description: 学校の体育館
@@ -1862,6 +3366,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803183
   Name: 講堂
   Description: 静かな講堂
@@ -1870,6 +3378,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803184
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1878,6 +3390,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803191
   Name: 教室
   Description: いつもの教室
@@ -1886,6 +3402,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 3
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803192
   Name: 体育館
   Description: 学校の体育館
@@ -1894,6 +3414,10 @@
   BaseGainVoltage: 910
   VoltageStepClass: 3
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803193
   Name: 講堂
   Description: 静かな講堂
@@ -1902,6 +3426,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 3
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803194
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1910,6 +3438,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803201
   Name: 教室
   Description: いつもの教室
@@ -1918,6 +3450,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803202
   Name: 体育館
   Description: 学校の体育館
@@ -1926,6 +3462,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803203
   Name: 講堂
   Description: 静かな講堂
@@ -1934,6 +3474,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803204
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1942,6 +3486,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803211
   Name: 教室
   Description: いつもの教室
@@ -1950,6 +3498,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803212
   Name: 体育館
   Description: 学校の体育館
@@ -1958,6 +3510,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803213
   Name: 講堂
   Description: 静かな講堂
@@ -1966,6 +3522,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803214
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -1974,6 +3534,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803221
   Name: 教室
   Description: いつもの教室
@@ -1982,6 +3546,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803222
   Name: 体育館
   Description: 学校の体育館
@@ -1990,6 +3558,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803223
   Name: 講堂
   Description: 静かな講堂
@@ -1998,6 +3570,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803224
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2006,6 +3582,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803231
   Name: 教室
   Description: いつもの教室
@@ -2014,6 +3594,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803232
   Name: 体育館
   Description: 学校の体育館
@@ -2022,6 +3606,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803233
   Name: 講堂
   Description: 静かな講堂
@@ -2030,6 +3618,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803234
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2038,6 +3630,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803241
   Name: 教室
   Description: いつもの教室
@@ -2046,6 +3642,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803242
   Name: 体育館
   Description: 学校の体育館
@@ -2054,6 +3654,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803243
   Name: 講堂
   Description: 静かな講堂
@@ -2062,6 +3666,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803244
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2070,6 +3678,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803251
   Name: 教室
   Description: いつもの教室
@@ -2078,6 +3690,10 @@
   BaseGainVoltage: 625
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803252
   Name: 体育館
   Description: 学校の体育館
@@ -2086,6 +3702,10 @@
   BaseGainVoltage: 569
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803253
   Name: 講堂
   Description: 静かな講堂
@@ -2094,6 +3714,10 @@
   BaseGainVoltage: 521
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803254
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2102,6 +3726,10 @@
   BaseGainVoltage: 481
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803261
   Name: 教室
   Description: いつもの教室
@@ -2110,6 +3738,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803262
   Name: 体育館
   Description: 学校の体育館
@@ -2118,6 +3750,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803263
   Name: 講堂
   Description: 静かな講堂
@@ -2126,6 +3762,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803264
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2134,6 +3774,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803271
   Name: 教室
   Description: いつもの教室
@@ -2142,6 +3786,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803272
   Name: 体育館
   Description: 学校の体育館
@@ -2150,6 +3798,10 @@
   BaseGainVoltage: 455
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803273
   Name: 講堂
   Description: 静かな講堂
@@ -2158,6 +3810,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 803274
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2166,6 +3822,10 @@
   BaseGainVoltage: 385
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804011
   Name: 教室
   Description: いつもの教室
@@ -2174,6 +3834,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804012
   Name: 体育館
   Description: 学校の体育館
@@ -2182,6 +3846,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804013
   Name: 講堂
   Description: 静かな講堂
@@ -2190,6 +3858,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804014
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2198,6 +3870,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804021
   Name: 教室
   Description: いつもの教室
@@ -2206,6 +3882,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804022
   Name: 体育館
   Description: 学校の体育館
@@ -2214,6 +3894,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804023
   Name: 講堂
   Description: 静かな講堂
@@ -2222,6 +3906,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804024
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2230,6 +3918,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804031
   Name: 教室
   Description: いつもの教室
@@ -2238,6 +3930,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804032
   Name: 体育館
   Description: 学校の体育館
@@ -2246,6 +3942,10 @@
   BaseGainVoltage: 380
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804033
   Name: 講堂
   Description: 静かな講堂
@@ -2254,6 +3954,10 @@
   BaseGainVoltage: 348
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804034
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2262,6 +3966,10 @@
   BaseGainVoltage: 321
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804041
   Name: 教室
   Description: いつもの教室
@@ -2270,6 +3978,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804042
   Name: 体育館
   Description: 学校の体育館
@@ -2278,6 +3990,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804043
   Name: 講堂
   Description: 静かな講堂
@@ -2286,6 +4002,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804044
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2294,6 +4014,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804051
   Name: 教室
   Description: いつもの教室
@@ -2302,6 +4026,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804052
   Name: 体育館
   Description: 学校の体育館
@@ -2310,6 +4038,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804053
   Name: 講堂
   Description: 静かな講堂
@@ -2318,6 +4050,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804054
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2326,6 +4062,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804061
   Name: 教室
   Description: いつもの教室
@@ -2334,6 +4074,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804062
   Name: 体育館
   Description: 学校の体育館
@@ -2342,6 +4086,10 @@
   BaseGainVoltage: 380
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804063
   Name: 講堂
   Description: 静かな講堂
@@ -2350,6 +4098,10 @@
   BaseGainVoltage: 348
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804064
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2358,6 +4110,10 @@
   BaseGainVoltage: 321
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804071
   Name: 教室
   Description: いつもの教室
@@ -2366,6 +4122,10 @@
   BaseGainVoltage: 834
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804072
   Name: 体育館
   Description: 学校の体育館
@@ -2374,6 +4134,10 @@
   BaseGainVoltage: 759
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804073
   Name: 講堂
   Description: 静かな講堂
@@ -2382,6 +4146,10 @@
   BaseGainVoltage: 695
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804074
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2390,6 +4158,10 @@
   BaseGainVoltage: 642
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804081
   Name: 教室
   Description: いつもの教室
@@ -2398,6 +4170,10 @@
   BaseGainVoltage: 10000
   VoltageStepClass: 1
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804082
   Name: 体育館
   Description: 学校の体育館
@@ -2406,6 +4182,10 @@
   BaseGainVoltage: 9091
   VoltageStepClass: 1
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804083
   Name: 講堂
   Description: 静かな講堂
@@ -2414,6 +4194,10 @@
   BaseGainVoltage: 8334
   VoltageStepClass: 1
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804084
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2422,6 +4206,10 @@
   BaseGainVoltage: 7693
   VoltageStepClass: 1
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804091
   Name: 教室
   Description: いつもの教室
@@ -2430,6 +4218,10 @@
   BaseGainVoltage: 417
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804092
   Name: 体育館
   Description: 学校の体育館
@@ -2438,6 +4230,10 @@
   BaseGainVoltage: 380
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804093
   Name: 講堂
   Description: 静かな講堂
@@ -2446,6 +4242,10 @@
   BaseGainVoltage: 348
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 804094
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2454,6 +4254,730 @@
   BaseGainVoltage: 321
   VoltageStepClass: 2
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804101
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804102
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804103
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804104
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804111
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 10000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804112
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 9091
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804113
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 8334
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804114
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 7693
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804121
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 334
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804122
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 304
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804123
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 279
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804124
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 257
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804131
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 556
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804132
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 506
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804133
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 464
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804134
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 428
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804141
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804142
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 4546
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804143
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 4167
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804144
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 223
+  MentalStepClass: 2
+  BaseGainVoltage: 3847
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804151
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 334
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804152
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 304
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804153
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 279
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804154
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 257
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804161
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804162
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804163
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804164
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804171
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804172
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4546
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804173
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4167
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804174
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 3847
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804181
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804182
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 380
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804183
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 348
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804184
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 321
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804191
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804192
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804193
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804194
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 112
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804201
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804202
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4546
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804203
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4167
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804204
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 3847
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804211
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804212
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 380
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804213
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 348
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804214
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 63
+  MentalStepClass: 3
+  BaseGainVoltage: 321
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804221
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 625
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804222
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 569
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804223
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 521
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804224
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 134
+  MentalStepClass: 2
+  BaseGainVoltage: 481
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804231
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804232
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4546
+  VoltageStepClass: 1
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804233
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 4167
+  VoltageStepClass: 1
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804234
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 334
+  MentalStepClass: 2
+  BaseGainVoltage: 3847
+  VoltageStepClass: 1
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804241
+  Name: 教室
+  Description: いつもの教室
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 417
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804242
+  Name: 体育館
+  Description: 学校の体育館
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 380
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804243
+  Name: 講堂
+  Description: 静かな講堂
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 348
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 804244
+  Name: 特設ステージ
+  Description: 華やかな特設ステージ
+  BaseUseMental: 67
+  MentalStepClass: 3
+  BaseGainVoltage: 321
+  VoltageStepClass: 2
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900011
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2462,6 +4986,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900012
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2470,6 +4998,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900013
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2478,6 +5010,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900021
   Name: テーマパーク
   Description: テーマパーク
@@ -2486,6 +5022,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900022
   Name: テーマパーク
   Description: テーマパーク
@@ -2494,6 +5034,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900023
   Name: テーマパーク
   Description: テーマパーク
@@ -2502,6 +5046,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900031
   Name: ホール
   Description: ホール
@@ -2510,6 +5058,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900032
   Name: ホール
   Description: ホール
@@ -2518,6 +5070,10 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 900033
   Name: ホール
   Description: ホール
@@ -2526,6 +5082,190 @@
   BaseGainVoltage: 770
   VoltageStepClass: 2
   BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 1040101
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100101
+  StageSkillConditionId: 1051013
+  StageSkillEffectId: 20600001
+  StageSkillDescription: メイン効果がリシャッフル効果のスキルを使用するたび、APを-1する。
+  StageSkillSetIds: "200001"
+- Id: 1040102
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100133
+  StageSkillConditionId: 1020001
+  StageSkillEffectId: 10600003
+  StageSkillDescription: メンタルダウンから復帰するたび、APを+3する。
+  StageSkillSetIds: "100001"
+- Id: 1040103
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 1030005
+  StageSkillEffectId: 10711001
+  StageSkillDescription: スキルを5回使用するたび、メイン効果がボルテージゲイン効果であるデッキの全てのカードの消費APを-1する。
+  StageSkillSetIds: "100002"
+- Id: 1040201
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100113
+  StageSkillConditionId: 1020001
+  StageSkillEffectId: 10600020
+  StageSkillDescription: メンタルダウンから復帰するたび、APが20回復する
+  StageSkillSetIds: "100003"
+- Id: 1040202
+  Name: プール
+  Description: プール
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100061
+  StageSkillConditionId: 1051016
+  StageSkillEffectId: 10600003
+  StageSkillDescription: メイン効果がハート獲得のスキルを使用するたび、APが3回復する
+  StageSkillSetIds: "100004"
+- Id: 1040203
+  Name: コンサートホール
+  Description: コンサートホール
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100091
+  StageSkillConditionId: 1051005
+  StageSkillEffectId: 10600003
+  StageSkillDescription: メイン効果がメンタル回復のスキルを使用するたびAPが3回復する
+  StageSkillSetIds: "100005"
+- Id: 1040301
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100132
+  StageSkillConditionId: 1030003
+  StageSkillEffectId: 10600001
+  StageSkillDescription: スキルを3回使用するたび、APが1回復する
+  StageSkillSetIds: "100006"
+- Id: 1040302
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 1020001
+  StageSkillEffectId: 10600010
+  StageSkillDescription: メンタルダウン状態から復帰するたび、APが10回復する
+  StageSkillSetIds: "100007"
+- Id: 1040303
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100043
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを6回使用するたび、ボルテージを-100し、スキルを20回使用するたび、メイン効果がボルテージゲイン効果であるデッキの全てのカードの消費APを-1する。
+  StageSkillSetIds: 200002,100008
+- Id: 1040401
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを25回使用するたび、メイン効果がメンタル回復であるデッキの全てのカードの消費APをステージ中常に-1する。
+  StageSkillSetIds: "100009"
+- Id: 1040402
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを50回使用するたび、メイン効果がトークンカード追加であるデッキの全てのカードの消費APをステージ中常に-1する。
+  StageSkillSetIds: "100010"
+- Id: 1040403
+  Name: コンサートホール
+  Description: コンサートホール
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100091
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: メンタルダウン状態から復帰するたび、APが10回復する。
+  StageSkillSetIds: "100007"
+- Id: 1040501
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを5回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
+  StageSkillSetIds: "100011"
+- Id: 1040502
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを15回使用するたび、メイン効果がボルテージゲイン効果であるデッキの全てのカードの消費APをステージ中常に-1する。
+  StageSkillSetIds: "100012"
+- Id: 1040503
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを15回使用するたび、デッキの全てのみらくらぱーく！の消費APをステージ中常に-1する。
+  StageSkillSetIds: "100013"
 - Id: 531031101
   Name: 教室
   Description: 教室
@@ -2534,6 +5274,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031102
   Name: 体育館
   Description: 体育館
@@ -2542,6 +5286,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031201
   Name: 講堂
   Description: 講堂
@@ -2550,6 +5298,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031202
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2558,6 +5310,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031203
   Name: スタジアム
   Description: スタジアム
@@ -2566,6 +5322,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031301
   Name: 教室
   Description: 教室
@@ -2574,6 +5334,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031302
   Name: 体育館
   Description: 体育館
@@ -2582,6 +5346,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031303
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2590,6 +5358,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031304
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2598,6 +5370,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031305
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2606,6 +5382,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031401
   Name: 教室
   Description: 教室
@@ -2614,6 +5394,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031402
   Name: 体育館
   Description: 体育館
@@ -2622,6 +5406,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031403
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2630,6 +5418,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031404
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2638,6 +5430,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031405
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2646,6 +5442,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031406
   Name: 路上
   Description: 路上
@@ -2654,6 +5454,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100082
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031407
   Name: 教室
   Description: 教室
@@ -2662,6 +5466,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100013
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031408
   Name: 体育館
   Description: 体育館
@@ -2670,6 +5478,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100023
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031409
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2678,6 +5490,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100043
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031410
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2686,6 +5502,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100053
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031501
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2694,6 +5514,10 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100053
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031502
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2702,6 +5526,10 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031503
   Name: 路上
   Description: 路上
@@ -2710,6 +5538,10 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100083
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531031504
   Name: スタジアム
   Description: スタジアム
@@ -2718,6 +5550,418 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032101
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032102
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032201
+  Name: 講堂
+  Description: 講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032202
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032203
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032301
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032302
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032303
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032401
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032402
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032403
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032404
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032405
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100013
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032501
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100053
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032502
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032503
+  Name: 路上
+  Description: 路上
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100083
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531032504
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033101
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033102
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033201
+  Name: 講堂
+  Description: 講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033202
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033203
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033301
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033302
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033303
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033401
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033402
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033403
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033404
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033405
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100013
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033501
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100053
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033502
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033503
+  Name: 路上
+  Description: 路上
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100083
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531033504
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041101
   Name: 教室
   Description: 教室
@@ -2726,6 +5970,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041102
   Name: 体育館
   Description: 体育館
@@ -2734,6 +5982,10 @@
   BaseGainVoltage: 1000
   VoltageStepClass: 2
   BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041201
   Name: 講堂
   Description: 講堂
@@ -2742,6 +5994,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041202
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2750,6 +6006,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041203
   Name: スタジアム
   Description: スタジアム
@@ -2758,6 +6018,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041204
   Name: 路上
   Description: 路上
@@ -2766,6 +6030,10 @@
   BaseGainVoltage: 1250
   VoltageStepClass: 2
   BackGroundId: 100081
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041301
   Name: 教室
   Description: 教室
@@ -2774,6 +6042,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041302
   Name: 体育館
   Description: 体育館
@@ -2782,6 +6054,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041303
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2790,6 +6066,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041304
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2798,6 +6078,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041305
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2806,6 +6090,10 @@
   BaseGainVoltage: 1500
   VoltageStepClass: 2
   BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041401
   Name: 教室
   Description: 教室
@@ -2814,6 +6102,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041402
   Name: 体育館
   Description: 体育館
@@ -2822,6 +6114,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041403
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2830,6 +6126,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041404
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2838,6 +6138,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041405
   Name: 教室
   Description: 教室
@@ -2846,6 +6150,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100013
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041406
   Name: 体育館
   Description: 体育館
@@ -2854,6 +6162,10 @@
   BaseGainVoltage: 1750
   VoltageStepClass: 2
   BackGroundId: 100023
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041501
   Name: 野外ステージ
   Description: 野外ステージ
@@ -2862,6 +6174,10 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041502
   Name: 路上
   Description: 路上
@@ -2870,6 +6186,10 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100083
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 531041503
   Name: スタジアム
   Description: スタジアム
@@ -2878,6 +6198,310 @@
   BaseGainVoltage: 2000
   VoltageStepClass: 2
   BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042101
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042102
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042201
+  Name: 講堂
+  Description: 講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042202
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042203
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042301
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042302
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042303
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042401
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042402
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042403
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100042
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042404
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100052
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042405
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 500
+  MentalStepClass: 1
+  BaseGainVoltage: 1750
+  VoltageStepClass: 2
+  BackGroundId: 100013
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042501
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100053
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042502
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042503
+  Name: 路上
+  Description: 路上
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100083
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531042504
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 125
+  MentalStepClass: 2
+  BaseGainVoltage: 2000
+  VoltageStepClass: 2
+  BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043101
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043102
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043201
+  Name: 講堂
+  Description: 講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043202
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043203
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043301
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043302
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531043303
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031101
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2886,6 +6510,10 @@
   BaseGainVoltage: 400
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031201
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2894,6 +6522,10 @@
   BaseGainVoltage: 425
   VoltageStepClass: 3
   BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031301
   Name: スタジアム
   Description: スタジアム
@@ -2902,6 +6534,10 @@
   BaseGainVoltage: 450
   VoltageStepClass: 3
   BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031401
   Name: テーマパーク
   Description: テーマパーク
@@ -2910,6 +6546,10 @@
   BaseGainVoltage: 475
   VoltageStepClass: 3
   BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031501
   Name: ホール
   Description: ホール
@@ -2918,6 +6558,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 3
   BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031601
   Name: アリーナ
   Description: アリーナ
@@ -2926,6 +6570,154 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032101
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 400
+  VoltageStepClass: 3
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032201
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 425
+  VoltageStepClass: 3
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032301
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 450
+  VoltageStepClass: 3
+  BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032401
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 60
+  MentalStepClass: 3
+  BaseGainVoltage: 475
+  VoltageStepClass: 3
+  BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032501
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 3
+  BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571032601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 20
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: 山札が再構築されるたび、メンタルを現在値の25%減少
+  StageSkillSetIds: ""
+- Id: 571033101
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 400
+  VoltageStepClass: 3
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571033201
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 425
+  VoltageStepClass: 3
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571033301
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 450
+  VoltageStepClass: 3
+  BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571033401
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 60
+  MentalStepClass: 3
+  BaseGainVoltage: 475
+  VoltageStepClass: 3
+  BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571033501
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 3
+  BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571033601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 20
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571035601
   Name: アリーナ
   Description: アリーナ
@@ -2934,6 +6726,10 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041101
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -2942,6 +6738,10 @@
   BaseGainVoltage: 400
   VoltageStepClass: 3
   BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041201
   Name: 屋上特設ステージ
   Description: 屋上特設ステージ
@@ -2950,6 +6750,10 @@
   BaseGainVoltage: 425
   VoltageStepClass: 3
   BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041301
   Name: スタジアム
   Description: スタジアム
@@ -2958,6 +6762,10 @@
   BaseGainVoltage: 450
   VoltageStepClass: 3
   BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041401
   Name: テーマパーク
   Description: テーマパーク
@@ -2966,6 +6774,10 @@
   BaseGainVoltage: 475
   VoltageStepClass: 3
   BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041501
   Name: ホール
   Description: ホール
@@ -2974,6 +6786,10 @@
   BaseGainVoltage: 500
   VoltageStepClass: 3
   BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571041601
   Name: アリーナ
   Description: アリーナ
@@ -2982,3 +6798,115 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042101
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 400
+  VoltageStepClass: 3
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042201
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 425
+  VoltageStepClass: 3
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042301
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 450
+  VoltageStepClass: 3
+  BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042401
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 60
+  MentalStepClass: 3
+  BaseGainVoltage: 475
+  VoltageStepClass: 3
+  BackGroundId: 100133
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042501
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 500
+  VoltageStepClass: 3
+  BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571042601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 20
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 1030030
+  StageSkillEffectId: 20840030
+  StageSkillDescription: 山札が切れるたび、デッキの全てのカードの消費APをステージ中常に+10する。
+  StageSkillSetIds: "200003"
+- Id: 571043101
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 400
+  VoltageStepClass: 3
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571043201
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 425
+  VoltageStepClass: 3
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571043301
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 450
+  VoltageStepClass: 3
+  BackGroundId: 100112
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
