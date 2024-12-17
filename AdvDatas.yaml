@@ -12,6 +12,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300102
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』
@@ -26,6 +27,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300103
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』
@@ -40,6 +42,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300104
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』
@@ -54,6 +57,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300105
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』
@@ -68,6 +72,7 @@
   SubTitleName: "5"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300201
   AdvSeriesId: 103002
   Name: 第2話『ダメダメ⇒世界一！？』
@@ -82,6 +87,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300202
   AdvSeriesId: 103002
   Name: 第2話『ダメダメ⇒世界一！？』
@@ -96,6 +102,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300203
   AdvSeriesId: 103002
   Name: 第2話『ダメダメ⇒世界一！？』
@@ -110,6 +117,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300204
   AdvSeriesId: 103002
   Name: 第2話『ダメダメ⇒世界一！？』
@@ -124,6 +132,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300205
   AdvSeriesId: 103002
   Name: 第2話『ダメダメ⇒世界一！？』
@@ -138,6 +147,7 @@
   SubTitleName: "5"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300301
   AdvSeriesId: 103003
   Name: 第3話『雨と、風と、太陽と』
@@ -152,6 +162,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300302
   AdvSeriesId: 103003
   Name: 第3話『雨と、風と、太陽と』
@@ -166,6 +177,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300303
   AdvSeriesId: 103003
   Name: 第3話『雨と、風と、太陽と』
@@ -180,6 +192,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300304
   AdvSeriesId: 103003
   Name: 第3話『雨と、風と、太陽と』
@@ -194,6 +207,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300305
   AdvSeriesId: 103003
   Name: 第3話『雨と、風と、太陽と』
@@ -208,6 +222,7 @@
   SubTitleName: "5"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300391
   AdvSeriesId: 103003
   Name: 幕間
@@ -222,6 +237,7 @@
   SubTitleName: 幕間
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300401
   AdvSeriesId: 103004
   Name: 第4話『わたしのスクールアイドル』
@@ -236,6 +252,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300402
   AdvSeriesId: 103004
   Name: 第4話『わたしのスクールアイドル』
@@ -250,6 +267,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300403
   AdvSeriesId: 103004
   Name: 第4話『わたしのスクールアイドル』
@@ -264,6 +282,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300404
   AdvSeriesId: 103004
   Name: 第4話『わたしのスクールアイドル』
@@ -278,6 +297,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300501
   AdvSeriesId: 103005
   Name: 第5話『顔を上げて』
@@ -292,6 +312,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300502
   AdvSeriesId: 103005
   Name: 第5話『顔を上げて』
@@ -306,6 +327,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300503
   AdvSeriesId: 103005
   Name: 第5話『顔を上げて』
@@ -320,6 +342,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300504
   AdvSeriesId: 103005
   Name: 第5話『顔を上げて』
@@ -334,6 +357,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300505
   AdvSeriesId: 103005
   Name: 第5話『顔を上げて』
@@ -348,6 +372,7 @@
   SubTitleName: "5"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300601
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -362,6 +387,7 @@
   SubTitleName: "1"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300602
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -376,6 +402,7 @@
   SubTitleName: "2"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300603
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -390,6 +417,7 @@
   SubTitleName: "3"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300604
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -404,6 +432,7 @@
   SubTitleName: "4"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300605
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -418,6 +447,7 @@
   SubTitleName: "5"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300606
   AdvSeriesId: 103006
   Name: 第6話『わがままon the ICE!!』
@@ -432,6 +462,7 @@
   SubTitleName: "6"
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300691
   AdvSeriesId: 103006
   Name: 幕間
@@ -446,6 +477,7 @@
   SubTitleName: 幕間
   StartTime: 2023-03-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300701
   AdvSeriesId: 103007
   Name: 第7話『センパイとコウハイ』
@@ -460,6 +492,7 @@
   SubTitleName: "1"
   StartTime: 2023-04-30T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300702
   AdvSeriesId: 103007
   Name: 第7話『センパイとコウハイ』
@@ -474,6 +507,7 @@
   SubTitleName: "2"
   StartTime: 2023-04-30T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300703
   AdvSeriesId: 103007
   Name: 第7話『センパイとコウハイ』
@@ -488,6 +522,7 @@
   SubTitleName: "3"
   StartTime: 2023-05-29T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300704
   AdvSeriesId: 103007
   Name: 第7話『センパイとコウハイ』
@@ -502,6 +537,7 @@
   SubTitleName: "4"
   StartTime: 2023-05-29T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300705
   AdvSeriesId: 103007
   Name: 第7話『センパイとコウハイ』
@@ -516,6 +552,7 @@
   SubTitleName: "5"
   StartTime: 2023-05-29T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300801
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -530,6 +567,7 @@
   SubTitleName: "1"
   StartTime: 2023-06-12T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300802
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -544,6 +582,7 @@
   SubTitleName: "2"
   StartTime: 2023-06-12T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300803
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -558,6 +597,7 @@
   SubTitleName: "3"
   StartTime: 2023-06-12T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300804
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -572,6 +612,7 @@
   SubTitleName: "4"
   StartTime: 2023-06-24T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300805
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -586,6 +627,7 @@
   SubTitleName: "5"
   StartTime: 2023-06-24T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300806
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -600,6 +642,7 @@
   SubTitleName: "6"
   StartTime: 2023-06-24T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300807
   AdvSeriesId: 103008
   Name: 第8話『あの日のこころ、明日のこころ』
@@ -614,6 +657,7 @@
   SubTitleName: ED
   StartTime: 2023-06-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10300901
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -628,6 +672,7 @@
   SubTitleName: "1"
   StartTime: 2023-07-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300902
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -642,6 +687,7 @@
   SubTitleName: "2"
   StartTime: 2023-07-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300903
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -656,6 +702,7 @@
   SubTitleName: "3"
   StartTime: 2023-07-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300904
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -670,6 +717,7 @@
   SubTitleName: "4"
   StartTime: 2023-07-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300905
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -684,6 +732,7 @@
   SubTitleName: "5"
   StartTime: 2023-07-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10300906
   AdvSeriesId: 103009
   Name: 第9話『ルリ・エスケープ』
@@ -698,6 +747,7 @@
   SubTitleName: "6"
   StartTime: 2023-07-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301001
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -712,6 +762,7 @@
   SubTitleName: "1"
   StartTime: 2023-08-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301002
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -726,6 +777,7 @@
   SubTitleName: "2"
   StartTime: 2023-08-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301003
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -740,6 +792,7 @@
   SubTitleName: "3"
   StartTime: 2023-08-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301004
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -754,6 +807,7 @@
   SubTitleName: "4"
   StartTime: 2023-08-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301005
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -768,6 +822,7 @@
   SubTitleName: "5"
   StartTime: 2023-08-09T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301006
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -782,6 +837,7 @@
   SubTitleName: "6"
   StartTime: 2023-08-25T10:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301007
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -796,6 +852,7 @@
   SubTitleName: "7"
   StartTime: 2023-08-25T10:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301008
   AdvSeriesId: 103010
   Name: 第10話『ルリめぐ・ファンファーレ』
@@ -810,6 +867,7 @@
   SubTitleName: "8"
   StartTime: 2023-08-25T10:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301101
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -824,6 +882,7 @@
   SubTitleName: "1"
   StartTime: 2023-09-16T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301102
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -838,6 +897,7 @@
   SubTitleName: "2"
   StartTime: 2023-09-16T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301103
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -852,6 +912,7 @@
   SubTitleName: "3"
   StartTime: 2023-09-16T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301104
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -866,6 +927,7 @@
   SubTitleName: "4"
   StartTime: 2023-09-16T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301105
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -880,6 +942,7 @@
   SubTitleName: "5"
   StartTime: 2023-09-16T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301106
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -894,6 +957,7 @@
   SubTitleName: "6"
   StartTime: 2023-09-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301107
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -908,6 +972,7 @@
   SubTitleName: "7"
   StartTime: 2023-09-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301108
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -922,6 +987,7 @@
   SubTitleName: "8"
   StartTime: 2023-09-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301109
   AdvSeriesId: 103011
   Name: 第11話『スクールアイドルクラブのために！（？）』
@@ -936,6 +1002,7 @@
   SubTitleName: "9"
   StartTime: 2023-09-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301201
   AdvSeriesId: 103012
   Name: 幕間
@@ -950,6 +1017,7 @@
   SubTitleName: 幕間
   StartTime: 2023-10-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301202
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -964,6 +1032,7 @@
   SubTitleName: "1"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301203
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -978,6 +1047,7 @@
   SubTitleName: "2"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301204
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -992,6 +1062,7 @@
   SubTitleName: "3"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301205
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1006,6 +1077,7 @@
   SubTitleName: "4"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301206
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1020,6 +1092,7 @@
   SubTitleName: "5"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301207
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1034,6 +1107,7 @@
   SubTitleName: "6"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301208
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1048,6 +1122,7 @@
   SubTitleName: "7"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301209
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1062,6 +1137,7 @@
   SubTitleName: "8"
   StartTime: 2023-10-26T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301210
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1076,6 +1152,7 @@
   SubTitleName: ED1
   StartTime: 2023-10-30T11:10:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301211
   AdvSeriesId: 103012
   Name: 第12話『期待はおもい！』
@@ -1090,6 +1167,7 @@
   SubTitleName: ED2
   StartTime: 2023-10-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301301
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1104,6 +1182,7 @@
   SubTitleName: "1"
   StartTime: 2023-11-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301302
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1118,6 +1197,7 @@
   SubTitleName: "2"
   StartTime: 2023-11-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301303
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1132,6 +1212,7 @@
   SubTitleName: "3"
   StartTime: 2023-11-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301304
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1146,6 +1227,7 @@
   SubTitleName: "4"
   StartTime: 2023-11-20T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301305
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1160,6 +1242,7 @@
   SubTitleName: "5"
   StartTime: 2023-11-27T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301306
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1174,6 +1257,7 @@
   SubTitleName: "6"
   StartTime: 2023-11-27T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301307
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1188,6 +1272,7 @@
   SubTitleName: "7"
   StartTime: 2023-11-27T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301308
   AdvSeriesId: 103013
   Name: 第13話『追いついたよ』
@@ -1202,6 +1287,7 @@
   SubTitleName: "8"
   StartTime: 2023-11-27T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301401
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1216,6 +1302,7 @@
   SubTitleName: "1"
   StartTime: 2023-12-17T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301402
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1230,6 +1317,7 @@
   SubTitleName: "2"
   StartTime: 2023-12-17T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301403
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1244,6 +1332,7 @@
   SubTitleName: "3"
   StartTime: 2023-12-17T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301404
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1258,6 +1347,7 @@
   SubTitleName: "3.5"
   StartTime: 2023-12-17T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301405
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1272,6 +1362,7 @@
   SubTitleName: "4"
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301406
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1286,6 +1377,7 @@
   SubTitleName: "5"
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301407
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1300,6 +1392,7 @@
   SubTitleName: "6"
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301408
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1314,6 +1407,7 @@
   SubTitleName: "7"
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301409
   AdvSeriesId: 103014
   Name: 第14話『Link！Like！』
@@ -1328,6 +1422,7 @@
   SubTitleName: "8"
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301501
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1342,6 +1437,7 @@
   SubTitleName: "1"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301502
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1356,6 +1452,7 @@
   SubTitleName: "2"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301503
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1370,6 +1467,7 @@
   SubTitleName: "3"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301504
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1384,6 +1482,7 @@
   SubTitleName: "4"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301505
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1398,6 +1497,7 @@
   SubTitleName: "5"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301506
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1412,6 +1512,7 @@
   SubTitleName: "6"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301507
   AdvSeriesId: 103015
   Name: 第15話『夢を信じる物語』
@@ -1426,6 +1527,7 @@
   SubTitleName: "7"
   StartTime: 2024-01-08T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301601
   AdvSeriesId: 103016
   Name: 第16話『Special Thanks』
@@ -1440,6 +1542,7 @@
   SubTitleName: "1"
   StartTime: 2024-01-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301602
   AdvSeriesId: 103016
   Name: 第16話『Special Thanks』
@@ -1454,6 +1557,7 @@
   SubTitleName: "2"
   StartTime: 2024-01-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301603
   AdvSeriesId: 103016
   Name: 第16話『Special Thanks』
@@ -1468,6 +1572,7 @@
   SubTitleName: "3"
   StartTime: 2024-01-22T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301701
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1482,6 +1587,7 @@
   SubTitleName: "1"
   StartTime: 2024-02-07T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301702
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1496,6 +1602,7 @@
   SubTitleName: "2"
   StartTime: 2024-02-07T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301703
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1510,6 +1617,7 @@
   SubTitleName: "3"
   StartTime: 2024-02-07T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301704
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1524,6 +1632,7 @@
   SubTitleName: "4"
   StartTime: 2024-02-07T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301705
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1538,6 +1647,7 @@
   SubTitleName: "5"
   StartTime: 2024-02-07T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301706
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1552,6 +1662,7 @@
   SubTitleName: "6"
   StartTime: 2024-02-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301707
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1566,6 +1677,7 @@
   SubTitleName: "7"
   StartTime: 2024-02-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301708
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1580,6 +1692,7 @@
   SubTitleName: "8"
   StartTime: 2024-02-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301709
   AdvSeriesId: 103017
   Name: 第17話『ルリ思う。』
@@ -1594,6 +1707,7 @@
   SubTitleName: "9"
   StartTime: 2024-02-23T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301801
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1608,6 +1722,7 @@
   SubTitleName: "1"
   StartTime: 2024-03-04T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301802
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1622,6 +1737,7 @@
   SubTitleName: "2"
   StartTime: 2024-03-04T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301803
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1636,6 +1752,7 @@
   SubTitleName: "3"
   StartTime: 2024-03-11T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301804
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1650,6 +1767,7 @@
   SubTitleName: "4"
   StartTime: 2024-03-11T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301805
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1664,6 +1782,7 @@
   SubTitleName: "5"
   StartTime: 2024-03-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301806
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1678,6 +1797,7 @@
   SubTitleName: "6"
   StartTime: 2024-03-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301807
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1692,6 +1812,7 @@
   SubTitleName: "7"
   StartTime: 2024-03-18T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301808
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1706,6 +1827,7 @@
   SubTitleName: "8"
   StartTime: 2024-03-25T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301809
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1720,6 +1842,7 @@
   SubTitleName: "9"
   StartTime: 2024-03-25T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10301810
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1734,6 +1857,7 @@
   SubTitleName: "10"
   StartTime: 2024-03-25T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10301811
   AdvSeriesId: 103018
   Name: 第18話『いずれ会う四度目の桜』
@@ -1748,6 +1872,7 @@
   SubTitleName: ED
   StartTime: 2024-03-29T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10400101
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1762,6 +1887,7 @@
   SubTitleName: "1"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400102
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1776,6 +1902,7 @@
   SubTitleName: "2"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400103
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1790,6 +1917,7 @@
   SubTitleName: "3"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400104
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1804,6 +1932,7 @@
   SubTitleName: "4"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400105
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1818,6 +1947,7 @@
   SubTitleName: "5"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400106
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1832,6 +1962,7 @@
   SubTitleName: "6"
   StartTime: 2024-04-13T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400107
   AdvSeriesId: 104001
   Name: 第1話『ちぇすとー！』
@@ -1846,6 +1977,7 @@
   SubTitleName: "7"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400108
   AdvSeriesId: 104001
   Name: 第1話『ちぇすとー！』
@@ -1860,6 +1992,7 @@
   SubTitleName: "8"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400109
   AdvSeriesId: 104001
   Name: 第1話『ちぇすとー！』
@@ -1874,6 +2007,7 @@
   SubTitleName: "9"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400110
   AdvSeriesId: 104001
   Name: 第1話『めぐちゃんせんぱい、るりちゃんせんぱい』
@@ -1888,6 +2022,7 @@
   SubTitleName: "10"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400111
   AdvSeriesId: 104001
   Name: 第1話『めぐちゃんせんぱい、るりちゃんせんぱい』
@@ -1902,6 +2037,7 @@
   SubTitleName: "11"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400112
   AdvSeriesId: 104001
   Name: 第1話『めぐちゃんせんぱい、るりちゃんせんぱい』
@@ -1916,6 +2052,7 @@
   SubTitleName: "12"
   StartTime: 2024-04-15T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400113
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1930,6 +2067,7 @@
   SubTitleName: "13"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400114
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1944,6 +2082,7 @@
   SubTitleName: "14"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400115
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1958,6 +2097,7 @@
   SubTitleName: "15"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400116
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1972,6 +2112,7 @@
   SubTitleName: "16"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400117
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -1986,6 +2127,7 @@
   SubTitleName: "17"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400118
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -2000,6 +2142,7 @@
   SubTitleName: "18"
   StartTime: 2024-04-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10400119
   AdvSeriesId: 104001
   Name: 第1話『未来への歌』
@@ -2014,6 +2157,7 @@
   SubTitleName: ED
   StartTime: 2024-04-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10400201
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2028,6 +2172,7 @@
   SubTitleName: "1"
   StartTime: 2024-05-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400202
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2042,6 +2187,7 @@
   SubTitleName: "2"
   StartTime: 2024-05-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400203
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2056,6 +2202,7 @@
   SubTitleName: "3"
   StartTime: 2024-05-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400204
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2070,6 +2217,7 @@
   SubTitleName: "4"
   StartTime: 2024-05-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400205
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2084,6 +2232,7 @@
   SubTitleName: "5"
   StartTime: 2024-05-27T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400206
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2098,6 +2247,7 @@
   SubTitleName: "6"
   StartTime: 2024-05-27T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400207
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2112,6 +2262,7 @@
   SubTitleName: "7"
   StartTime: 2024-05-27T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400208
   AdvSeriesId: 104002
   Name: 第2話『踊り続けよう、きみが見てる』
@@ -2126,6 +2277,7 @@
   SubTitleName: "8"
   StartTime: 2024-05-27T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10400301
   AdvSeriesId: 104003
   Name: 幕間
@@ -2140,6 +2292,7 @@
   SubTitleName: 幕間
   StartTime: 2024-06-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10400302
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2154,6 +2307,7 @@
   SubTitleName: "1"
   StartTime: 2024-06-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400303
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2168,6 +2322,7 @@
   SubTitleName: "2"
   StartTime: 2024-06-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400304
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2182,6 +2337,7 @@
   SubTitleName: "3"
   StartTime: 2024-06-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400305
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2196,6 +2352,7 @@
   SubTitleName: "4"
   StartTime: 2024-06-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400306
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2210,6 +2367,7 @@
   SubTitleName: "5"
   StartTime: 2024-06-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400307
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2224,6 +2382,7 @@
   SubTitleName: "6"
   StartTime: 2024-06-26T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400308
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2238,6 +2397,7 @@
   SubTitleName: "7"
   StartTime: 2024-06-26T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
 - Id: 10400309
   AdvSeriesId: 104003
   Name: 第3話『ゆえに、みらくらぱーく！あり』
@@ -2252,3 +2412,799 @@
   SubTitleName: "8"
   StartTime: 2024-06-26T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400401
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 1
+  ScriptId: 10400401
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 162
+  SubTitleName: "1"
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400402
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 2
+  ScriptId: 10400402
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 163
+  SubTitleName: "2"
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400403
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 3
+  ScriptId: 10400403
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 164
+  SubTitleName: "3"
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400404
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 4
+  ScriptId: 10400404
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 165
+  SubTitleName: "4"
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400405
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 5
+  ScriptId: 10400405
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 166
+  SubTitleName: "5"
+  StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400406
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 6
+  ScriptId: 10400406
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 167
+  SubTitleName: "6"
+  StartTime: 2024-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400407
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 7
+  ScriptId: 10400407
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 168
+  SubTitleName: "7"
+  StartTime: 2024-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400408
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 8
+  ScriptId: 10400408
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 169
+  SubTitleName: "8"
+  StartTime: 2024-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400409
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: PART 9
+  ScriptId: 10400409
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 170
+  SubTitleName: "9"
+  StartTime: 2024-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400410
+  AdvSeriesId: 104004
+  Name: 第4話『昔もいまも、同じ空の下』
+  Description: ED
+  ScriptId: 10400410
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 171
+  SubTitleName: ED
+  StartTime: 2024-07-31T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400501
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 1
+  ScriptId: 10400501
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 172
+  SubTitleName: "1"
+  StartTime: 2024-08-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400502
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 2
+  ScriptId: 10400502
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 173
+  SubTitleName: "2"
+  StartTime: 2024-08-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400503
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 3
+  ScriptId: 10400503
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 174
+  SubTitleName: "3"
+  StartTime: 2024-08-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400504
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 4
+  ScriptId: 10400504
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 175
+  SubTitleName: "4"
+  StartTime: 2024-08-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400505
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 5
+  ScriptId: 10400505
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 176
+  SubTitleName: "5"
+  StartTime: 2024-08-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400506
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 6
+  ScriptId: 10400506
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 177
+  SubTitleName: "6"
+  StartTime: 2024-08-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400507
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 7
+  ScriptId: 10400507
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 178
+  SubTitleName: "7"
+  StartTime: 2024-08-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400508
+  AdvSeriesId: 104005
+  Name: 第5話『不完全で、未完成』
+  Description: PART 8
+  ScriptId: 10400508
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 179
+  SubTitleName: "8"
+  StartTime: 2024-08-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400601
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 1
+  ScriptId: 10400601
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 180
+  SubTitleName: "1"
+  StartTime: 2024-09-15T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400602
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 2
+  ScriptId: 10400602
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 181
+  SubTitleName: "2"
+  StartTime: 2024-09-15T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400603
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 3
+  ScriptId: 10400603
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 182
+  SubTitleName: "3"
+  StartTime: 2024-09-15T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400604
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 4
+  ScriptId: 10400604
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 183
+  SubTitleName: "4"
+  StartTime: 2024-09-15T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400605
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 5
+  ScriptId: 10400605
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 184
+  SubTitleName: "5"
+  StartTime: 2024-09-15T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400606
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 6
+  ScriptId: 10400606
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 185
+  SubTitleName: "6"
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400607
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 7
+  ScriptId: 10400607
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 186
+  SubTitleName: "7"
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400608
+  AdvSeriesId: 104006
+  Name: 第6話『対よろ！！！』
+  Description: PART 8
+  ScriptId: 10400608
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 187
+  SubTitleName: "8"
+  StartTime: 2024-09-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400701
+  AdvSeriesId: 104007
+  Name: 幕間
+  Description: 『Brightness』
+  ScriptId: 10400791
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 188
+  SubTitleName: 幕間
+  StartTime: 2024-10-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400702
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 1
+  ScriptId: 10400701
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 189
+  SubTitleName: "1"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400703
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 2
+  ScriptId: 10400702
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 190
+  SubTitleName: "2"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400704
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 3
+  ScriptId: 10400703
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 191
+  SubTitleName: "3"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400705
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 4
+  ScriptId: 10400704
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 192
+  SubTitleName: "4"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400706
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 5
+  ScriptId: 10400705
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 193
+  SubTitleName: "5"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400707
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 6
+  ScriptId: 10400706
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 194
+  SubTitleName: "6"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400708
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 7
+  ScriptId: 10400707
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 195
+  SubTitleName: "7"
+  StartTime: 2024-10-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400709
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 8
+  ScriptId: 10400708
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 196
+  SubTitleName: "8"
+  StartTime: 2024-10-25T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400710
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 9
+  ScriptId: 10400709
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 197
+  SubTitleName: "9"
+  StartTime: 2024-10-25T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400711
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 10
+  ScriptId: 10400710
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 198
+  SubTitleName: "10"
+  StartTime: 2024-10-25T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400712
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 11
+  ScriptId: 10400711
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 199
+  SubTitleName: "11"
+  StartTime: 2024-10-25T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400713
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: PART 12
+  ScriptId: 10400712
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 200
+  SubTitleName: "12"
+  StartTime: 2024-10-25T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400714
+  AdvSeriesId: 104007
+  Name: 第7話『Link to the FRIENDS！』
+  Description: ED
+  ScriptId: 10400713
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 201
+  SubTitleName: ED
+  StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400801
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 1
+  ScriptId: 10400801
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 202
+  SubTitleName: "1"
+  StartTime: 2024-11-04T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400802
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 2
+  ScriptId: 10400802
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 203
+  SubTitleName: "2"
+  StartTime: 2024-11-04T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400803
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 3
+  ScriptId: 10400803
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 204
+  SubTitleName: "3"
+  StartTime: 2024-11-04T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400804
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 4
+  ScriptId: 10400804
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 205
+  SubTitleName: "4"
+  StartTime: 2024-11-04T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400805
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 5
+  ScriptId: 10400805
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 206
+  SubTitleName: "5"
+  StartTime: 2024-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400806
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 6
+  ScriptId: 10400806
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 207
+  SubTitleName: "6"
+  StartTime: 2024-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400807
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 7
+  ScriptId: 10400807
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 208
+  SubTitleName: "7"
+  StartTime: 2024-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400808
+  AdvSeriesId: 104008
+  Name: 第8話『Not a marionette』
+  Description: PART 8
+  ScriptId: 10400808
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 209
+  SubTitleName: "8"
+  StartTime: 2024-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10400901
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: PART 1
+  ScriptId: 10400901
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 210
+  SubTitleName: "1"
+  StartTime: 2024-12-17T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400902
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: PART 2
+  ScriptId: 10400902
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 211
+  SubTitleName: "2"
+  StartTime: 2024-12-17T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400903
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: PART 3
+  ScriptId: 10400903
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 212
+  SubTitleName: "3"
+  StartTime: 2024-12-17T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400904
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: PART 4
+  ScriptId: 10400904
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 213
+  SubTitleName: "4"
+  StartTime: 2024-12-17T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10400905
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: PART 5
+  ScriptId: 10400905
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 214
+  SubTitleName: "5"
+  StartTime: 2024-12-17T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
