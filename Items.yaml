@@ -5110,6 +5110,18 @@
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-12-01T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032524
+  Name: "[聖夜譚]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2024-12-18T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5578,6 +5590,18 @@
   Description: スタイル解放素材(大沢瑠璃乃)
   StartTime: 2024-11-16T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033521
+  Name: "[聖夜譚]大沢瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢瑠璃乃)
+  StartTime: 2024-12-18T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5649,6 +5673,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(百生吟子)
   StartTime: 2024-07-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041402
+  Name: "[聖夜譚]百生吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生吟子)
+  StartTime: 2024-12-18T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4041501
   Name: "[Dream Believers]百生吟子 解放Pt."

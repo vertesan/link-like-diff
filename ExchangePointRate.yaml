@@ -3221,6 +3221,28 @@
   EndTime: 2024-12-26T02:59:59Z
   GachaSeriesId: 1040404
   BonusItemQuantity: 0
+- Id: 1001295
+  ExchangePointId: 10404
+  ExchangeItemType: 2
+  ExchangeItemId: 10325240
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2024-12-18T03:00:00Z
+  EndTime: 2024-12-26T02:59:59Z
+  GachaSeriesId: 1040405
+  BonusItemQuantity: 40
+- Id: 1001296
+  ExchangePointId: 10404
+  ExchangeItemType: 2
+  ExchangeItemId: 10335210
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2024-12-18T03:00:00Z
+  EndTime: 2024-12-26T02:59:59Z
+  GachaSeriesId: 1040405
+  BonusItemQuantity: 40
 - Id: 1001298
   ExchangePointId: 10404
   ExchangeItemType: 2
