@@ -1326,3 +1326,11 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102389
+- Id: 20103701
+  LoginBonusRewardSeriesId: 201037
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000024
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102391

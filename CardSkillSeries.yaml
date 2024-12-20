@@ -1678,6 +1678,18 @@
   Name: エクステアトラクトブースト
   SkillIcon: 10238020
   SkillMainEffect: 20
+- Id: 10239010
+  Name: APゲイン：メンタルリカバー ＆ プロテクト
+  SkillIcon: 10239010
+  SkillMainEffect: 41
+- Id: 10239011
+  Name: APゲイン：メンタルリカバー ＆ プロテクト
+  SkillIcon: 10239010
+  SkillMainEffect: 41
+- Id: 10239012
+  Name: APゲイン：メンタルリカバー ＆ プロテクト
+  SkillIcon: 10239010
+  SkillMainEffect: 41
 - Id: 10313010
   Name: ハートキャプチャ
   SkillIcon: 10313010
@@ -4435,7 +4447,7 @@
   SkillIcon: 20235110
   SkillMainEffect: 1
 - Id: 20235120
-  Name: ハートアトラクション
+  Name: チアフルアトラクション
   SkillIcon: 20235120
   SkillMainEffect: 1
 - Id: 20235130
@@ -4481,6 +4493,10 @@
 - Id: 20238020
   Name: ラブギフト
   SkillIcon: 20238020
+  SkillMainEffect: 16
+- Id: 20239010
+  Name: セレブレイション
+  SkillIcon: 20239010
   SkillMainEffect: 16
 - Id: 20313010
   Name: ハートキャプチャ
@@ -5383,7 +5399,7 @@
   SkillIcon: 30214170
   SkillMainEffect: 2
 - Id: 30214180
-  Name: ドロー：APレデュース
+  Name: ドロー：APレデュース & アトラクトブースト
   SkillIcon: 30214180
   SkillMainEffect: 17
 - Id: 30214190
@@ -5834,6 +5850,10 @@
   Name: APゲイン
   SkillIcon: 30238020
   SkillMainEffect: 14
+- Id: 30239010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30239010
+  SkillMainEffect: 29
 - Id: 30314010
   Name: チェイン：梢
   SkillIcon: 30314010
@@ -5899,7 +5919,7 @@
   SkillIcon: 30314160
   SkillMainEffect: 14
 - Id: 30314170
-  Name: ドロー：メンタルリカバー
+  Name: ドロー：メンタルリカバー & ハートキャプチャ
   SkillIcon: 30314170
   SkillMainEffect: 5
 - Id: 30314180
@@ -6095,7 +6115,7 @@
   SkillIcon: 30324160
   SkillMainEffect: 905
 - Id: 30324170
-  Name: ドロー：APレデュース
+  Name: ドロー：APレデュース & アトラクトブースト
   SkillIcon: 30324170
   SkillMainEffect: 17
 - Id: 30324180
@@ -6319,7 +6339,7 @@
   SkillIcon: 30335120
   SkillMainEffect: 10
 - Id: 30335130
-  Name: APエスカレート：メンタル
+  Name: APエスカレート：メンタル & メンタルバリア：ハートキャプチャ
   SkillIcon: 30335130
   SkillMainEffect: 17
 - Id: 30335140

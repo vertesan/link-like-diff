@@ -17898,6 +17898,106 @@
   AttributeId: 30238020
   SpineId: 33
   OrderId: 10300123
+- Id: 10239011
+  CardSeriesId: 1023901
+  Name: 18th Birthday
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10239011
+  SkillSeriesId: 20239010
+  AttributeId: 30239010
+  SpineId: 42
+  OrderId: 10381923
+- Id: 10239012
+  CardSeriesId: 1023901
+  Name: 18th Birthday
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10239012
+  SkillSeriesId: 20239010
+  AttributeId: 30239010
+  SpineId: 42
+  OrderId: 10381923
+- Id: 10239013
+  CardSeriesId: 1023901
+  Name: 18th Birthday
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10239012
+  SkillSeriesId: 20239010
+  AttributeId: 30239010
+  SpineId: 42
+  OrderId: 10381923
+- Id: 10239014
+  CardSeriesId: 1023901
+  Name: 18th Birthday
+  Description: 藤島慈
+  CharactersId: 1023
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10239012
+  SkillSeriesId: 20239010
+  AttributeId: 30239010
+  SpineId: 42
+  OrderId: 10381923
 - Id: 10313010
   CardSeriesId: 1031301
   Name: オーロラスカイ

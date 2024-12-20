@@ -1234,6 +1234,30 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-11-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003033
+  Name: 【TRY TRY SELECT!!!】URセレクトチケット
+  NameFurigana: とらいとらいせれくとうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-12-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003034
+  Name: 【TRY TRY SELECT!!!】SRセレクトチケット
+  NameFurigana: とらいとらいせれくとすーぱーれあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-12-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと
@@ -3897,6 +3921,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(藤島慈)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4023901
+  Name: "[18th Birthday]藤島慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島慈)
+  StartTime: 2024-12-19T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4031301
   Name: "[オーロラスカイ]日野下花帆 解放Pt."

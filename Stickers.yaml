@@ -3574,6 +3574,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10239011
+  Name: "[18th Birthday]藤島慈"
+  Text: "[18th Birthday]藤島慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 239011
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023901
+  RequirementText: "[18th Birthday]藤島慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2024-12-19T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-19T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10313011
   Name: "[オーロラスカイ]日野下花帆"
   Text: "[オーロラスカイ]日野下花帆を4回解放した記念のステッカー"
@@ -30982,6 +31006,30 @@
   AvailableEndTime: 2023-12-20T18:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90010231
+  Name: Megumi's 18th Birthday
+  Text: Happy 18th Birthday to Dear Megumi! 「世界一かわいい、めぐちゃんの、18歳のお誕生日だよ～！」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 110013
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「Megumi's 18th Birthday セレブレイトパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-19T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-19T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90010310
   Name: Kaho Birthday 2023
   Text: Happy 16th Birthday to Dear Kaho!
@@ -32467,6 +32515,174 @@
   StartTime: 2024-12-01T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-12-01T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000024
+  Name: Live『Live & Fan Meeting TRY TRY UNITY!!!』
+  Text: 2024.12.21-22 in 東京・両国国技館
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130024
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live & Fan Meeting TRY TRY UNITY!!! 開催日にログイン
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-20T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-20T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000035
+  Name: "[first crossing]日野下花帆"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130035
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000036
+  Name: "[first crossing]乙宗梢"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130036
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000037
+  Name: "[first crossing]村野さやか"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130037
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000038
+  Name: "[first crossing]夕霧綴理"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130038
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000039
+  Name: "[first crossing]大沢瑠璃乃"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130039
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000040
+  Name: "[first crossing]藤島慈"
+  Text: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130040
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 103期Fes×ReC：LIVE ～first crossing～ 追加公演決定記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2024-12-23T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2024-12-25T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
