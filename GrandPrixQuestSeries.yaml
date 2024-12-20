@@ -546,8 +546,8 @@
   RetireLimitCount: 1
   OrderId: 1
   SeriesNum: 1
-  StartTime: 2024-12-21T03:00:00Z
-  EndTime: 2024-12-25T18:59:59Z
+  StartTime: 2024-12-20T03:00:00Z
+  EndTime: 2024-12-24T18:59:59Z
 - Id: 7041092
   Name: ステージB
   Description: ステージB
@@ -556,8 +556,8 @@
   RetireLimitCount: 1
   OrderId: 2
   SeriesNum: 2
-  StartTime: 2024-12-21T03:00:00Z
-  EndTime: 2024-12-25T18:59:59Z
+  StartTime: 2024-12-20T03:00:00Z
+  EndTime: 2024-12-24T18:59:59Z
 - Id: 7041093
   Name: ステージC
   Description: ステージC
@@ -566,8 +566,8 @@
   RetireLimitCount: 1
   OrderId: 3
   SeriesNum: 3
-  StartTime: 2024-12-21T03:00:00Z
-  EndTime: 2024-12-25T18:59:59Z
+  StartTime: 2024-12-20T03:00:00Z
+  EndTime: 2024-12-24T18:59:59Z
 - Id: 8031011
   Name: ステージA
   Description: ステージA
