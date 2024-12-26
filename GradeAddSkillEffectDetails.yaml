@@ -230,6 +230,38 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: -1
+- Id: 41014030000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014030001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 41014030002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014030003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -30
+- Id: 41014080000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014080001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 41014080002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014080003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -80
 - Id: 41014211000
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -310,6 +342,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: -1
+- Id: 41014233000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 41014233001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1023
+- Id: 41014233002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014233003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -3
 - Id: 41014234000
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -406,6 +454,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: -1
+- Id: 41014333000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 41014333001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1033
+- Id: 41014333002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014333003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -3
 - Id: 41014334000
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -502,6 +566,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: -1
+- Id: 41014433000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 41014433001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1043
+- Id: 41014433002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014433003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -3
 - Id: 41014434000
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -518,6 +598,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: -4
+- Id: 41014953000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 3
+- Id: 41014953001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 5
+- Id: 41014953002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41014953003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -3
 - Id: 41015001000
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -550,6 +646,14 @@
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
   TargetMood: 0
   EffectValue: 5000
+- Id: 51003020100
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51003020101
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 9090
 - Id: 51003020150
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -558,6 +662,30 @@
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
   EffectValue: 8696
+- Id: 51003020300
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51003020301
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7692
+- Id: 51003020500
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51003020501
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 6666
+- Id: 51009020100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51009020101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 11111
 - Id: 51009020200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -566,6 +694,22 @@
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
   EffectValue: 12500
+- Id: 51009020300
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51009020301
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 14286
+- Id: 51009029990
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51009029991
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 9999999
 - Id: 51013000000
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -606,6 +750,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: 2
+- Id: 51014000030
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014000031
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014000032
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014000033
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 3
 - Id: 51014001010
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -990,6 +1150,22 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: 1
+- Id: 51014232000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 51014232001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1023
+- Id: 51014232002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014232003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 2
 - Id: 51014311000
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -1038,6 +1214,62 @@
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   TargetMood: 0
   EffectValue: 1
+- Id: 51014332000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 51014332001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1033
+- Id: 51014332002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014332003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51014432000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 4
+- Id: 51014432001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 1043
+- Id: 51014432002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014432003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51014953000
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 3
+- Id: 51014953001
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 5
+- Id: 51014953002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51014953003
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 3
+- Id: 51015000010
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51015000011
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -1
 - Id: 51015000020
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
