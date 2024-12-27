@@ -9,6 +9,7 @@
   NextMissionsId: 0
   SortOrder: 1
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001002
   EventMissionSeriesId: 10001
   Name: クエストライブを20回クリアしよう
@@ -20,6 +21,7 @@
   NextMissionsId: 0
   SortOrder: 2
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001003
   EventMissionSeriesId: 10001
   Name: クエストライブを30回クリアしよう
@@ -31,6 +33,7 @@
   NextMissionsId: 0
   SortOrder: 3
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001004
   EventMissionSeriesId: 10001
   Name: クエストライブを40回クリアしよう
@@ -42,6 +45,7 @@
   NextMissionsId: 0
   SortOrder: 4
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001005
   EventMissionSeriesId: 10001
   Name: クエストライブを50回クリアしよう
@@ -53,6 +57,7 @@
   NextMissionsId: 0
   SortOrder: 5
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001006
   EventMissionSeriesId: 10001
   Name: クエストライブを60回クリアしよう
@@ -64,6 +69,7 @@
   NextMissionsId: 0
   SortOrder: 6
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001007
   EventMissionSeriesId: 10001
   Name: クエストライブを70回クリアしよう
@@ -75,6 +81,7 @@
   NextMissionsId: 0
   SortOrder: 7
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001008
   EventMissionSeriesId: 10001
   Name: クエストライブを80回クリアしよう
@@ -86,6 +93,7 @@
   NextMissionsId: 0
   SortOrder: 8
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001009
   EventMissionSeriesId: 10001
   Name: クエストライブを90回クリアしよう
@@ -97,6 +105,7 @@
   NextMissionsId: 0
   SortOrder: 9
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001010
   EventMissionSeriesId: 10001
   Name: クエストライブを100回クリアしよう
@@ -108,6 +117,7 @@
   NextMissionsId: 0
   SortOrder: 10
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001011
   EventMissionSeriesId: 10001
   Name: クエストライブを110回クリアしよう
@@ -119,6 +129,7 @@
   NextMissionsId: 0
   SortOrder: 11
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001012
   EventMissionSeriesId: 10001
   Name: クエストライブを120回クリアしよう
@@ -130,6 +141,7 @@
   NextMissionsId: 0
   SortOrder: 12
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001013
   EventMissionSeriesId: 10001
   Name: クエストライブを130回クリアしよう
@@ -141,6 +153,7 @@
   NextMissionsId: 0
   SortOrder: 13
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001014
   EventMissionSeriesId: 10001
   Name: クエストライブを140回クリアしよう
@@ -152,6 +165,7 @@
   NextMissionsId: 0
   SortOrder: 14
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001015
   EventMissionSeriesId: 10001
   Name: クエストライブを150回クリアしよう
@@ -163,6 +177,7 @@
   NextMissionsId: 0
   SortOrder: 15
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001016
   EventMissionSeriesId: 10001
   Name: クエストライブを160回クリアしよう
@@ -174,6 +189,7 @@
   NextMissionsId: 0
   SortOrder: 16
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001017
   EventMissionSeriesId: 10001
   Name: クエストライブを170回クリアしよう
@@ -185,6 +201,7 @@
   NextMissionsId: 0
   SortOrder: 17
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001018
   EventMissionSeriesId: 10001
   Name: クエストライブを180回クリアしよう
@@ -196,6 +213,7 @@
   NextMissionsId: 0
   SortOrder: 18
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001019
   EventMissionSeriesId: 10001
   Name: クエストライブを190回クリアしよう
@@ -207,6 +225,7 @@
   NextMissionsId: 0
   SortOrder: 19
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001020
   EventMissionSeriesId: 10001
   Name: クエストライブを200回クリアしよう
@@ -218,6 +237,7 @@
   NextMissionsId: 0
   SortOrder: 20
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001021
   EventMissionSeriesId: 10001
   Name: クエストライブを210回クリアしよう
@@ -229,6 +249,7 @@
   NextMissionsId: 0
   SortOrder: 21
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001022
   EventMissionSeriesId: 10001
   Name: クエストライブを220回クリアしよう
@@ -240,6 +261,7 @@
   NextMissionsId: 0
   SortOrder: 22
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001023
   EventMissionSeriesId: 10001
   Name: クエストライブを230回クリアしよう
@@ -251,6 +273,7 @@
   NextMissionsId: 0
   SortOrder: 23
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001024
   EventMissionSeriesId: 10001
   Name: クエストライブを240回クリアしよう
@@ -262,6 +285,7 @@
   NextMissionsId: 0
   SortOrder: 24
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001025
   EventMissionSeriesId: 10001
   Name: クエストライブを250回クリアしよう
@@ -273,6 +297,7 @@
   NextMissionsId: 0
   SortOrder: 25
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001026
   EventMissionSeriesId: 10001
   Name: クエストライブを260回クリアしよう
@@ -284,6 +309,7 @@
   NextMissionsId: 0
   SortOrder: 26
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001027
   EventMissionSeriesId: 10001
   Name: クエストライブを270回クリアしよう
@@ -295,6 +321,7 @@
   NextMissionsId: 0
   SortOrder: 27
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001028
   EventMissionSeriesId: 10001
   Name: クエストライブを280回クリアしよう
@@ -306,6 +333,7 @@
   NextMissionsId: 0
   SortOrder: 28
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001029
   EventMissionSeriesId: 10001
   Name: クエストライブを290回クリアしよう
@@ -317,6 +345,7 @@
   NextMissionsId: 0
   SortOrder: 29
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001030
   EventMissionSeriesId: 10001
   Name: クエストライブを300回クリアしよう
@@ -328,6 +357,7 @@
   NextMissionsId: 0
   SortOrder: 30
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001031
   EventMissionSeriesId: 10001
   Name: クエストライブを310回クリアしよう
@@ -339,6 +369,7 @@
   NextMissionsId: 0
   SortOrder: 31
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001032
   EventMissionSeriesId: 10001
   Name: クエストライブを320回クリアしよう
@@ -350,6 +381,7 @@
   NextMissionsId: 0
   SortOrder: 32
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001033
   EventMissionSeriesId: 10001
   Name: クエストライブを330回クリアしよう
@@ -361,6 +393,7 @@
   NextMissionsId: 0
   SortOrder: 33
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001034
   EventMissionSeriesId: 10001
   Name: クエストライブを340回クリアしよう
@@ -372,6 +405,7 @@
   NextMissionsId: 0
   SortOrder: 34
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001035
   EventMissionSeriesId: 10001
   Name: クエストライブを350回クリアしよう
@@ -383,6 +417,7 @@
   NextMissionsId: 0
   SortOrder: 35
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001036
   EventMissionSeriesId: 10001
   Name: クエストライブを360回クリアしよう
@@ -394,6 +429,7 @@
   NextMissionsId: 0
   SortOrder: 36
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001037
   EventMissionSeriesId: 10001
   Name: クエストライブを365回クリアしよう
@@ -405,6 +441,7 @@
   NextMissionsId: 0
   SortOrder: 37
   TransitionContentsId: 101
+  MissionConditionDetail: 0
 - Id: 10001038
   EventMissionSeriesId: 10001
   Name: デイリーライブを3回クリアしよう
@@ -416,6 +453,7 @@
   NextMissionsId: 0
   SortOrder: 38
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001039
   EventMissionSeriesId: 10001
   Name: デイリーライブを6回クリアしよう
@@ -427,6 +465,7 @@
   NextMissionsId: 0
   SortOrder: 39
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001040
   EventMissionSeriesId: 10001
   Name: デイリーライブを9回クリアしよう
@@ -438,6 +477,7 @@
   NextMissionsId: 0
   SortOrder: 40
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001041
   EventMissionSeriesId: 10001
   Name: デイリーライブを12回クリアしよう
@@ -449,6 +489,7 @@
   NextMissionsId: 0
   SortOrder: 41
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001042
   EventMissionSeriesId: 10001
   Name: デイリーライブを15回クリアしよう
@@ -460,6 +501,7 @@
   NextMissionsId: 0
   SortOrder: 42
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001043
   EventMissionSeriesId: 10001
   Name: デイリーライブを18回クリアしよう
@@ -471,6 +513,7 @@
   NextMissionsId: 0
   SortOrder: 43
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001044
   EventMissionSeriesId: 10001
   Name: デイリーライブを21回クリアしよう
@@ -482,6 +525,7 @@
   NextMissionsId: 0
   SortOrder: 44
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001045
   EventMissionSeriesId: 10001
   Name: デイリーライブを24回クリアしよう
@@ -493,6 +537,7 @@
   NextMissionsId: 0
   SortOrder: 45
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001046
   EventMissionSeriesId: 10001
   Name: デイリーライブを27回クリアしよう
@@ -504,6 +549,7 @@
   NextMissionsId: 0
   SortOrder: 46
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001047
   EventMissionSeriesId: 10001
   Name: デイリーライブを30回クリアしよう
@@ -515,6 +561,7 @@
   NextMissionsId: 0
   SortOrder: 47
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001048
   EventMissionSeriesId: 10001
   Name: デイリーライブを33回クリアしよう
@@ -526,6 +573,7 @@
   NextMissionsId: 0
   SortOrder: 48
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001049
   EventMissionSeriesId: 10001
   Name: デイリーライブを36回クリアしよう
@@ -537,6 +585,7 @@
   NextMissionsId: 0
   SortOrder: 49
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001050
   EventMissionSeriesId: 10001
   Name: デイリーライブを39回クリアしよう
@@ -548,6 +597,7 @@
   NextMissionsId: 0
   SortOrder: 50
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001051
   EventMissionSeriesId: 10001
   Name: デイリーライブを42回クリアしよう
@@ -559,6 +609,7 @@
   NextMissionsId: 0
   SortOrder: 51
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001052
   EventMissionSeriesId: 10001
   Name: デイリーライブを45回クリアしよう
@@ -570,6 +621,7 @@
   NextMissionsId: 0
   SortOrder: 52
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001053
   EventMissionSeriesId: 10001
   Name: デイリーライブを48回クリアしよう
@@ -581,6 +633,7 @@
   NextMissionsId: 0
   SortOrder: 53
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001054
   EventMissionSeriesId: 10001
   Name: デイリーライブを50回クリアしよう
@@ -592,6 +645,7 @@
   NextMissionsId: 0
   SortOrder: 54
   TransitionContentsId: 103
+  MissionConditionDetail: 0
 - Id: 10001055
   EventMissionSeriesId: 10001
   Name: ラーニングライブを10回クリアしよう
@@ -603,6 +657,7 @@
   NextMissionsId: 0
   SortOrder: 55
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001056
   EventMissionSeriesId: 10001
   Name: ラーニングライブを20回クリアしよう
@@ -614,6 +669,7 @@
   NextMissionsId: 0
   SortOrder: 56
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001057
   EventMissionSeriesId: 10001
   Name: ラーニングライブを30回クリアしよう
@@ -625,6 +681,7 @@
   NextMissionsId: 0
   SortOrder: 57
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001058
   EventMissionSeriesId: 10001
   Name: ラーニングライブを40回クリアしよう
@@ -636,6 +693,7 @@
   NextMissionsId: 0
   SortOrder: 58
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001059
   EventMissionSeriesId: 10001
   Name: ラーニングライブを50回クリアしよう
@@ -647,6 +705,7 @@
   NextMissionsId: 0
   SortOrder: 59
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001060
   EventMissionSeriesId: 10001
   Name: ラーニングライブを60回クリアしよう
@@ -658,6 +717,7 @@
   NextMissionsId: 0
   SortOrder: 60
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001061
   EventMissionSeriesId: 10001
   Name: ラーニングライブを70回クリアしよう
@@ -669,6 +729,7 @@
   NextMissionsId: 0
   SortOrder: 61
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001062
   EventMissionSeriesId: 10001
   Name: ラーニングライブを80回クリアしよう
@@ -680,6 +741,7 @@
   NextMissionsId: 0
   SortOrder: 62
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001063
   EventMissionSeriesId: 10001
   Name: ラーニングライブを90回クリアしよう
@@ -691,6 +753,7 @@
   NextMissionsId: 0
   SortOrder: 63
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001064
   EventMissionSeriesId: 10001
   Name: ラーニングライブを100回クリアしよう
@@ -702,6 +765,7 @@
   NextMissionsId: 0
   SortOrder: 64
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001065
   EventMissionSeriesId: 10001
   Name: ラーニングライブを110回クリアしよう
@@ -713,6 +777,7 @@
   NextMissionsId: 0
   SortOrder: 65
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001066
   EventMissionSeriesId: 10001
   Name: ラーニングライブを120回クリアしよう
@@ -724,6 +789,7 @@
   NextMissionsId: 0
   SortOrder: 66
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001067
   EventMissionSeriesId: 10001
   Name: ラーニングライブを130回クリアしよう
@@ -735,6 +801,7 @@
   NextMissionsId: 0
   SortOrder: 67
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001068
   EventMissionSeriesId: 10001
   Name: ラーニングライブを140回クリアしよう
@@ -746,6 +813,7 @@
   NextMissionsId: 0
   SortOrder: 68
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001069
   EventMissionSeriesId: 10001
   Name: ラーニングライブを150回クリアしよう
@@ -757,6 +825,7 @@
   NextMissionsId: 0
   SortOrder: 69
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001070
   EventMissionSeriesId: 10001
   Name: ラーニングライブを160回クリアしよう
@@ -768,6 +837,7 @@
   NextMissionsId: 0
   SortOrder: 70
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001071
   EventMissionSeriesId: 10001
   Name: ラーニングライブを170回クリアしよう
@@ -779,6 +849,7 @@
   NextMissionsId: 0
   SortOrder: 71
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001072
   EventMissionSeriesId: 10001
   Name: ラーニングライブを180回クリアしよう
@@ -790,6 +861,7 @@
   NextMissionsId: 0
   SortOrder: 72
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001073
   EventMissionSeriesId: 10001
   Name: ラーニングライブを190回クリアしよう
@@ -801,6 +873,7 @@
   NextMissionsId: 0
   SortOrder: 73
   TransitionContentsId: 104
+  MissionConditionDetail: 0
 - Id: 10001074
   EventMissionSeriesId: 10001
   Name: ラーニングライブを200回クリアしよう
@@ -812,3 +885,1660 @@
   NextMissionsId: 0
   SortOrder: 74
   TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10002001
+  EventMissionSeriesId: 10002
+  Name: クエストライブを10回クリアしよう
+  Description: クエストライブを10回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 10
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 18
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002002
+  EventMissionSeriesId: 10002
+  Name: クエストライブを20回クリアしよう
+  Description: クエストライブを20回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 19
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002003
+  EventMissionSeriesId: 10002
+  Name: クエストライブを30回クリアしよう
+  Description: クエストライブを30回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 30
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 20
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002004
+  EventMissionSeriesId: 10002
+  Name: クエストライブを40回クリアしよう
+  Description: クエストライブを40回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 40
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 21
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002005
+  EventMissionSeriesId: 10002
+  Name: クエストライブを50回クリアしよう
+  Description: クエストライブを50回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 22
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002006
+  EventMissionSeriesId: 10002
+  Name: クエストライブを60回クリアしよう
+  Description: クエストライブを60回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 60
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 23
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002007
+  EventMissionSeriesId: 10002
+  Name: クエストライブを70回クリアしよう
+  Description: クエストライブを70回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 70
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 24
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002008
+  EventMissionSeriesId: 10002
+  Name: クエストライブを80回クリアしよう
+  Description: クエストライブを80回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 80
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 25
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002009
+  EventMissionSeriesId: 10002
+  Name: クエストライブを90回クリアしよう
+  Description: クエストライブを90回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 90
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 26
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002010
+  EventMissionSeriesId: 10002
+  Name: クエストライブを100回クリアしよう
+  Description: クエストライブを100回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 100
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 27
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002011
+  EventMissionSeriesId: 10002
+  Name: クエストライブを110回クリアしよう
+  Description: クエストライブを110回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 110
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 28
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002012
+  EventMissionSeriesId: 10002
+  Name: クエストライブを120回クリアしよう
+  Description: クエストライブを120回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 120
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 29
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002013
+  EventMissionSeriesId: 10002
+  Name: クエストライブを130回クリアしよう
+  Description: クエストライブを130回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 130
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 30
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002014
+  EventMissionSeriesId: 10002
+  Name: クエストライブを140回クリアしよう
+  Description: クエストライブを140回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 140
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 31
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002015
+  EventMissionSeriesId: 10002
+  Name: クエストライブを150回クリアしよう
+  Description: クエストライブを150回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 150
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 32
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002016
+  EventMissionSeriesId: 10002
+  Name: クエストライブを160回クリアしよう
+  Description: クエストライブを160回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 160
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 33
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002017
+  EventMissionSeriesId: 10002
+  Name: クエストライブを170回クリアしよう
+  Description: クエストライブを170回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 170
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 34
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002018
+  EventMissionSeriesId: 10002
+  Name: クエストライブを180回クリアしよう
+  Description: クエストライブを180回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 180
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 35
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002019
+  EventMissionSeriesId: 10002
+  Name: クエストライブを190回クリアしよう
+  Description: クエストライブを190回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 190
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 36
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002020
+  EventMissionSeriesId: 10002
+  Name: クエストライブを200回クリアしよう
+  Description: クエストライブを200回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 200
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 37
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002021
+  EventMissionSeriesId: 10002
+  Name: クエストライブを210回クリアしよう
+  Description: クエストライブを210回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 210
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 38
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002022
+  EventMissionSeriesId: 10002
+  Name: クエストライブを220回クリアしよう
+  Description: クエストライブを220回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 220
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 39
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002023
+  EventMissionSeriesId: 10002
+  Name: クエストライブを230回クリアしよう
+  Description: クエストライブを230回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 230
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 40
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002024
+  EventMissionSeriesId: 10002
+  Name: クエストライブを240回クリアしよう
+  Description: クエストライブを240回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 240
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 41
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002025
+  EventMissionSeriesId: 10002
+  Name: クエストライブを250回クリアしよう
+  Description: クエストライブを250回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 250
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 42
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002026
+  EventMissionSeriesId: 10002
+  Name: クエストライブを260回クリアしよう
+  Description: クエストライブを260回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 260
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 43
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002027
+  EventMissionSeriesId: 10002
+  Name: クエストライブを270回クリアしよう
+  Description: クエストライブを270回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 270
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 44
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002028
+  EventMissionSeriesId: 10002
+  Name: クエストライブを280回クリアしよう
+  Description: クエストライブを280回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 280
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 45
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002029
+  EventMissionSeriesId: 10002
+  Name: クエストライブを290回クリアしよう
+  Description: クエストライブを290回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 290
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 46
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10002030
+  EventMissionSeriesId: 10002
+  Name: クエストライブを300回クリアしよう
+  Description: クエストライブを300回クリアしよう
+  MissionType: 4
+  MissionCondition: 2
+  MissionConditionNum: 300
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 47
+  TransitionContentsId: 101
+  MissionConditionDetail: 0
+- Id: 10003001
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを3回クリアしよう
+  Description: デイリーライブを3回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 3
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 1
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003002
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを6回クリアしよう
+  Description: デイリーライブを6回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 6
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 2
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003003
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを9回クリアしよう
+  Description: デイリーライブを9回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 9
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 3
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003004
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを12回クリアしよう
+  Description: デイリーライブを12回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 12
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 4
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003005
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを15回クリアしよう
+  Description: デイリーライブを15回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 15
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 5
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003006
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを18回クリアしよう
+  Description: デイリーライブを18回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 18
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 6
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003007
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを21回クリアしよう
+  Description: デイリーライブを21回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 21
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 7
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003008
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを24回クリアしよう
+  Description: デイリーライブを24回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 24
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 8
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003009
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを27回クリアしよう
+  Description: デイリーライブを27回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 27
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003010
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを30回クリアしよう
+  Description: デイリーライブを30回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 30
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003011
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを33回クリアしよう
+  Description: デイリーライブを33回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 33
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003012
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを36回クリアしよう
+  Description: デイリーライブを36回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 36
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 12
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003013
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを39回クリアしよう
+  Description: デイリーライブを39回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 39
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 13
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003014
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを42回クリアしよう
+  Description: デイリーライブを42回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 42
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 14
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003015
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを45回クリアしよう
+  Description: デイリーライブを45回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 45
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 15
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003016
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを48回クリアしよう
+  Description: デイリーライブを48回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 48
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 16
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10003017
+  EventMissionSeriesId: 10003
+  Name: デイリーライブを50回クリアしよう
+  Description: デイリーライブを50回クリアしよう
+  MissionType: 4
+  MissionCondition: 3
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 17
+  TransitionContentsId: 103
+  MissionConditionDetail: 0
+- Id: 10004001
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを10回クリアしよう
+  Description: ラーニングライブを10回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 10
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 48
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004002
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを20回クリアしよう
+  Description: ラーニングライブを20回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 49
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004003
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを30回クリアしよう
+  Description: ラーニングライブを30回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 30
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 50
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004004
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを40回クリアしよう
+  Description: ラーニングライブを40回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 40
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 51
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004005
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを50回クリアしよう
+  Description: ラーニングライブを50回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 52
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004006
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを60回クリアしよう
+  Description: ラーニングライブを60回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 60
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 53
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004007
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを70回クリアしよう
+  Description: ラーニングライブを70回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 70
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 54
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004008
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを80回クリアしよう
+  Description: ラーニングライブを80回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 80
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 55
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004009
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを90回クリアしよう
+  Description: ラーニングライブを90回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 90
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 56
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004010
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを100回クリアしよう
+  Description: ラーニングライブを100回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 100
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 57
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004011
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを110回クリアしよう
+  Description: ラーニングライブを110回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 110
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 58
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004012
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを120回クリアしよう
+  Description: ラーニングライブを120回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 120
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 59
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004013
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを130回クリアしよう
+  Description: ラーニングライブを130回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 130
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 60
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004014
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを140回クリアしよう
+  Description: ラーニングライブを140回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 140
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 61
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004015
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを150回クリアしよう
+  Description: ラーニングライブを150回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 150
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 62
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004016
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを160回クリアしよう
+  Description: ラーニングライブを160回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 160
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 63
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004017
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを170回クリアしよう
+  Description: ラーニングライブを170回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 170
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 64
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004018
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを180回クリアしよう
+  Description: ラーニングライブを180回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 180
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 65
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004019
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを190回クリアしよう
+  Description: ラーニングライブを190回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 190
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 66
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10004020
+  EventMissionSeriesId: 10004
+  Name: ラーニングライブを200回クリアしよう
+  Description: ラーニングライブを200回クリアしよう
+  MissionType: 4
+  MissionCondition: 4
+  MissionConditionNum: 200
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 67
+  TransitionContentsId: 104
+  MissionConditionDetail: 0
+- Id: 10005001
+  EventMissionSeriesId: 10005
+  Name: 乙宗梢がセンターの楽曲を5回クリアしよう
+  Description: 乙宗梢がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 1
+  TransitionContentsId: 100
+  MissionConditionDetail: 1021
+- Id: 10005002
+  EventMissionSeriesId: 10005
+  Name: 乙宗梢がセンターの楽曲を20回クリアしよう
+  Description: 乙宗梢がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 2
+  TransitionContentsId: 100
+  MissionConditionDetail: 1021
+- Id: 10005003
+  EventMissionSeriesId: 10005
+  Name: 乙宗梢がセンターの楽曲を50回クリアしよう
+  Description: 乙宗梢がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 3
+  TransitionContentsId: 100
+  MissionConditionDetail: 1021
+- Id: 10005004
+  EventMissionSeriesId: 10005
+  Name: 夕霧綴理がセンターの楽曲を5回クリアしよう
+  Description: 夕霧綴理がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 4
+  TransitionContentsId: 100
+  MissionConditionDetail: 1022
+- Id: 10005005
+  EventMissionSeriesId: 10005
+  Name: 夕霧綴理がセンターの楽曲を20回クリアしよう
+  Description: 夕霧綴理がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 5
+  TransitionContentsId: 100
+  MissionConditionDetail: 1022
+- Id: 10005006
+  EventMissionSeriesId: 10005
+  Name: 夕霧綴理がセンターの楽曲を50回クリアしよう
+  Description: 夕霧綴理がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 6
+  TransitionContentsId: 100
+  MissionConditionDetail: 1022
+- Id: 10005007
+  EventMissionSeriesId: 10005
+  Name: 藤島慈がセンターの楽曲を5回クリアしよう
+  Description: 藤島慈がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 7
+  TransitionContentsId: 100
+  MissionConditionDetail: 1023
+- Id: 10005008
+  EventMissionSeriesId: 10005
+  Name: 藤島慈がセンターの楽曲を20回クリアしよう
+  Description: 藤島慈がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 8
+  TransitionContentsId: 100
+  MissionConditionDetail: 1023
+- Id: 10005009
+  EventMissionSeriesId: 10005
+  Name: 藤島慈がセンターの楽曲を50回クリアしよう
+  Description: 藤島慈がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 100
+  MissionConditionDetail: 1023
+- Id: 10005010
+  EventMissionSeriesId: 10005
+  Name: 日野下花帆がセンターの楽曲を5回クリアしよう
+  Description: 日野下花帆がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 100
+  MissionConditionDetail: 1031
+- Id: 10005011
+  EventMissionSeriesId: 10005
+  Name: 日野下花帆がセンターの楽曲を20回クリアしよう
+  Description: 日野下花帆がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 100
+  MissionConditionDetail: 1031
+- Id: 10005012
+  EventMissionSeriesId: 10005
+  Name: 日野下花帆がセンターの楽曲を50回クリアしよう
+  Description: 日野下花帆がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 12
+  TransitionContentsId: 100
+  MissionConditionDetail: 1031
+- Id: 10005013
+  EventMissionSeriesId: 10005
+  Name: 村野さやかがセンターの楽曲を5回クリアしよう
+  Description: 村野さやかがセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 13
+  TransitionContentsId: 100
+  MissionConditionDetail: 1032
+- Id: 10005014
+  EventMissionSeriesId: 10005
+  Name: 村野さやかがセンターの楽曲を20回クリアしよう
+  Description: 村野さやかがセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 14
+  TransitionContentsId: 100
+  MissionConditionDetail: 1032
+- Id: 10005015
+  EventMissionSeriesId: 10005
+  Name: 村野さやかがセンターの楽曲を50回クリアしよう
+  Description: 村野さやかがセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 15
+  TransitionContentsId: 100
+  MissionConditionDetail: 1032
+- Id: 10005016
+  EventMissionSeriesId: 10005
+  Name: 大沢瑠璃乃がセンターの楽曲を5回クリアしよう
+  Description: 大沢瑠璃乃がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 16
+  TransitionContentsId: 100
+  MissionConditionDetail: 1033
+- Id: 10005017
+  EventMissionSeriesId: 10005
+  Name: 大沢瑠璃乃がセンターの楽曲を20回クリアしよう
+  Description: 大沢瑠璃乃がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 17
+  TransitionContentsId: 100
+  MissionConditionDetail: 1033
+- Id: 10005018
+  EventMissionSeriesId: 10005
+  Name: 大沢瑠璃乃がセンターの楽曲を50回クリアしよう
+  Description: 大沢瑠璃乃がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 18
+  TransitionContentsId: 100
+  MissionConditionDetail: 1033
+- Id: 10005019
+  EventMissionSeriesId: 10005
+  Name: 百生吟子がセンターの楽曲を5回クリアしよう
+  Description: 百生吟子がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 19
+  TransitionContentsId: 100
+  MissionConditionDetail: 1041
+- Id: 10005020
+  EventMissionSeriesId: 10005
+  Name: 百生吟子がセンターの楽曲を20回クリアしよう
+  Description: 百生吟子がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 20
+  TransitionContentsId: 100
+  MissionConditionDetail: 1041
+- Id: 10005021
+  EventMissionSeriesId: 10005
+  Name: 百生吟子がセンターの楽曲を50回クリアしよう
+  Description: 百生吟子がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 21
+  TransitionContentsId: 100
+  MissionConditionDetail: 1041
+- Id: 10005022
+  EventMissionSeriesId: 10005
+  Name: 徒町小鈴がセンターの楽曲を5回クリアしよう
+  Description: 徒町小鈴がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 22
+  TransitionContentsId: 100
+  MissionConditionDetail: 1042
+- Id: 10005023
+  EventMissionSeriesId: 10005
+  Name: 徒町小鈴がセンターの楽曲を20回クリアしよう
+  Description: 徒町小鈴がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 23
+  TransitionContentsId: 100
+  MissionConditionDetail: 1042
+- Id: 10005024
+  EventMissionSeriesId: 10005
+  Name: 徒町小鈴がセンターの楽曲を50回クリアしよう
+  Description: 徒町小鈴がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 24
+  TransitionContentsId: 100
+  MissionConditionDetail: 1042
+- Id: 10005025
+  EventMissionSeriesId: 10005
+  Name: 安養寺姫芽がセンターの楽曲を5回クリアしよう
+  Description: 安養寺姫芽がセンターの楽曲を5回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 5
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 25
+  TransitionContentsId: 100
+  MissionConditionDetail: 1043
+- Id: 10005026
+  EventMissionSeriesId: 10005
+  Name: 安養寺姫芽がセンターの楽曲を20回クリアしよう
+  Description: 安養寺姫芽がセンターの楽曲を20回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 26
+  TransitionContentsId: 100
+  MissionConditionDetail: 1043
+- Id: 10005027
+  EventMissionSeriesId: 10005
+  Name: 安養寺姫芽がセンターの楽曲を50回クリアしよう
+  Description: 安養寺姫芽がセンターの楽曲を50回クリアしよう
+  MissionType: 4
+  MissionCondition: 81
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 27
+  TransitionContentsId: 100
+  MissionConditionDetail: 1043
+- Id: 10006001
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を10pt消費しよう
+  Description: プレイPt.を10pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 10
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 1
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006002
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を20pt消費しよう
+  Description: プレイPt.を20pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 20
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 2
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006003
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を30pt消費しよう
+  Description: プレイPt.を30pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 30
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 3
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006004
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を50pt消費しよう
+  Description: プレイPt.を50pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 50
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 4
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006005
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を70pt消費しよう
+  Description: プレイPt.を70pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 70
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 5
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006006
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を100pt消費しよう
+  Description: プレイPt.を100pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 100
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 6
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006007
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を150pt消費しよう
+  Description: プレイPt.を150pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 150
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 7
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006008
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を200pt消費しよう
+  Description: プレイPt.を200pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 200
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 8
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006009
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を250pt消費しよう
+  Description: プレイPt.を250pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 250
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006010
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を300pt消費しよう
+  Description: プレイPt.を300pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 300
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006011
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を350pt消費しよう
+  Description: プレイPt.を350pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 350
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006012
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を400pt消費しよう
+  Description: プレイPt.を400pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 400
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 12
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006013
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を450pt消費しよう
+  Description: プレイPt.を450pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 450
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 13
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006014
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を500pt消費しよう
+  Description: プレイPt.を500pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 500
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 14
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006015
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を550pt消費しよう
+  Description: プレイPt.を550pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 550
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 15
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006016
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を600pt消費しよう
+  Description: プレイPt.を600pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 600
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 16
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006017
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を650pt消費しよう
+  Description: プレイPt.を650pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 650
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 17
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006018
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を700pt消費しよう
+  Description: プレイPt.を700pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 700
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 18
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006019
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を750pt消費しよう
+  Description: プレイPt.を750pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 750
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 19
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006020
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を800pt消費しよう
+  Description: プレイPt.を800pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 800
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 20
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006021
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を850pt消費しよう
+  Description: プレイPt.を850pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 850
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 21
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006022
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を900pt消費しよう
+  Description: プレイPt.を900pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 900
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 22
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006023
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を950pt消費しよう
+  Description: プレイPt.を950pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 950
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 23
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006024
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1000pt消費しよう
+  Description: プレイPt.を1000pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1000
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 24
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006025
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1100pt消費しよう
+  Description: プレイPt.を1100pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1100
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 25
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006026
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1200pt消費しよう
+  Description: プレイPt.を1200pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1200
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 26
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006027
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1300pt消費しよう
+  Description: プレイPt.を1300pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1300
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 27
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006028
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1400pt消費しよう
+  Description: プレイPt.を1400pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1400
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 28
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006029
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1500pt消費しよう
+  Description: プレイPt.を1500pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1500
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 29
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006030
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1600pt消費しよう
+  Description: プレイPt.を1600pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1600
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 30
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006031
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1700pt消費しよう
+  Description: プレイPt.を1700pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1700
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 31
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006032
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1800pt消費しよう
+  Description: プレイPt.を1800pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1800
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 32
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006033
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を1900pt消費しよう
+  Description: プレイPt.を1900pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 1900
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 33
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006034
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2000pt消費しよう
+  Description: プレイPt.を2000pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2000
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 34
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006035
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2100pt消費しよう
+  Description: プレイPt.を2100pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2100
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 35
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006036
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2200pt消費しよう
+  Description: プレイPt.を2200pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2200
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 36
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006037
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2300pt消費しよう
+  Description: プレイPt.を2300pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2300
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 37
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006038
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2400pt消費しよう
+  Description: プレイPt.を2400pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2400
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 38
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006039
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2500pt消費しよう
+  Description: プレイPt.を2500pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2500
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 39
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006040
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2600pt消費しよう
+  Description: プレイPt.を2600pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2600
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 40
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006041
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2700pt消費しよう
+  Description: プレイPt.を2700pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2700
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 41
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006042
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2800pt消費しよう
+  Description: プレイPt.を2800pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2800
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 42
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006043
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を2900pt消費しよう
+  Description: プレイPt.を2900pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 2900
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 43
+  TransitionContentsId: 100
+  MissionConditionDetail: 0
+- Id: 10006044
+  EventMissionSeriesId: 10006
+  Name: プレイPt.を3000pt消費しよう
+  Description: プレイPt.を3000pt消費しよう
+  MissionType: 4
+  MissionCondition: 15
+  MissionConditionNum: 3000
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 44
+  TransitionContentsId: 100
+  MissionConditionDetail: 0

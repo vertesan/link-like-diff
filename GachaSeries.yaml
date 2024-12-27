@@ -152,7 +152,7 @@
   GachaExchangePointId: 1021022
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 8
+  OrderId: 15
   FilterType: 1
   PickUpCardSeriesId_1: 1022901
   PickUpCardBonusItemQuantity_1: 0
@@ -172,6 +172,35 @@
   NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
   GachaTimeLimitType: 0
   AvailableTime: 0
+- Id: 1021023
+  GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Megumi-
+  Description: BIRTHDAY LIMITED COLLECTION -Megumi-
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1021023
+  ExchangePointNoticeNum: 100
+  ExchangePointLockFlag: 0
+  OrderId: 12
+  FilterType: 1
+  PickUpCardSeriesId_1: 1023901
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2024-12-19T15:00:00Z
+  EndTime: 2024-12-24T11:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2024 BIRTHDAY LIMITED COLLECTION -Megumi-」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2024 BIRTHDAY LIMITED COLLECTION -Megumi-」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2024 BIRTHDAY LIMITED COLLECTION -Megumi-」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
 - Id: 1030101
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION VOL.1 ～ Welcome to Link！Like！ PACK ～
   Description: SPRING COLLECTION第1弾
@@ -181,7 +210,7 @@
   GachaExchangePointId: 1
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 72
+  OrderId: 79
   FilterType: 1
   PickUpCardSeriesId_1: 1031501
   PickUpCardBonusItemQuantity_1: 0
@@ -210,7 +239,7 @@
   GachaExchangePointId: 1
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 71
+  OrderId: 78
   FilterType: 1
   PickUpCardSeriesId_1: 1031502
   PickUpCardBonusItemQuantity_1: 0
@@ -239,7 +268,7 @@
   GachaExchangePointId: 1
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 70
+  OrderId: 77
   FilterType: 1
   PickUpCardSeriesId_1: 1031505
   PickUpCardBonusItemQuantity_1: 0
@@ -297,7 +326,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 69
+  OrderId: 76
   FilterType: 1
   PickUpCardSeriesId_1: 1032505
   PickUpCardBonusItemQuantity_1: 0
@@ -326,7 +355,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 68
+  OrderId: 75
   FilterType: 1
   PickUpCardSeriesId_1: 1031506
   PickUpCardBonusItemQuantity_1: 0
@@ -355,7 +384,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 67
+  OrderId: 74
   FilterType: 1
   PickUpCardSeriesId_1: 1021508
   PickUpCardBonusItemQuantity_1: 0
@@ -384,7 +413,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 66
+  OrderId: 73
   FilterType: 1
   PickUpCardSeriesId_1: 1031507
   PickUpCardBonusItemQuantity_1: 0
@@ -413,7 +442,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 65
+  OrderId: 72
   FilterType: 1
   PickUpCardSeriesId_1: 1032507
   PickUpCardBonusItemQuantity_1: 0
@@ -442,7 +471,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 64
+  OrderId: 71
   FilterType: 1
   PickUpCardSeriesId_1: 1031508
   PickUpCardBonusItemQuantity_1: 0
@@ -471,7 +500,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 63
+  OrderId: 70
   FilterType: 1
   PickUpCardSeriesId_1: 1021510
   PickUpCardBonusItemQuantity_1: 0
@@ -500,7 +529,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 62
+  OrderId: 69
   FilterType: 1
   PickUpCardSeriesId_1: 1031509
   PickUpCardBonusItemQuantity_1: 0
@@ -529,7 +558,7 @@
   GachaExchangePointId: 2
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 61
+  OrderId: 68
   FilterType: 1
   PickUpCardSeriesId_1: 1033502
   PickUpCardBonusItemQuantity_1: 0
@@ -587,7 +616,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 60
+  OrderId: 67
   FilterType: 1
   PickUpCardSeriesId_1: 1021511
   PickUpCardBonusItemQuantity_1: 0
@@ -616,7 +645,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 59
+  OrderId: 66
   FilterType: 1
   PickUpCardSeriesId_1: 1031511
   PickUpCardBonusItemQuantity_1: 0
@@ -645,7 +674,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 58
+  OrderId: 65
   FilterType: 1
   PickUpCardSeriesId_1: 1033504
   PickUpCardBonusItemQuantity_1: 0
@@ -674,7 +703,7 @@
   GachaExchangePointId: 4
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 57
+  OrderId: 64
   FilterType: 1
   PickUpCardSeriesId_1: 1021512
   PickUpCardBonusItemQuantity_1: 0
@@ -703,7 +732,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 56
+  OrderId: 63
   FilterType: 1
   PickUpCardSeriesId_1: 1032512
   PickUpCardBonusItemQuantity_1: 0
@@ -732,7 +761,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 55
+  OrderId: 62
   FilterType: 1
   PickUpCardSeriesId_1: 1031512
   PickUpCardBonusItemQuantity_1: 0
@@ -761,7 +790,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 54
+  OrderId: 61
   FilterType: 1
   PickUpCardSeriesId_1: 1032513
   PickUpCardBonusItemQuantity_1: 0
@@ -790,7 +819,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 53
+  OrderId: 60
   FilterType: 1
   PickUpCardSeriesId_1: 1031514
   PickUpCardBonusItemQuantity_1: 0
@@ -819,7 +848,7 @@
   GachaExchangePointId: 3
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 52
+  OrderId: 59
   FilterType: 1
   PickUpCardSeriesId_1: 1021513
   PickUpCardBonusItemQuantity_1: 0
@@ -877,7 +906,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 51
+  OrderId: 58
   FilterType: 1
   PickUpCardSeriesId_1: 1021514
   PickUpCardBonusItemQuantity_1: 0
@@ -906,7 +935,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 50
+  OrderId: 57
   FilterType: 1
   PickUpCardSeriesId_1: 1032514
   PickUpCardBonusItemQuantity_1: 0
@@ -935,7 +964,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 49
+  OrderId: 56
   FilterType: 1
   PickUpCardSeriesId_1: 1031515
   PickUpCardBonusItemQuantity_1: 0
@@ -1022,7 +1051,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 48
+  OrderId: 55
   FilterType: 1
   PickUpCardSeriesId_1: 1021515
   PickUpCardBonusItemQuantity_1: 0
@@ -1051,7 +1080,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 47
+  OrderId: 54
   FilterType: 1
   PickUpCardSeriesId_1: 1033510
   PickUpCardBonusItemQuantity_1: 0
@@ -1080,7 +1109,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 46
+  OrderId: 53
   FilterType: 1
   PickUpCardSeriesId_1: 1031516
   PickUpCardBonusItemQuantity_1: 0
@@ -1109,7 +1138,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 45
+  OrderId: 52
   FilterType: 1
   PickUpCardSeriesId_1: 1032517
   PickUpCardBonusItemQuantity_1: 0
@@ -1138,7 +1167,7 @@
   GachaExchangePointId: 91
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 44
+  OrderId: 51
   FilterType: 1
   PickUpCardSeriesId_1: 1031518
   PickUpCardBonusItemQuantity_1: 0
@@ -1167,7 +1196,7 @@
   GachaExchangePointId: 5
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 43
+  OrderId: 50
   FilterType: 1
   PickUpCardSeriesId_1: 1033513
   PickUpCardBonusItemQuantity_1: 0
@@ -1225,7 +1254,7 @@
   GachaExchangePointId: 6
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 42
+  OrderId: 49
   FilterType: 1
   PickUpCardSeriesId_1: 1021517
   PickUpCardBonusItemQuantity_1: 0
@@ -1254,7 +1283,7 @@
   GachaExchangePointId: 201
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 41
+  OrderId: 48
   FilterType: 1
   PickUpCardSeriesId_1: 1031519
   PickUpCardBonusItemQuantity_1: 0
@@ -1283,7 +1312,7 @@
   GachaExchangePointId: 6
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 40
+  OrderId: 47
   FilterType: 1
   PickUpCardSeriesId_1: 1011501
   PickUpCardBonusItemQuantity_1: 0
@@ -1428,7 +1457,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 39
+  OrderId: 46
   FilterType: 1
   PickUpCardSeriesId_1: 1041501
   PickUpCardBonusItemQuantity_1: 40
@@ -1515,7 +1544,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 38
+  OrderId: 45
   FilterType: 1
   PickUpCardSeriesId_1: 1031520
   PickUpCardBonusItemQuantity_1: 40
@@ -1544,7 +1573,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 37
+  OrderId: 44
   FilterType: 1
   PickUpCardSeriesId_1: 1041502
   PickUpCardBonusItemQuantity_1: 40
@@ -1573,7 +1602,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 36
+  OrderId: 43
   FilterType: 1
   PickUpCardSeriesId_1: 1043503
   PickUpCardBonusItemQuantity_1: 40
@@ -1602,7 +1631,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 35
+  OrderId: 42
   FilterType: 1
   PickUpCardSeriesId_1: 1021519
   PickUpCardBonusItemQuantity_1: 40
@@ -1631,7 +1660,7 @@
   GachaExchangePointId: 202
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 34
+  OrderId: 41
   FilterType: 1
   PickUpCardSeriesId_1: 1021512
   PickUpCardBonusItemQuantity_1: 0
@@ -1660,7 +1689,7 @@
   GachaExchangePointId: 10401
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 32
+  OrderId: 39
   FilterType: 1
   PickUpCardSeriesId_1: 1032519
   PickUpCardBonusItemQuantity_1: 40
@@ -1718,7 +1747,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 31
+  OrderId: 38
   FilterType: 1
   PickUpCardSeriesId_1: 1031521
   PickUpCardBonusItemQuantity_1: 40
@@ -1805,7 +1834,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 29
+  OrderId: 36
   FilterType: 1
   PickUpCardSeriesId_1: 1041504
   PickUpCardBonusItemQuantity_1: 40
@@ -1834,7 +1863,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 28
+  OrderId: 35
   FilterType: 1
   PickUpCardSeriesId_1: 1033515
   PickUpCardBonusItemQuantity_1: 40
@@ -1863,7 +1892,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 27
+  OrderId: 34
   FilterType: 1
   PickUpCardSeriesId_1: 1032520
   PickUpCardBonusItemQuantity_1: 40
@@ -1892,7 +1921,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 26
+  OrderId: 33
   FilterType: 1
   PickUpCardSeriesId_1: 1031522
   PickUpCardBonusItemQuantity_1: 40
@@ -1921,7 +1950,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 25
+  OrderId: 32
   FilterType: 1
   PickUpCardSeriesId_1: 1041505
   PickUpCardBonusItemQuantity_1: 40
@@ -1950,7 +1979,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 24
+  OrderId: 31
   FilterType: 1
   PickUpCardSeriesId_1: 1021522
   PickUpCardBonusItemQuantity_1: 40
@@ -2037,7 +2066,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 23
+  OrderId: 30
   FilterType: 1
   PickUpCardSeriesId_1: 1041506
   PickUpCardBonusItemQuantity_1: 40
@@ -2066,7 +2095,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 22
+  OrderId: 29
   FilterType: 1
   PickUpCardSeriesId_1: 1022520
   PickUpCardBonusItemQuantity_1: 40
@@ -2095,7 +2124,7 @@
   GachaExchangePointId: 1040214
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 21
+  OrderId: 28
   FilterType: 1
   PickUpCardSeriesId_1: 1033901
   PickUpCardBonusItemQuantity_1: 0
@@ -2124,7 +2153,7 @@
   GachaExchangePointId: 10402
   ExchangePointNoticeNum: 600
   ExchangePointLockFlag: 0
-  OrderId: 18
+  OrderId: 25
   FilterType: 1
   PickUpCardSeriesId_1: 1021520
   PickUpCardBonusItemQuantity_1: 0
@@ -2153,7 +2182,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 17
+  OrderId: 24
   FilterType: 1
   PickUpCardSeriesId_1: 1033517
   PickUpCardBonusItemQuantity_1: 40
@@ -2182,7 +2211,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 600
   ExchangePointLockFlag: 0
-  OrderId: 19
+  OrderId: 26
   FilterType: 1
   PickUpCardSeriesId_1: 1023503
   PickUpCardBonusItemQuantity_1: 0
@@ -2211,7 +2240,7 @@
   GachaExchangePointId: 0
   ExchangePointNoticeNum: 0
   ExchangePointLockFlag: 0
-  OrderId: 20
+  OrderId: 27
   FilterType: 1
   PickUpCardSeriesId_1: 1023503
   PickUpCardBonusItemQuantity_1: 0
@@ -2240,7 +2269,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 16
+  OrderId: 23
   FilterType: 1
   PickUpCardSeriesId_1: 1041507
   PickUpCardBonusItemQuantity_1: 40
@@ -2269,7 +2298,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 15
+  OrderId: 22
   FilterType: 1
   PickUpCardSeriesId_1: 1043507
   PickUpCardBonusItemQuantity_1: 40
@@ -2298,7 +2327,7 @@
   GachaExchangePointId: 1040306
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 13
+  OrderId: 20
   FilterType: 1
   PickUpCardSeriesId_1: 1021523
   PickUpCardBonusItemQuantity_1: 0
@@ -2327,7 +2356,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 12
+  OrderId: 19
   FilterType: 1
   PickUpCardSeriesId_1: 1032522
   PickUpCardBonusItemQuantity_1: 40
@@ -2356,7 +2385,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 10
+  OrderId: 17
   FilterType: 1
   PickUpCardSeriesId_1: 1042507
   PickUpCardBonusItemQuantity_1: 40
@@ -2385,7 +2414,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 9
+  OrderId: 16
   FilterType: 1
   PickUpCardSeriesId_1: 1033520
   PickUpCardBonusItemQuantity_1: 40
@@ -2414,7 +2443,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 7
+  OrderId: 14
   FilterType: 1
   PickUpCardSeriesId_1: 1042508
   PickUpCardBonusItemQuantity_1: 40
@@ -2443,7 +2472,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 6
+  OrderId: 13
   FilterType: 1
   PickUpCardSeriesId_1: 1041509
   PickUpCardBonusItemQuantity_1: 40
@@ -2530,7 +2559,7 @@
   GachaExchangePointId: 10403
   ExchangePointNoticeNum: 600
   ExchangePointLockFlag: 0
-  OrderId: 3
+  OrderId: 4
   FilterType: 1
   PickUpCardSeriesId_1: 1023518
   PickUpCardBonusItemQuantity_1: 0
@@ -2559,7 +2588,7 @@
   GachaExchangePointId: 1040404
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 2
+  OrderId: 10
   FilterType: 1
   PickUpCardSeriesId_1: 1031525
   PickUpCardBonusItemQuantity_1: 0
@@ -2579,6 +2608,35 @@
   NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「O.N.G.E.K.I. LIMITED COLLECTION」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「O.N.G.E.K.I. LIMITED COLLECTION」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「O.N.G.E.K.I. LIMITED COLLECTION」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
   GachaTimeLimitType: 0
   AvailableTime: 0
+- Id: 1040405
+  GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.1
+  Description: WINTER LIMITED COLLECTION VOL.1
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10404
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 11
+  FilterType: 1
+  PickUpCardSeriesId_1: 1032524
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1033521
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 1041402
+  PickUpCardBonusItemQuantity_3: 10
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2024-12-18T03:00:00Z
+  EndTime: 2024-12-26T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
 - Id: 1040406
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION MEMORY REVIVAL
   Description: WINTER LIMITED COLLECTION MEMORY REVIVAL
@@ -2588,7 +2646,7 @@
   GachaExchangePointId: 10404
   ExchangePointNoticeNum: 600
   ExchangePointLockFlag: 0
-  OrderId: 4
+  OrderId: 5
   FilterType: 1
   PickUpCardSeriesId_1: 1031515
   PickUpCardBonusItemQuantity_1: 0
@@ -2617,7 +2675,7 @@
   GachaExchangePointId: 0
   ExchangePointNoticeNum: 0
   ExchangePointLockFlag: 0
-  OrderId: 5
+  OrderId: 6
   FilterType: 1
   PickUpCardSeriesId_1: 1031515
   PickUpCardBonusItemQuantity_1: 0
@@ -2637,6 +2695,180 @@
   NoticeText: "{'mainTitle':'2023 WINTER LIMITED COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができ、URおよびSRカードは2023年度のWINTER LIMITEDのみ排出されます。','・本ガチャの10枚目がUR確定となります。','・WINTER LIMITEDのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
   GachaTimeLimitType: 0
   AvailableTime: 0
+- Id: 1040408
+  GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.2
+  Description: WINTER LIMITED COLLECTION VOL.2
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10404
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1022524
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1023522
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2025-01-11T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040409
+  GachaSeriesName: 2024 SPRING LIMITED COLLECTION PREMIUM
+  Description: SPRING LIMITED COLLECTION PREMIUM
+  GachaType: 6
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 0
+  ExchangePointNoticeNum: 0
+  ExchangePointLockFlag: 0
+  OrderId: 7
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031520
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1041502
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1043502
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1021519
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1023515
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2025-01-10T11:59:59Z
+  NoticeText: "{'mainTitle':'2024 SPRING LIMITED COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができ、URおよびSRカードは2024年度のSPRING LIMITEDのみ排出されます。','・本ガチャの10枚目がUR確定となります。','・SPRING LIMITEDのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040410
+  GachaSeriesName: 2024 SUMMER LIMITED COLLECTION PREMIUM
+  Description: SUMMER LIMITED COLLECTION PREMIUM
+  GachaType: 6
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 0
+  ExchangePointNoticeNum: 0
+  ExchangePointLockFlag: 0
+  OrderId: 8
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031521
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1041504
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1032520
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1042505
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1021522
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1023517
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2025-01-10T11:59:59Z
+  NoticeText: "{'mainTitle':'2024 SUMMER LIMITED COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができ、URおよびSRカードは2024年度のSUMMER LIMITEDのみ排出されます。','・本ガチャの10枚目がUR確定となります。','・SUMMER LIMITEDのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040411
+  GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION PREMIUM
+  Description: AUTUMN LIMITED COLLECTION PREMIUM
+  GachaType: 6
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 0
+  ExchangePointNoticeNum: 0
+  ExchangePointLockFlag: 0
+  OrderId: 9
+  FilterType: 1
+  PickUpCardSeriesId_1: 1023518
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1043508
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1033520
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1042508
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1041509
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1031524
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2025-01-10T11:59:59Z
+  NoticeText: "{'mainTitle':'2024 AUTUMN LIMITED COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができ、URおよびSRカードは2024年度のAUTUMN LIMITEDのみ排出されます。','・本ガチャの10枚目がUR確定となります。','・AUTUMN LIMITEDのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040412
+  GachaSeriesName: 2023 LIMITED COLLECTION REVIVAL
+  Description: 2023 LIMITED COLLECTION REVIVAL
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1042025
+  ExchangePointNoticeNum: 600
+  ExchangePointLockFlag: 0
+  OrderId: 2
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031505
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1033502
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1022514
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1032516
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1021517
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1023514
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2025-01-10T11:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2023 LIMITED COLLECTION REVIVAL」および「2024 LIMITED COLLECTION REVIVAL」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2023 LIMITED COLLECTION REVIVAL」および「2024 LIMITED COLLECTION REVIVAL」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2023 LIMITED COLLECTION REVIVAL」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040413
+  GachaSeriesName: 2024 LIMITED COLLECTION REVIVAL
+  Description: 2024 LIMITED COLLECTION REVIVAL
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1042025
+  ExchangePointNoticeNum: 600
+  ExchangePointLockFlag: 0
+  OrderId: 3
+  FilterType: 1
+  PickUpCardSeriesId_1: 1041502
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1043502
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1032520
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1021522
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1042508
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1031524
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2025-01-10T11:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2023 LIMITED COLLECTION REVIVAL」および「2024 LIMITED COLLECTION REVIVAL」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2023 LIMITED COLLECTION REVIVAL」および「2024 LIMITED COLLECTION REVIVAL」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2024 LIMITED COLLECTION REVIVAL」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
 - Id: 1041021
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kozue-
   Description: BIRTHDAY LIMITED COLLECTION -Kozue-
@@ -2646,7 +2878,7 @@
   GachaExchangePointId: 1041021
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 30
+  OrderId: 37
   FilterType: 1
   PickUpCardSeriesId_1: 1021901
   PickUpCardBonusItemQuantity_1: 0
@@ -2675,7 +2907,7 @@
   GachaExchangePointId: 1041031
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 33
+  OrderId: 40
   FilterType: 1
   PickUpCardSeriesId_1: 1031901
   PickUpCardBonusItemQuantity_1: 0
@@ -2704,7 +2936,7 @@
   GachaExchangePointId: 1041041
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 11
+  OrderId: 18
   FilterType: 1
   PickUpCardSeriesId_1: 1041901
   PickUpCardBonusItemQuantity_1: 0
@@ -2733,7 +2965,7 @@
   GachaExchangePointId: 1041043
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 14
+  OrderId: 21
   FilterType: 1
   PickUpCardSeriesId_1: 1043901
   PickUpCardBonusItemQuantity_1: 0

@@ -69,7 +69,7 @@
   CostumesId: 1002
   HairStyleId: 1
 - Id: 1002103201
-  Label: 制服(夏)_上靴_村野さやか
+  Label: 制服(夏)_上靴_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1002
   HairStyleId: 1
@@ -119,7 +119,7 @@
   CostumesId: 1003
   HairStyleId: 1
 - Id: 1003103201
-  Label: 制服(夏)_ローファー_村野さやか
+  Label: 制服(夏)_ローファー_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1003
   HairStyleId: 1
@@ -164,7 +164,7 @@
   CostumesId: 1004
   HairStyleId: 1
 - Id: 1004103201
-  Label: 体操服(冬)_村野さやか
+  Label: 体操服(冬)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1004
   HairStyleId: 1
@@ -283,6 +283,21 @@
   CharactersId: 1033
   CostumesId: 1007
   HairStyleId: 1
+- Id: 1007104101
+  Label: 学院指定コート_百生吟子
+  CharactersId: 1041
+  CostumesId: 1007
+  HairStyleId: 1
+- Id: 1007104201
+  Label: 学院指定コート_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 1007
+  HairStyleId: 1
+- Id: 1007104301
+  Label: 学院指定コート_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 1007
+  HairStyleId: 1
 - Id: 1007900701
   Label: 学院指定コート_大賀美沙知
   CharactersId: 9007
@@ -292,6 +307,11 @@
   Label: 制服(冬)_腕章なし_大賀美沙知
   CharactersId: 9007
   CostumesId: 1008
+  HairStyleId: 1
+- Id: 1009105101
+  Label: 瑞河高校制服_コートなし_桂城泉
+  CharactersId: 1051
+  CostumesId: 1009
   HairStyleId: 1
 - Id: 1009105201
   Label: 瑞河高校制服_コートなし_セラス・柳田・L
@@ -424,7 +444,7 @@
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007103201
-  Label: 外出着(春夏)_村野さやか
+  Label: 外出着(春夏)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 2007
   HairStyleId: 1
@@ -484,7 +504,7 @@
   CostumesId: 2008
   HairStyleId: 1
 - Id: 2008103201
-  Label: 部屋着(秋冬)_村野さやか
+  Label: 部屋着(秋冬)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 2008
   HairStyleId: 1
@@ -709,7 +729,7 @@
   CostumesId: 3001
   HairStyleId: 1
 - Id: 3001103202
-  Label: ライブ衣装01_村野さやか
+  Label: ライブ衣装01_村野さやか_髪型02
   CharactersId: 1032
   CostumesId: 3001
   HairStyleId: 2
@@ -914,7 +934,7 @@
   CostumesId: 3009
   HairStyleId: 1
 - Id: 3009103201
-  Label: トレーニングウェア(春夏)_村野さやか
+  Label: トレーニングウェア(春夏)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 3009
   HairStyleId: 1
@@ -1388,13 +1408,13 @@
   CharactersId: 1043
   CostumesId: 3021
   HairStyleId: 4
-- Id: 3022105101
+- Id: 3024105101
   Label: ライブ衣装20_桂城泉
   CharactersId: 1051
-  CostumesId: 3022
+  CostumesId: 3024
   HairStyleId: 1
-- Id: 3022105201
+- Id: 3024105201
   Label: ライブ衣装20_セラス柳田L
   CharactersId: 1052
-  CostumesId: 3022
+  CostumesId: 3024
   HairStyleId: 1

@@ -1258,6 +1258,42 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-12-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003035
+  Name: URセレクトチケット（103期 GRADUATION）
+  NameFurigana: うるとられあせれくとちけっとひゃくさんきぐらでゅえーしょん
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003036
+  Name: SRセレクトチケット（103期 GRADUATION）
+  NameFurigana: すーぱーれあせれくとちけっとひゃくさんきぐらでゅえーしょん
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003037
+  Name: 【Dream Believers】URセレクトチケット（104期）
+  NameFurigana: どりーむびりーばーうるとられあせれくとちけっとひゃくよんき
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2024-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと

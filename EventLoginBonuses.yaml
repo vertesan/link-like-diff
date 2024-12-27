@@ -264,3 +264,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2024-12-23T19:00:00Z
   EndTime: 2025-01-22T18:59:59Z
+- Id: 201039
+  Name: 2025年もリンクラ！お正月はフラワー三昧ログインキャンペーン！
+  LoginBonusRewardSeriesId: 201039
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2024-12-31T19:00:00Z
+  EndTime: 2025-01-03T18:59:59Z

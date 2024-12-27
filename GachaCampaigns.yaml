@@ -82,3 +82,45 @@
   StartTime: 2024-05-23T19:00:00Z
   EndTime: 2024-05-29T18:59:59Z
   MiniBannerPopId: 100
+- Id: 7
+  CampaignName: 1日1回無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040210
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-08-11T03:00:00Z
+  EndTime: 2024-08-13T18:59:59Z
+  MiniBannerPopId: 100
+- Id: 8
+  CampaignName: 1日1回 PARTY! LIMITED COLLECTION 無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040306
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-10-10T03:00:00Z
+  EndTime: 2024-10-12T18:59:59Z
+  MiniBannerPopId: 100
+- Id: 9
+  CampaignName: 1日1回無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040412
+  GachaSeriesId_2: 1040413
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2024-12-31T19:00:00Z
+  EndTime: 2025-01-03T18:59:59Z
+  MiniBannerPopId: 100
