@@ -3268,3 +3268,108 @@
   StartTime: 2024-12-23T09:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 1
+- Id: 10400910
+  AdvSeriesId: 104009
+  Name: 第9話『みらくる・ざ・ゆにばーす！』
+  Description: ED
+  ScriptId: 10400910
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 219
+  SubTitleName: ED
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10401001
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 1
+  ScriptId: 10401001
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 220
+  SubTitleName: "1"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401002
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 2
+  ScriptId: 10401002
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 221
+  SubTitleName: "2"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401003
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 3
+  ScriptId: 10401003
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 222
+  SubTitleName: "3"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401004
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 4
+  ScriptId: 10401004
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 223
+  SubTitleName: "4"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401005
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 5
+  ScriptId: 10401005
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 224
+  SubTitleName: "5"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401006
+  AdvSeriesId: 104010
+  Name: 第10話『Believe your love. Believe your live』
+  Description: PART 6
+  ScriptId: 10401006
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 225
+  SubTitleName: "6"
+  StartTime: 2025-01-07T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
