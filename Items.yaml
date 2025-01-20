@@ -2194,6 +2194,18 @@
   Description: "アイテム交換所で使用できる煌めく水晶のひとしずく。\\nスクールアイドルたちのたゆまぬ鍛錬の賜物。"
   StartTime: 2024-06-20T12:30:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4010000
+  Name: ？？？
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4010400
   Name: SR[？？？]？？？
   NameFurigana: かいほうぽいんと
@@ -2842,6 +2854,18 @@
   Description: スタイル解放素材(乙宗梢)
   StartTime: 2024-12-25T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4021525
+  Name: "[AURORA FLOWER]乙宗梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗梢)
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4021801
   Name: "[Prism Echo]乙宗梢 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -3466,6 +3490,18 @@
   Description: スタイル解放素材(夕霧綴理)
   StartTime: 2024-12-25T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4022525
+  Name: "[AURORA FLOWER]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4022801
   Name: "[Prism Echo]夕霧綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -3705,6 +3741,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(藤島慈)
   StartTime: 2024-06-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4023414
+  Name: "[AURORA FLOWER]藤島慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島慈)
+  StartTime: 2025-01-10T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4023501
   Name: "[Dream Believers]藤島慈 解放Pt."
@@ -5253,6 +5301,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032901
+  Name: "[17th Birthday]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2025-01-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4033301
   Name: "[オーロラスカイ]大沢瑠璃乃  解放Pt."

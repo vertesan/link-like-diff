@@ -1198,6 +1198,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10215251
+  Name: "[AURORA FLOWER]乙宗梢"
+  Text: "[AURORA FLOWER]乙宗梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 215251
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021525
+  RequirementText: "[AURORA FLOWER]乙宗梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-10T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10218011
   Name: "[Prism Echo]乙宗梢"
   Text: "[Prism Echo]乙宗梢を4回解放した記念のステッカー"
@@ -2494,6 +2518,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10225251
+  Name: "[AURORA FLOWER]夕霧綴理"
+  Text: "[AURORA FLOWER]夕霧綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 225251
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022525
+  RequirementText: "[AURORA FLOWER]夕霧綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-10T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10228011
   Name: "[Prism Echo]夕霧綴理"
   Text: "[Prism Echo]夕霧綴理を4回解放した記念のステッカー"
@@ -3019,6 +3067,30 @@
   StartTime: 2024-06-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-06-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10234141
+  Name: "[AURORA FLOWER]藤島慈"
+  Text: "[AURORA FLOWER]藤島慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 234141
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023414
+  RequirementText: "[AURORA FLOWER]藤島慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-10T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -6259,6 +6331,30 @@
   StartTime: 2024-05-19T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-05-19T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10329011
+  Name: "[17th Birthday]村野さやか"
+  Text: "[17th Birthday]村野さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 329011
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032901
+  RequirementText: "[17th Birthday]村野さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-01-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-12T15:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -18139,6 +18235,462 @@
   StartTime: 2024-12-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-12-20T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241001
+  Name: 104期3rdTerm 第3回 サークル対抗戦 1位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441001
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241002
+  Name: 104期3rdTerm 第3回 サークル対抗戦 2位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441002
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241003
+  Name: 104期3rdTerm 第3回 サークル対抗戦 3位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441003
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241004
+  Name: 104期3rdTerm 第3回 サークル対抗戦 4位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441004
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241005
+  Name: 104期3rdTerm 第3回 サークル対抗戦 5位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441005
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241006
+  Name: 104期3rdTerm 第3回 サークル対抗戦 6位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441006
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241007
+  Name: 104期3rdTerm 第3回 サークル対抗戦 7位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441007
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241008
+  Name: 104期3rdTerm 第3回 サークル対抗戦 8位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441008
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241009
+  Name: 104期3rdTerm 第3回 サークル対抗戦 9位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441009
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241010
+  Name: 104期3rdTerm 第3回 サークル対抗戦 10位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441010
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241011
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP30位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP30位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441011
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP30位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241012
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP100位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441012
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241013
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP200位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441013
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241014
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP300位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP300位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441014
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP300位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241015
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP500位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441015
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241016
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP1000位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441016
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241017
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP1500位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP1500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441017
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP1500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241018
+  Name: 104期3rdTerm 第3回 サークル対抗戦 TOP2000位
+  Text: 104期3rdTerm 第3回 サークル対抗戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441018
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241019
+  Name: 104期3rdTerm 第3回 サークル対抗戦 参加
+  Text: 104期3rdTerm 第3回 サークル対抗戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441019
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期3rdTerm 第3回 サークル対抗戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-13T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -32182,6 +32734,30 @@
   AvailableEndTime: 2024-01-13T18:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90010321
+  Name: Sayaka's 17th Birthday
+  Text: Happy 17th Birthday to Dear Sayaka! 「村野さやか、17歳になりました。」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 110014
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「Sayaka's 17th Birthday セレブレイトパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-12T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90010330
   Name: Rurino Birthday 2023
   Text: Happy 16th Birthday to Dear Rurino!
@@ -33643,6 +34219,30 @@
   StartTime: 2025-01-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-01-09T19:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000026
+  Name: 蓮ノ空女学院スクールアイドルクラブ部室横断幕レプリカ
+  Text: 「目指せ、ラブライブ！優勝！」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130026
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「104期 ラブライブ！決勝大会記念パック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-10T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z

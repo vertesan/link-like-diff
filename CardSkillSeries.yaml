@@ -586,6 +586,18 @@
   Name: プロテクトゲイン
   SkillIcon: 10215240
   SkillMainEffect: 7
+- Id: 10215250
+  Name: AURORA LINK
+  SkillIcon: 10215250
+  SkillMainEffect: 24
+- Id: 10215251
+  Name: AURORA LINK
+  SkillIcon: 10215250
+  SkillMainEffect: 24
+- Id: 10215252
+  Name: AURORA LINK
+  SkillIcon: 10215250
+  SkillMainEffect: 24
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -1202,6 +1214,18 @@
   Name: ボルテックスゲイン
   SkillIcon: 10225240
   SkillMainEffect: 10
+- Id: 10225250
+  Name: ボルテージゲイン
+  SkillIcon: 10225250
+  SkillMainEffect: 10
+- Id: 10225251
+  Name: ボルテージゲイン
+  SkillIcon: 10225250
+  SkillMainEffect: 10
+- Id: 10225252
+  Name: ボルテージゲイン
+  SkillIcon: 10225250
+  SkillMainEffect: 10
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -1433,6 +1457,18 @@
 - Id: 10234132
   Name: リカバーゲイン
   SkillIcon: 10234130
+  SkillMainEffect: 5
+- Id: 10234140
+  Name: メンタルリカバー
+  SkillIcon: 10234140
+  SkillMainEffect: 5
+- Id: 10234141
+  Name: メンタルリカバー
+  SkillIcon: 10234140
+  SkillMainEffect: 5
+- Id: 10234142
+  Name: メンタルリカバー
+  SkillIcon: 10234140
   SkillMainEffect: 5
 - Id: 10235010
   Name: メンタルリカバー
@@ -2958,6 +2994,18 @@
   Name: アグレッシブアトラクトブースト
   SkillIcon: 10328020
   SkillMainEffect: 30
+- Id: 10329010
+  Name: シーズニングキャプチャ
+  SkillIcon: 10329010
+  SkillMainEffect: 27
+- Id: 10329011
+  Name: シーズニングキャプチャ
+  SkillIcon: 10329010
+  SkillMainEffect: 27
+- Id: 10329012
+  Name: シーズニングキャプチャ
+  SkillIcon: 10329010
+  SkillMainEffect: 27
 - Id: 10333010
   Name: リフレッシュハート
   SkillIcon: 10333010
@@ -4158,6 +4206,10 @@
   Name: アバンダンスブーステッドリカバーハート
   SkillIcon: 20215240
   SkillMainEffect: 5
+- Id: 20215250
+  Name: ナインハート・アンサンブル
+  SkillIcon: 20215250
+  SkillMainEffect: 42
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -4366,6 +4418,10 @@
   Name: グルーヴィブーステッドボルテージハート
   SkillIcon: 20225240
   SkillMainEffect: 10
+- Id: 20225250
+  Name: ナインハート・ボルテージ
+  SkillIcon: 20225250
+  SkillMainEffect: 10
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -4446,6 +4502,10 @@
   Name: リブートアトラクト
   SkillIcon: 20234130
   SkillMainEffect: 13
+- Id: 20234140
+  Name: ナインハート・プロテクト
+  SkillIcon: 20234140
+  SkillMainEffect: 7
 - Id: 20235010
   Name: サポーテッドフィール
   SkillIcon: 20235010
@@ -4962,6 +5022,10 @@
   Name: アトラクトブレッシング
   SkillIcon: 20328020
   SkillMainEffect: 29
+- Id: 20329010
+  Name: セレブレイション
+  SkillIcon: 20329010
+  SkillMainEffect: 30
 - Id: 20333010
   Name: ハートキャプチャ
   SkillIcon: 20333010
@@ -5558,6 +5622,10 @@
   Name: スターゲイザー
   SkillIcon: 30215240
   SkillMainEffect: 29
+- Id: 30215250
+  Name: Now or Never
+  SkillIcon: 30215250
+  SkillMainEffect: 902
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -5750,6 +5818,10 @@
   Name: エンパシー
   SkillIcon: 30225240
   SkillMainEffect: 29
+- Id: 30225250
+  Name: Now or Never
+  SkillIcon: 30225250
+  SkillMainEffect: 18
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -5814,6 +5886,10 @@
   Name: ショット：ヒートアップ
   SkillIcon: 30234130
   SkillMainEffect: 21
+- Id: 30234140
+  Name: Now or Never
+  SkillIcon: 30234140
+  SkillMainEffect: 18
 - Id: 30235010
   Name: APレデュース：ブレイブ
   SkillIcon: 30235010
@@ -6297,6 +6373,10 @@
 - Id: 30328020
   Name: オーバーセクション：ボルテージブレッシング
   SkillIcon: 30328020
+  SkillMainEffect: 29
+- Id: 30329010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30329010
   SkillMainEffect: 29
 - Id: 30334010
   Name: ドロー：メンタルリカバー

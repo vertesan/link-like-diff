@@ -743,6 +743,21 @@
   MovieType: 3
   Name: 特訓2回目
   ReleaseConditionText: ""
+- Id: 102152501
+  CardSeriesId: 1021525
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 102152502
+  CardSeriesId: 1021525
+  MovieType: 2
+  Name: 特訓1回目
+  ReleaseConditionText: ""
+- Id: 102152503
+  CardSeriesId: 1021525
+  MovieType: 3
+  Name: 特訓2回目
+  ReleaseConditionText: ""
 - Id: 102180101
   CardSeriesId: 1021801
   MovieType: 1
@@ -1508,6 +1523,21 @@
   MovieType: 3
   Name: 特訓2回目
   ReleaseConditionText: ""
+- Id: 102252501
+  CardSeriesId: 1022525
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 102252502
+  CardSeriesId: 1022525
+  MovieType: 2
+  Name: 特訓1回目
+  ReleaseConditionText: ""
+- Id: 102252503
+  CardSeriesId: 1022525
+  MovieType: 3
+  Name: 特訓2回目
+  ReleaseConditionText: ""
 - Id: 102280101
   CardSeriesId: 1022801
   MovieType: 1
@@ -1790,6 +1820,21 @@
   ReleaseConditionText: ""
 - Id: 102341303
   CardSeriesId: 1023413
+  MovieType: 3
+  Name: 特訓2回目
+  ReleaseConditionText: ""
+- Id: 102341401
+  CardSeriesId: 1023414
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 102341402
+  CardSeriesId: 1023414
+  MovieType: 2
+  Name: 特訓1回目
+  ReleaseConditionText: ""
+- Id: 102341403
+  CardSeriesId: 1023414
   MovieType: 3
   Name: 特訓2回目
   ReleaseConditionText: ""
@@ -3681,6 +3726,16 @@
 - Id: 103280202
   CardSeriesId: 1032802
   MovieType: 2
+  Name: 特訓時
+  ReleaseConditionText: ""
+- Id: 103290101
+  CardSeriesId: 1032901
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 103290103
+  CardSeriesId: 1032901
+  MovieType: 3
   Name: 特訓時
   ReleaseConditionText: ""
 - Id: 103330101

@@ -19,3 +19,24 @@
   PointAddLimit: 3333333333
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2023-12-28T10:59:59Z
+- Id: 9000201
+  Name: おひさまプラン
+  Description: おひさまプラン
+  RaidEventId: 900020
+  PointAddLimit: 1000000000
+  StartTime: 2025-01-20T12:00:00Z
+  EndTime: 2025-01-24T18:59:59Z
+- Id: 9000202
+  Name: おつきさまプラン
+  Description: おつきさまプラン
+  RaidEventId: 900020
+  PointAddLimit: 1000000000
+  StartTime: 2025-01-20T12:00:00Z
+  EndTime: 2025-01-24T18:59:59Z
+- Id: 9000203
+  Name: おほしさまプラン
+  Description: おほしさまプラン
+  RaidEventId: 900020
+  PointAddLimit: 1000000000
+  StartTime: 2025-01-20T12:00:00Z
+  EndTime: 2025-01-24T18:59:59Z
