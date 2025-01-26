@@ -4121,6 +4121,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 304117
+  OrderId: 1028
+  Title: AURORA FLOWER
+  TitleFurigana: おーろらふらわー
+  JacketId: 304117
+  SoundId: 30411701
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1021
+  SingerCharacterId: 1022,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 11688
+  ApIncrement: 869
+  SongTime: 8691
+  PlayTime: 104293
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 304201
   OrderId: 6024
   Title: This game
@@ -4178,6 +4209,37 @@
   ReleaseConditionType: 0
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304203
+  OrderId: 6027
+  Title: 雑踏、僕らの街
+  TitleFurigana: ざっとうぼくらのまち
+  JacketId: 304203
+  SoundId: 30420301
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 13846
+  ApIncrement: 830
+  SongTime: 8304
+  PlayTime: 99649
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20

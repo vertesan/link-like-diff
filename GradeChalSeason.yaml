@@ -1,0 +1,42 @@
+- Id: 10401
+  Name: 第1回 GradeChallenge
+  GiveSeasonGradeId: 1005002
+  BgImageId: 1001
+  StartTime: 2024-07-31T19:00:00Z
+  EndTime: 2024-08-31T18:59:59Z
+- Id: 10402
+  Name: 第2回 GradeChallenge
+  GiveSeasonGradeId: 1005002
+  BgImageId: 1001
+  StartTime: 2024-08-31T19:00:00Z
+  EndTime: 2024-09-30T18:59:59Z
+- Id: 10403
+  Name: 第3回 GradeChallenge
+  GiveSeasonGradeId: 1005002
+  BgImageId: 1001
+  StartTime: 2024-09-30T19:00:00Z
+  EndTime: 2024-10-25T18:59:59Z
+- Id: 10404
+  Name: 第4回 GradeChallenge
+  GiveSeasonGradeId: 1005003
+  BgImageId: 1001
+  StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2024-12-01T11:59:59Z
+- Id: 10405
+  Name: 第5回 GradeChallenge
+  GiveSeasonGradeId: 1005003
+  BgImageId: 1001
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2025-01-01T11:59:59Z
+- Id: 10406
+  Name: 第6回 GradeChallenge
+  GiveSeasonGradeId: 1005003
+  BgImageId: 1001
+  StartTime: 2025-01-01T12:00:00Z
+  EndTime: 2025-01-21T18:59:59Z
+- Id: 10407
+  Name: 第7回 GradeChallenge
+  GiveSeasonGradeId: 1005004
+  BgImageId: 1001
+  StartTime: 2025-02-26T12:00:00Z
+  EndTime: 2025-02-27T18:59:59Z
