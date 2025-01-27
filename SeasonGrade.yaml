@@ -2,6 +2,31 @@
   Description: "・2024年5月～7月に開催されるライブグランプリ\\n・Grade\u00a0Quest 103期SPRING / 104期SPRING"
   PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
   CountStartTime: 2024-04-09T19:00:00Z
-  CountEndTime: 2024-07-27T18:59:59Z
+  CountEndTime: 2024-07-28T18:59:59Z
   DisplayStartTime: 2024-04-09T19:00:00Z
+  DisplayEndTime: 2024-07-31T18:59:59Z
+  TermTitle: 1st Term
+- Id: 1005002
+  Description: "・2024年8月～10月に開催されるライブグランプリ\\n・2024年8月～10月に開催されるGrade Challenge\\n・Grade Quest 103期SUMMER / 104期SUMMER"
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2024-07-31T19:00:00Z
+  CountEndTime: 2024-10-25T18:59:59Z
+  DisplayStartTime: 2024-07-31T19:00:00Z
+  DisplayEndTime: 2024-10-28T11:59:59Z
+  TermTitle: 2nd Term
+- Id: 1005003
+  Description: "・集計期間中に開催されるライブグランプリ\\n・集計期間中に開催されるGrade Challenge\\n・Grade Quest 103期AUTUMN / 104期AUTUMN"
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2024-10-28T12:00:00Z
+  CountEndTime: 2025-01-23T18:59:59Z
+  DisplayStartTime: 2024-10-28T12:00:00Z
+  DisplayEndTime: 2025-01-26T11:59:59Z
+  TermTitle: 3rd Term
+- Id: 1005004
+  Description: "・集計期間中に開催されるライブグランプリ\\n・集計期間中に開催されるGrade Challenge\\n・Grade Quest 103期WINTER / 104期WINTER"
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2025-01-26T12:00:00Z
+  CountEndTime: 2025-03-26T18:59:59Z
+  DisplayStartTime: 2025-01-26T12:00:00Z
   DisplayEndTime: 2035-12-30T15:00:00Z
+  TermTitle: Final Term
