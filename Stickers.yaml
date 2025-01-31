@@ -31709,7 +31709,7 @@
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 606027
+  Priority: 606026
   IsVariant: 0
   RequirementType: 7
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
@@ -32731,6 +32731,30 @@
   StartTime: 2024-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000042
+  Name: ラブライブ！優勝旗レプリカ
+  Text: 104期 蓮ノ空女学院スクールアイドルクラブ ラブライブ！優勝
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100042
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「蓮ノ空女学院 ラブライブ！優勝記念パック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-01-31T10:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-01-31T10:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
