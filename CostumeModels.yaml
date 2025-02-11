@@ -274,7 +274,7 @@
   CostumesId: 1007
   HairStyleId: 1
 - Id: 1007103201
-  Label: 学院指定コート_村野さやか
+  Label: 学院指定コート_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 1007
   HairStyleId: 1
@@ -368,6 +368,11 @@
   CharactersId: 1033
   CostumesId: 2003
   HairStyleId: 3
+- Id: 2003104102
+  Label: 入浴姿_百生吟子
+  CharactersId: 1041
+  CostumesId: 2003
+  HairStyleId: 2
 - Id: 2004102101
   Label: 部屋着(春夏)_乙宗梢
   CharactersId: 1021
@@ -394,7 +399,7 @@
   CostumesId: 2004
   HairStyleId: 3
 - Id: 2004103201
-  Label: 部屋着(春夏)_村野さやか
+  Label: 部屋着(春夏)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 2004
   HairStyleId: 1
@@ -654,7 +659,7 @@
   CostumesId: 2020
   HairStyleId: 1
 - Id: 2020103201
-  Label: 外出着(秋冬)_コートなし_村野さやか
+  Label: 外出着(秋冬)_コートなし_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 2020
   HairStyleId: 1
@@ -694,7 +699,7 @@
   CostumesId: 2021
   HairStyleId: 1
 - Id: 2021103202
-  Label: 外出着(秋冬)_コートあり_村野さやか
+  Label: 外出着(秋冬)_コートあり_村野さやか_髪型02
   CharactersId: 1032
   CostumesId: 2021
   HairStyleId: 2
@@ -1159,7 +1164,7 @@
   CostumesId: 3015
   HairStyleId: 1
 - Id: 3015103201
-  Label: トレーニングウェア(秋冬)_村野さやか
+  Label: トレーニングウェア(秋冬)_村野さやか_髪型01
   CharactersId: 1032
   CostumesId: 3015
   HairStyleId: 1
@@ -1497,6 +1502,51 @@
   Label: ライブ衣装20_腰リボンなし_安養寺姫芽
   CharactersId: 1043
   CostumesId: 3023
+  HairStyleId: 3
+- Id: 3024102109
+  Label: ライブ衣装20_完全版_乙宗梢
+  CharactersId: 1021
+  CostumesId: 3024
+  HairStyleId: 9
+- Id: 3024102206
+  Label: ライブ衣装20_完全版_夕霧綴理
+  CharactersId: 1022
+  CostumesId: 3024
+  HairStyleId: 6
+- Id: 3024102308
+  Label: ライブ衣装20_完全版_藤島慈
+  CharactersId: 1023
+  CostumesId: 3024
+  HairStyleId: 8
+- Id: 3024103107
+  Label: ライブ衣装20_完全版_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3024
+  HairStyleId: 7
+- Id: 3024103208
+  Label: ライブ衣装20_完全版_村野さやか
+  CharactersId: 1032
+  CostumesId: 3024
+  HairStyleId: 8
+- Id: 3024103308
+  Label: ライブ衣装20_完全版_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3024
+  HairStyleId: 8
+- Id: 3024104104
+  Label: ライブ衣装20_完全版_百生吟子
+  CharactersId: 1041
+  CostumesId: 3024
+  HairStyleId: 4
+- Id: 3024104203
+  Label: ライブ衣装20_完全版_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3024
+  HairStyleId: 3
+- Id: 3024104303
+  Label: ライブ衣装20_完全版_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 3024
   HairStyleId: 3
 - Id: 3024105101
   Label: ライブ衣装20_桂城泉

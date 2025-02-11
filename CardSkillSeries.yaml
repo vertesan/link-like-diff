@@ -3694,6 +3694,18 @@
   Name: グルーヴィハートゲイン
   SkillIcon: 10415100
   SkillMainEffect: 1
+- Id: 10415110
+  Name: アトラクトゲイン
+  SkillIcon: 10415110
+  SkillMainEffect: 30
+- Id: 10415111
+  Name: アトラクトゲイン
+  SkillIcon: 10415110
+  SkillMainEffect: 30
+- Id: 10415112
+  Name: アトラクトゲイン
+  SkillIcon: 10415110
+  SkillMainEffect: 30
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3882,6 +3894,18 @@
   Name: グルーヴィボルテックスビリーフ
   SkillIcon: 10425090
   SkillMainEffect: 10
+- Id: 10425100
+  Name: アグレッシブビリーフプロテクト
+  SkillIcon: 10425100
+  SkillMainEffect: 34
+- Id: 10425101
+  Name: アグレッシブビリーフプロテクト
+  SkillIcon: 10425100
+  SkillMainEffect: 34
+- Id: 10425102
+  Name: アグレッシブビリーフプロテクト
+  SkillIcon: 10425100
+  SkillMainEffect: 34
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -3938,6 +3962,18 @@
   Name: イグニッションブースト
   SkillIcon: 10434020
   SkillMainEffect: 35
+- Id: 10434030
+  Name: エクステハートチェンジ
+  SkillIcon: 10434030
+  SkillMainEffect: 20
+- Id: 10434031
+  Name: エクステハートチェンジ
+  SkillIcon: 10434030
+  SkillMainEffect: 20
+- Id: 10434032
+  Name: エクステハートチェンジ
+  SkillIcon: 10434030
+  SkillMainEffect: 20
 - Id: 10435010
   Name: エクステボルテージ
   SkillIcon: 10435010
@@ -5330,6 +5366,10 @@
   Name: ドレス《加賀友禅》
   SkillIcon: 20415100
   SkillMainEffect: 28
+- Id: 20415110
+  Name: ナインハート・ドレス
+  SkillIcon: 20415110
+  SkillMainEffect: 1
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -5394,6 +5434,10 @@
   Name: ブレイブボルテージハート
   SkillIcon: 20425090
   SkillMainEffect: 10
+- Id: 20425100
+  Name: ナインハート・ブレイブ
+  SkillIcon: 20425100
+  SkillMainEffect: 1
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -5414,6 +5458,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20434020
   SkillMainEffect: 36
+- Id: 20434030
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20434030
+  SkillMainEffect: 35
 - Id: 20435010
   Name: ハートブースト：みらくらぱーく！
   SkillIcon: 20435010
@@ -5463,7 +5511,7 @@
   SkillIcon: 20439010
   SkillMainEffect: 16
 - Id: 20444010
-  Name: Letzter Lied
+  Name: Letztes Lied
   SkillIcon: 20444010
   SkillMainEffect: 28
 - Id: 21235190
@@ -5486,6 +5534,10 @@
   Name: チアフルリカバープロテクト
   SkillIcon: 21434020
   SkillMainEffect: 5
+- Id: 21434030
+  Name: ナインハート・イグニッション
+  SkillIcon: 21434030
+  SkillMainEffect: 1
 - Id: 21435040
   Name: ボルテージゲイン
   SkillIcon: 21435040
@@ -5526,6 +5578,10 @@
   Name: リフレッシュマインド
   SkillIcon: 22434020
   SkillMainEffect: 5
+- Id: 22434030
+  Name: ナインハート・リプレイ
+  SkillIcon: 22434030
+  SkillMainEffect: 1
 - Id: 22435040
   Name: アグレッシブアトラクション
   SkillIcon: 22435040
@@ -6694,6 +6750,10 @@
   Name: オーバーセクション：ボルテージゲイン & APゲイン & APレデュース：吟子
   SkillIcon: 30415100
   SkillMainEffect: 10
+- Id: 30415110
+  Name: Now or Never
+  SkillIcon: 30415110
+  SkillMainEffect: 29
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -6750,6 +6810,10 @@
   Name: オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ハートキャプチャ：小鈴
   SkillIcon: 30425090
   SkillMainEffect: 10
+- Id: 30425100
+  Name: Now or Never
+  SkillIcon: 30425100
+  SkillMainEffect: 18
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -6762,6 +6826,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30434020
   SkillMainEffect: 36
+- Id: 30434030
+  Name: Now or Never
+  SkillIcon: 30434030
+  SkillMainEffect: 18
 - Id: 30435010
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 30435010
@@ -7066,6 +7134,18 @@
   Name: 姫芽デザイン
   SkillIcon: 80415108
   SkillMainEffect: 35
+- Id: 80205010
+  Name: 《AURORA FLOWER/C》
+  SkillIcon: 80415110
+  SkillMainEffect: 1
+- Id: 80205020
+  Name: 《AURORA FLOWER/D》
+  SkillIcon: 80415111
+  SkillMainEffect: 10
+- Id: 80205030
+  Name: 《AURORA FLOWER/M》
+  SkillIcon: 80415112
+  SkillMainEffect: 13
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -7246,6 +7326,18 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 18
+- Id: 90205010
+  Name: インモータル
+  SkillIcon: 90415110
+  SkillMainEffect: 904
+- Id: 90205020
+  Name: インモータル
+  SkillIcon: 90415111
+  SkillMainEffect: 904
+- Id: 90205030
+  Name: インモータル
+  SkillIcon: 90415112
+  SkillMainEffect: 904
 - Id: 90444010
   Name: クローズ
   SkillIcon: 90444010

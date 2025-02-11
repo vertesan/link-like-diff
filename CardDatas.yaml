@@ -38873,6 +38873,131 @@
   AttributeId: 30415100
   SpineId: 17
   OrderId: 10382341
+- Id: 10415110
+  CardSeriesId: 1041511
+  Name: AURORA FLOWER
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 53
+  InitialPure: 53
+  InitialCool: 53
+  InitialMental: 106
+  MaxSmile: 2650
+  MaxPure: 2650
+  MaxCool: 2650
+  MaxMental: 265
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415110
+  SkillSeriesId: 20415110
+  AttributeId: 30415110
+  SpineId: 18
+  OrderId: 10382641
+- Id: 10415111
+  CardSeriesId: 1041511
+  Name: AURORA FLOWER
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2650
+  InitialPure: 2650
+  InitialCool: 2650
+  InitialMental: 265
+  MaxSmile: 3710
+  MaxPure: 3710
+  MaxCool: 3710
+  MaxMental: 371
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415111
+  SkillSeriesId: 20415110
+  AttributeId: 30415110
+  SpineId: 18
+  OrderId: 10382641
+- Id: 10415112
+  CardSeriesId: 1041511
+  Name: AURORA FLOWER
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3710
+  InitialPure: 3710
+  InitialCool: 3710
+  InitialMental: 371
+  MaxSmile: 5300
+  MaxPure: 5300
+  MaxCool: 5300
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415112
+  SkillSeriesId: 20415110
+  AttributeId: 30415110
+  SpineId: 18
+  OrderId: 10382641
+- Id: 10415113
+  CardSeriesId: 1041511
+  Name: AURORA FLOWER
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5300
+  InitialPure: 5300
+  InitialCool: 5300
+  InitialMental: 530
+  MaxSmile: 5830
+  MaxPure: 5830
+  MaxCool: 5830
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415112
+  SkillSeriesId: 20415110
+  AttributeId: 30415110
+  SpineId: 18
+  OrderId: 10382641
+- Id: 10415114
+  CardSeriesId: 1041511
+  Name: AURORA FLOWER
+  Description: 百生吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5830
+  InitialPure: 5830
+  InitialCool: 5830
+  InitialMental: 530
+  MaxSmile: 6360
+  MaxPure: 6360
+  MaxCool: 6360
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415112
+  SkillSeriesId: 20415110
+  AttributeId: 30415110
+  SpineId: 18
+  OrderId: 10382641
 - Id: 10418011
   CardSeriesId: 1041801
   Name: Ether Aria
@@ -38997,7 +39122,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10380441
+  OrderId: 10381041
 - Id: 10419012
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -39022,7 +39147,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10380441
+  OrderId: 10381041
 - Id: 10419013
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -39047,7 +39172,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10380441
+  OrderId: 10381041
 - Id: 10419014
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -39072,7 +39197,7 @@
   SkillSeriesId: 20419010
   AttributeId: 30419010
   SpineId: 13
-  OrderId: 10380441
+  OrderId: 10381041
 - Id: 10423010
   CardSeriesId: 1042301
   Name: レインボーシフォン
@@ -40823,6 +40948,131 @@
   AttributeId: 30425090
   SpineId: 16
   OrderId: 10382342
+- Id: 10425100
+  CardSeriesId: 1042510
+  Name: AURORA FLOWER
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 53
+  InitialPure: 53
+  InitialCool: 53
+  InitialMental: 106
+  MaxSmile: 2650
+  MaxPure: 2650
+  MaxCool: 2650
+  MaxMental: 265
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425100
+  SkillSeriesId: 20425100
+  AttributeId: 30425100
+  SpineId: 18
+  OrderId: 10382642
+- Id: 10425101
+  CardSeriesId: 1042510
+  Name: AURORA FLOWER
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2650
+  InitialPure: 2650
+  InitialCool: 2650
+  InitialMental: 265
+  MaxSmile: 3710
+  MaxPure: 3710
+  MaxCool: 3710
+  MaxMental: 371
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425101
+  SkillSeriesId: 20425100
+  AttributeId: 30425100
+  SpineId: 18
+  OrderId: 10382642
+- Id: 10425102
+  CardSeriesId: 1042510
+  Name: AURORA FLOWER
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3710
+  InitialPure: 3710
+  InitialCool: 3710
+  InitialMental: 371
+  MaxSmile: 5300
+  MaxPure: 5300
+  MaxCool: 5300
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425102
+  SkillSeriesId: 20425100
+  AttributeId: 30425100
+  SpineId: 18
+  OrderId: 10382642
+- Id: 10425103
+  CardSeriesId: 1042510
+  Name: AURORA FLOWER
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5300
+  InitialPure: 5300
+  InitialCool: 5300
+  InitialMental: 530
+  MaxSmile: 5830
+  MaxPure: 5830
+  MaxCool: 5830
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425102
+  SkillSeriesId: 20425100
+  AttributeId: 30425100
+  SpineId: 18
+  OrderId: 10382642
+- Id: 10425104
+  CardSeriesId: 1042510
+  Name: AURORA FLOWER
+  Description: 徒町小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5830
+  InitialPure: 5830
+  InitialCool: 5830
+  InitialMental: 530
+  MaxSmile: 6360
+  MaxPure: 6360
+  MaxCool: 6360
+  MaxMental: 530
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425102
+  SkillSeriesId: 20425100
+  AttributeId: 30425100
+  SpineId: 18
+  OrderId: 10382642
 - Id: 10428011
   CardSeriesId: 1042801
   Name: Ether Aria
@@ -41423,6 +41673,131 @@
   AttributeId: 30434020
   SpineId: 15
   OrderId: 10381243
+- Id: 10434030
+  CardSeriesId: 1043403
+  Name: AURORA FLOWER
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 45
+  InitialPure: 45
+  InitialCool: 45
+  InitialMental: 90
+  MaxSmile: 2250
+  MaxPure: 2250
+  MaxCool: 2250
+  MaxMental: 225
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434030
+  SkillSeriesId: 20434030
+  AttributeId: 30434030
+  SpineId: 18
+  OrderId: 10382643
+- Id: 10434031
+  CardSeriesId: 1043403
+  Name: AURORA FLOWER
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 2250
+  InitialPure: 2250
+  InitialCool: 2250
+  InitialMental: 225
+  MaxSmile: 3150
+  MaxPure: 3150
+  MaxCool: 3150
+  MaxMental: 315
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434031
+  SkillSeriesId: 20434030
+  AttributeId: 30434030
+  SpineId: 18
+  OrderId: 10382643
+- Id: 10434032
+  CardSeriesId: 1043403
+  Name: AURORA FLOWER
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 3150
+  InitialPure: 3150
+  InitialCool: 3150
+  InitialMental: 315
+  MaxSmile: 4500
+  MaxPure: 4500
+  MaxCool: 4500
+  MaxMental: 450
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434032
+  SkillSeriesId: 20434030
+  AttributeId: 30434030
+  SpineId: 18
+  OrderId: 10382643
+- Id: 10434033
+  CardSeriesId: 1043403
+  Name: AURORA FLOWER
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 4500
+  InitialPure: 4500
+  InitialCool: 4500
+  InitialMental: 450
+  MaxSmile: 4950
+  MaxPure: 4950
+  MaxCool: 4950
+  MaxMental: 450
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434032
+  SkillSeriesId: 20434030
+  AttributeId: 30434030
+  SpineId: 18
+  OrderId: 10382643
+- Id: 10434034
+  CardSeriesId: 1043403
+  Name: AURORA FLOWER
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 4950
+  InitialPure: 4950
+  InitialCool: 4950
+  InitialMental: 450
+  MaxSmile: 5400
+  MaxPure: 5400
+  MaxCool: 5400
+  MaxMental: 450
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434032
+  SkillSeriesId: 20434030
+  AttributeId: 30434030
+  SpineId: 18
+  OrderId: 10382643
 - Id: 10435010
   CardSeriesId: 1043501
   Name: Dream Believers

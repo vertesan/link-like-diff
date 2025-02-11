@@ -2757,6 +2757,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 204202
+  OrderId: 6027
+  Title: きゅうくらりん
+  TitleFurigana: きゅうくらりん
+  JacketId: 204202
+  SoundId: 20420201
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1023
+  SingerCharacterId: 1033,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 7087
+  ApIncrement: 1209
+  SongTime: 12091
+  PlayTime: 145091
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204301
   OrderId: 5005
   Title: Snow halation
@@ -4140,6 +4171,37 @@
   SongTime: 8691
   PlayTime: 104293
   FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304118
+  OrderId: 1029
+  Title: ゲッカビジン
+  TitleFurigana: げっかびじん
+  JacketId: 304118
+  SoundId: 30411801
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1022
+  SingerCharacterId: 1021,1023,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 914
+  SongTime: 9143
+  PlayTime: 109714
+  FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000

@@ -3568,3 +3568,63 @@
   StartTime: 2025-01-26T11:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 1
+- Id: 10401110
+  AdvSeriesId: 104011
+  Name: 第11話『夢を咲かせる物語』
+  Description: ED2
+  ScriptId: 10401110
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 239
+  SubTitleName: ED2
+  StartTime: 2025-01-26T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+- Id: 10401201
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 1
+  ScriptId: 10401201
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 240
+  SubTitleName: "1"
+  StartTime: 2025-02-11T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401202
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 2
+  ScriptId: 10401202
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 241
+  SubTitleName: "2"
+  StartTime: 2025-02-11T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401203
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 3
+  ScriptId: 10401203
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 242
+  SubTitleName: "3"
+  StartTime: 2025-02-11T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
