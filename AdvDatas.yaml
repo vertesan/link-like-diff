@@ -3628,3 +3628,63 @@
   StartTime: 2025-02-11T09:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10401204
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 4
+  ScriptId: 10401204
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 243
+  SubTitleName: "4"
+  StartTime: 2025-02-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401205
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 5
+  ScriptId: 10401205
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 244
+  SubTitleName: "5"
+  StartTime: 2025-02-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401206
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 6
+  ScriptId: 10401206
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 245
+  SubTitleName: "6"
+  StartTime: 2025-02-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401207
+  AdvSeriesId: 104012
+  Name: 第12話『明日の君に花束を』
+  Description: PART 7
+  ScriptId: 10401207
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 246
+  SubTitleName: "7"
+  StartTime: 2025-02-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
