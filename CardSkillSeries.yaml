@@ -1734,6 +1734,18 @@
   Name: KEY of Link！
   SkillIcon: 10235220
   SkillMainEffect: 24
+- Id: 10235230
+  Name: ズッキュン♡ラブビーム
+  SkillIcon: 10235230
+  SkillMainEffect: 21
+- Id: 10235231
+  Name: ズッキュン♡ラブビーム
+  SkillIcon: 10235230
+  SkillMainEffect: 21
+- Id: 10235232
+  Name: ズッキュン♡ラブビーム
+  SkillIcon: 10235230
+  SkillMainEffect: 21
 - Id: 10238011
   Name: プロテクトフィール
   SkillIcon: 10238011
@@ -3234,6 +3246,18 @@
   Name: ボルテージゲイン
   SkillIcon: 10334130
   SkillMainEffect: 10
+- Id: 10334140
+  Name: オールレンジ♡リフレッシュ
+  SkillIcon: 10334140
+  SkillMainEffect: 25
+- Id: 10334141
+  Name: オールレンジ♡リフレッシュ
+  SkillIcon: 10334140
+  SkillMainEffect: 25
+- Id: 10334142
+  Name: オールレンジ♡リフレッシュ
+  SkillIcon: 10334140
+  SkillMainEffect: 25
 - Id: 10335010
   Name: リゲインアトラクト
   SkillIcon: 10335010
@@ -4094,6 +4118,18 @@
   Name: グルーヴィブーステッドチェンジ
   SkillIcon: 10435100
   SkillMainEffect: 35
+- Id: 10435110
+  Name: オールレンジ♡リブート
+  SkillIcon: 10435110
+  SkillMainEffect: 25
+- Id: 10435111
+  Name: オールレンジ♡リブート
+  SkillIcon: 10435110
+  SkillMainEffect: 25
+- Id: 10435112
+  Name: オールレンジ♡リブート
+  SkillIcon: 10435110
+  SkillMainEffect: 25
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -4702,6 +4738,10 @@
   Name: ワールドワイドアトラクション
   SkillIcon: 20235220
   SkillMainEffect: 1
+- Id: 20235230
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20235230
+  SkillMainEffect: 36
 - Id: 20238010
   Name: エンデュランス
   SkillIcon: 20238010
@@ -5210,6 +5250,10 @@
   Name: ボルテージハート
   SkillIcon: 20334130
   SkillMainEffect: 10
+- Id: 20334140
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20334140
+  SkillMainEffect: 36
 - Id: 20335010
   Name: リゲインボルテージ
   SkillIcon: 20335010
@@ -5502,6 +5546,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20435100
   SkillMainEffect: 36
+- Id: 20435110
+  Name: オールレンジ♡ブースト
+  SkillIcon: 20435110
+  SkillMainEffect: 25
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -5522,6 +5570,14 @@
   Name: エンデュランス
   SkillIcon: 21235210
   SkillMainEffect: 10
+- Id: 21235230
+  Name: オールレンジ♡プロテクト
+  SkillIcon: 21235230
+  SkillMainEffect: 25
+- Id: 21334140
+  Name: オールレンジ♡リカバー
+  SkillIcon: 21334140
+  SkillMainEffect: 25
 - Id: 21335180
   Name: イグニッションリフレッシュ
   SkillIcon: 21335180
@@ -5566,6 +5622,14 @@
   Name: アップドラフトアトラクト
   SkillIcon: 22235210
   SkillMainEffect: 16
+- Id: 22235230
+  Name: オールレンジ♡アトラクション
+  SkillIcon: 22235230
+  SkillMainEffect: 25
+- Id: 22334140
+  Name: オールレンジ♡ボルテージ
+  SkillIcon: 22334140
+  SkillMainEffect: 25
 - Id: 22335180
   Name: タッグブースト
   SkillIcon: 22335180
@@ -6142,6 +6206,10 @@
   Name: ブライトネス
   SkillIcon: 30235220
   SkillMainEffect: 17
+- Id: 30235230
+  Name: M's キングダム
+  SkillIcon: 30235230
+  SkillMainEffect: 17
 - Id: 30238010
   Name: ドロー：メンタルプロテクト & APゲイン
   SkillIcon: 30238010
@@ -6602,6 +6670,10 @@
   Name: レイトドロー：3/APレデュース
   SkillIcon: 30334130
   SkillMainEffect: 17
+- Id: 30334140
+  Name: イグニッション＆APレデュース：みらくらぱーく！
+  SkillIcon: 30334140
+  SkillMainEffect: 17
 - Id: 30335010
   Name: ドロー：ボルテージゲイン & アーリードロー：3/APレデュース
   SkillIcon: 30335010
@@ -6870,6 +6942,10 @@
   Name: オーバーセクション：ボルテージゲイン & APゲイン & モードチェンジ & APレデュース：姫芽
   SkillIcon: 30435100
   SkillMainEffect: 10
+- Id: 30435110
+  Name: オルタネイト：イグニッション
+  SkillIcon: 30435110
+  SkillMainEffect: 36
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -6922,6 +6998,10 @@
   Name: ドロー：リカバーブースト ＆ ボルテージブースト：姫芽
   SkillIcon: 31435070
   SkillMainEffect: 32
+- Id: 31435110
+  Name: イグニッション：みらくらぱーく！
+  SkillIcon: 31435110
+  SkillMainEffect: 35
 - Id: 32235160
   Name: レイトドロー：4/APレデュース
   SkillIcon: 32235160
@@ -6962,6 +7042,10 @@
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 32435070
   SkillMainEffect: 17
+- Id: 32435110
+  Name: APレデュース：みらくらぱーく！
+  SkillIcon: 32435110
+  SkillMainEffect: 21
 - Id: 80013010
   Name: ラブアトラクト
   SkillIcon: 80413010

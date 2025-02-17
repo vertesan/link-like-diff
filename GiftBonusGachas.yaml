@@ -598,6 +598,21 @@
   LimitedPaidGachaResetType: 1
   LimitedPaidButtonDesignType: 0
   MiniBannerPopId: 0
+- Id: 1031032
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
 - Id: 1040101
   SingleGachaPrice: 200
   SingleGachaPopId: 0
@@ -1169,6 +1184,81 @@
   LimitedPaidButtonDesignType: 0
   MiniBannerPopId: 0
 - Id: 1040413
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
+- Id: 1040414
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
+- Id: 1040415
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
+- Id: 1040416
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
+- Id: 1040417
+  SingleGachaPrice: 200
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 2000
+  ConsectiveGachaTimes: 10
+  ConsectiveGachaPopId: 201
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 50
+  PaidSIsCaOnlyGachaTimes: 1
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 101
+  LimitedPaidGachaCount: 1
+  LimitedPaidGachaResetType: 1
+  LimitedPaidButtonDesignType: 0
+  MiniBannerPopId: 0
+- Id: 1040418
   SingleGachaPrice: 200
   SingleGachaPopId: 0
   ConsectiveGachaPrice: 2000

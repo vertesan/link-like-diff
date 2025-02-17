@@ -1238,6 +1238,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 104114
+  OrderId: 1622
+  Title: 全方位キュン♡
+  TitleFurigana: ぜんほういきゅん
+  JacketId: 104114
+  SoundId: 10411401
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1023
+  SingerCharacterId: 1033,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 11111
+  ApIncrement: 916
+  SongTime: 9158
+  PlayTime: 109895
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104201
   OrderId: 6021
   Title: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -1287,6 +1318,37 @@
   ApIncrement: 967
   SongTime: 9673
   PlayTime: 116078
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104203
+  OrderId: 6028
+  Title: Welcome!
+  TitleFurigana: うぇるかむ
+  JacketId: 104203
+  SoundId: 10420301
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1021
+  SingerCharacterId: "0"
+  SupportCharacterId: 1022,1023,1031,1032,1033,1041,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 19565
+  ApIncrement: 1029
+  SongTime: 10294
+  PlayTime: 123530
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
@@ -4201,6 +4263,37 @@
   ApIncrement: 914
   SongTime: 9143
   PlayTime: 109714
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304119
+  OrderId: 1623
+  Title: かくれんぼしよう
+  TitleFurigana: かくれんぼしよう
+  JacketId: 304119
+  SoundId: 30411901
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: 1023,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 18367
+  ApIncrement: 1146
+  SongTime: 11458
+  PlayTime: 137500
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000

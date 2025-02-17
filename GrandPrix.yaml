@@ -238,6 +238,18 @@
   InfoEndTime: 2025-01-21T14:59:59Z
   StartTime: 2025-01-13T03:00:00Z
   EndTime: 2025-01-17T18:59:59Z
+- Id: 704111
+  Name: 104期FinalTerm 第1回 サークル対抗戦
+  Description: 104期FinalTerm 第1回 サークル対抗戦
+  GrandPrixType: 2
+  GuildRankingTabs: 0,1,10,100,500,1000,1500,2000,5000
+  PersonalRankingTabs: 0,1,10,100,500,1000,1500,2000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2025-02-18T03:00:00Z
+  InfoEndTime: 2025-02-27T14:59:59Z
+  StartTime: 2025-02-18T03:00:00Z
+  EndTime: 2025-02-23T18:59:59Z
 - Id: 803101
   Name: ライブグランプリ 103期第1回個人戦
   Description: ライブグランプリ 103期第1回個人戦

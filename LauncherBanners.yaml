@@ -207,7 +207,37 @@
   DisplayPosition: 3
   ImageId: 3042
   StartTime: 2024-12-25T12:00:00Z
-  EndTime: 2025-01-10T12:00:00Z
+  EndTime: 2025-01-11T03:00:00Z
+- Id: 3043
+  DisplayPosition: 3
+  ImageId: 3043
+  StartTime: 2025-01-10T12:00:00Z
+  EndTime: 2025-01-18T03:00:00Z
+- Id: 3044
+  DisplayPosition: 3
+  ImageId: 3044
+  StartTime: 2025-01-12T15:00:00Z
+  EndTime: 2025-01-17T12:00:00Z
+- Id: 3045
+  DisplayPosition: 3
+  ImageId: 3045
+  StartTime: 2025-01-18T03:00:00Z
+  EndTime: 2025-01-27T03:00:00Z
+- Id: 3046
+  DisplayPosition: 3
+  ImageId: 3046
+  StartTime: 2025-01-26T12:00:00Z
+  EndTime: 2025-02-05T03:00:00Z
+- Id: 3047
+  DisplayPosition: 3
+  ImageId: 3047
+  StartTime: 2025-02-05T03:00:00Z
+  EndTime: 2025-02-17T03:00:00Z
+- Id: 3048
+  DisplayPosition: 3
+  ImageId: 3048
+  StartTime: 2025-02-17T03:00:00Z
+  EndTime: 2025-02-28T03:00:00Z
 - Id: 4001
   DisplayPosition: 4
   ImageId: 4001

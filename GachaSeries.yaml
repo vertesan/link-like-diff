@@ -2985,6 +2985,64 @@
   NoticeText: ""
   GachaTimeLimitType: 0
   AvailableTime: 0
+- Id: 1040417
+  GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.6
+  Description: WINTER LIMITED COLLECTION VOL.6
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10404
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 2
+  FilterType: 1
+  PickUpCardSeriesId_1: 1041511
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1042510
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-02-05T03:00:00Z
+  EndTime: 2025-02-17T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+- Id: 1040418
+  GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.7
+  Description: WINTER LIMITED COLLECTION VOL.7
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10404
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1043511
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1023523
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 1033414
+  PickUpCardBonusItemQuantity_3: 10
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-02-17T03:00:00Z
+  EndTime: 2025-02-28T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
 - Id: 1041021
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kozue-
   Description: BIRTHDAY LIMITED COLLECTION -Kozue-
