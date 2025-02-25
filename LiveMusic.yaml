@@ -22,7 +22,7 @@
 - Id: 31056
   Label: Overture_103th_MusicB
   MusicId: 3105
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
@@ -36,21 +36,91 @@
 - Id: 31069
   Label: 幕間演出
   MusicId: 3106
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 31076
   Label: Overture_103th_MusicA
   MusicId: 3107
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31089
+  Label: アタックA
+  MusicId: 3108
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31109
+  Label: オープニング
+  MusicId: 3110
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31119
+  Label: 審査中
+  MusicId: 3111
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31129
+  Label: 結果発表
+  MusicId: 3112
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31659
+  Label: Key of Like !
+  MusicId: 3165
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31669
+  Label: AuroraFlower
+  MusicId: 3166
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31672
+  Label: Edelied
+  MusicId: 3167
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
+- Id: 31683
+  Label: ハナムスビ
+  MusicId: 3168
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 31693
+  Label: バアドケージ
+  MusicId: 3169
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 31703
+  Label: ジョーショーキリュー
+  MusicId: 3170
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
 - Id: 31716
   Label: 抱きしめる花びら
   MusicId: 3171
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
@@ -106,78 +176,78 @@
 - Id: 41019
   Label: Overture(104期)
   MusicId: 4101
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 41023
   Label: みらくりえーしょん
   MusicId: 4102
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1023,1033,1043
 - Id: 41033
   Label: レディバグ
   MusicId: 4103
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1022,1032,1042
 - Id: 41043
   Label: アオクハルカ
   MusicId: 4104
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1021,1031,1041
 - Id: 41053
   Label: ノンフィクションヒーローショー(104期)
   MusicId: 4105
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1023,1033,1043
 - Id: 41063
   Label: Tragic Drops(104期)
   MusicId: 4106
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1022,1032,1042
 - Id: 41073
   Label: 月夜見海月
   MusicId: 4107
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1021,1031,1041
 - Id: 41089
   Label: 永遠のEuphoria(104期)
   MusicId: 4108
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1031,1041,1022,1032,1042,1023,1033,1043
 - Id: 41093
   Label: proof
   MusicId: 4109
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1022,1032,1042
 - Id: 41103
   Label: ファンファーレ！！！
   MusicId: 4110
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1023,1033,1043
 - Id: 41119
   Label: Now or Never
   MusicId: 4111
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1031016
@@ -239,7 +309,7 @@
 - Id: 1031146
   Label: Legato
   MusicId: 103114
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
@@ -260,29 +330,29 @@
 - Id: 1031189
   Label: Link to the FUTURE(104期)
   MusicId: 103118
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1041019
   Label: DreamBelievers(104期)
   MusicId: 104101
   HaveMusic: 1
-  HaveMotion: 1
+  HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 1041043
   Label: Reflection in the mirror(104期)
   MusicId: 104104
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1021,1031,1041
 - Id: 1041133
   Label: アイデンティティ(104期)
   MusicId: 104113
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1023,1033,1043
 - Id: 2031022
@@ -344,14 +414,14 @@
 - Id: 2031116
   Label: ツバサ・ラ・リベルテ
   MusicId: 203111
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
 - Id: 3031016
   Label: On your mark(103期)
   MusicId: 303101
-  HaveMusic: 1
+  HaveMusic: 0
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
@@ -428,14 +498,14 @@
 - Id: 3041019
   Label: On your mark(104期)
   MusicId: 304101
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 3041043
   Label: Sparkly Spot(104期)
   MusicId: 304104
-  HaveMusic: 1
-  HaveMotion: 1
+  HaveMusic: 0
+  HaveMotion: 0
   CharactersCount: 3
   CharactersIds: 1022,1032,1042

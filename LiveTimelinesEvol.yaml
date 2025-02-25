@@ -1,224 +1,161 @@
-- Id: 4103321
-  Label: レディバグ_鼓門
-  MusicId: 41033
-  LocationsId: 2
-  FreeId: 1
-  NextId: 31016021
-  MovieIds: ""
-- Id: 31016021
-  Label: 暗転_鼓門
+- Id: 31016301
+  Label: 暗転_ドーム
   MusicId: 31016
-  LocationsId: 2
+  LocationsId: 30
   FreeId: 1
   NextId: -1
   MovieIds: ""
-- Id: 31016022
-  Label: MCから暗転_鼓門
+- Id: 31019302
+  Label: MCから暗転_ドーム
   MusicId: 31016
-  LocationsId: 2
+  LocationsId: 30
   FreeId: 2
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 31016023
-  Label: 暗転から客電_鼓門
+- Id: 31019303
+  Label: 客電から暗転_ドーム
   MusicId: 31016
-  LocationsId: 2
-  FreeId: 2
-  NextId: 31016021
-  MovieIds: ""
-- Id: 31016261
-  Label: 暗転_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
-  FreeId: 1
-  NextId: -1
-  MovieIds: ""
-- Id: 31016262
-  Label: MCから暗転_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
-  FreeId: 2
-  NextId: 31016261
-  MovieIds: ""
-- Id: 31016263
-  Label: 客電から暗転_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
+  LocationsId: 30
   FreeId: 3
-  NextId: 31016261
+  NextId: 31016301
   MovieIds: ""
-- Id: 31016264
-  Label: 月夜見海月から暗転_第二音楽堂
+- Id: 31019304
+  Label: AURORAto入退場_ドーム
   MusicId: 31016
-  LocationsId: 26
+  LocationsId: 30
   FreeId: 3
-  NextId: 31016261
+  NextId: 31016301
   MovieIds: ""
-- Id: 31016265
-  Label: 幕間MCから暗転_第二音楽堂
+- Id: 31019305
+  Label: Key Of Like! to入退場_ドーム
   MusicId: 31016
-  LocationsId: 26
+  LocationsId: 30
   FreeId: 3
-  NextId: 31016261
+  NextId: 31016301
   MovieIds: ""
-- Id: 31016266
-  Label: スクリーン有MCから暗転_第二音楽堂
+- Id: 31019306
+  Label: ジョーショーto入退場_ドーム
   MusicId: 31016
-  LocationsId: 26
-  FreeId: 2
-  NextId: 31016261
+  LocationsId: 30
+  FreeId: 3
+  NextId: 31016301
   MovieIds: ""
-- Id: 31016267
-  Label: スクリーン有暗転_第二音楽堂
+- Id: 31019307
+  Label: バアドゲージto入退場_ドーム
   MusicId: 31016
-  LocationsId: 26
-  FreeId: 1
-  NextId: -1
+  LocationsId: 30
+  FreeId: 3
+  NextId: 31016301
   MovieIds: ""
-- Id: 31036021
-  Label: MC_鼓門
-  MusicId: 31036
-  LocationsId: 2
-  FreeId: 1
-  NextId: 31016022
+- Id: 31019308
+  Label: ハナムスビto入退場_ドーム
+  MusicId: 31016
+  LocationsId: 30
+  FreeId: 3
+  NextId: 31016301
   MovieIds: ""
-- Id: 31036261
-  Label: MC_第二音楽堂
+- Id: 31039301
+  Label: MC_ドーム
   MusicId: 31036
-  LocationsId: 26
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016262
+  NextId: 31019302
   MovieIds: ""
-- Id: 31036262
-  Label: 幕間MC_第二音楽堂
-  MusicId: 31036
-  LocationsId: 26
+- Id: 31039302
+  Label: 審査中_ドーム
+  MusicId: 31119
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016262
-  MovieIds: "0019"
-- Id: 31036263
-  Label: スクリーン有MC_第二音楽堂
-  MusicId: 31036
-  LocationsId: 26
+  NextId: 31019302
+  MovieIds: ""
+- Id: 31039303
+  Label: 結果発表_ドーム
+  MusicId: 31129
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016262
-  MovieIds: "0019"
-- Id: 31049021
-  Label: 客電_鼓門
+  NextId: 31019302
+  MovieIds: ""
+- Id: 31039304
+  Label: 舞台袖でのMC_ドーム
+  MusicId: 31036
+  LocationsId: 30
+  FreeId: 1
+  NextId: 31019302
+  MovieIds: ""
+- Id: 31049301
+  Label: 客電_ドーム
   MusicId: 31049
-  LocationsId: 2
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016023
+  NextId: 31019303
   MovieIds: ""
-- Id: 31049261
-  Label: 客電_第二音楽堂
-  MusicId: 31049
-  LocationsId: 26
+- Id: 31089301
+  Label: アタックA_ドーム
+  MusicId: 31089
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016261
+  NextId: 31016301
   MovieIds: ""
-- Id: 31049262
-  Label: 暗転から客電_第二音楽堂
-  MusicId: 31016
-  LocationsId: 26
-  FreeId: 3
-  NextId: 31016261
+- Id: 31099301
+  Label: アタックB_ドーム
+  MusicId: 31089
+  LocationsId: 30
+  FreeId: 1
+  NextId: 31016301
   MovieIds: ""
-- Id: 31069261
-  Label: 幕間演出_第二音楽堂
-  MusicId: 31069
-  LocationsId: 26
+- Id: 31109301
+  Label: オープニング_ドーム
+  MusicId: 31109
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016261
-  MovieIds: "0018"
-- Id: 41019021
-  Label: Overture_鼓門
-  MusicId: 31056
-  LocationsId: 2
-  FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41019261
-  Label: Overture_第二音楽堂
-  MusicId: 41019
-  LocationsId: 26
+- Id: 31659301
+  Label: KEY of Like！_ドーム
+  MusicId: 31659
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016261
-  MovieIds: "0020"
-- Id: 41023021
-  Label: みらくりえーしょん_鼓門
-  MusicId: 41023
-  LocationsId: 2
-  FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41043021
-  Label: アオクハルカ_鼓門
-  MusicId: 41043
-  LocationsId: 2
+- Id: 31669301
+  Label: AURORA FLOWER_ドーム
+  MusicId: 31669
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41053021
-  Label: ノンフィクションヒーローショー (104期)_鼓門
-  MusicId: 41053
-  LocationsId: 2
+- Id: 31672301
+  Label: Edelied_ドーム
+  MusicId: 31672
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41063021
-  Label: Tragic Drops (104期)_鼓門
-  MusicId: 41063
-  LocationsId: 2
+- Id: 31683301
+  Label: ハナムスビ_ドーム
+  MusicId: 31683
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41073021
-  Label: 月夜見海月_鼓門
-  MusicId: 41073
-  LocationsId: 2
+- Id: 31693301
+  Label: バアドケージ_ドーム
+  MusicId: 31693
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41073261
-  Label: 月夜見海月_第二音楽堂
-  MusicId: 41073
-  LocationsId: 26
+- Id: 31703301
+  Label: ジョーショーキリュー_ドーム
+  MusicId: 31703
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016261
-  MovieIds: "0017"
-- Id: 41089021
-  Label: 永遠のEuphoria (104期)_鼓門
-  MusicId: 41089
-  LocationsId: 2
-  FreeId: 1
-  NextId: 31016021
+  NextId: 31016301
   MovieIds: ""
-- Id: 41093261
-  Label: proof_第二音楽堂
-  MusicId: 41093
-  LocationsId: 26
+- Id: 1041019301
+  Label: DreamBelievers_ドーム
+  MusicId: 1041019
+  LocationsId: 30
   FreeId: 1
-  NextId: 31016261
-  MovieIds: "0016"
-- Id: 41103261
-  Label: ファンファーレ！！！_第二音楽堂
-  MusicId: 41103
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
-  MovieIds: "0014"
-- Id: 41119261
-  Label: Now or Never_第二音楽堂
-  MusicId: 41119
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
+  NextId: -1
   MovieIds: ""
-- Id: 1031186261
-  Label: Link to the FUTURE_第二音楽堂
-  MusicId: 1031189
-  LocationsId: 26
-  FreeId: 1
-  NextId: 31016261
-  MovieIds: "0015"
