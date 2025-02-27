@@ -12,12 +12,19 @@
   Season: 2
   StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 1033
+  Name: 103期AUTUMN
+  OrderId: 3
+  Generation: 103
+  Season: 3
+  StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
 - Id: 1034
   Name: 103期WINTER
-  OrderId: 14
+  OrderId: 4
   Generation: 103
   Season: 4
-  StartTime: 2024-04-09T15:00:00Z
+  StartTime: 2025-01-26T12:00:00Z
   EndTime: 2035-12-30T15:00:00Z
 - Id: 1035
   Name: 103期GRADUATION
@@ -39,4 +46,18 @@
   Generation: 104
   Season: 2
   StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 1043
+  Name: 104期AUTUMN
+  OrderId: 8
+  Generation: 104
+  Season: 3
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 1044
+  Name: 104期WINTER
+  OrderId: 9
+  Generation: 104
+  Season: 4
+  StartTime: 2025-02-27T15:00:00Z
   EndTime: 2035-12-30T15:00:00Z

@@ -214,6 +214,60 @@
   SkillIcon: 10101500
   GradeAddSkillEffectsId: "4101500200"
   OrderId: 1
+- Id: 41032510
+  Name: 手札上限 +1枚
+  Description: ライブ中、手札の上限枚数が1枚増加する。
+  SkillIcon: 10101500
+  GradeAddSkillEffectsId: "4101500100"
+  OrderId: 1
+- Id: 41032511
+  Name: 手札上限 +1枚
+  Description: ライブ中、手札の上限枚数が1枚増加する。
+  SkillIcon: 10101500
+  GradeAddSkillEffectsId: "4101500100"
+  OrderId: 1
+- Id: 41032512
+  Name: 手札上限 +1枚
+  Description: ライブ中、手札の上限枚数が1枚増加する。
+  SkillIcon: 10101500
+  GradeAddSkillEffectsId: "4101500100"
+  OrderId: 1
+- Id: 41041610
+  Name: スキルAP -1（102期）
+  Description: ライブ中、102期生のスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101421100,4101422100,4101423100
+  OrderId: 2
+- Id: 41041611
+  Name: スキルAP -1（103期）
+  Description: ライブ中、103期生のスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101431100,4101432100,4101433100
+  OrderId: 2
+- Id: 41041612
+  Name: スキルAP -1（104期）
+  Description: ライブ中、104期生のスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101441100,4101442100,4101443100
+  OrderId: 2
+- Id: 41041620
+  Name: スキルAP -1（スリーズブーケ）
+  Description: ライブ中、スリーズブーケのメンバーのスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101421100,4101431100,4101441100
+  OrderId: 3
+- Id: 41041621
+  Name: スキルAP -1（DOLLCHESTRA）
+  Description: ライブ中、DOLLCHESTRAのメンバーのスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101422100,4101432100,4101442100
+  OrderId: 3
+- Id: 41041622
+  Name: スキルAP -1（みらくらぱーく！）
+  Description: ライブ中、みらくらぱーく！のメンバーのスキルAPを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101423100,4101433100,4101443100
+  OrderId: 3
 - Id: 51031201
   Name: 初期メンタル -10%
   Description: ライブ開始時、メンタルを-10%する。
@@ -274,6 +328,168 @@
   SkillIcon: 10100900
   GradeAddSkillEffectsId: "4100910000"
   OrderId: 2
+- Id: 51032401
+  Name: メンタル減少速度+10％
+  Description: ライブ中、メンタルの減少速度を+10%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302010"
+  OrderId: 1
+- Id: 51032402
+  Name: メンタル減少速度+10％
+  Description: ライブ中、メンタルの減少速度を+10%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302010"
+  OrderId: 1
+- Id: 51032403
+  Name: メンタル減少速度+10％
+  Description: ライブ中、メンタルの減少速度を+10%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302010"
+  OrderId: 1
+- Id: 51032404
+  Name: メンタル減少速度+10％
+  Description: ライブ中、メンタルの減少速度を+10%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302010"
+  OrderId: 1
+- Id: 51032501
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 2
+- Id: 51032502
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 2
+- Id: 51032503
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 2
+- Id: 51032601
+  Name: 『メンタル減少速度緩和』
+  Description: ライブ中、メンタルの減少速度を緩和する。
+  SkillIcon: 10100300
+  GradeAddSkillEffectsId: "4100330000"
+  OrderId: 1
+- Id: 51032602
+  Name: メイン効果がメンタル回復効果のスキル消費AP-3
+  Description: ライブ中、メイン効果がメンタル回復効果のスキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101495300"
+  OrderId: 1
+- Id: 51033401
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51033402
+  Name: メンタル減少速度 +30%
+  Description: ライブ中、メンタルの減少速度を+30%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302030"
+  OrderId: 1
+- Id: 51033403
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51033404
+  Name: メンタル減少速度 +30%
+  Description: ライブ中、メンタルの減少速度を+30%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302030"
+  OrderId: 1
+- Id: 51033501
+  Name: スキルAP +1
+  Description: ライブ中、スキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400001"
+  OrderId: 1
+- Id: 51033502
+  Name: スキルAP +3
+  Description: ライブ中、スキルの消費APを+3する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400003"
+  OrderId: 1
+- Id: 51033503
+  Name: スキルAP +2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51033601
+  Name: メイン効果がメンタル回復効果のスキル消費AP-3
+  Description: ライブ中、メイン効果がメンタル回復効果のスキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101495300"
+  OrderId: 1
+- Id: 51033602
+  Name: メイン効果がメンタル回復効果のスキル消費AP+3
+  Description: ライブ中、メイン効果がメンタル回復効果のスキルの消費APを+3する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101495300"
+  OrderId: 1
+- Id: 51034401
+  Name: メンタル減少速度 +30%
+  Description: ライブ中、メンタルの減少速度を+30%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302030"
+  OrderId: 1
+- Id: 51034402
+  Name: メンタル減少速度 +20%
+  Description: ライブ中、メンタルの減少速度を+20%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302020"
+  OrderId: 1
+- Id: 51034501
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 1
+- Id: 51034502
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51034503
+  Name: 手札上限 -2枚
+  Description: ライブ中、手札の上限枚数を-2枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500002"
+  OrderId: 1
+- Id: 51034504
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
+- Id: 51034601
+  Name: 103期生のスキルAP -3
+  Description: ライブ中、103期生のスキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101421003,4101422003,4101423003
+  OrderId: 2
+- Id: 51034602
+  Name: 103期生のスキルAP +2
+  Description: ライブ中、103期生のスキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101431002,5101432002,5101433002
+  OrderId: 1
+- Id: 51034603
+  Name: 102期生のスキルAP -1
+  Description: ライブ中、102期生のスキルの消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101421001,4101422001,4101423001
+  OrderId: 1
 - Id: 51035601
   Name: AP回復速度 +100%
   Description: ライブ中、APの回復速度を+100%する。
@@ -298,3 +514,231 @@
   SkillIcon: 10100900
   GradeAddSkillEffectsId: "4100905000"
   OrderId: 2
+- Id: 51041401
+  Name: 手札シャッフル
+  Description: ライブ開始時、手札を捨てて引き直す。
+  SkillIcon: 30101300
+  GradeAddSkillEffectsId: "5101300000"
+  OrderId: 2
+- Id: 51041402
+  Name: AP変化
+  Description: ライブ中、AP3以下のカードの消費APを+2、AP6以上のカードの消費APを-2する。
+  SkillIcon: 30101400
+  GradeAddSkillEffectsId: 5101400302,5101410401
+  OrderId: 2
+- Id: 51041501
+  Name: スキルAP -4（スリーズブーケ）
+  Description: ライブ中、スリーズブーケのメンバーのスキルAPを-4する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101421400,4101431400,4101441400
+  OrderId: 2
+- Id: 51041502
+  Name: スキルAP -4（DOLLCHESTRA）
+  Description: ライブ中、DOLLCHESTRAのメンバーのスキルAPを-4する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101422400,4101432400,4101442400
+  OrderId: 2
+- Id: 51041503
+  Name: スキルAP -4（みらくらぱーく！）
+  Description: ライブ中、みらくらぱーく！のメンバーのスキルAPを-4する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101423400,4101433400,4101443400
+  OrderId: 2
+- Id: 51041504
+  Name: スキルAP +2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51041505
+  Name: AP回復速度 +50%
+  Description: ライブ中、APの回復速度を+50%する。
+  SkillIcon: 10100900
+  GradeAddSkillEffectsId: "4100905000"
+  OrderId: 1
+- Id: 51041601
+  Name: AP回復速度 +50%
+  Description: ライブ中、APの回復速度を+50%する。
+  SkillIcon: 10100900
+  GradeAddSkillEffectsId: "4100905000"
+  OrderId: 1
+- Id: 51041602
+  Name: ドロー時スキルAP固定：4
+  Description: ライブ中、ドロー時のスキルAPを4に固定する。
+  SkillIcon: 30101400
+  GradeAddSkillEffectsId: 5101400101,5101400201,5101400301,5101410501,5101410601,5101410701,5101410801,5101410901,5101411001,5101411101,5101411201,5101411301,5101411401,5101411501,5101411601,5101411701,5101411801,5101411901,5101412001
+  OrderId: 1
+- Id: 51042401
+  Name: AP回復速度 -10%
+  Description: ライブ中、APの回復速度を-10%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902010"
+  OrderId: 1
+- Id: 51042402
+  Name: AP回復速度 -10%
+  Description: ライブ中、APの回復速度を-10%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902010"
+  OrderId: 1
+- Id: 51042403
+  Name: AP回復速度 -10%
+  Description: ライブ中、APの回復速度を-10%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902010"
+  OrderId: 1
+- Id: 51042404
+  Name: AP回復速度 -10%
+  Description: ライブ中、APの回復速度を-10%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902010"
+  OrderId: 1
+- Id: 51042501
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 1
+- Id: 51042502
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 1
+- Id: 51042503
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 1
+- Id: 51042601
+  Name: スキルAP -30
+  Description: ライブ中、スキル消費APを-30する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101403000"
+  OrderId: 1
+- Id: 51042602
+  Name: スキルAP -80
+  Description: ライブ中、スキル消費APを-80する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101408000"
+  OrderId: 1
+- Id: 51042603
+  Name: AP回復速度 -999%
+  Description: ライブ中、APの回復速度を-999%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902999"
+  OrderId: 1
+- Id: 51043401
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51043402
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
+- Id: 51043403
+  Name: AP回復速度 -10%
+  Description: ライブ中、APの回復速度を-10%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902010"
+  OrderId: 1
+- Id: 51043501
+  Name: 手札上限 -2枚
+  Description: ライブ中、手札の上限枚数を-2枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500002"
+  OrderId: 1
+- Id: 51043502
+  Name: スキルAP +1
+  Description: ライブ中、スキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400001"
+  OrderId: 1
+- Id: 51043503
+  Name: メンタル減少速度 +50%
+  Description: ライブ中、メンタルの減少速度を+50%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302050"
+  OrderId: 1
+- Id: 51043601
+  Name: スキルAP -3（みらくらぱーく！）
+  Description: ライブ中、みらくらぱーく！のメンバーのスキルAPを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101423300,4101433300,4101443300
+  OrderId: 3
+- Id: 51043602
+  Name: スキルAP +2（みらくらぱーく！）
+  Description: ライブ中、みらくらぱーく！のメンバーのスキルAPを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101423200,5101433200,5101443200
+  OrderId: 2
+- Id: 51043603
+  Name: スキルAP +1
+  Description: ライブ中、スキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400001"
+  OrderId: 1
+- Id: 51044401
+  Name: スキルAP +2（スリーズブーケ）
+  Description: ライブ中、スリーズブーケのメンバーのスキルAPを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101421200,5101431200,5101441200
+  OrderId: 1
+- Id: 51044402
+  Name: スキルAP +2（DOLLCHESTRA）
+  Description: ライブ中、DOLLCHESTRAのメンバーのスキルAPを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101422200,5101432200,5101442200
+  OrderId: 1
+- Id: 51044403
+  Name: スキルAP +2（みらくらぱーく！）
+  Description: ライブ中、みらくらぱーく！のメンバーのスキルAPを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101423200,5101433200,5101443200
+  OrderId: 1
+- Id: 51044501
+  Name: スキルAP+2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51044502
+  Name: スキルAP+2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51044503
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51044504
+  Name: AP回復速度 -20%
+  Description: ライブ中、APの回復速度を-20%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902020"
+  OrderId: 1
+- Id: 51044601
+  Name: メイン効果がメンタルプロテクトのスキル消費AP-3
+  Description: ライブ中、メイン効果がメンタルプロテクトのスキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101497300"
+  OrderId: 1
+- Id: 51044602
+  Name: メイン効果がメンタルプロテクトのスキル消費AP+2
+  Description: ライブ中、メイン効果がメンタルプロテクトのスキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101497300"
+  OrderId: 1
+- Id: 51044603
+  Name: メンタル減少速度 +100%
+  Description: ライブ中、メンタルの減少速度を+100%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302100"
+  OrderId: 1

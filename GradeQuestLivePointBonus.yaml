@@ -190,6 +190,582 @@
   ConditionsValue: 8
   BonusNum: 0
   BonusLimitUp: 30
+- Id: 1032101
+  GradeQuestSeriesId: 10321
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032102
+  GradeQuestSeriesId: 10321
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032103
+  GradeQuestSeriesId: 10321
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032104
+  GradeQuestSeriesId: 10321
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1032201
+  GradeQuestSeriesId: 10322
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032202
+  GradeQuestSeriesId: 10322
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032203
+  GradeQuestSeriesId: 10322
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032204
+  GradeQuestSeriesId: 10322
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1032301
+  GradeQuestSeriesId: 10323
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032302
+  GradeQuestSeriesId: 10323
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032303
+  GradeQuestSeriesId: 10323
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032304
+  GradeQuestSeriesId: 10323
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1032401
+  GradeQuestSeriesId: 10324
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032402
+  GradeQuestSeriesId: 10324
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032403
+  GradeQuestSeriesId: 10324
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032404
+  GradeQuestSeriesId: 10324
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1032501
+  GradeQuestSeriesId: 10325
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032502
+  GradeQuestSeriesId: 10325
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032503
+  GradeQuestSeriesId: 10325
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032504
+  GradeQuestSeriesId: 10325
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1032601
+  GradeQuestSeriesId: 10326
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1032602
+  GradeQuestSeriesId: 10326
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1032603
+  GradeQuestSeriesId: 10326
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1032604
+  GradeQuestSeriesId: 10326
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033101
+  GradeQuestSeriesId: 10331
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033102
+  GradeQuestSeriesId: 10331
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033103
+  GradeQuestSeriesId: 10331
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033104
+  GradeQuestSeriesId: 10331
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033201
+  GradeQuestSeriesId: 10332
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033202
+  GradeQuestSeriesId: 10332
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033203
+  GradeQuestSeriesId: 10332
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033204
+  GradeQuestSeriesId: 10332
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033301
+  GradeQuestSeriesId: 10333
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033302
+  GradeQuestSeriesId: 10333
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033303
+  GradeQuestSeriesId: 10333
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033304
+  GradeQuestSeriesId: 10333
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033401
+  GradeQuestSeriesId: 10334
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033402
+  GradeQuestSeriesId: 10334
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033403
+  GradeQuestSeriesId: 10334
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033404
+  GradeQuestSeriesId: 10334
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033501
+  GradeQuestSeriesId: 10335
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033502
+  GradeQuestSeriesId: 10335
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033503
+  GradeQuestSeriesId: 10335
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033504
+  GradeQuestSeriesId: 10335
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1033601
+  GradeQuestSeriesId: 10336
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1033602
+  GradeQuestSeriesId: 10336
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1033603
+  GradeQuestSeriesId: 10336
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1033604
+  GradeQuestSeriesId: 10336
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034101
+  GradeQuestSeriesId: 10441
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034102
+  GradeQuestSeriesId: 10441
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034103
+  GradeQuestSeriesId: 10441
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034104
+  GradeQuestSeriesId: 10441
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034201
+  GradeQuestSeriesId: 10342
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034202
+  GradeQuestSeriesId: 10342
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034203
+  GradeQuestSeriesId: 10342
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034204
+  GradeQuestSeriesId: 10342
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034301
+  GradeQuestSeriesId: 10343
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034302
+  GradeQuestSeriesId: 10343
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034303
+  GradeQuestSeriesId: 10343
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034304
+  GradeQuestSeriesId: 10343
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034401
+  GradeQuestSeriesId: 10344
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034402
+  GradeQuestSeriesId: 10344
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034403
+  GradeQuestSeriesId: 10344
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034404
+  GradeQuestSeriesId: 10344
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034501
+  GradeQuestSeriesId: 10345
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034502
+  GradeQuestSeriesId: 10345
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034503
+  GradeQuestSeriesId: 10345
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034504
+  GradeQuestSeriesId: 10345
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1034601
+  GradeQuestSeriesId: 10346
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1034602
+  GradeQuestSeriesId: 10346
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1034603
+  GradeQuestSeriesId: 10346
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1034604
+  GradeQuestSeriesId: 10346
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
 - Id: 1035601
   GradeQuestSeriesId: 10356
   OrderId: 1
@@ -416,6 +992,550 @@
   BonusLimitUp: 0
 - Id: 1041604
   GradeQuestSeriesId: 10416
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042101
+  GradeQuestSeriesId: 10421
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042102
+  GradeQuestSeriesId: 10421
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042103
+  GradeQuestSeriesId: 10421
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042104
+  GradeQuestSeriesId: 10421
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042201
+  GradeQuestSeriesId: 10422
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042202
+  GradeQuestSeriesId: 10422
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042203
+  GradeQuestSeriesId: 10422
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042204
+  GradeQuestSeriesId: 10422
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042301
+  GradeQuestSeriesId: 10423
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042302
+  GradeQuestSeriesId: 10423
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042303
+  GradeQuestSeriesId: 10423
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042304
+  GradeQuestSeriesId: 10423
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042401
+  GradeQuestSeriesId: 10424
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042402
+  GradeQuestSeriesId: 10424
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042403
+  GradeQuestSeriesId: 10424
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042404
+  GradeQuestSeriesId: 10424
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042501
+  GradeQuestSeriesId: 10425
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042502
+  GradeQuestSeriesId: 10425
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042503
+  GradeQuestSeriesId: 10425
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042504
+  GradeQuestSeriesId: 10425
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1042601
+  GradeQuestSeriesId: 10426
+  OrderId: 1
+  Description: SUMMER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 2
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1042602
+  GradeQuestSeriesId: 10426
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1042603
+  GradeQuestSeriesId: 10426
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1042604
+  GradeQuestSeriesId: 10426
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043101
+  GradeQuestSeriesId: 10431
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043102
+  GradeQuestSeriesId: 10431
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043103
+  GradeQuestSeriesId: 10431
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043104
+  GradeQuestSeriesId: 10431
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043201
+  GradeQuestSeriesId: 10432
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043202
+  GradeQuestSeriesId: 10432
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043203
+  GradeQuestSeriesId: 10432
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043204
+  GradeQuestSeriesId: 10432
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043301
+  GradeQuestSeriesId: 10433
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043302
+  GradeQuestSeriesId: 10433
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043303
+  GradeQuestSeriesId: 10433
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043304
+  GradeQuestSeriesId: 10433
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043401
+  GradeQuestSeriesId: 10434
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043402
+  GradeQuestSeriesId: 10434
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043403
+  GradeQuestSeriesId: 10434
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043404
+  GradeQuestSeriesId: 10434
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043501
+  GradeQuestSeriesId: 10435
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043502
+  GradeQuestSeriesId: 10435
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043503
+  GradeQuestSeriesId: 10435
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043504
+  GradeQuestSeriesId: 10435
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1043601
+  GradeQuestSeriesId: 10436
+  OrderId: 1
+  Description: AUTUMN LIMITED
+  ConditionsType: 1
+  ConditionsValue: 3
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1043602
+  GradeQuestSeriesId: 10436
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1043603
+  GradeQuestSeriesId: 10436
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1043604
+  GradeQuestSeriesId: 10436
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1044201
+  GradeQuestSeriesId: 10442
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1044202
+  GradeQuestSeriesId: 10442
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1044203
+  GradeQuestSeriesId: 10442
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1044204
+  GradeQuestSeriesId: 10442
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1044301
+  GradeQuestSeriesId: 10443
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1044302
+  GradeQuestSeriesId: 10443
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1044303
+  GradeQuestSeriesId: 10443
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1044304
+  GradeQuestSeriesId: 10443
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1044401
+  GradeQuestSeriesId: 10444
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1044402
+  GradeQuestSeriesId: 10444
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1044403
+  GradeQuestSeriesId: 10444
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1044404
+  GradeQuestSeriesId: 10444
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1044501
+  GradeQuestSeriesId: 10445
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1044502
+  GradeQuestSeriesId: 10445
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1044503
+  GradeQuestSeriesId: 10445
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1044504
+  GradeQuestSeriesId: 10445
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1044601
+  GradeQuestSeriesId: 10446
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1044602
+  GradeQuestSeriesId: 10446
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1044603
+  GradeQuestSeriesId: 10446
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1044604
+  GradeQuestSeriesId: 10446
   OrderId: 4
   Description: レアリティ：DR
   ConditionsType: 2

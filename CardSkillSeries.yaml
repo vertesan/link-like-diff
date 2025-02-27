@@ -598,6 +598,18 @@
   Name: AURORA LINK
   SkillIcon: 10215250
   SkillMainEffect: 24
+- Id: 10215260
+  Name: リスタート
+  SkillIcon: 10215260
+  SkillMainEffect: 25
+- Id: 10215261
+  Name: リスタート
+  SkillIcon: 10215260
+  SkillMainEffect: 25
+- Id: 10215262
+  Name: リスタート
+  SkillIcon: 10215260
+  SkillMainEffect: 25
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -2386,6 +2398,18 @@
   Name: ブルーミングトゥギャザー
   SkillIcon: 10315260
   SkillMainEffect: 16
+- Id: 10315270
+  Name: ハートブースト：ブーケ
+  SkillIcon: 10315270
+  SkillMainEffect: 16
+- Id: 10315271
+  Name: ハートブースト：ブーケ
+  SkillIcon: 10315270
+  SkillMainEffect: 16
+- Id: 10315272
+  Name: ハートブースト：ブーケ
+  SkillIcon: 10315270
+  SkillMainEffect: 16
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -3730,6 +3754,18 @@
   Name: アトラクトゲイン
   SkillIcon: 10415110
   SkillMainEffect: 30
+- Id: 10415120
+  Name: ジャストゲイン：1
+  SkillIcon: 10415120
+  SkillMainEffect: 14
+- Id: 10415121
+  Name: ジャストゲイン：1
+  SkillIcon: 10415120
+  SkillMainEffect: 14
+- Id: 10415122
+  Name: ジャストゲイン：1
+  SkillIcon: 10415120
+  SkillMainEffect: 14
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -3938,6 +3974,18 @@
   Name: メンタルプロテクト
   SkillIcon: 10428010
   SkillMainEffect: 7
+- Id: 10429010
+  Name: フラッフィーダイナソー
+  SkillIcon: 10429010
+  SkillMainEffect: 28
+- Id: 10429011
+  Name: フラッフィーダイナソー
+  SkillIcon: 10429010
+  SkillMainEffect: 28
+- Id: 10429012
+  Name: フラッフィーダイナソー
+  SkillIcon: 10429010
+  SkillMainEffect: 28
 - Id: 10433010
   Name: ラブアトラクト
   SkillIcon: 10433010
@@ -4354,6 +4402,10 @@
   Name: ナインハート・アンサンブル
   SkillIcon: 20215250
   SkillMainEffect: 42
+- Id: 20215260
+  Name: チェイス＊ドリーム
+  SkillIcon: 20215260
+  SkillMainEffect: 25
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -4958,6 +5010,10 @@
   Name: ナインハート・アトラクション
   SkillIcon: 20315260
   SkillMainEffect: 2
+- Id: 20315270
+  Name: サステイン＊ドリーム
+  SkillIcon: 20315270
+  SkillMainEffect: 25
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -5414,6 +5470,10 @@
   Name: ナインハート・ドレス
   SkillIcon: 20415110
   SkillMainEffect: 1
+- Id: 20415120
+  Name: ドレス《ユメワズライ》
+  SkillIcon: 20415120
+  SkillMainEffect: 25
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -5486,6 +5546,10 @@
   Name: フューチャーブレッシング
   SkillIcon: 20428010
   SkillMainEffect: 29
+- Id: 20429010
+  Name: セレブレイション
+  SkillIcon: 20429010
+  SkillMainEffect: 16
 - Id: 20433010
   Name: ハートキャプチャ
   SkillIcon: 20433010
@@ -5854,6 +5918,10 @@
   Name: Now or Never
   SkillIcon: 30215250
   SkillMainEffect: 902
+- Id: 30215260
+  Name: エターニティドリーマー
+  SkillIcon: 30215260
+  SkillMainEffect: 29
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -6410,6 +6478,10 @@
   Name: Now or Never
   SkillIcon: 30315260
   SkillMainEffect: 17
+- Id: 30315270
+  Name: デイブレイク
+  SkillIcon: 30315270
+  SkillMainEffect: 14
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -6826,6 +6898,10 @@
   Name: Now or Never
   SkillIcon: 30415110
   SkillMainEffect: 29
+- Id: 30415120
+  Name: ドロー：アバンダンス/エクステプロテクト
+  SkillIcon: 30415120
+  SkillMainEffect: 7
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -6890,6 +6966,10 @@
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
   SkillMainEffect: 20
+- Id: 30429010
+  Name: オーバーセクション：ブレッシング
+  SkillIcon: 30429010
+  SkillMainEffect: 29
 - Id: 30434010
   Name: ドロー：ワイドハート
   SkillIcon: 30434010
@@ -7230,6 +7310,26 @@
   Name: 《AURORA FLOWER/M》
   SkillIcon: 80415112
   SkillMainEffect: 13
+- Id: 80215010
+  Name: フレッシュブーケ
+  SkillIcon: 80215260
+  SkillMainEffect: 25
+- Id: 80215020
+  Name: グレイスブーケ
+  SkillIcon: 80215261
+  SkillMainEffect: 25
+- Id: 80215030
+  Name: ドリームブーケ
+  SkillIcon: 80215262
+  SkillMainEffect: 25
+- Id: 80225010
+  Name: 《ユメワズライ》
+  SkillIcon: 80415120
+  SkillMainEffect: 25
+- Id: 80235010
+  Name: M.ゴンザレス
+  SkillIcon: 80429010
+  SkillMainEffect: 25
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -7422,6 +7522,26 @@
   Name: インモータル
   SkillIcon: 90415112
   SkillMainEffect: 904
+- Id: 90215010
+  Name: グローイング
+  SkillIcon: 90215260
+  SkillMainEffect: 19
+- Id: 90215020
+  Name: ブルーミング
+  SkillIcon: 90215261
+  SkillMainEffect: 19
+- Id: 90215030
+  Name: リインカネーション
+  SkillIcon: 90215262
+  SkillMainEffect: 16
+- Id: 90225010
+  Name: インスタンス
+  SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90235010
+  Name: エクスティンクション
+  SkillIcon: 90429010
+  SkillMainEffect: 19
 - Id: 90444010
   Name: クローズ
   SkillIcon: 90444010

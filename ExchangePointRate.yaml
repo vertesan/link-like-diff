@@ -4310,6 +4310,39 @@
   EndTime: 2025-02-28T02:59:59Z
   GachaSeriesId: 1040418
   BonusItemQuantity: 40
+- Id: 1001394
+  ExchangePointId: 10404
+  ExchangeItemType: 2
+  ExchangeItemId: 10315270
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2025-02-28T03:00:00Z
+  EndTime: 2025-03-10T02:59:59Z
+  GachaSeriesId: 1040419
+  BonusItemQuantity: 40
+- Id: 1001395
+  ExchangePointId: 10404
+  ExchangeItemType: 2
+  ExchangeItemId: 10215260
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2025-02-28T03:00:00Z
+  EndTime: 2025-03-10T02:59:59Z
+  GachaSeriesId: 1040419
+  BonusItemQuantity: 40
+- Id: 1001396
+  ExchangePointId: 1041042
+  ExchangeItemType: 2
+  ExchangeItemId: 10429011
+  ExchangeItemQuantity: 1
+  ExchangePrice: 100
+  LimitedCount: 0
+  StartTime: 2025-02-27T15:00:00Z
+  EndTime: 2025-03-04T11:59:59Z
+  GachaSeriesId: 1041042
+  BonusItemQuantity: 0
 - Id: 2000001
   ExchangePointId: 1000101
   ExchangeItemType: 2

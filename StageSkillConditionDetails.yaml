@@ -34,6 +34,10 @@
   StageSkillConditionId: 1030030
   SkillConditionDetailType: DECK_OUT_COUNT
   ConditionValue: 1
+- Id: 10300400
+  StageSkillConditionId: 1030040
+  SkillConditionDetailType: ON_SKILL_USE_COUNT
+  ConditionValue: 40
 - Id: 10300500
   StageSkillConditionId: 1030050
   SkillConditionDetailType: ON_SKILL_USE_COUNT

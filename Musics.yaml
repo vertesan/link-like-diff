@@ -1269,6 +1269,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 104115
+  OrderId: 1227
+  Title: Chu! Chocolate
+  TitleFurigana: ちゅちょこれいと
+  JacketId: 104115
+  SoundId: 10411501
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 11688
+  ApIncrement: 988
+  SongTime: 9881
+  PlayTime: 118571
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104201
   OrderId: 6021
   Title: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -2775,6 +2806,37 @@
   ApIncrement: 1071
   SongTime: 10706
   PlayTime: 128471
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204117
+  OrderId: 1226
+  Title: ユメワズライ
+  TitleFurigana: ゆめわずらい
+  JacketId: 204117
+  SoundId: 20411701
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1021
+  SingerCharacterId: 1031,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 14754
+  ApIncrement: 971
+  SongTime: 9710
+  PlayTime: 116522
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000

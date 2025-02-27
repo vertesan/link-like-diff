@@ -34,6 +34,14 @@
   Label: LiveMic
   BindBoneId: 17
   PosesId: 10011043
+- Id: 1171051
+  Label: LiveMic
+  BindBoneId: 17
+  PosesId: 10011051
+- Id: 1171052
+  Label: LiveMic
+  BindBoneId: 17
+  PosesId: 10011052
 - Id: 2171023
   Label: スマホ
   BindBoneId: 17
@@ -70,6 +78,10 @@
   Label: 三角帽
   BindBoneId: 10
   PosesId: -1
+- Id: 3101042
+  Label: 三角帽
+  BindBoneId: 10
+  PosesId: -1
 - Id: 3101043
   Label: 三角帽
   BindBoneId: 10
@@ -95,6 +107,18 @@
   BindBoneId: 10
   PosesId: -1
 - Id: 4101033
+  Label: クリスマス帽
+  BindBoneId: 10
+  PosesId: -1
+- Id: 4101041
+  Label: クリスマス帽
+  BindBoneId: 10
+  PosesId: -1
+- Id: 4101042
+  Label: クリスマス帽
+  BindBoneId: 10
+  PosesId: -1
+- Id: 4101043
   Label: クリスマス帽
   BindBoneId: 10
   PosesId: -1
@@ -126,7 +150,15 @@
   Label: 黒猫カチューシャ
   BindBoneId: 10
   PosesId: -1
+- Id: 6101022
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
 - Id: 6101023
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
+- Id: 6101041
   Label: 黒猫カチューシャ
   BindBoneId: 10
   PosesId: -1
@@ -142,15 +174,51 @@
   Label: 一発芸帽子
   BindBoneId: 10
   PosesId: -1
+- Id: 9101021
+  Label: 鼻眼鏡
+  BindBoneId: 10
+  PosesId: -1
 - Id: 9101022
-  Label: 一発芸鼻眼鏡
+  Label: 鼻眼鏡
+  BindBoneId: 10
+  PosesId: -1
+- Id: 9101023
+  Label: 鼻眼鏡
+  BindBoneId: 10
+  PosesId: -1
+- Id: 9101041
+  Label: 鼻眼鏡
   BindBoneId: 10
   PosesId: -1
 - Id: 10101032
-  Label: 一発芸シルクハット
+  Label: シルクハット
   BindBoneId: 10
   PosesId: -1
 - Id: 11101041
   Label: 狐耳カチューシャ
+  BindBoneId: 10
+  PosesId: -1
+- Id: 12101021
+  Label: 眼鏡
+  BindBoneId: 10
+  PosesId: -1
+- Id: 12101022
+  Label: 眼鏡
+  BindBoneId: 10
+  PosesId: -1
+- Id: 12101023
+  Label: 眼鏡
+  BindBoneId: 10
+  PosesId: -1
+- Id: 13101041
+  Label: 魔女帽子
+  BindBoneId: 10
+  PosesId: -1
+- Id: 13101042
+  Label: 魔女帽子
+  BindBoneId: 10
+  PosesId: -1
+- Id: 13101043
+  Label: 魔女帽子
   BindBoneId: 10
   PosesId: -1

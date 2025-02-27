@@ -12,12 +12,19 @@
   ConditionsDescription: 103期SPRING ステージランク2をクリア
   StartTime: 2024-07-31T19:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 10330
+  GradeQuestSeasonId: 1033
+  ConditionsType: 1
+  ConditionsValue: 10312
+  ConditionsDescription: 103期SPRING ステージランク2をクリア
+  StartTime: 2024-10-28T12:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
 - Id: 10340
   GradeQuestSeasonId: 1034
   ConditionsType: 1
-  ConditionsValue: 10341
-  ConditionsDescription: 近日オープン予定
-  StartTime: 2024-04-09T15:00:00Z
+  ConditionsValue: 10312
+  ConditionsDescription: 103期SPRING ステージランク2をクリア
+  StartTime: 2025-01-26T12:00:00Z
   EndTime: 2035-12-30T15:00:00Z
 - Id: 10350
   GradeQuestSeasonId: 1035
@@ -39,4 +46,18 @@
   ConditionsValue: 10312
   ConditionsDescription: 103期SPRING ステージランク2をクリア
   StartTime: 2024-08-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10430
+  GradeQuestSeasonId: 1043
+  ConditionsType: 1
+  ConditionsValue: 10312
+  ConditionsDescription: 103期SPRING ステージランク2をクリア
+  StartTime: 2024-12-01T12:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10440
+  GradeQuestSeasonId: 1044
+  ConditionsType: 1
+  ConditionsValue: 10312
+  ConditionsDescription: 103期SPRING ステージランク2をクリア
+  StartTime: 2025-02-27T15:00:00Z
   EndTime: 2035-12-30T15:00:00Z
