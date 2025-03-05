@@ -5795,11 +5795,11 @@
   SkillIcon: 30214150
   SkillMainEffect: 905
 - Id: 30214160
-  Name: APレデュース：花帆 & ハートキャプチャ：花帆
+  Name: APレデュース：花帆 & ハートキャプチャ：花帆 & ドロー：APレデュース：花帆
   SkillIcon: 30214160
   SkillMainEffect: 17
 - Id: 30214170
-  Name: オーバーセクション：ラブアトラクト
+  Name: オーバーセクション：ラブアトラクト & エクステンドハンド：1
   SkillIcon: 30214170
   SkillMainEffect: 2
 - Id: 30214180
@@ -5999,15 +5999,15 @@
   SkillIcon: 30224160
   SkillMainEffect: 905
 - Id: 30224170
-  Name: インタープリテーション & サーチ：さやか
+  Name: インタープリテーション & サーチ：さやか & ドロー：メロウ/リインフォース
   SkillIcon: 30224170
   SkillMainEffect: 905
 - Id: 30224180
-  Name: APレデュース：さやか & ボルテージゲイン：さやか
+  Name: APレデュース：さやか & ボルテージゲイン：さやか & ドロー：APレデュース：さやか
   SkillIcon: 30224180
   SkillMainEffect: 17
 - Id: 30224190
-  Name: オーバーセクション：ラブアトラクト
+  Name: オーバーセクション：ラブアトラクト & エクステンドハンド：1
   SkillIcon: 30224190
   SkillMainEffect: 2
 - Id: 30224200
@@ -6171,11 +6171,11 @@
   SkillIcon: 30234100
   SkillMainEffect: 905
 - Id: 30234110
-  Name: APレデュース：瑠璃乃 & メンタルリカバー：瑠璃乃
+  Name: APレデュース：瑠璃乃 & メンタルリカバー：瑠璃乃 & ドロー：APレデュース：瑠璃乃
   SkillIcon: 30234110
   SkillMainEffect: 17
 - Id: 30234120
-  Name: オーバーセクション：ボルテージゲイン
+  Name: オーバーセクション：ボルテージゲイン & エクステンドハンド：1
   SkillIcon: 30234120
   SkillMainEffect: 10
 - Id: 30234130
@@ -6227,7 +6227,7 @@
   SkillIcon: 30235100
   SkillMainEffect: 10
 - Id: 30235110
-  Name: ドロー：ラブアトラクト
+  Name: ドロー：ラブアトラクト & APゲイン：ブレイブ
   SkillIcon: 30235110
   SkillMainEffect: 901
 - Id: 30235120
@@ -6351,7 +6351,7 @@
   SkillIcon: 30314150
   SkillMainEffect: 902
 - Id: 30314160
-  Name: オーバーセクション：APゲイン
+  Name: オーバーセクション：APゲイン & エクステンドハンド：1
   SkillIcon: 30314160
   SkillMainEffect: 14
 - Id: 30314170
@@ -6435,7 +6435,7 @@
   SkillIcon: 30315150
   SkillMainEffect: 905
 - Id: 30315160
-  Name: ハートアトラクション：梢
+  Name: ハートアトラクション：梢 & ドロー：APレデュース：梢
   SkillIcon: 30315160
   SkillMainEffect: 1
 - Id: 30315170
@@ -6551,11 +6551,11 @@
   SkillIcon: 30324140
   SkillMainEffect: 17
 - Id: 30324150
-  Name: オーバーセクション：メンタルリカバー
+  Name: オーバーセクション：メンタルリカバー & エクステンドハンド：1
   SkillIcon: 30324150
   SkillMainEffect: 5
 - Id: 30324160
-  Name: インタープリテーション & サーチ：綴理
+  Name: インタープリテーション & サーチ：綴理 & ドロー：メロウ/リインフォース
   SkillIcon: 30324160
   SkillMainEffect: 905
 - Id: 30324170
@@ -6639,7 +6639,7 @@
   SkillIcon: 30325150
   SkillMainEffect: 905
 - Id: 30325160
-  Name: APレデュース：綴理 & ボルテージゲイン：綴理
+  Name: APレデュース：綴理 & ボルテージゲイン：綴理 & ドロー：APレデュース：綴理
   SkillIcon: 30325160
   SkillMainEffect: 17
 - Id: 30325170
@@ -6731,7 +6731,7 @@
   SkillIcon: 30334100
   SkillMainEffect: 902
 - Id: 30334110
-  Name: オーバーセクション：ハートキャプチャ
+  Name: オーバーセクション：ハートキャプチャ & エクステンドハンド：1
   SkillIcon: 30334110
   SkillMainEffect: 1
 - Id: 30334120
@@ -6783,11 +6783,11 @@
   SkillIcon: 30335090
   SkillMainEffect: 905
 - Id: 30335100
-  Name: ドロー：ハートキャプチャ
+  Name: ドロー：ハートキャプチャ & APゲイン：ブレイブ
   SkillIcon: 30335100
   SkillMainEffect: 901
 - Id: 30335110
-  Name: APレデュース：慈 & メンタルリカバー：慈
+  Name: APレデュース：慈 & メンタルリカバー：慈 & ドロー：APレデュース：慈
   SkillIcon: 30335110
   SkillMainEffect: 17
 - Id: 30335120
