@@ -2850,6 +2850,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 204118
+  OrderId: 1427
+  Title: レム
+  TitleFurigana: れむ
+  JacketId: 204118
+  SoundId: 20411801
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1032
+  SingerCharacterId: 1022,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12500
+  ApIncrement: 867
+  SongTime: 8667
+  PlayTime: 104000
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204201
   OrderId: 6023
   Title: ビビデバ
@@ -4356,6 +4387,37 @@
   ApIncrement: 1146
   SongTime: 11458
   PlayTime: 137500
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304120
+  OrderId: 1426
+  Title: COMPASS
+  TitleFurigana: こんぱす
+  JacketId: 304120
+  SoundId: 30412001
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 17308
+  ApIncrement: 872
+  SongTime: 8722
+  PlayTime: 104662
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000

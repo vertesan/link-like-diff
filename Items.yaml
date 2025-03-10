@@ -3514,6 +3514,18 @@
   Description: スタイル解放素材(夕霧綴理)
   StartTime: 2025-01-10T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4022526
+  Name: "[COMPASS]夕霧綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧綴理)
+  StartTime: 2025-03-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4022801
   Name: "[Prism Echo]夕霧綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5038,6 +5050,18 @@
   Description: スタイル解放素材(村野さやか)
   StartTime: 2024-09-12T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032422
+  Name: "[COMPASS]村野さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野さやか)
+  StartTime: 2025-03-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032501
   Name: "[Dream Believers]村野さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6285,6 +6309,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町小鈴)
   StartTime: 2025-02-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042511
+  Name: "[COMPASS]徒町小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町小鈴)
+  StartTime: 2025-03-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町小鈴 解放Pt."
