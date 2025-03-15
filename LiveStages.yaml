@@ -2877,7 +2877,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、手札を捨てて引き直し、メンタルを最大値の10%減少させる。
-  StageSkillSetIds: 100011,200012
+  StageSkillSetIds: 100011,200011
 - Id: 704322
   Name: 体育館
   Description: 学校の体育館
@@ -2889,7 +2889,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、手札を捨てて引き直し、メンタルを最大値の10%減少させる。
-  StageSkillSetIds: 100011,200012
+  StageSkillSetIds: 100011,200011
 - Id: 704323
   Name: 講堂
   Description: 静かな講堂
@@ -2901,7 +2901,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、手札を捨てて引き直し、メンタルを最大値の10%減少させる。
-  StageSkillSetIds: 100011,200012
+  StageSkillSetIds: 100011,200011
 - Id: 704324
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -2913,7 +2913,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、手札を捨てて引き直し、メンタルを最大値の10%減少させる。
-  StageSkillSetIds: 100011,200012
+  StageSkillSetIds: 100011,200011
 - Id: 704331
   Name: 教室
   Description: いつもの教室
@@ -5565,7 +5565,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを3回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
-  StageSkillSetIds: "100021"
+  StageSkillSetIds: "300001"
 - Id: 804282
   Name: 体育館
   Description: 学校の体育館
@@ -5577,7 +5577,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを3回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
-  StageSkillSetIds: "100021"
+  StageSkillSetIds: "300001"
 - Id: 804283
   Name: 講堂
   Description: 静かな講堂
@@ -5589,7 +5589,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを3回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
-  StageSkillSetIds: "100021"
+  StageSkillSetIds: "300001"
 - Id: 804284
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5601,7 +5601,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを3回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
-  StageSkillSetIds: "100021"
+  StageSkillSetIds: "300001"
 - Id: 804291
   Name: 教室
   Description: いつもの教室
@@ -5613,7 +5613,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを-1し、ボルテージを-300する。
-  StageSkillSetIds: 100022,200011
+  StageSkillSetIds: 900022,900011
 - Id: 804292
   Name: 体育館
   Description: 学校の体育館
@@ -5625,7 +5625,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを-1し、ボルテージを-300する。
-  StageSkillSetIds: 100022,200011
+  StageSkillSetIds: 900022,900011
 - Id: 804293
   Name: 講堂
   Description: 静かな講堂
@@ -5637,7 +5637,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを-1し、ボルテージを-300する。
-  StageSkillSetIds: 100022,200011
+  StageSkillSetIds: 900022,900011
 - Id: 804294
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5649,7 +5649,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを-1し、ボルテージを-300する。
-  StageSkillSetIds: 100022,200011
+  StageSkillSetIds: 900022,900011
 - Id: 804301
   Name: 教室
   Description: いつもの教室
@@ -5661,7 +5661,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを1回使用するたび、APが1回復する。
-  StageSkillSetIds: "100023"
+  StageSkillSetIds: "900023"
 - Id: 804302
   Name: 体育館
   Description: 学校の体育館
@@ -5673,7 +5673,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを1回使用するたび、APが1回復する。
-  StageSkillSetIds: "100023"
+  StageSkillSetIds: "900023"
 - Id: 804303
   Name: 講堂
   Description: 静かな講堂
@@ -5685,7 +5685,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを1回使用するたび、APが1回復する。
-  StageSkillSetIds: "100023"
+  StageSkillSetIds: "900023"
 - Id: 804304
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5697,7 +5697,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを1回使用するたび、APが1回復する。
-  StageSkillSetIds: "100023"
+  StageSkillSetIds: "900023"
 - Id: 804311
   Name: 教室
   Description: いつもの教室
@@ -5709,7 +5709,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メイン効果がハート上限変動であるデッキの全てのカードの消費APを+1する。
-  StageSkillSetIds: 100024,200014
+  StageSkillSetIds: 100026,200014
 - Id: 804312
   Name: 体育館
   Description: 学校の体育館
@@ -5721,7 +5721,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メイン効果がハート上限変動であるデッキの全てのカードの消費APを+1する。
-  StageSkillSetIds: 100024,200014
+  StageSkillSetIds: 100026,200014
 - Id: 804313
   Name: 講堂
   Description: 静かな講堂
@@ -5733,7 +5733,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メイン効果がハート上限変動であるデッキの全てのカードの消費APを+1する。
-  StageSkillSetIds: 100024,200014
+  StageSkillSetIds: 100026,200014
 - Id: 804314
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5745,7 +5745,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メイン効果がハート上限変動であるデッキの全てのカードの消費APを+1する。
-  StageSkillSetIds: 100024,200014
+  StageSkillSetIds: 100026,200014
 - Id: 804321
   Name: 教室
   Description: いつもの教室
@@ -5757,7 +5757,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メンタルを最大値の20%減少させる。
-  StageSkillSetIds: 100024,200015
+  StageSkillSetIds: 100026,200015
 - Id: 804322
   Name: 体育館
   Description: 学校の体育館
@@ -5769,7 +5769,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メンタルを最大値の20%減少させる。
-  StageSkillSetIds: 100024,200015
+  StageSkillSetIds: 100026,200015
 - Id: 804323
   Name: 講堂
   Description: 静かな講堂
@@ -5781,7 +5781,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メンタルを最大値の20%減少させる。
-  StageSkillSetIds: 100024,200015
+  StageSkillSetIds: 100026,200015
 - Id: 804324
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5793,7 +5793,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを5回使用するたび、APが5回復し、メンタルを最大値の20%減少させる。
-  StageSkillSetIds: 100024,200015
+  StageSkillSetIds: 100026,200015
 - Id: 804331
   Name: 教室
   Description: いつもの教室
@@ -5805,7 +5805,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを+1し、デッキの全てのDOLLCHESTRAの消費APを-6する。
-  StageSkillSetIds: 200016,100025
+  StageSkillSetIds: 200016,100027
 - Id: 804332
   Name: 体育館
   Description: 学校の体育館
@@ -5817,7 +5817,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを+1し、デッキの全てのDOLLCHESTRAの消費APを-6する。
-  StageSkillSetIds: 200016,100025
+  StageSkillSetIds: 200016,100027
 - Id: 804333
   Name: 講堂
   Description: 静かな講堂
@@ -5829,7 +5829,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを+1し、デッキの全てのDOLLCHESTRAの消費APを-6する。
-  StageSkillSetIds: 200016,100025
+  StageSkillSetIds: 200016,100027
 - Id: 804334
   Name: 特設ステージ
   Description: 華やかな特設ステージ
@@ -5841,7 +5841,7 @@
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: スキルを10回使用するたび、デッキの全てのカードの消費APを+1し、デッキの全てのDOLLCHESTRAの消費APを-6する。
-  StageSkillSetIds: 200016,100025
+  StageSkillSetIds: 200016,100027
 - Id: 900011
   Name: 野外ステージ
   Description: 野外ステージ

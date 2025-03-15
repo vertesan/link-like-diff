@@ -678,6 +678,11 @@
   CharactersId: 1042
   CostumesId: 2020
   HairStyleId: 1
+- Id: 2020104301
+  Label: 外出着(秋冬)_コートなし_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 2020
+  HairStyleId: 1
 - Id: 2021102106
   Label: 外出着(秋冬)_コートあり_乙宗梢
   CharactersId: 1021
@@ -711,6 +716,16 @@
 - Id: 2021104101
   Label: 外出着(秋冬)_コートあり_百生吟子
   CharactersId: 1041
+  CostumesId: 2021
+  HairStyleId: 1
+- Id: 2021104201
+  Label: 外出着(秋冬)_コートあり_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 2021
+  HairStyleId: 1
+- Id: 2021104301
+  Label: 外出着(秋冬)_コートあり_安養寺姫芽
+  CharactersId: 1043
   CostumesId: 2021
   HairStyleId: 1
 - Id: 3001102102
