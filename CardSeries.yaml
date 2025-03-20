@@ -6135,6 +6135,25 @@
   Evolution4FanLvPt: 160
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
+- Id: 1041513
+  Evolution0Id: 10415130
+  Evolution1Id: 10415131
+  Evolution2Id: 10415132
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 11
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10415133
+  Evolution4Id: 10415134
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
 - Id: 1041801
   Evolution0Id: 0
   Evolution1Id: 10418011
@@ -6477,6 +6496,25 @@
   Evolution4FanLvPt: 160
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
+- Id: 1042512
+  Evolution0Id: 10425120
+  Evolution1Id: 10425121
+  Evolution2Id: 10425122
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 11
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10425123
+  Evolution4Id: 10425124
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
 - Id: 1042801
   Evolution0Id: 0
   Evolution1Id: 10428011
@@ -6815,6 +6853,25 @@
   SideStyleSettingCharacterId: ""
   Evolution3Id: 10435113
   Evolution4Id: 10435114
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+- Id: 1043512
+  Evolution0Id: 10435120
+  Evolution1Id: 10435121
+  Evolution2Id: 10435122
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 11
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10435123
+  Evolution4Id: 10435124
   Evolution3FanLvPt: 160
   Evolution4FanLvPt: 160
   Evolution3RequiredFanLv: 25

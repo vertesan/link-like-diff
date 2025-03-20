@@ -3790,6 +3790,18 @@
   Name: ジャストゲイン：1
   SkillIcon: 10415120
   SkillMainEffect: 14
+- Id: 10415130
+  Name: ワードローブ
+  SkillIcon: 10415130
+  SkillMainEffect: 43
+- Id: 10415131
+  Name: ワードローブ
+  SkillIcon: 10415130
+  SkillMainEffect: 43
+- Id: 10415132
+  Name: ワードローブ
+  SkillIcon: 10415130
+  SkillMainEffect: 43
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -4002,6 +4014,18 @@
   Name: アグレッシブエクステビリーフ
   SkillIcon: 10425110
   SkillMainEffect: 34
+- Id: 10425120
+  Name: スクステチャレンジ
+  SkillIcon: 10425120
+  SkillMainEffect: 44
+- Id: 10425121
+  Name: スクステチャレンジ
+  SkillIcon: 10425120
+  SkillMainEffect: 44
+- Id: 10425122
+  Name: スクステチャレンジ
+  SkillIcon: 10425120
+  SkillMainEffect: 44
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -4214,6 +4238,18 @@
   Name: オールレンジ♡リブート
   SkillIcon: 10435110
   SkillMainEffect: 25
+- Id: 10435120
+  Name: ドライブイグニッション
+  SkillIcon: 10435120
+  SkillMainEffect: 45
+- Id: 10435121
+  Name: ドライブイグニッション
+  SkillIcon: 10435120
+  SkillMainEffect: 45
+- Id: 10435122
+  Name: ドライブイグニッション
+  SkillIcon: 10435120
+  SkillMainEffect: 45
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -5518,6 +5554,10 @@
   Name: ドレス《ユメワズライ》
   SkillIcon: 20415120
   SkillMainEffect: 25
+- Id: 20415130
+  Name: ドレス《キセキ》
+  SkillIcon: 20415130
+  SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -5590,6 +5630,10 @@
   Name: トランセンド▷アグレッシブ
   SkillIcon: 20425110
   SkillMainEffect: 25
+- Id: 20425120
+  Name: スキルチャレンジ
+  SkillIcon: 20425120
+  SkillMainEffect: 13
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -5662,6 +5706,10 @@
   Name: オールレンジ♡ブースト
   SkillIcon: 20435110
   SkillMainEffect: 25
+- Id: 20435120
+  Name: オルタネイト：イグニッション
+  SkillIcon: 20435120
+  SkillMainEffect: 36
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -5726,6 +5774,10 @@
   Name: リゲインチェンジ
   SkillIcon: 21435100
   SkillMainEffect: 13
+- Id: 21435120
+  Name: リフレッシュイグニッション
+  SkillIcon: 21435120
+  SkillMainEffect: 13
 - Id: 22235190
   Name: タッグハート
   SkillIcon: 22235190
@@ -5778,6 +5830,10 @@
   Name: グルーヴィチェンジハート
   SkillIcon: 22435100
   SkillMainEffect: 1
+- Id: 22435120
+  Name: リブート：みらくらぱーく！
+  SkillIcon: 22435120
+  SkillMainEffect: 13
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
@@ -6958,6 +7014,10 @@
   Name: ドロー：アバンダンス/エクステプロテクト
   SkillIcon: 30415120
   SkillMainEffect: 7
+- Id: 30415130
+  Name: テイラー
+  SkillIcon: 30415130
+  SkillMainEffect: 38
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -7022,6 +7082,10 @@
   Name: チャレンジングアンカー
   SkillIcon: 30425110
   SkillMainEffect: 34
+- Id: 30425120
+  Name: APレデュース：DOLLCHESTRA
+  SkillIcon: 30425120
+  SkillMainEffect: 17
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -7086,6 +7150,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 30435110
   SkillMainEffect: 36
+- Id: 30435120
+  Name: ドロー：モードチェンジ
+  SkillIcon: 30435120
+  SkillMainEffect: 35
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -7390,6 +7458,18 @@
   Name: M.ゴンザレス
   SkillIcon: 80429010
   SkillMainEffect: 25
+- Id: 80245010
+  Name: 《奇跡の舞踏会》
+  SkillIcon: 80415130
+  SkillMainEffect: 21
+- Id: 80245020
+  Name: 《軌跡の舞踏会》
+  SkillIcon: 80415131
+  SkillMainEffect: 25
+- Id: 80245030
+  Name: 《輝跡の舞踏会》
+  SkillIcon: 80415132
+  SkillMainEffect: 20
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -7601,6 +7681,18 @@
 - Id: 90235010
   Name: エクスティンクション
   SkillIcon: 90429010
+  SkillMainEffect: 19
+- Id: 90245010
+  Name: インスタンス & オーバーセクション：リシャッフル
+  SkillIcon: 90415130
+  SkillMainEffect: 19
+- Id: 90245020
+  Name: インスタンス & オーバーセクション：APゲイン & リシャッフル
+  SkillIcon: 90415131
+  SkillMainEffect: 19
+- Id: 90245030
+  Name: インスタンス & APサポート：ドレス
+  SkillIcon: 90415132
   SkillMainEffect: 19
 - Id: 90444010
   Name: クローズ

@@ -124,3 +124,17 @@
   StartTime: 2024-12-31T19:00:00Z
   EndTime: 2025-01-03T18:59:59Z
   MiniBannerPopId: 100
+- Id: 10
+  CampaignName: 1日1回 PARTY! LIMITED COLLECTION 無料10連ガチャキャンペーン
+  CampaignType: 1
+  ConsectiveTimesType: 2
+  ResetType: 1
+  PerDayCampaignTimes: 1
+  GachaSeriesId_1: 1040422
+  GachaSeriesId_2: 0
+  GachaSeriesId_3: 0
+  GachaSeriesId_4: 0
+  GachaSeriesId_5: 0
+  StartTime: 2025-03-20T03:00:00Z
+  EndTime: 2025-03-22T18:59:59Z
+  MiniBannerPopId: 100

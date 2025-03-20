@@ -278,3 +278,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-01-09T19:00:00Z
   EndTime: 2025-01-11T18:59:59Z
+- Id: 201041
+  Name: GiGO コラボカフェ ラブライブ！蓮ノ空女学院スクールアイドルクラブ開催記念ログインボーナス
+  LoginBonusRewardSeriesId: 201041
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-03-20T03:00:00Z
+  EndTime: 2025-04-20T18:59:59Z

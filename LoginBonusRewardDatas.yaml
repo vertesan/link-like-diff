@@ -1414,3 +1414,27 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102421
+- Id: 20104101
+  LoginBonusRewardSeriesId: 201041
+  DayCount: 1
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 2
+  LifeTimeDay: 30
+  RewardTextId: 40102431
+- Id: 20104102
+  LoginBonusRewardSeriesId: 201041
+  DayCount: 2
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 3
+  LifeTimeDay: 30
+  RewardTextId: 40102432
+- Id: 20104103
+  LoginBonusRewardSeriesId: 201041
+  DayCount: 3
+  RewardType: 3
+  RewardId: 3002001
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102433

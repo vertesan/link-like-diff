@@ -1300,6 +1300,68 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 104116
+  OrderId: 1428
+  Title: ベジ・ラブ・ルー
+  TitleFurigana: べじらぶるー
+  JacketId: 104116
+  SoundId: 10411601
+  Description: DOLLCHESTRA
+  GenerationsId: 104
+  UnitId: 102
+  CenterCharacterId: 1022
+  SingerCharacterId: 1032,1042
+  SupportCharacterId: 1021,1023,1031,1033,1041,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 12676
+  ApIncrement: 880
+  SongTime: 8800
+  PlayTime: 105600
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104117
+  OrderId: 1030
+  Title: おいでよ！石川大観光
+  TitleFurigana: おいでよいしかわだいかんこう
+  JacketId: 104117
+  SoundId: 10411701
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1041
+  SingerCharacterId: 1021,1022,1023,1031,1032,1033,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 970
+  SongTime: 9697
+  PlayTime: 116364
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104201
   OrderId: 6021
   Title: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -1380,6 +1442,37 @@
   ApIncrement: 1029
   SongTime: 10294
   PlayTime: 123530
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104204
+  OrderId: 6029
+  Title: コネクト
+  TitleFurigana: こねくと
+  JacketId: 104204
+  SoundId: 10420401
+  Description: 一般カバー
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1021
+  SingerCharacterId: 1031,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 10714
+  ApIncrement: 1029
+  SongTime: 10286
+  PlayTime: 123429
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
@@ -2868,6 +2961,37 @@
   ApIncrement: 867
   SongTime: 8667
   PlayTime: 104000
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204119
+  OrderId: 1228
+  Title: 恋景色昭和ロマン
+  TitleFurigana: こいげしきしょうわろまん
+  JacketId: 204119
+  SoundId: 20411901
+  Description: スリーズブーケ
+  GenerationsId: 104
+  UnitId: 101
+  CenterCharacterId: 1021
+  SingerCharacterId: 1031,1041
+  SupportCharacterId: 1022,1023,1032,1033,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 865
+  SongTime: 8649
+  PlayTime: 103784
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
@@ -4418,6 +4542,37 @@
   ApIncrement: 872
   SongTime: 8722
   PlayTime: 104662
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304121
+  OrderId: 1624
+  Title: マハラジャンボリーⅡ
+  TitleFurigana: まはらじゃんぼりーつー
+  JacketId: 304121
+  SoundId: 30412101
+  Description: みらくらぱーく！
+  GenerationsId: 104
+  UnitId: 103
+  CenterCharacterId: 1023
+  SingerCharacterId: 1033,1043
+  SupportCharacterId: 1021,1022,1031,1032,1041,1042
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 14063
+  ApIncrement: 1077
+  SongTime: 10769
+  PlayTime: 129231
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
