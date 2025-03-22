@@ -3763,3 +3763,63 @@
   StartTime: 2025-03-15T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10401306
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: PART 6
+  ScriptId: 10401306
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 252
+  SubTitleName: "6"
+  StartTime: 2025-03-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401307
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: PART 7
+  ScriptId: 10401307
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 253
+  SubTitleName: "7"
+  StartTime: 2025-03-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401308
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: PART 8
+  ScriptId: 10401308
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 254
+  SubTitleName: "8"
+  StartTime: 2025-03-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401309
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: PART 9
+  ScriptId: 10401309
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 255
+  SubTitleName: "9"
+  StartTime: 2025-03-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
