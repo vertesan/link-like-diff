@@ -59789,7 +59789,7 @@
   SkillIcon: 20101500
   SectionSkillsEffectId: "70411220120"
 - Id: 7041122013
-  Description: APを0にする。
+  Description: APを-10する。
   ApperanceType: 1008
   SkillIcon: 20100800
   SectionSkillsEffectId: "70411220130"
@@ -59814,7 +59814,7 @@
   SkillIcon: 20101500
   SectionSkillsEffectId: "70411220220"
 - Id: 7041122023
-  Description: APを0にする。
+  Description: APを-10する。
   ApperanceType: 1008
   SkillIcon: 20100800
   SectionSkillsEffectId: "70411220230"
@@ -59839,7 +59839,7 @@
   SkillIcon: 20101500
   SectionSkillsEffectId: "70411220320"
 - Id: 7041122033
-  Description: APを0にする。
+  Description: APを-10する。
   ApperanceType: 1008
   SkillIcon: 20100800
   SectionSkillsEffectId: "70411220330"
@@ -59864,7 +59864,7 @@
   SkillIcon: 20101500
   SectionSkillsEffectId: "70411220420"
 - Id: 7041122043
-  Description: APを0にする。
+  Description: APを-10する。
   ApperanceType: 1008
   SkillIcon: 20100800
   SectionSkillsEffectId: "70411220430"
