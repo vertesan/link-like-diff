@@ -75,6 +75,55 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31139
+  Label: 幕間演出2503
+  MusicId: 3113
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31599
+  Label: DreamBelievers(SAKURA Ver.)
+  MusicId: 3159
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31609
+  Label: 365Days
+  MusicId: 3160
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31619
+  Label: いつでも、いつまでも
+  MusicId: 3161
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31623
+  Label: ユメワズライ
+  MusicId: 3162
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1021,1031,1041
+- Id: 31633
+  Label: COMPASS
+  MusicId: 3163
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1022,1032,1042
+- Id: 31643
+  Label: 全方位キュン
+  MusicId: 3164
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 3
+  CharactersIds: 1023,1033,1043
 - Id: 31659
   Label: Key of Like !
   MusicId: 3165
@@ -176,7 +225,7 @@
 - Id: 41019
   Label: Overture(104期)
   MusicId: 4101
-  HaveMusic: 0
+  HaveMusic: 1
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
@@ -247,6 +296,13 @@
   Label: Now or Never
   MusicId: 4111
   HaveMusic: 0
+  HaveMotion: 0
+  CharactersCount: 9
+  CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 41129
+  Label: Overture2503
+  MusicId: 4101
+  HaveMusic: 1
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
