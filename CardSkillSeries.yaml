@@ -610,6 +610,18 @@
   Name: リスタート
   SkillIcon: 10215260
   SkillMainEffect: 25
+- Id: 10215270
+  Name: グランドフィナーレ
+  SkillIcon: 10215270
+  SkillMainEffect: 14
+- Id: 10215271
+  Name: グランドフィナーレ
+  SkillIcon: 10215270
+  SkillMainEffect: 14
+- Id: 10215272
+  Name: グランドフィナーレ
+  SkillIcon: 10215270
+  SkillMainEffect: 14
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -1250,6 +1262,18 @@
   Name: コーチング
   SkillIcon: 10225260
   SkillMainEffect: 34
+- Id: 10225270
+  Name: グランドフィナーレ
+  SkillIcon: 10225270
+  SkillMainEffect: 14
+- Id: 10225271
+  Name: グランドフィナーレ
+  SkillIcon: 10225270
+  SkillMainEffect: 14
+- Id: 10225272
+  Name: グランドフィナーレ
+  SkillIcon: 10225270
+  SkillMainEffect: 14
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -1770,6 +1794,18 @@
   Name: ズッキュン♡ラブビーム
   SkillIcon: 10235230
   SkillMainEffect: 21
+- Id: 10235240
+  Name: グランドフィナーレ
+  SkillIcon: 10235240
+  SkillMainEffect: 14
+- Id: 10235241
+  Name: グランドフィナーレ
+  SkillIcon: 10235240
+  SkillMainEffect: 14
+- Id: 10235242
+  Name: グランドフィナーレ
+  SkillIcon: 10235240
+  SkillMainEffect: 14
 - Id: 10238011
   Name: プロテクトフィール
   SkillIcon: 10238011
@@ -4478,6 +4514,10 @@
   Name: チェイス＊ドリーム
   SkillIcon: 20215260
   SkillMainEffect: 25
+- Id: 20215270
+  Name: パワーオブエール
+  SkillIcon: 20215270
+  SkillMainEffect: 2
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -4694,6 +4734,10 @@
   Name: トランセンド▷アトラクション　
   SkillIcon: 20225260
   SkillMainEffect: 25
+- Id: 20225270
+  Name: パワーオブエール
+  SkillIcon: 20225270
+  SkillMainEffect: 10
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -4870,6 +4914,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20235230
   SkillMainEffect: 36
+- Id: 20235240
+  Name: パワーオブエール
+  SkillIcon: 20235240
+  SkillMainEffect: 7
 - Id: 20238010
   Name: エンデュランス
   SkillIcon: 20238010
@@ -6026,6 +6074,10 @@
   Name: エターニティドリーマー
   SkillIcon: 30215260
   SkillMainEffect: 29
+- Id: 30215270
+  Name: シーユーアゲイン
+  SkillIcon: 30215270
+  SkillMainEffect: 19
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -6226,6 +6278,10 @@
   Name: S.I.コンダクター
   SkillIcon: 30225260
   SkillMainEffect: 13
+- Id: 30225270
+  Name: シーユーアゲイン
+  SkillIcon: 30225270
+  SkillMainEffect: 19
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -6386,6 +6442,10 @@
   Name: M's キングダム
   SkillIcon: 30235230
   SkillMainEffect: 17
+- Id: 30235240
+  Name: シーユーアゲイン
+  SkillIcon: 30235240
+  SkillMainEffect: 19
 - Id: 30238010
   Name: ドロー：メンタルプロテクト & APゲイン
   SkillIcon: 30238010
@@ -7470,6 +7530,18 @@
   Name: 《輝跡の舞踏会》
   SkillIcon: 80415132
   SkillMainEffect: 20
+- Id: 80255010
+  Name: リユニオンチャーム/Kozue
+  SkillIcon: 80215270
+  SkillMainEffect: 29
+- Id: 80265010
+  Name: リユニオンチャーム/Tsuzuri
+  SkillIcon: 80225270
+  SkillMainEffect: 29
+- Id: 80275010
+  Name: リユニオンチャーム/Megumi
+  SkillIcon: 80235240
+  SkillMainEffect: 29
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -7694,6 +7766,18 @@
   Name: インスタンス & APサポート：ドレス
   SkillIcon: 90415132
   SkillMainEffect: 19
+- Id: 90255010
+  Name: プロミス
+  SkillIcon: 90215270
+  SkillMainEffect: 2
+- Id: 90265010
+  Name: プロミス
+  SkillIcon: 90225270
+  SkillMainEffect: 10
+- Id: 90275010
+  Name: プロミス
+  SkillIcon: 90235240
+  SkillMainEffect: 7
 - Id: 90444010
   Name: クローズ
   SkillIcon: 90444010

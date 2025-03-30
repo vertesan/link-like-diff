@@ -1362,6 +1362,68 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 104118
+  OrderId: 1031
+  Title: いったん
+  TitleFurigana: いったん
+  JacketId: 104118
+  SoundId: 10411801
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 20930
+  ApIncrement: 766
+  SongTime: 7656
+  PlayTime: 91875
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 104120
+  OrderId: 4002
+  Title: Love it! Wonderful Trip!
+  TitleFurigana: らぶいっとわんだふるとりっぷ
+  JacketId: 104120
+  SoundId: 10412001
+  Description: 2年生曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1032
+  SingerCharacterId: 1031,1033
+  SupportCharacterId: 1021,1022,1023,1041,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 24324
+  ApIncrement: 796
+  SongTime: 7963
+  PlayTime: 95556
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104201
   OrderId: 6021
   Title: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -3005,6 +3067,68 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 204120
+  OrderId: 1032
+  Title: いつでも、いつまでも
+  TitleFurigana: いつでもいつまでも
+  JacketId: 204120
+  SoundId: 20412001
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1031
+  SingerCharacterId: 1021,1022,1023,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 13043
+  ApIncrement: 1154
+  SongTime: 11539
+  PlayTime: 138462
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 204121
+  OrderId: 4003
+  Title: アステリズム
+  TitleFurigana: あすてりずむ
+  JacketId: 204121
+  SoundId: 20412101
+  Description: 3年生曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1021
+  SingerCharacterId: 1022,1023
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 15517
+  ApIncrement: 877
+  SongTime: 8767
+  PlayTime: 105205
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 204201
   OrderId: 6023
   Title: ビビデバ
@@ -4573,6 +4697,37 @@
   ApIncrement: 1077
   SongTime: 10769
   PlayTime: 129231
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 304122
+  OrderId: 4001
+  Title: 恥は人生のかきすて
+  TitleFurigana: はじはじんせいのかきすて
+  JacketId: 304122
+  SoundId: 30412201
+  Description: 1年生曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1042
+  SingerCharacterId: 1041,1043
+  SupportCharacterId: 1021,1022,1023,1031,1032,1033
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 12500
+  ApIncrement: 1147
+  SongTime: 11471
+  PlayTime: 137647
   FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000

@@ -742,3 +742,27 @@
   SkillIcon: 20100300
   GradeAddSkillEffectsId: "5100302100"
   OrderId: 1
+- Id: 51045601
+  Name: メイン効果がリシャッフル効果の消費APを-3
+  Description: ライブ中、メイン効果がリシャッフル効果のスキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101413300"
+  OrderId: 1
+- Id: 51045602
+  Name: メイン効果がリシャッフル効果の消費APを+2
+  Description: ライブ中、メイン効果がリシャッフル効果のスキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101413200"
+  OrderId: 1
+- Id: 51045603
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
+- Id: 51045604
+  Name: メンタル減少速度 +50%
+  Description: ライブ中、メンタルの減少速度を+50%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302050"
+  OrderId: 1

@@ -292,6 +292,12 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11045601
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -718,6 +724,18 @@
   TargetId: 0
   MinActionPoint: 3
   MaxActionPoint: 3
+- Id: 21045601
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 21045602
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 31031101
   Name: ライブステージ1
   SquareType: 3
@@ -2620,6 +2638,12 @@
   TargetId: 51044601
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 51045601
+  Name: 『メイン効果がリシャッフル効果の消費APを-3』解除
+  SquareType: 5
+  TargetId: 51045601
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 61031101
   Name: 103期 獲得ライブPt. +5%
   SquareType: 6
@@ -3104,5 +3128,11 @@
   Name: メインライブステージ
   SquareType: 7
   TargetId: 571044601
+  MinActionPoint: 1
+  MaxActionPoint: 1
+- Id: 71045601
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571045601
   MinActionPoint: 1
   MaxActionPoint: 1

@@ -1,6 +1,6 @@
 - Id: 10115011
-  Name: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知"
-  Text: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知 を4回解放した記念のステッカー"
+  Name: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美\u00a0沙知"
+  Text: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美\u00a0沙知 を4回解放した記念のステッカー"
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -10,7 +10,7 @@
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
   RequirementValue: 1011501
-  RequirementText: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美沙知 解放完了"
+  RequirementText: "[蓮ノ空女学院スクールアイドルクラブ101期生]大賀美\u00a0沙知 解放完了"
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -1243,6 +1243,30 @@
   StartTime: 2025-02-28T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-02-28T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10215271
+  Name: "[いつでも、いつまでも]乙宗 梢"
+  Text: "[いつでも、いつまでも]乙宗 梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 215271
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021527
+  RequirementText: "[いつでも、いつまでも]乙宗 梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-30T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -2590,6 +2614,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10225271
+  Name: "[いつでも、いつまでも]夕霧 綴理"
+  Text: "[いつでも、いつまでも]夕霧 綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 225271
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022527
+  RequirementText: "[いつでも、いつまでも]夕霧 綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-30T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10228011
   Name: "[Prism Echo]夕霧\u00a0綴理"
   Text: "[Prism Echo]夕霧\u00a0綴理を4回解放した記念のステッカー"
@@ -3691,6 +3739,30 @@
   StartTime: 2025-02-17T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-02-17T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10235241
+  Name: "[いつでも、いつまでも]藤島 慈"
+  Text: "[いつでも、いつまでも]藤島 慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 235241
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023524
+  RequirementText: "[いつでも、いつまでも]藤島 慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-30T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -9047,8 +9119,8 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10444011
-  Name: "[Edelied]桂城 泉＆セラス 柳田 リリエンフェルト\u00a0"
-  Text: "[Edelied]桂城 泉＆セラス 柳田 リリエンフェルト\u00a0 を4回解放した記念のステッカー"
+  Name: "[Edelied]桂城\u00a0泉＆セラス\u00a0柳田\u00a0リリエンフェルト\u00a0"
+  Text: "[Edelied]桂城\u00a0泉＆セラス\u00a0柳田\u00a0リリエンフェルト\u00a0\u00a0を4回解放した記念のステッカー"
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -9058,7 +9130,7 @@
   RequirementType: 5
   RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
   RequirementValue: 1044401
-  RequirementText: "[Edelied]桂城 泉＆セラス 柳田 リリエンフェルト\u00a0 解放完了"
+  RequirementText: "[Edelied]桂城\u00a0泉＆セラス\u00a0柳田\u00a0リリエンフェルト\u00a0\u00a0解放完了"
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -19703,18 +19775,18 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20241200
-  Name: 銀テープ
-  Text: 仮
+  Name: 銀テープ『104期 Final Term Fes×LIVE -蓮華祭-』by 乙宗 梢
+  Text: 2025.3.30 in 第二音楽堂 蓮華祭ライブステージ Live Streaming on School Idol Connect
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
   CharactersId: 0
-  Priority: 441200
+  Priority: 441220
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
-  RequirementText: 仮
+  RequirementText: 104期FinalTerm 第2回 サークル対抗戦 TOP1500位 入賞
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -20171,6 +20243,54 @@
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
   RequirementText: 104期FinalTerm 第2回 サークル対抗戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-03-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-21T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241220
+  Name: 銀テープ『104期 Final Term Fes×LIVE -蓮華祭-』by 夕霧 綴理
+  Text: 2025.3.30 in 第二音楽堂 蓮華祭ライブステージ Live Streaming on School Idol Connect
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441221
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期FinalTerm 第2回 サークル対抗戦 TOP1500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-03-21T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-21T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20241221
+  Name: 銀テープ『104期 Final Term Fes×LIVE -蓮華祭-』by 藤島 慈
+  Text: 2025.3.30 in 第二音楽堂 蓮華祭ライブステージ Live Streaming on School Idol Connect
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 441222
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 104期FinalTerm 第2回 サークル対抗戦 TOP1500位 入賞
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -31822,6 +31942,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40104118
+  Name: 『いったん』マエストロ
+  Text: 『いったん』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601031
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 104118
+  RequirementText: 『いったん』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40104120
+  Name: 『Love it! Wonderful Trip!』マエストロ
+  Text: 『Love it! Wonderful Trip!』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 604002
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 104120
+  RequirementText: 『Love it! Wonderful Trip!』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40104201
   Name: 『ミラクルショッピング ～ドン・キホーテのテーマ～』マエストロ
   Text: 『ミラクルショッピング ～ドン・キホーテのテーマ～』のマスタリーLv.を30にした記念のステッカー
@@ -33094,6 +33262,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204120
+  Name: 『いつでも、いつまでも』マエストロ
+  Text: 『いつでも、いつまでも』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601032
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204120
+  RequirementText: 『いつでも、いつまでも』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40204121
+  Name: 『アステリズム』マエストロ
+  Text: 『アステリズム』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 604003
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 204121
+  RequirementText: 『アステリズム』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40204201
   Name: 『ビビデバ』マエストロ
   Text: 『ビビデバ』のマスタリーLv.を30にした記念のステッカー
@@ -34318,6 +34534,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40304122
+  Name: 『恥は人生のかきすて』マエストロ
+  Text: 『恥は人生のかきすて』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 604001
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 304122
+  RequirementText: 『恥は人生のかきすて』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40304201
   Name: 『This game』マエストロ
   Text: 『This game』のマスタリーLv.を30にした記念のステッカー
@@ -34559,7 +34799,7 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90000007
-  Name: "[オールラウンダー]大賀美沙知"
+  Name: "[オールラウンダー]大賀美\u00a0沙知"
   Text: 「にひっ」
   CategoryType: 2
   CategoryName: 3
@@ -34570,7 +34810,7 @@
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
-  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  RequirementText: 「大賀美 沙知 卒業記念プレシャスパック」を購入
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -34583,7 +34823,7 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90000008
-  Name: "[コトダマ]大賀美沙知"
+  Name: "[コトダマ]大賀美\u00a0沙知"
   Text: 「なるほど、なるほどねぃ」
   CategoryType: 2
   CategoryName: 3
@@ -34594,7 +34834,7 @@
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
-  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  RequirementText: 「大賀美 沙知 卒業記念プレシャスパック」を購入
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -34607,7 +34847,7 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90000009
-  Name: "[蓮ノ空らいふ]大賀美沙知"
+  Name: "[蓮ノ空らいふ]大賀美\u00a0沙知"
   Text: 「ハッハッハ」
   CategoryType: 2
   CategoryName: 3
@@ -34618,7 +34858,7 @@
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX
   RequirementValue: 1
-  RequirementText: 大賀美沙知卒業記念プレシャスパックを購入
+  RequirementText: 「大賀美 沙知 卒業記念プレシャスパック」を購入
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -35707,6 +35947,30 @@
   StartTime: 2025-03-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-03-20T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000055
+  Name: "[104期、ある日の夕暮れ]"
+  Text: 変わらないものと変わっていくもの、旅立つものと遺されるもの。新しい風は次の蕾をほころばせる。その中で煌めく青春を生きる9人の少女たち。
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100055
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「[104期、ある日の夕暮れ] メモリアルアート」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-03-30T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
