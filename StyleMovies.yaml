@@ -13,6 +13,21 @@
   MovieType: 3
   Name: 特訓2回目
   ReleaseConditionText: ""
+- Id: 102050101
+  CardSeriesId: 1020501
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+- Id: 102050102
+  CardSeriesId: 1020501
+  MovieType: 2
+  Name: 特訓1回目
+  ReleaseConditionText: ""
+- Id: 102050103
+  CardSeriesId: 1020501
+  MovieType: 3
+  Name: 特訓2回目
+  ReleaseConditionText: ""
 - Id: 102130101
   CardSeriesId: 1021301
   MovieType: 1

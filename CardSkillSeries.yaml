@@ -4310,6 +4310,10 @@
   Name: ドリーミングサポート
   SkillIcon: 20115010
   SkillMainEffect: 29
+- Id: 20205010
+  Name: ドリーミングトライアングル
+  SkillIcon: 20205010
+  SkillMainEffect: 29
 - Id: 20213010
   Name: メンタルリカバー
   SkillIcon: 20213010
@@ -5885,6 +5889,10 @@
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
+  SkillMainEffect: 19
+- Id: 30205010
+  Name: グラデュエーション
+  SkillIcon: 30205010
   SkillMainEffect: 19
 - Id: 30214010
   Name: ドロー：APレデュース

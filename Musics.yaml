@@ -1393,6 +1393,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 104119
+  OrderId: 1033
+  Title: Dream Believers（SAKURA Ver.）
+  TitleFurigana: どりーむびりーばーずさくらばーじょん
+  JacketId: 104119
+  SoundId: 10411901
+  Description: 全体曲
+  GenerationsId: 104
+  UnitId: 100
+  CenterCharacterId: 1023
+  SingerCharacterId: 1021,1022,1031,1032,1033,1041,1042,1043
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 7031
+  ApIncrement: 1654
+  SongTime: 16543
+  PlayTime: 198519
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 104120
   OrderId: 4002
   Title: Love it! Wonderful Trip!

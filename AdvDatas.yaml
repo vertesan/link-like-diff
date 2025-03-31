@@ -3838,3 +3838,33 @@
   StartTime: 2025-03-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 1
+- Id: 10401311
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: ED2
+  ScriptId: 10401311
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 257
+  SubTitleName: ED2
+  StartTime: 2025-03-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10401312
+  AdvSeriesId: 104013
+  Name: 第13話『いずれ会う約束の桜』
+  Description: FINE
+  ScriptId: 10401312
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 258
+  SubTitleName: FINE
+  StartTime: 2025-03-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1

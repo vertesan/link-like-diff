@@ -4,6 +4,12 @@
   Priority: 2
   VoiceName: vo_card_1011501_skill_0001
   ReleaseConditionText: ""
+- Id: 102050102
+  CardSeriesId: 1020501
+  Name: スキル発動
+  Priority: 2
+  VoiceName: vo_card_1020501_skill_0001
+  ReleaseConditionText: ""
 - Id: 102130101
   CardSeriesId: 1021301
   Name: ライブ開始
