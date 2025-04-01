@@ -23,6 +23,11 @@
   CharactersId: 1032
   CostumesId: 1001
   HairStyleId: 1
+- Id: 1001103209
+  Label: 制服(冬)_上靴_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1001
+  HairStyleId: 9
 - Id: 1001103301
   Label: 制服(冬)_上靴_大沢瑠璃乃
   CharactersId: 1033
@@ -73,6 +78,11 @@
   CharactersId: 1032
   CostumesId: 1002
   HairStyleId: 1
+- Id: 1002103209
+  Label: 制服(夏)_上靴_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1002
+  HairStyleId: 9
 - Id: 1002103301
   Label: 制服(夏)_上靴_大沢瑠璃乃
   CharactersId: 1033
@@ -123,6 +133,11 @@
   CharactersId: 1032
   CostumesId: 1003
   HairStyleId: 1
+- Id: 1003103209
+  Label: 制服(夏)_ローファー_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1003
+  HairStyleId: 9
 - Id: 1003103301
   Label: 制服(夏)_ローファー_大沢瑠璃乃
   CharactersId: 1033
@@ -168,6 +183,11 @@
   CharactersId: 1032
   CostumesId: 1004
   HairStyleId: 1
+- Id: 1004103209
+  Label: 体操服(冬)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1004
+  HairStyleId: 9
 - Id: 1004103301
   Label: 体操服(冬)_大沢瑠璃乃
   CharactersId: 1033
@@ -193,6 +213,11 @@
   CharactersId: 9007
   CostumesId: 1004
   HairStyleId: 1
+- Id: 1005103209
+  Label: 体操服(夏)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1005
+  HairStyleId: 9
 - Id: 1005104101
   Label: 体操服(夏)_百生吟子
   CharactersId: 1041
@@ -233,6 +258,11 @@
   CharactersId: 1032
   CostumesId: 1006
   HairStyleId: 2
+- Id: 1006103209
+  Label: 制服(冬)_ローファー_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1006
+  HairStyleId: 9
 - Id: 1006103301
   Label: 制服(冬)_ローファー_大沢瑠璃乃
   CharactersId: 1033
@@ -278,6 +308,11 @@
   CharactersId: 1032
   CostumesId: 1007
   HairStyleId: 1
+- Id: 1007103209
+  Label: 学院指定コート_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 1007
+  HairStyleId: 9
 - Id: 1007103301
   Label: 学院指定コート_大沢瑠璃乃
   CharactersId: 1033
@@ -403,6 +438,11 @@
   CharactersId: 1032
   CostumesId: 2004
   HairStyleId: 1
+- Id: 2004103209
+  Label: 部屋着(春夏)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 2004
+  HairStyleId: 9
 - Id: 2004103304
   Label: 部屋着(春夏)_大沢瑠璃乃
   CharactersId: 1033
@@ -453,6 +493,11 @@
   CharactersId: 1032
   CostumesId: 2007
   HairStyleId: 1
+- Id: 2007103209
+  Label: 外出着(春夏)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 2007
+  HairStyleId: 9
 - Id: 2007103301
   Label: 外出着(春夏)_大沢瑠璃乃
   CharactersId: 1033
@@ -513,6 +558,11 @@
   CharactersId: 1032
   CostumesId: 2008
   HairStyleId: 1
+- Id: 2008103209
+  Label: 部屋着(秋冬)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 2008
+  HairStyleId: 9
 - Id: 2008103301
   Label: 部屋着(秋冬)_大沢瑠璃乃
   CharactersId: 1033
@@ -663,6 +713,11 @@
   CharactersId: 1032
   CostumesId: 2020
   HairStyleId: 1
+- Id: 2020103209
+  Label: 外出着(秋冬)_コートなし_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 2020
+  HairStyleId: 9
 - Id: 2020103301
   Label: 外出着(秋冬)_コートなし_大沢瑠璃乃
   CharactersId: 1033
@@ -708,6 +763,11 @@
   CharactersId: 1032
   CostumesId: 2021
   HairStyleId: 2
+- Id: 2021103209
+  Label: 外出着(秋冬)_コートあり_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 2021
+  HairStyleId: 9
 - Id: 2021103301
   Label: 外出着(秋冬)_コートあり_大沢瑠璃乃
   CharactersId: 1033
@@ -753,6 +813,11 @@
   CharactersId: 1032
   CostumesId: 3001
   HairStyleId: 2
+- Id: 3001103209
+  Label: ライブ衣装01_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 3001
+  HairStyleId: 9
 - Id: 3001103301
   Label: ライブ衣装01_大沢瑠璃乃
   CharactersId: 1033
@@ -958,6 +1023,11 @@
   CharactersId: 1032
   CostumesId: 3009
   HairStyleId: 1
+- Id: 3009103209
+  Label: トレーニングウェア(春夏)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 3009
+  HairStyleId: 9
 - Id: 3009103301
   Label: トレーニングウェア(春夏)_大沢瑠璃乃
   CharactersId: 1033
@@ -1183,6 +1253,11 @@
   CharactersId: 1032
   CostumesId: 3015
   HairStyleId: 1
+- Id: 3015103209
+  Label: トレーニングウェア(秋冬)_村野さやか_髪型09
+  CharactersId: 1032
+  CostumesId: 3015
+  HairStyleId: 9
 - Id: 3015103301
   Label: トレーニングウェア(秋冬)_大沢瑠璃乃
   CharactersId: 1033
