@@ -103,6 +103,11 @@
   OrderId: 997
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 50000022
+  Name: 105期キービジュアル
+  OrderId: 996
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 50310212
   Name: 梢 103期夏制服
   OrderId: 19910
@@ -176,5 +181,45 @@
 - Id: 50410431
   Name: 姫芽 104期冬制服
   OrderId: 19803
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510311
+  Name: 花帆 105期冬制服
+  OrderId: 19706
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510321
+  Name: さやか 105期冬制服
+  OrderId: 19707
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510331
+  Name: 瑠璃乃 105期冬制服
+  OrderId: 19708
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510411
+  Name: 吟子 105期冬制服
+  OrderId: 19703
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510421
+  Name: 小鈴 105期冬制服
+  OrderId: 19704
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510431
+  Name: 姫芽 105期冬制服
+  OrderId: 19705
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510511
+  Name: 泉 105期冬制服
+  OrderId: 19702
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 50510521
+  Name: セラス 105期冬制服
+  OrderId: 19701
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z

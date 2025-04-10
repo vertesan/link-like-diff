@@ -3883,3 +3883,18 @@
   StartTime: 2025-04-01T09:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 1
+- Id: 10500191
+  AdvSeriesId: 105001
+  Name: PART 0
+  Description: 『A NEW STORY!!!!!!+』
+  ScriptId: 10500191
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 260
+  SubTitleName: "0"
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0

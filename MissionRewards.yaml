@@ -677,6 +677,20 @@
   ItemsId: 1002001
   RewardNum: 50
   RewardTextId: 40203001
+- Id: 302051011
+  MissionsId: 30205101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 50
+  RewardTextId: 40203001
+- Id: 302052011
+  MissionsId: 30205201
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 50
+  RewardTextId: 40203001
 - Id: 303021011
   MissionsId: 30302101
   RewardCategory: 2
@@ -735,6 +749,20 @@
   RewardTextId: 40203001
 - Id: 303043011
   MissionsId: 30304301
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 100
+  RewardTextId: 40203001
+- Id: 303051011
+  MissionsId: 30305101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 100
+  RewardTextId: 40203001
+- Id: 303052011
+  MissionsId: 30305201
   RewardCategory: 2
   RewardType: 3
   ItemsId: 1002001
@@ -861,6 +889,34 @@
   RewardTextId: 40203001
 - Id: 306043021
   MissionsId: 30604302
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306051011
+  MissionsId: 30605101
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306051021
+  MissionsId: 30605102
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306052011
+  MissionsId: 30605201
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 150
+  RewardTextId: 40203001
+- Id: 306052021
+  MissionsId: 30605202
   RewardCategory: 2
   RewardType: 3
   ItemsId: 1002001

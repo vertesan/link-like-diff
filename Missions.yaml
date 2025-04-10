@@ -805,7 +805,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 30050002
-  SortOrder: 11
+  SortOrder: 13
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -819,7 +819,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 11
+  SortOrder: 13
   TransitionContentsId: 106
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -861,7 +861,7 @@
   MissionConditionDetail: 1
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 31
+  SortOrder: 37
   TransitionContentsId: 103
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -875,7 +875,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 21
+  SortOrder: 25
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -889,7 +889,7 @@
   MissionConditionDetail: 1021
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 12
+  SortOrder: 14
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -903,7 +903,7 @@
   MissionConditionDetail: 1022
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 13
+  SortOrder: 15
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -917,7 +917,7 @@
   MissionConditionDetail: 1023
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 14
+  SortOrder: 16
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -931,7 +931,7 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 15
+  SortOrder: 17
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -945,7 +945,7 @@
   MissionConditionDetail: 1032
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 16
+  SortOrder: 18
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -959,7 +959,7 @@
   MissionConditionDetail: 1033
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 17
+  SortOrder: 19
   TransitionContentsId: 501
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -973,7 +973,7 @@
   MissionConditionDetail: 1041
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 18
+  SortOrder: 20
   TransitionContentsId: 501
   StartTime: 2024-04-12T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -987,7 +987,7 @@
   MissionConditionDetail: 1042
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 19
+  SortOrder: 21
   TransitionContentsId: 501
   StartTime: 2024-04-12T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1001,9 +1001,37 @@
   MissionConditionDetail: 1043
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 20
+  SortOrder: 22
   TransitionContentsId: 501
   StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30205101
+  Name: 桂城 泉のカードを5種類入手しよう
+  Description: 桂城 泉のカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1051
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 23
+  TransitionContentsId: 501
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30205201
+  Name: セラス 柳田 リリエンフェルトのカードを5種類入手しよう
+  Description: セラス 柳田 リリエンフェルトのカードを5枚入手しよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 20
+  MissionConditionNum: 5
+  MissionConditionDetail: 1052
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 24
+  TransitionContentsId: 501
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30302101
@@ -1015,7 +1043,7 @@
   MissionConditionDetail: 1021
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 22
+  SortOrder: 26
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1029,7 +1057,7 @@
   MissionConditionDetail: 1022
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 23
+  SortOrder: 27
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1043,7 +1071,7 @@
   MissionConditionDetail: 1023
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 24
+  SortOrder: 28
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1057,7 +1085,7 @@
   MissionConditionDetail: 1031
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 25
+  SortOrder: 29
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1071,7 +1099,7 @@
   MissionConditionDetail: 1032
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 26
+  SortOrder: 30
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1085,7 +1113,7 @@
   MissionConditionDetail: 1033
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 27
+  SortOrder: 31
   TransitionContentsId: 309
   StartTime: 2024-04-09T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1099,7 +1127,7 @@
   MissionConditionDetail: 1041
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 28
+  SortOrder: 32
   TransitionContentsId: 309
   StartTime: 2024-04-12T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1113,7 +1141,7 @@
   MissionConditionDetail: 1042
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 29
+  SortOrder: 33
   TransitionContentsId: 309
   StartTime: 2024-04-12T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -1127,9 +1155,37 @@
   MissionConditionDetail: 1043
   OpenType: 0
   NextMissionsId: 0
-  SortOrder: 30
+  SortOrder: 34
   TransitionContentsId: 309
   StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30305101
+  Name: 桂城 泉のスタイルのスタイルLv.を合計300まで上げよう
+  Description: 桂城 泉のスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1051
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 35
+  TransitionContentsId: 309
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30305201
+  Name: セラス 柳田 リリエンフェルトのスタイルのスタイルLv.を合計300まで上げよう
+  Description: セラス 柳田 リリエンフェルトのスタイルのスタイルLv.を合計300まで上げよう（レアリティ問わず）
+  MissionType: 3
+  MissionConditionType: 30
+  MissionConditionNum: 300
+  MissionConditionDetail: 1052
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 36
+  TransitionContentsId: 309
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 30602101
@@ -1382,5 +1438,61 @@
   SortOrder: 10
   TransitionContentsId: 203
   StartTime: 2024-04-12T19:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30605101
+  Name: 桂城 泉のMember Fan Lv.を10まで上げよう
+  Description: 桂城 泉のMember Fan Lv.を10まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 10
+  MissionConditionDetail: 1051
+  OpenType: 0
+  NextMissionsId: 30605102
+  SortOrder: 11
+  TransitionContentsId: 203
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30605102
+  Name: 桂城 泉のMember Fan Lv.を20まで上げよう
+  Description: 桂城 泉のMember Fan Lv.を20まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 20
+  MissionConditionDetail: 1051
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 203
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30605201
+  Name: セラス 柳田 リリエンフェルトのMember Fan Lv.を10まで上げよう
+  Description: セラス 柳田 リリエンフェルトのMember Fan Lv.を10まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 10
+  MissionConditionDetail: 1052
+  OpenType: 0
+  NextMissionsId: 30605202
+  SortOrder: 12
+  TransitionContentsId: 203
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 30605202
+  Name: セラス 柳田 リリエンフェルトのMember Fan Lv.を20まで上げよう
+  Description: セラス 柳田 リリエンフェルトのMember Fan Lv.を20まで上げよう
+  MissionType: 3
+  MissionConditionType: 60
+  MissionConditionNum: 20
+  MissionConditionDetail: 1052
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 12
+  TransitionContentsId: 203
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0

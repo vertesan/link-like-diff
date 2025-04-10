@@ -438,3 +438,58 @@
   GenerationsId: 104
   StartTime: 2024-12-18T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1050101
+  Name: 105期 SPRING Area1
+  Number: 1
+  Description: 105期 SPRING Area1
+  OrderId: 101
+  ImageType: 1
+  BgImageId: 1050101
+  SoundId: 1
+  GenerationsId: 105
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1050102
+  Name: 105期 SPRING Area2
+  Number: 2
+  Description: 105期 SPRING Area2
+  OrderId: 102
+  ImageType: 1
+  BgImageId: 1050102
+  SoundId: 1
+  GenerationsId: 105
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1050103
+  Name: 105期 SPRING Area3
+  Number: 3
+  Description: 105期 SPRING Area3
+  OrderId: 103
+  ImageType: 1
+  BgImageId: 1050103
+  SoundId: 1
+  GenerationsId: 105
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1050104
+  Name: 105期 SPRING Area4
+  Number: 4
+  Description: 105期 SPRING Area4
+  OrderId: 104
+  ImageType: 1
+  BgImageId: 1050104
+  SoundId: 1
+  GenerationsId: 105
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 1050105
+  Name: 105期 SPRING Area5
+  Number: 5
+  Description: 105期 SPRING Area5
+  OrderId: 105
+  ImageType: 1
+  BgImageId: 1050105
+  SoundId: 1
+  GenerationsId: 105
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z

@@ -48,6 +48,16 @@
   CharactersId: 1043
   CostumesId: 1001
   HairStyleId: 1
+- Id: 1001105101
+  Label: 制服(冬)_上靴_桂城泉
+  CharactersId: 1051
+  CostumesId: 1001
+  HairStyleId: 1
+- Id: 1001105201
+  Label: 制服(冬)_上靴_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 1001
+  HairStyleId: 1
 - Id: 1001900701
   Label: 制服(冬)_上靴_大賀美沙知
   CharactersId: 9007
@@ -281,6 +291,16 @@
 - Id: 1006104301
   Label: 制服(冬)_ローファー_安養寺姫芽
   CharactersId: 1043
+  CostumesId: 1006
+  HairStyleId: 1
+- Id: 1006105101
+  Label: 制服(冬)_ローファー_桂城泉
+  CharactersId: 1051
+  CostumesId: 1006
+  HairStyleId: 1
+- Id: 1006105201
+  Label: 制服(冬)_ローファー_セラス・柳田・L
+  CharactersId: 1052
   CostumesId: 1006
   HairStyleId: 1
 - Id: 1007102101

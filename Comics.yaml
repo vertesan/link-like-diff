@@ -949,14 +949,14 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   TabListId: 1041
-  AppearanceCharacterIds: "1031"
+  AppearanceCharacterIds: 1031,1051,1052
 - Id: 12049
   Name: 第49話
   ViewType: 0
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   TabListId: 1041
-  AppearanceCharacterIds: "1044"
+  AppearanceCharacterIds: 1051,1052
 - Id: 12050
   Name: 第50話
   ViewType: 0
@@ -999,3 +999,17 @@
   EndTime: 2035-12-31T14:59:59Z
   TabListId: 1041
   AppearanceCharacterIds: 1022,1032,1042
+- Id: 12056
+  Name: 第56話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1041
+  AppearanceCharacterIds: 1021,1031,1041
+- Id: 12057
+  Name: 第57話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1041
+  AppearanceCharacterIds: 1041,1042,1043

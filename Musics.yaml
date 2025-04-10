@@ -1641,6 +1641,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 105101
+  OrderId: 1034
+  Title: Dream Believers（105期Ver.）
+  TitleFurigana: どりーむびりーばーず
+  JacketId: 105101
+  SoundId: 10510101
+  Description: 全体曲
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1031
+  SingerCharacterId: 1032,1033,1041,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 10112
+  ApIncrement: 1160
+  SongTime: 11605
+  PlayTime: 139259
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!

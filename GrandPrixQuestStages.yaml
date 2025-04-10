@@ -25,6 +25,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703101102
   GrandPrixSeriesId: 7031011
   Name: ステージA-2
@@ -52,6 +53,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703101103
   GrandPrixSeriesId: 7031011
   Name: ステージA-3
@@ -79,6 +81,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703101104
   GrandPrixSeriesId: 7031011
   Name: ステージA-4
@@ -106,6 +109,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703101201
   GrandPrixSeriesId: 7031012
   Name: ステージB-1
@@ -133,6 +137,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703101202
   GrandPrixSeriesId: 7031012
   Name: ステージB-2
@@ -160,6 +165,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703101203
   GrandPrixSeriesId: 7031012
   Name: ステージB-3
@@ -187,6 +193,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703101204
   GrandPrixSeriesId: 7031012
   Name: ステージB-4
@@ -214,6 +221,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703101301
   GrandPrixSeriesId: 7031013
   Name: ステージC-1
@@ -241,6 +249,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703101302
   GrandPrixSeriesId: 7031013
   Name: ステージC-2
@@ -268,6 +277,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703101303
   GrandPrixSeriesId: 7031013
   Name: ステージC-3
@@ -295,6 +305,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703101304
   GrandPrixSeriesId: 7031013
   Name: ステージC-4
@@ -322,6 +333,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703102101
   GrandPrixSeriesId: 7031021
   Name: ステージA-1
@@ -349,6 +361,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703102102
   GrandPrixSeriesId: 7031021
   Name: ステージA-2
@@ -376,6 +389,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703102103
   GrandPrixSeriesId: 7031021
   Name: ステージA-3
@@ -403,6 +417,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703102104
   GrandPrixSeriesId: 7031021
   Name: ステージA-4
@@ -430,6 +445,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703102201
   GrandPrixSeriesId: 7031022
   Name: ステージB-1
@@ -457,6 +473,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703102202
   GrandPrixSeriesId: 7031022
   Name: ステージB-2
@@ -484,6 +501,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703102203
   GrandPrixSeriesId: 7031022
   Name: ステージB-3
@@ -511,6 +529,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703102204
   GrandPrixSeriesId: 7031022
   Name: ステージB-4
@@ -538,6 +557,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703102301
   GrandPrixSeriesId: 7031023
   Name: ステージC-1
@@ -565,6 +585,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703102302
   GrandPrixSeriesId: 7031023
   Name: ステージC-2
@@ -592,6 +613,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703102303
   GrandPrixSeriesId: 7031023
   Name: ステージC-3
@@ -619,6 +641,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703102304
   GrandPrixSeriesId: 7031023
   Name: ステージC-4
@@ -646,6 +669,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703103101
   GrandPrixSeriesId: 7031031
   Name: ステージA-1
@@ -673,6 +697,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703103102
   GrandPrixSeriesId: 7031031
   Name: ステージA-2
@@ -700,6 +725,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703103103
   GrandPrixSeriesId: 7031031
   Name: ステージA-3
@@ -727,6 +753,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703103104
   GrandPrixSeriesId: 7031031
   Name: ステージA-4
@@ -754,6 +781,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703103201
   GrandPrixSeriesId: 7031032
   Name: ステージB-1
@@ -781,6 +809,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703103202
   GrandPrixSeriesId: 7031032
   Name: ステージB-2
@@ -808,6 +837,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703103203
   GrandPrixSeriesId: 7031032
   Name: ステージB-3
@@ -835,6 +865,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703103204
   GrandPrixSeriesId: 7031032
   Name: ステージB-4
@@ -862,6 +893,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703103301
   GrandPrixSeriesId: 7031033
   Name: ステージC-1
@@ -889,6 +921,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703103302
   GrandPrixSeriesId: 7031033
   Name: ステージC-2
@@ -916,6 +949,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703103303
   GrandPrixSeriesId: 7031033
   Name: ステージC-3
@@ -943,6 +977,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703103304
   GrandPrixSeriesId: 7031033
   Name: ステージC-4
@@ -970,6 +1005,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703104101
   GrandPrixSeriesId: 7031041
   Name: ステージA-1
@@ -997,6 +1033,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703104102
   GrandPrixSeriesId: 7031041
   Name: ステージA-2
@@ -1024,6 +1061,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703104103
   GrandPrixSeriesId: 7031041
   Name: ステージA-3
@@ -1051,6 +1089,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703104104
   GrandPrixSeriesId: 7031041
   Name: ステージA-4
@@ -1078,6 +1117,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703104201
   GrandPrixSeriesId: 7031042
   Name: ステージB-1
@@ -1105,6 +1145,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703104202
   GrandPrixSeriesId: 7031042
   Name: ステージB-2
@@ -1132,6 +1173,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703104203
   GrandPrixSeriesId: 7031042
   Name: ステージB-3
@@ -1159,6 +1201,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703104204
   GrandPrixSeriesId: 7031042
   Name: ステージB-4
@@ -1186,6 +1229,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703104301
   GrandPrixSeriesId: 7031043
   Name: ステージC-1
@@ -1213,6 +1257,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703104302
   GrandPrixSeriesId: 7031043
   Name: ステージC-2
@@ -1240,6 +1285,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703104303
   GrandPrixSeriesId: 7031043
   Name: ステージC-3
@@ -1267,6 +1313,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703104304
   GrandPrixSeriesId: 7031043
   Name: ステージC-4
@@ -1294,6 +1341,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703105101
   GrandPrixSeriesId: 7031051
   Name: ステージA-1
@@ -1321,6 +1369,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703105102
   GrandPrixSeriesId: 7031051
   Name: ステージA-2
@@ -1348,6 +1397,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703105103
   GrandPrixSeriesId: 7031051
   Name: ステージA-3
@@ -1375,6 +1425,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703105104
   GrandPrixSeriesId: 7031051
   Name: ステージA-4
@@ -1402,6 +1453,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703105201
   GrandPrixSeriesId: 7031052
   Name: ステージB-1
@@ -1429,6 +1481,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703105202
   GrandPrixSeriesId: 7031052
   Name: ステージB-2
@@ -1456,6 +1509,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703105203
   GrandPrixSeriesId: 7031052
   Name: ステージB-3
@@ -1483,6 +1537,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703105204
   GrandPrixSeriesId: 7031052
   Name: ステージB-4
@@ -1510,6 +1565,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703105301
   GrandPrixSeriesId: 7031053
   Name: ステージC-1
@@ -1537,6 +1593,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703105302
   GrandPrixSeriesId: 7031053
   Name: ステージC-2
@@ -1564,6 +1621,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703105303
   GrandPrixSeriesId: 7031053
   Name: ステージC-3
@@ -1591,6 +1649,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703105304
   GrandPrixSeriesId: 7031053
   Name: ステージC-4
@@ -1618,6 +1677,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703106101
   GrandPrixSeriesId: 7031061
   Name: ステージA-1
@@ -1645,6 +1705,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703106102
   GrandPrixSeriesId: 7031061
   Name: ステージA-2
@@ -1672,6 +1733,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703106103
   GrandPrixSeriesId: 7031061
   Name: ステージA-3
@@ -1699,6 +1761,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703106104
   GrandPrixSeriesId: 7031061
   Name: ステージA-4
@@ -1726,6 +1789,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703106201
   GrandPrixSeriesId: 7031062
   Name: ステージB-1
@@ -1753,6 +1817,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703106202
   GrandPrixSeriesId: 7031062
   Name: ステージB-2
@@ -1780,6 +1845,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703106203
   GrandPrixSeriesId: 7031062
   Name: ステージB-3
@@ -1807,6 +1873,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703106204
   GrandPrixSeriesId: 7031062
   Name: ステージB-4
@@ -1834,6 +1901,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703106301
   GrandPrixSeriesId: 7031063
   Name: ステージC-1
@@ -1861,6 +1929,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703106302
   GrandPrixSeriesId: 7031063
   Name: ステージC-2
@@ -1888,6 +1957,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703106303
   GrandPrixSeriesId: 7031063
   Name: ステージC-3
@@ -1915,6 +1985,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703106304
   GrandPrixSeriesId: 7031063
   Name: ステージC-4
@@ -1942,6 +2013,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703107101
   GrandPrixSeriesId: 7031071
   Name: ステージA-1
@@ -1969,6 +2041,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703107102
   GrandPrixSeriesId: 7031071
   Name: ステージA-2
@@ -1996,6 +2069,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703107103
   GrandPrixSeriesId: 7031071
   Name: ステージA-3
@@ -2023,6 +2097,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703107104
   GrandPrixSeriesId: 7031071
   Name: ステージA-4
@@ -2050,6 +2125,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703107201
   GrandPrixSeriesId: 7031072
   Name: ステージB-1
@@ -2077,6 +2153,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703107202
   GrandPrixSeriesId: 7031072
   Name: ステージB-2
@@ -2104,6 +2181,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703107203
   GrandPrixSeriesId: 7031072
   Name: ステージB-3
@@ -2131,6 +2209,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703107204
   GrandPrixSeriesId: 7031072
   Name: ステージB-4
@@ -2158,6 +2237,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703107301
   GrandPrixSeriesId: 7031073
   Name: ステージC-1
@@ -2185,6 +2265,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703107302
   GrandPrixSeriesId: 7031073
   Name: ステージC-2
@@ -2212,6 +2293,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703107303
   GrandPrixSeriesId: 7031073
   Name: ステージC-3
@@ -2239,6 +2321,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703107304
   GrandPrixSeriesId: 7031073
   Name: ステージC-4
@@ -2266,6 +2349,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703108101
   GrandPrixSeriesId: 7031081
   Name: ステージA-1
@@ -2293,6 +2377,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703108102
   GrandPrixSeriesId: 7031081
   Name: ステージA-2
@@ -2320,6 +2405,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703108103
   GrandPrixSeriesId: 7031081
   Name: ステージA-3
@@ -2347,6 +2433,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703108104
   GrandPrixSeriesId: 7031081
   Name: ステージA-4
@@ -2374,6 +2461,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703108201
   GrandPrixSeriesId: 7031082
   Name: ステージB-1
@@ -2401,6 +2489,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703108202
   GrandPrixSeriesId: 7031082
   Name: ステージB-2
@@ -2428,6 +2517,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703108203
   GrandPrixSeriesId: 7031082
   Name: ステージB-3
@@ -2455,6 +2545,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703108204
   GrandPrixSeriesId: 7031082
   Name: ステージB-4
@@ -2482,6 +2573,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703108301
   GrandPrixSeriesId: 7031083
   Name: ステージC-1
@@ -2509,6 +2601,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703108302
   GrandPrixSeriesId: 7031083
   Name: ステージC-2
@@ -2536,6 +2629,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703108303
   GrandPrixSeriesId: 7031083
   Name: ステージC-3
@@ -2563,6 +2657,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703108304
   GrandPrixSeriesId: 7031083
   Name: ステージC-4
@@ -2590,6 +2685,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703109101
   GrandPrixSeriesId: 7031091
   Name: ステージA-1
@@ -2617,6 +2713,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703109102
   GrandPrixSeriesId: 7031091
   Name: ステージA-2
@@ -2644,6 +2741,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703109103
   GrandPrixSeriesId: 7031091
   Name: ステージA-3
@@ -2671,6 +2769,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703109104
   GrandPrixSeriesId: 7031091
   Name: ステージA-4
@@ -2698,6 +2797,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703109201
   GrandPrixSeriesId: 7031092
   Name: ステージB-1
@@ -2725,6 +2825,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703109202
   GrandPrixSeriesId: 7031092
   Name: ステージB-2
@@ -2752,6 +2853,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703109203
   GrandPrixSeriesId: 7031092
   Name: ステージB-3
@@ -2779,6 +2881,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703109204
   GrandPrixSeriesId: 7031092
   Name: ステージB-4
@@ -2806,6 +2909,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703109301
   GrandPrixSeriesId: 7031093
   Name: ステージC-1
@@ -2833,6 +2937,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703109302
   GrandPrixSeriesId: 7031093
   Name: ステージC-2
@@ -2860,6 +2965,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703109303
   GrandPrixSeriesId: 7031093
   Name: ステージC-3
@@ -2887,6 +2993,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703109304
   GrandPrixSeriesId: 7031093
   Name: ステージC-4
@@ -2914,6 +3021,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703110101
   GrandPrixSeriesId: 7031101
   Name: ステージA-1
@@ -2941,6 +3049,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703110102
   GrandPrixSeriesId: 7031101
   Name: ステージA-2
@@ -2968,6 +3077,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703110103
   GrandPrixSeriesId: 7031101
   Name: ステージA-3
@@ -2995,6 +3105,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703110104
   GrandPrixSeriesId: 7031101
   Name: ステージA-4
@@ -3022,6 +3133,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703110201
   GrandPrixSeriesId: 7031102
   Name: ステージB-1
@@ -3049,6 +3161,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703110202
   GrandPrixSeriesId: 7031102
   Name: ステージB-2
@@ -3076,6 +3189,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703110203
   GrandPrixSeriesId: 7031102
   Name: ステージB-3
@@ -3103,6 +3217,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703110204
   GrandPrixSeriesId: 7031102
   Name: ステージB-4
@@ -3130,6 +3245,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 703110301
   GrandPrixSeriesId: 7031103
   Name: ステージC-1
@@ -3157,6 +3273,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 703110302
   GrandPrixSeriesId: 7031103
   Name: ステージC-2
@@ -3184,6 +3301,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 703110303
   GrandPrixSeriesId: 7031103
   Name: ステージC-3
@@ -3211,6 +3329,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 703110304
   GrandPrixSeriesId: 7031103
   Name: ステージC-4
@@ -3238,6 +3357,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704101101
   GrandPrixSeriesId: 7041011
   Name: ステージA-1
@@ -3265,6 +3385,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704101102
   GrandPrixSeriesId: 7041011
   Name: ステージA-2
@@ -3292,6 +3413,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704101103
   GrandPrixSeriesId: 7041011
   Name: ステージA-3
@@ -3319,6 +3441,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704101104
   GrandPrixSeriesId: 7041011
   Name: ステージA-4
@@ -3346,6 +3469,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704101201
   GrandPrixSeriesId: 7041012
   Name: ステージB-1
@@ -3373,6 +3497,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704101202
   GrandPrixSeriesId: 7041012
   Name: ステージB-2
@@ -3400,6 +3525,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704101203
   GrandPrixSeriesId: 7041012
   Name: ステージB-3
@@ -3427,6 +3553,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704101204
   GrandPrixSeriesId: 7041012
   Name: ステージB-4
@@ -3454,6 +3581,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704101301
   GrandPrixSeriesId: 7041013
   Name: ステージC-1
@@ -3481,6 +3609,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704101302
   GrandPrixSeriesId: 7041013
   Name: ステージC-2
@@ -3508,6 +3637,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704101303
   GrandPrixSeriesId: 7041013
   Name: ステージC-3
@@ -3535,6 +3665,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704101304
   GrandPrixSeriesId: 7041013
   Name: ステージC-4
@@ -3562,6 +3693,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704102101
   GrandPrixSeriesId: 7041021
   Name: ステージA-1
@@ -3589,6 +3721,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704102102
   GrandPrixSeriesId: 7041021
   Name: ステージA-2
@@ -3616,6 +3749,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704102103
   GrandPrixSeriesId: 7041021
   Name: ステージA-3
@@ -3643,6 +3777,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704102104
   GrandPrixSeriesId: 7041021
   Name: ステージA-4
@@ -3670,6 +3805,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704102201
   GrandPrixSeriesId: 7041022
   Name: ステージB-1
@@ -3697,6 +3833,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704102202
   GrandPrixSeriesId: 7041022
   Name: ステージB-2
@@ -3724,6 +3861,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704102203
   GrandPrixSeriesId: 7041022
   Name: ステージB-3
@@ -3751,6 +3889,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704102204
   GrandPrixSeriesId: 7041022
   Name: ステージB-4
@@ -3778,6 +3917,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704102301
   GrandPrixSeriesId: 7041023
   Name: ステージC-1
@@ -3805,6 +3945,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704102302
   GrandPrixSeriesId: 7041023
   Name: ステージC-2
@@ -3832,6 +3973,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704102303
   GrandPrixSeriesId: 7041023
   Name: ステージC-3
@@ -3859,6 +4001,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704102304
   GrandPrixSeriesId: 7041023
   Name: ステージC-4
@@ -3886,6 +4029,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704103101
   GrandPrixSeriesId: 7041031
   Name: ステージA-1
@@ -3913,6 +4057,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704103102
   GrandPrixSeriesId: 7041031
   Name: ステージA-2
@@ -3940,6 +4085,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704103103
   GrandPrixSeriesId: 7041031
   Name: ステージA-3
@@ -3967,6 +4113,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704103104
   GrandPrixSeriesId: 7041031
   Name: ステージA-4
@@ -3994,6 +4141,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704103201
   GrandPrixSeriesId: 7041032
   Name: ステージB-1
@@ -4021,6 +4169,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704103202
   GrandPrixSeriesId: 7041032
   Name: ステージB-2
@@ -4048,6 +4197,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704103203
   GrandPrixSeriesId: 7041032
   Name: ステージB-3
@@ -4075,6 +4225,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704103204
   GrandPrixSeriesId: 7041032
   Name: ステージB-4
@@ -4102,6 +4253,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704103301
   GrandPrixSeriesId: 7041033
   Name: ステージC-1
@@ -4129,6 +4281,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704103302
   GrandPrixSeriesId: 7041033
   Name: ステージC-2
@@ -4156,6 +4309,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704103303
   GrandPrixSeriesId: 7041033
   Name: ステージC-3
@@ -4183,6 +4337,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704103304
   GrandPrixSeriesId: 7041033
   Name: ステージC-4
@@ -4210,6 +4365,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704104101
   GrandPrixSeriesId: 7041041
   Name: ステージA-1
@@ -4237,6 +4393,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704104102
   GrandPrixSeriesId: 7041041
   Name: ステージA-2
@@ -4264,6 +4421,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704104103
   GrandPrixSeriesId: 7041041
   Name: ステージA-3
@@ -4291,6 +4449,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704104104
   GrandPrixSeriesId: 7041041
   Name: ステージA-4
@@ -4318,6 +4477,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704104201
   GrandPrixSeriesId: 7041042
   Name: ステージB-1
@@ -4345,6 +4505,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704104202
   GrandPrixSeriesId: 7041042
   Name: ステージB-2
@@ -4372,6 +4533,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704104203
   GrandPrixSeriesId: 7041042
   Name: ステージB-3
@@ -4399,6 +4561,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704104204
   GrandPrixSeriesId: 7041042
   Name: ステージB-4
@@ -4426,6 +4589,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704104301
   GrandPrixSeriesId: 7041043
   Name: ステージC-1
@@ -4453,6 +4617,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704104302
   GrandPrixSeriesId: 7041043
   Name: ステージC-2
@@ -4480,6 +4645,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704104303
   GrandPrixSeriesId: 7041043
   Name: ステージC-3
@@ -4507,6 +4673,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704104304
   GrandPrixSeriesId: 7041043
   Name: ステージC-4
@@ -4534,6 +4701,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704105101
   GrandPrixSeriesId: 7041051
   Name: ステージA-1
@@ -4561,6 +4729,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704105102
   GrandPrixSeriesId: 7041051
   Name: ステージA-2
@@ -4588,6 +4757,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704105103
   GrandPrixSeriesId: 7041051
   Name: ステージA-3
@@ -4615,6 +4785,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704105104
   GrandPrixSeriesId: 7041051
   Name: ステージA-4
@@ -4642,6 +4813,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704105201
   GrandPrixSeriesId: 7041052
   Name: ステージB-1
@@ -4669,6 +4841,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704105202
   GrandPrixSeriesId: 7041052
   Name: ステージB-2
@@ -4696,6 +4869,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704105203
   GrandPrixSeriesId: 7041052
   Name: ステージB-3
@@ -4723,6 +4897,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704105204
   GrandPrixSeriesId: 7041052
   Name: ステージB-4
@@ -4750,6 +4925,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704105301
   GrandPrixSeriesId: 7041053
   Name: ステージC-1
@@ -4777,6 +4953,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704105302
   GrandPrixSeriesId: 7041053
   Name: ステージC-2
@@ -4804,6 +4981,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704105303
   GrandPrixSeriesId: 7041053
   Name: ステージC-3
@@ -4831,6 +5009,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704105304
   GrandPrixSeriesId: 7041053
   Name: ステージC-4
@@ -4858,6 +5037,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704106101
   GrandPrixSeriesId: 7041061
   Name: ステージA-1
@@ -4885,6 +5065,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704106102
   GrandPrixSeriesId: 7041061
   Name: ステージA-2
@@ -4912,6 +5093,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704106103
   GrandPrixSeriesId: 7041061
   Name: ステージA-3
@@ -4939,6 +5121,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704106104
   GrandPrixSeriesId: 7041061
   Name: ステージA-4
@@ -4966,6 +5149,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704106201
   GrandPrixSeriesId: 7041062
   Name: ステージB-1
@@ -4993,6 +5177,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704106202
   GrandPrixSeriesId: 7041062
   Name: ステージB-2
@@ -5020,6 +5205,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704106203
   GrandPrixSeriesId: 7041062
   Name: ステージB-3
@@ -5047,6 +5233,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704106204
   GrandPrixSeriesId: 7041062
   Name: ステージB-4
@@ -5074,6 +5261,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704106301
   GrandPrixSeriesId: 7041063
   Name: ステージC-1
@@ -5101,6 +5289,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704106302
   GrandPrixSeriesId: 7041063
   Name: ステージC-2
@@ -5128,6 +5317,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704106303
   GrandPrixSeriesId: 7041063
   Name: ステージC-3
@@ -5155,6 +5345,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704106304
   GrandPrixSeriesId: 7041063
   Name: ステージC-4
@@ -5182,6 +5373,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704107101
   GrandPrixSeriesId: 7041071
   Name: ステージA-1
@@ -5209,6 +5401,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704107102
   GrandPrixSeriesId: 7041071
   Name: ステージA-2
@@ -5236,6 +5429,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704107103
   GrandPrixSeriesId: 7041071
   Name: ステージA-3
@@ -5263,6 +5457,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704107104
   GrandPrixSeriesId: 7041071
   Name: ステージA-4
@@ -5290,6 +5485,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704107201
   GrandPrixSeriesId: 7041072
   Name: ステージB-1
@@ -5317,6 +5513,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704107202
   GrandPrixSeriesId: 7041072
   Name: ステージB-2
@@ -5344,6 +5541,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704107203
   GrandPrixSeriesId: 7041072
   Name: ステージB-3
@@ -5371,6 +5569,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704107204
   GrandPrixSeriesId: 7041072
   Name: ステージB-4
@@ -5398,6 +5597,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704107301
   GrandPrixSeriesId: 7041073
   Name: ステージC-1
@@ -5425,6 +5625,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704107302
   GrandPrixSeriesId: 7041073
   Name: ステージC-2
@@ -5452,6 +5653,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704107303
   GrandPrixSeriesId: 7041073
   Name: ステージC-3
@@ -5479,6 +5681,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704107304
   GrandPrixSeriesId: 7041073
   Name: ステージC-4
@@ -5506,6 +5709,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704108101
   GrandPrixSeriesId: 7041081
   Name: ステージA-1
@@ -5533,6 +5737,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704108102
   GrandPrixSeriesId: 7041081
   Name: ステージA-2
@@ -5560,6 +5765,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704108103
   GrandPrixSeriesId: 7041081
   Name: ステージA-3
@@ -5587,6 +5793,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704108104
   GrandPrixSeriesId: 7041081
   Name: ステージA-4
@@ -5614,6 +5821,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704108201
   GrandPrixSeriesId: 7041082
   Name: ステージB-1
@@ -5641,6 +5849,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704108202
   GrandPrixSeriesId: 7041082
   Name: ステージB-2
@@ -5668,6 +5877,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704108203
   GrandPrixSeriesId: 7041082
   Name: ステージB-3
@@ -5695,6 +5905,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704108204
   GrandPrixSeriesId: 7041082
   Name: ステージB-4
@@ -5722,6 +5933,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704108301
   GrandPrixSeriesId: 7041083
   Name: ステージC-1
@@ -5749,6 +5961,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704108302
   GrandPrixSeriesId: 7041083
   Name: ステージC-2
@@ -5776,6 +5989,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704108303
   GrandPrixSeriesId: 7041083
   Name: ステージC-3
@@ -5803,6 +6017,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704108304
   GrandPrixSeriesId: 7041083
   Name: ステージC-4
@@ -5830,6 +6045,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704109101
   GrandPrixSeriesId: 7041091
   Name: ステージA-1
@@ -5857,6 +6073,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704109102
   GrandPrixSeriesId: 7041091
   Name: ステージA-2
@@ -5884,6 +6101,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704109103
   GrandPrixSeriesId: 7041091
   Name: ステージA-3
@@ -5911,6 +6129,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704109104
   GrandPrixSeriesId: 7041091
   Name: ステージA-4
@@ -5938,6 +6157,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704109201
   GrandPrixSeriesId: 7041092
   Name: ステージB-1
@@ -5965,6 +6185,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704109202
   GrandPrixSeriesId: 7041092
   Name: ステージB-2
@@ -5992,6 +6213,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704109203
   GrandPrixSeriesId: 7041092
   Name: ステージB-3
@@ -6019,6 +6241,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704109204
   GrandPrixSeriesId: 7041092
   Name: ステージB-4
@@ -6046,6 +6269,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704109301
   GrandPrixSeriesId: 7041093
   Name: ステージC-1
@@ -6073,6 +6297,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704109302
   GrandPrixSeriesId: 7041093
   Name: ステージC-2
@@ -6100,6 +6325,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704109303
   GrandPrixSeriesId: 7041093
   Name: ステージC-3
@@ -6127,6 +6353,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704109304
   GrandPrixSeriesId: 7041093
   Name: ステージC-4
@@ -6154,6 +6381,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704110101
   GrandPrixSeriesId: 7041101
   Name: ステージA-1
@@ -6181,6 +6409,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704110102
   GrandPrixSeriesId: 7041101
   Name: ステージA-2
@@ -6208,6 +6437,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704110103
   GrandPrixSeriesId: 7041101
   Name: ステージA-3
@@ -6235,6 +6465,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704110104
   GrandPrixSeriesId: 7041101
   Name: ステージA-4
@@ -6262,6 +6493,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704110201
   GrandPrixSeriesId: 7041102
   Name: ステージB-1
@@ -6289,6 +6521,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704110202
   GrandPrixSeriesId: 7041102
   Name: ステージB-2
@@ -6316,6 +6549,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704110203
   GrandPrixSeriesId: 7041102
   Name: ステージB-3
@@ -6343,6 +6577,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704110204
   GrandPrixSeriesId: 7041102
   Name: ステージB-4
@@ -6370,6 +6605,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704110301
   GrandPrixSeriesId: 7041103
   Name: ステージC-1
@@ -6397,6 +6633,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704110302
   GrandPrixSeriesId: 7041103
   Name: ステージC-2
@@ -6424,6 +6661,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704110303
   GrandPrixSeriesId: 7041103
   Name: ステージC-3
@@ -6451,6 +6689,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704110304
   GrandPrixSeriesId: 7041103
   Name: ステージC-4
@@ -6478,6 +6717,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704111101
   GrandPrixSeriesId: 7041111
   Name: ステージA-1
@@ -6505,6 +6745,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704111102
   GrandPrixSeriesId: 7041111
   Name: ステージA-2
@@ -6532,6 +6773,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704111103
   GrandPrixSeriesId: 7041111
   Name: ステージA-3
@@ -6559,6 +6801,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704111104
   GrandPrixSeriesId: 7041111
   Name: ステージA-4
@@ -6586,6 +6829,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704111201
   GrandPrixSeriesId: 7041112
   Name: ステージB-1
@@ -6613,6 +6857,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704111202
   GrandPrixSeriesId: 7041112
   Name: ステージB-2
@@ -6640,6 +6885,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704111203
   GrandPrixSeriesId: 7041112
   Name: ステージB-3
@@ -6667,6 +6913,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704111204
   GrandPrixSeriesId: 7041112
   Name: ステージB-4
@@ -6694,6 +6941,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704111301
   GrandPrixSeriesId: 7041113
   Name: ステージC-1
@@ -6721,6 +6969,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704111302
   GrandPrixSeriesId: 7041113
   Name: ステージC-2
@@ -6748,6 +6997,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704111303
   GrandPrixSeriesId: 7041113
   Name: ステージC-3
@@ -6775,6 +7025,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704111304
   GrandPrixSeriesId: 7041113
   Name: ステージC-4
@@ -6802,6 +7053,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704112101
   GrandPrixSeriesId: 7041121
   Name: ステージA-1
@@ -6829,6 +7081,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704112102
   GrandPrixSeriesId: 7041121
   Name: ステージA-2
@@ -6856,6 +7109,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704112103
   GrandPrixSeriesId: 7041121
   Name: ステージA-3
@@ -6883,6 +7137,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704112104
   GrandPrixSeriesId: 7041121
   Name: ステージA-4
@@ -6910,6 +7165,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704112201
   GrandPrixSeriesId: 7041122
   Name: ステージB-1
@@ -6937,6 +7193,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704112202
   GrandPrixSeriesId: 7041122
   Name: ステージB-2
@@ -6964,6 +7221,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704112203
   GrandPrixSeriesId: 7041122
   Name: ステージB-3
@@ -6991,6 +7249,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704112204
   GrandPrixSeriesId: 7041122
   Name: ステージB-4
@@ -7018,6 +7277,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 704112301
   GrandPrixSeriesId: 7041123
   Name: ステージC-1
@@ -7045,6 +7305,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 704112302
   GrandPrixSeriesId: 7041123
   Name: ステージC-2
@@ -7072,6 +7333,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 704112303
   GrandPrixSeriesId: 7041123
   Name: ステージC-3
@@ -7099,6 +7361,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 704112304
   GrandPrixSeriesId: 7041123
   Name: ステージC-4
@@ -7126,6 +7389,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803101101
   GrandPrixSeriesId: 8031011
   Name: ステージA-1
@@ -7153,6 +7417,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803101102
   GrandPrixSeriesId: 8031011
   Name: ステージA-2
@@ -7180,6 +7445,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803101103
   GrandPrixSeriesId: 8031011
   Name: ステージA-3
@@ -7207,6 +7473,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803101104
   GrandPrixSeriesId: 8031011
   Name: ステージA-4
@@ -7234,6 +7501,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803101201
   GrandPrixSeriesId: 8031012
   Name: ステージB-1
@@ -7261,6 +7529,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803101202
   GrandPrixSeriesId: 8031012
   Name: ステージB-2
@@ -7288,6 +7557,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803101203
   GrandPrixSeriesId: 8031012
   Name: ステージB-3
@@ -7315,6 +7585,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803101204
   GrandPrixSeriesId: 8031012
   Name: ステージB-4
@@ -7342,6 +7613,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803101301
   GrandPrixSeriesId: 8031013
   Name: ステージC-1
@@ -7369,6 +7641,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803101302
   GrandPrixSeriesId: 8031013
   Name: ステージC-2
@@ -7396,6 +7669,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803101303
   GrandPrixSeriesId: 8031013
   Name: ステージC-3
@@ -7423,6 +7697,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803101304
   GrandPrixSeriesId: 8031013
   Name: ステージC-4
@@ -7450,6 +7725,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803102101
   GrandPrixSeriesId: 8031021
   Name: ステージA-1
@@ -7477,6 +7753,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803102102
   GrandPrixSeriesId: 8031021
   Name: ステージA-2
@@ -7504,6 +7781,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803102103
   GrandPrixSeriesId: 8031021
   Name: ステージA-3
@@ -7531,6 +7809,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803102104
   GrandPrixSeriesId: 8031021
   Name: ステージA-4
@@ -7558,6 +7837,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803102201
   GrandPrixSeriesId: 8031022
   Name: ステージB-1
@@ -7585,6 +7865,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803102202
   GrandPrixSeriesId: 8031022
   Name: ステージB-2
@@ -7612,6 +7893,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803102203
   GrandPrixSeriesId: 8031022
   Name: ステージB-3
@@ -7639,6 +7921,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803102204
   GrandPrixSeriesId: 8031022
   Name: ステージB-4
@@ -7666,6 +7949,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803102301
   GrandPrixSeriesId: 8031023
   Name: ステージC-1
@@ -7693,6 +7977,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803102302
   GrandPrixSeriesId: 8031023
   Name: ステージC-2
@@ -7720,6 +8005,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803102303
   GrandPrixSeriesId: 8031023
   Name: ステージC-3
@@ -7747,6 +8033,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803102304
   GrandPrixSeriesId: 8031023
   Name: ステージC-4
@@ -7774,6 +8061,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803103101
   GrandPrixSeriesId: 8031031
   Name: ステージA-1
@@ -7801,6 +8089,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803103102
   GrandPrixSeriesId: 8031031
   Name: ステージA-2
@@ -7828,6 +8117,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803103103
   GrandPrixSeriesId: 8031031
   Name: ステージA-3
@@ -7855,6 +8145,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803103104
   GrandPrixSeriesId: 8031031
   Name: ステージA-4
@@ -7882,6 +8173,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803103201
   GrandPrixSeriesId: 8031032
   Name: ステージB-1
@@ -7909,6 +8201,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803103202
   GrandPrixSeriesId: 8031032
   Name: ステージB-2
@@ -7936,6 +8229,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803103203
   GrandPrixSeriesId: 8031032
   Name: ステージB-3
@@ -7963,6 +8257,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803103204
   GrandPrixSeriesId: 8031032
   Name: ステージB-4
@@ -7990,6 +8285,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803103301
   GrandPrixSeriesId: 8031033
   Name: ステージC-1
@@ -8017,6 +8313,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803103302
   GrandPrixSeriesId: 8031033
   Name: ステージC-2
@@ -8044,6 +8341,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803103303
   GrandPrixSeriesId: 8031033
   Name: ステージC-3
@@ -8071,6 +8369,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803103304
   GrandPrixSeriesId: 8031033
   Name: ステージC-4
@@ -8098,6 +8397,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803104101
   GrandPrixSeriesId: 8031041
   Name: ステージA-1
@@ -8125,6 +8425,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803104102
   GrandPrixSeriesId: 8031041
   Name: ステージA-2
@@ -8152,6 +8453,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803104103
   GrandPrixSeriesId: 8031041
   Name: ステージA-3
@@ -8179,6 +8481,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803104104
   GrandPrixSeriesId: 8031041
   Name: ステージA-4
@@ -8206,6 +8509,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803104201
   GrandPrixSeriesId: 8031042
   Name: ステージB-1
@@ -8233,6 +8537,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803104202
   GrandPrixSeriesId: 8031042
   Name: ステージB-2
@@ -8260,6 +8565,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803104203
   GrandPrixSeriesId: 8031042
   Name: ステージB-3
@@ -8287,6 +8593,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803104204
   GrandPrixSeriesId: 8031042
   Name: ステージB-4
@@ -8314,6 +8621,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803104301
   GrandPrixSeriesId: 8031043
   Name: ステージC-1
@@ -8341,6 +8649,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803104302
   GrandPrixSeriesId: 8031043
   Name: ステージC-2
@@ -8368,6 +8677,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803104303
   GrandPrixSeriesId: 8031043
   Name: ステージC-3
@@ -8395,6 +8705,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803104304
   GrandPrixSeriesId: 8031043
   Name: ステージC-4
@@ -8422,6 +8733,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803105101
   GrandPrixSeriesId: 8031051
   Name: ステージA-1
@@ -8449,6 +8761,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803105102
   GrandPrixSeriesId: 8031051
   Name: ステージA-2
@@ -8476,6 +8789,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803105103
   GrandPrixSeriesId: 8031051
   Name: ステージA-3
@@ -8503,6 +8817,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803105104
   GrandPrixSeriesId: 8031051
   Name: ステージA-4
@@ -8530,6 +8845,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803105201
   GrandPrixSeriesId: 8031052
   Name: ステージB-1
@@ -8557,6 +8873,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803105202
   GrandPrixSeriesId: 8031052
   Name: ステージB-2
@@ -8584,6 +8901,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803105203
   GrandPrixSeriesId: 8031052
   Name: ステージB-3
@@ -8611,6 +8929,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803105204
   GrandPrixSeriesId: 8031052
   Name: ステージB-4
@@ -8638,6 +8957,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803105301
   GrandPrixSeriesId: 8031053
   Name: ステージC-1
@@ -8665,6 +8985,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803105302
   GrandPrixSeriesId: 8031053
   Name: ステージC-2
@@ -8692,6 +9013,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803105303
   GrandPrixSeriesId: 8031053
   Name: ステージC-3
@@ -8719,6 +9041,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803105304
   GrandPrixSeriesId: 8031053
   Name: ステージC-4
@@ -8746,6 +9069,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803106101
   GrandPrixSeriesId: 8031061
   Name: ステージA-1
@@ -8773,6 +9097,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803106102
   GrandPrixSeriesId: 8031061
   Name: ステージA-2
@@ -8800,6 +9125,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803106103
   GrandPrixSeriesId: 8031061
   Name: ステージA-3
@@ -8827,6 +9153,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803106104
   GrandPrixSeriesId: 8031061
   Name: ステージA-4
@@ -8854,6 +9181,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803106201
   GrandPrixSeriesId: 8031062
   Name: ステージB-1
@@ -8881,6 +9209,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803106202
   GrandPrixSeriesId: 8031062
   Name: ステージB-2
@@ -8908,6 +9237,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803106203
   GrandPrixSeriesId: 8031062
   Name: ステージB-3
@@ -8935,6 +9265,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803106204
   GrandPrixSeriesId: 8031062
   Name: ステージB-4
@@ -8962,6 +9293,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803106301
   GrandPrixSeriesId: 8031063
   Name: ステージC-1
@@ -8989,6 +9321,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803106302
   GrandPrixSeriesId: 8031063
   Name: ステージC-2
@@ -9016,6 +9349,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803106303
   GrandPrixSeriesId: 8031063
   Name: ステージC-3
@@ -9043,6 +9377,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803106304
   GrandPrixSeriesId: 8031063
   Name: ステージC-4
@@ -9070,6 +9405,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803107101
   GrandPrixSeriesId: 8031071
   Name: ステージA-1
@@ -9097,6 +9433,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803107102
   GrandPrixSeriesId: 8031071
   Name: ステージA-2
@@ -9124,6 +9461,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803107103
   GrandPrixSeriesId: 8031071
   Name: ステージA-3
@@ -9151,6 +9489,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803107104
   GrandPrixSeriesId: 8031071
   Name: ステージA-4
@@ -9178,6 +9517,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803107201
   GrandPrixSeriesId: 8031072
   Name: ステージB-1
@@ -9205,6 +9545,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803107202
   GrandPrixSeriesId: 8031072
   Name: ステージB-2
@@ -9232,6 +9573,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803107203
   GrandPrixSeriesId: 8031072
   Name: ステージB-3
@@ -9259,6 +9601,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803107204
   GrandPrixSeriesId: 8031072
   Name: ステージB-4
@@ -9286,6 +9629,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803107301
   GrandPrixSeriesId: 8031073
   Name: ステージC-1
@@ -9313,6 +9657,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803107302
   GrandPrixSeriesId: 8031073
   Name: ステージC-2
@@ -9340,6 +9685,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803107303
   GrandPrixSeriesId: 8031073
   Name: ステージC-3
@@ -9367,6 +9713,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803107304
   GrandPrixSeriesId: 8031073
   Name: ステージC-4
@@ -9394,6 +9741,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803108101
   GrandPrixSeriesId: 8031081
   Name: ステージA-1
@@ -9421,6 +9769,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803108102
   GrandPrixSeriesId: 8031081
   Name: ステージA-2
@@ -9448,6 +9797,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803108103
   GrandPrixSeriesId: 8031081
   Name: ステージA-3
@@ -9475,6 +9825,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803108104
   GrandPrixSeriesId: 8031081
   Name: ステージA-4
@@ -9502,6 +9853,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803108201
   GrandPrixSeriesId: 8031082
   Name: ステージB-1
@@ -9529,6 +9881,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803108202
   GrandPrixSeriesId: 8031082
   Name: ステージB-2
@@ -9556,6 +9909,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803108203
   GrandPrixSeriesId: 8031082
   Name: ステージB-3
@@ -9583,6 +9937,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803108204
   GrandPrixSeriesId: 8031082
   Name: ステージB-4
@@ -9610,6 +9965,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803108301
   GrandPrixSeriesId: 8031083
   Name: ステージC-1
@@ -9637,6 +9993,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803108302
   GrandPrixSeriesId: 8031083
   Name: ステージC-2
@@ -9664,6 +10021,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803108303
   GrandPrixSeriesId: 8031083
   Name: ステージC-3
@@ -9691,6 +10049,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803108304
   GrandPrixSeriesId: 8031083
   Name: ステージC-4
@@ -9718,6 +10077,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803109101
   GrandPrixSeriesId: 8031091
   Name: ステージA-1
@@ -9745,6 +10105,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803109102
   GrandPrixSeriesId: 8031091
   Name: ステージA-2
@@ -9772,6 +10133,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803109103
   GrandPrixSeriesId: 8031091
   Name: ステージA-3
@@ -9799,6 +10161,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803109104
   GrandPrixSeriesId: 8031091
   Name: ステージA-4
@@ -9826,6 +10189,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803109201
   GrandPrixSeriesId: 8031092
   Name: ステージB-1
@@ -9853,6 +10217,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803109202
   GrandPrixSeriesId: 8031092
   Name: ステージB-2
@@ -9880,6 +10245,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803109203
   GrandPrixSeriesId: 8031092
   Name: ステージB-3
@@ -9907,6 +10273,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803109204
   GrandPrixSeriesId: 8031092
   Name: ステージB-4
@@ -9934,6 +10301,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 803109301
   GrandPrixSeriesId: 8031093
   Name: ステージC-1
@@ -9961,6 +10329,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 803109302
   GrandPrixSeriesId: 8031093
   Name: ステージC-2
@@ -9988,6 +10357,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 803109303
   GrandPrixSeriesId: 8031093
   Name: ステージC-3
@@ -10015,6 +10385,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 803109304
   GrandPrixSeriesId: 8031093
   Name: ステージC-4
@@ -10042,6 +10413,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804101101
   GrandPrixSeriesId: 8041011
   Name: ステージA-1
@@ -10069,6 +10441,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804101102
   GrandPrixSeriesId: 8041011
   Name: ステージA-2
@@ -10096,6 +10469,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804101103
   GrandPrixSeriesId: 8041011
   Name: ステージA-3
@@ -10123,6 +10497,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804101104
   GrandPrixSeriesId: 8041011
   Name: ステージA-4
@@ -10150,6 +10525,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804101201
   GrandPrixSeriesId: 8041012
   Name: ステージB-1
@@ -10177,6 +10553,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804101202
   GrandPrixSeriesId: 8041012
   Name: ステージB-2
@@ -10204,6 +10581,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804101203
   GrandPrixSeriesId: 8041012
   Name: ステージB-3
@@ -10231,6 +10609,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804101204
   GrandPrixSeriesId: 8041012
   Name: ステージB-4
@@ -10258,6 +10637,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804101301
   GrandPrixSeriesId: 8041013
   Name: ステージC-1
@@ -10285,6 +10665,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804101302
   GrandPrixSeriesId: 8041013
   Name: ステージC-2
@@ -10312,6 +10693,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804101303
   GrandPrixSeriesId: 8041013
   Name: ステージC-3
@@ -10339,6 +10721,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804101304
   GrandPrixSeriesId: 8041013
   Name: ステージC-4
@@ -10366,6 +10749,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804102101
   GrandPrixSeriesId: 8041021
   Name: ステージA-1
@@ -10393,6 +10777,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804102102
   GrandPrixSeriesId: 8041021
   Name: ステージA-2
@@ -10420,6 +10805,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804102103
   GrandPrixSeriesId: 8041021
   Name: ステージA-3
@@ -10447,6 +10833,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804102104
   GrandPrixSeriesId: 8041021
   Name: ステージA-4
@@ -10474,6 +10861,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804102201
   GrandPrixSeriesId: 8041022
   Name: ステージB-1
@@ -10501,6 +10889,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804102202
   GrandPrixSeriesId: 8041022
   Name: ステージB-2
@@ -10528,6 +10917,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804102203
   GrandPrixSeriesId: 8041022
   Name: ステージB-3
@@ -10555,6 +10945,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804102204
   GrandPrixSeriesId: 8041022
   Name: ステージB-4
@@ -10582,6 +10973,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804102301
   GrandPrixSeriesId: 8041023
   Name: ステージC-1
@@ -10609,6 +11001,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804102302
   GrandPrixSeriesId: 8041023
   Name: ステージC-2
@@ -10636,6 +11029,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804102303
   GrandPrixSeriesId: 8041023
   Name: ステージC-3
@@ -10663,6 +11057,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804102304
   GrandPrixSeriesId: 8041023
   Name: ステージC-4
@@ -10690,6 +11085,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804103101
   GrandPrixSeriesId: 8041031
   Name: ステージA-1
@@ -10717,6 +11113,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804103102
   GrandPrixSeriesId: 8041031
   Name: ステージA-2
@@ -10744,6 +11141,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804103103
   GrandPrixSeriesId: 8041031
   Name: ステージA-3
@@ -10771,6 +11169,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804103104
   GrandPrixSeriesId: 8041031
   Name: ステージA-4
@@ -10798,6 +11197,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804103201
   GrandPrixSeriesId: 8041032
   Name: ステージB-1
@@ -10825,6 +11225,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804103202
   GrandPrixSeriesId: 8041032
   Name: ステージB-2
@@ -10852,6 +11253,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804103203
   GrandPrixSeriesId: 8041032
   Name: ステージB-3
@@ -10879,6 +11281,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804103204
   GrandPrixSeriesId: 8041032
   Name: ステージB-4
@@ -10906,6 +11309,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804103301
   GrandPrixSeriesId: 8041033
   Name: ステージC-1
@@ -10933,6 +11337,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804103302
   GrandPrixSeriesId: 8041033
   Name: ステージC-2
@@ -10960,6 +11365,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804103303
   GrandPrixSeriesId: 8041033
   Name: ステージC-3
@@ -10987,6 +11393,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804103304
   GrandPrixSeriesId: 8041033
   Name: ステージC-4
@@ -11014,6 +11421,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804104101
   GrandPrixSeriesId: 8041041
   Name: ステージA-1
@@ -11041,6 +11449,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804104102
   GrandPrixSeriesId: 8041041
   Name: ステージA-2
@@ -11068,6 +11477,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804104103
   GrandPrixSeriesId: 8041041
   Name: ステージA-3
@@ -11095,6 +11505,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804104104
   GrandPrixSeriesId: 8041041
   Name: ステージA-4
@@ -11122,6 +11533,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804104201
   GrandPrixSeriesId: 8041042
   Name: ステージB-1
@@ -11149,6 +11561,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804104202
   GrandPrixSeriesId: 8041042
   Name: ステージB-2
@@ -11176,6 +11589,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804104203
   GrandPrixSeriesId: 8041042
   Name: ステージB-3
@@ -11203,6 +11617,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804104204
   GrandPrixSeriesId: 8041042
   Name: ステージB-4
@@ -11230,6 +11645,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804104301
   GrandPrixSeriesId: 8041043
   Name: ステージC-1
@@ -11257,6 +11673,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804104302
   GrandPrixSeriesId: 8041043
   Name: ステージC-2
@@ -11284,6 +11701,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804104303
   GrandPrixSeriesId: 8041043
   Name: ステージC-3
@@ -11311,6 +11729,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804104304
   GrandPrixSeriesId: 8041043
   Name: ステージC-4
@@ -11338,6 +11757,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804105101
   GrandPrixSeriesId: 8041051
   Name: ステージA-1
@@ -11365,6 +11785,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804105102
   GrandPrixSeriesId: 8041051
   Name: ステージA-2
@@ -11392,6 +11813,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804105103
   GrandPrixSeriesId: 8041051
   Name: ステージA-3
@@ -11419,6 +11841,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804105104
   GrandPrixSeriesId: 8041051
   Name: ステージA-4
@@ -11446,6 +11869,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804105201
   GrandPrixSeriesId: 8041052
   Name: ステージB-1
@@ -11473,6 +11897,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804105202
   GrandPrixSeriesId: 8041052
   Name: ステージB-2
@@ -11500,6 +11925,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804105203
   GrandPrixSeriesId: 8041052
   Name: ステージB-3
@@ -11527,6 +11953,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804105204
   GrandPrixSeriesId: 8041052
   Name: ステージB-4
@@ -11554,6 +11981,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804105301
   GrandPrixSeriesId: 8041053
   Name: ステージC-1
@@ -11581,6 +12009,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804105302
   GrandPrixSeriesId: 8041053
   Name: ステージC-2
@@ -11608,6 +12037,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804105303
   GrandPrixSeriesId: 8041053
   Name: ステージC-3
@@ -11635,6 +12065,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804105304
   GrandPrixSeriesId: 8041053
   Name: ステージC-4
@@ -11662,6 +12093,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804106101
   GrandPrixSeriesId: 8041061
   Name: ステージA-1
@@ -11689,6 +12121,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804106102
   GrandPrixSeriesId: 8041061
   Name: ステージA-2
@@ -11716,6 +12149,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804106103
   GrandPrixSeriesId: 8041061
   Name: ステージA-3
@@ -11743,6 +12177,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804106104
   GrandPrixSeriesId: 8041061
   Name: ステージA-4
@@ -11770,6 +12205,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804106201
   GrandPrixSeriesId: 8041062
   Name: ステージB-1
@@ -11797,6 +12233,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804106202
   GrandPrixSeriesId: 8041062
   Name: ステージB-2
@@ -11824,6 +12261,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804106203
   GrandPrixSeriesId: 8041062
   Name: ステージB-3
@@ -11851,6 +12289,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804106204
   GrandPrixSeriesId: 8041062
   Name: ステージB-4
@@ -11878,6 +12317,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804106301
   GrandPrixSeriesId: 8041063
   Name: ステージC-1
@@ -11905,6 +12345,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804106302
   GrandPrixSeriesId: 8041063
   Name: ステージC-2
@@ -11932,6 +12373,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804106303
   GrandPrixSeriesId: 8041063
   Name: ステージC-3
@@ -11959,6 +12401,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804106304
   GrandPrixSeriesId: 8041063
   Name: ステージC-4
@@ -11986,6 +12429,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804107101
   GrandPrixSeriesId: 8041071
   Name: ステージA-1
@@ -12013,6 +12457,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804107102
   GrandPrixSeriesId: 8041071
   Name: ステージA-2
@@ -12040,6 +12485,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804107103
   GrandPrixSeriesId: 8041071
   Name: ステージA-3
@@ -12067,6 +12513,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804107104
   GrandPrixSeriesId: 8041071
   Name: ステージA-4
@@ -12094,6 +12541,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804107201
   GrandPrixSeriesId: 8041072
   Name: ステージB-1
@@ -12121,6 +12569,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804107202
   GrandPrixSeriesId: 8041072
   Name: ステージB-2
@@ -12148,6 +12597,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804107203
   GrandPrixSeriesId: 8041072
   Name: ステージB-3
@@ -12175,6 +12625,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804107204
   GrandPrixSeriesId: 8041072
   Name: ステージB-4
@@ -12202,6 +12653,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804107301
   GrandPrixSeriesId: 8041073
   Name: ステージC-1
@@ -12229,6 +12681,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804107302
   GrandPrixSeriesId: 8041073
   Name: ステージC-2
@@ -12256,6 +12709,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804107303
   GrandPrixSeriesId: 8041073
   Name: ステージC-3
@@ -12283,6 +12737,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804107304
   GrandPrixSeriesId: 8041073
   Name: ステージC-4
@@ -12310,6 +12765,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804108101
   GrandPrixSeriesId: 8041081
   Name: ステージA-1
@@ -12337,6 +12793,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804108102
   GrandPrixSeriesId: 8041081
   Name: ステージA-2
@@ -12364,6 +12821,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804108103
   GrandPrixSeriesId: 8041081
   Name: ステージA-3
@@ -12391,6 +12849,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804108104
   GrandPrixSeriesId: 8041081
   Name: ステージA-4
@@ -12418,6 +12877,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804108201
   GrandPrixSeriesId: 8041082
   Name: ステージB-1
@@ -12445,6 +12905,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804108202
   GrandPrixSeriesId: 8041082
   Name: ステージB-2
@@ -12472,6 +12933,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804108203
   GrandPrixSeriesId: 8041082
   Name: ステージB-3
@@ -12499,6 +12961,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804108204
   GrandPrixSeriesId: 8041082
   Name: ステージB-4
@@ -12526,6 +12989,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804108301
   GrandPrixSeriesId: 8041083
   Name: ステージC-1
@@ -12553,6 +13017,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804108302
   GrandPrixSeriesId: 8041083
   Name: ステージC-2
@@ -12580,6 +13045,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804108303
   GrandPrixSeriesId: 8041083
   Name: ステージC-3
@@ -12607,6 +13073,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804108304
   GrandPrixSeriesId: 8041083
   Name: ステージC-4
@@ -12634,6 +13101,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804109101
   GrandPrixSeriesId: 8041091
   Name: ステージA-1
@@ -12661,6 +13129,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804109102
   GrandPrixSeriesId: 8041091
   Name: ステージA-2
@@ -12688,6 +13157,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804109103
   GrandPrixSeriesId: 8041091
   Name: ステージA-3
@@ -12715,6 +13185,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804109104
   GrandPrixSeriesId: 8041091
   Name: ステージA-4
@@ -12742,6 +13213,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804109201
   GrandPrixSeriesId: 8041092
   Name: ステージB-1
@@ -12769,6 +13241,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804109202
   GrandPrixSeriesId: 8041092
   Name: ステージB-2
@@ -12796,6 +13269,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804109203
   GrandPrixSeriesId: 8041092
   Name: ステージB-3
@@ -12823,6 +13297,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804109204
   GrandPrixSeriesId: 8041092
   Name: ステージB-4
@@ -12850,6 +13325,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804109301
   GrandPrixSeriesId: 8041093
   Name: ステージC-1
@@ -12877,6 +13353,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804109302
   GrandPrixSeriesId: 8041093
   Name: ステージC-2
@@ -12904,6 +13381,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804109303
   GrandPrixSeriesId: 8041093
   Name: ステージC-3
@@ -12931,6 +13409,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804109304
   GrandPrixSeriesId: 8041093
   Name: ステージC-4
@@ -12958,6 +13437,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804110101
   GrandPrixSeriesId: 8041101
   Name: ステージA-1
@@ -12985,6 +13465,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804110102
   GrandPrixSeriesId: 8041101
   Name: ステージA-2
@@ -13012,6 +13493,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804110103
   GrandPrixSeriesId: 8041101
   Name: ステージA-3
@@ -13039,6 +13521,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804110104
   GrandPrixSeriesId: 8041101
   Name: ステージA-4
@@ -13066,6 +13549,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804110201
   GrandPrixSeriesId: 8041102
   Name: ステージB-1
@@ -13093,6 +13577,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804110202
   GrandPrixSeriesId: 8041102
   Name: ステージB-2
@@ -13120,6 +13605,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804110203
   GrandPrixSeriesId: 8041102
   Name: ステージB-3
@@ -13147,6 +13633,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804110204
   GrandPrixSeriesId: 8041102
   Name: ステージB-4
@@ -13174,6 +13661,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804110301
   GrandPrixSeriesId: 8041103
   Name: ステージC-1
@@ -13201,6 +13689,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804110302
   GrandPrixSeriesId: 8041103
   Name: ステージC-2
@@ -13228,6 +13717,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804110303
   GrandPrixSeriesId: 8041103
   Name: ステージC-3
@@ -13255,6 +13745,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804110304
   GrandPrixSeriesId: 8041103
   Name: ステージC-4
@@ -13282,6 +13773,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804111101
   GrandPrixSeriesId: 8041111
   Name: ステージA-1
@@ -13309,6 +13801,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804111102
   GrandPrixSeriesId: 8041111
   Name: ステージA-2
@@ -13336,6 +13829,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804111103
   GrandPrixSeriesId: 8041111
   Name: ステージA-3
@@ -13363,6 +13857,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804111104
   GrandPrixSeriesId: 8041111
   Name: ステージA-4
@@ -13390,6 +13885,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804111201
   GrandPrixSeriesId: 8041112
   Name: ステージB-1
@@ -13417,6 +13913,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804111202
   GrandPrixSeriesId: 8041112
   Name: ステージB-2
@@ -13444,6 +13941,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804111203
   GrandPrixSeriesId: 8041112
   Name: ステージB-3
@@ -13471,6 +13969,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804111204
   GrandPrixSeriesId: 8041112
   Name: ステージB-4
@@ -13498,6 +13997,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804111301
   GrandPrixSeriesId: 8041113
   Name: ステージC-1
@@ -13525,6 +14025,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804111302
   GrandPrixSeriesId: 8041113
   Name: ステージC-2
@@ -13552,6 +14053,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804111303
   GrandPrixSeriesId: 8041113
   Name: ステージC-3
@@ -13579,6 +14081,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804111304
   GrandPrixSeriesId: 8041113
   Name: ステージC-4
@@ -13606,6 +14109,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804112101
   GrandPrixSeriesId: 8041121
   Name: ステージA-1
@@ -13633,6 +14137,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804112102
   GrandPrixSeriesId: 8041121
   Name: ステージA-2
@@ -13660,6 +14165,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804112103
   GrandPrixSeriesId: 8041121
   Name: ステージA-3
@@ -13687,6 +14193,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804112104
   GrandPrixSeriesId: 8041121
   Name: ステージA-4
@@ -13714,6 +14221,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804112201
   GrandPrixSeriesId: 8041122
   Name: ステージB-1
@@ -13741,6 +14249,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804112202
   GrandPrixSeriesId: 8041122
   Name: ステージB-2
@@ -13768,6 +14277,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804112203
   GrandPrixSeriesId: 8041122
   Name: ステージB-3
@@ -13795,6 +14305,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804112204
   GrandPrixSeriesId: 8041122
   Name: ステージB-4
@@ -13822,6 +14333,7 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
 - Id: 804112301
   GrandPrixSeriesId: 8041123
   Name: ステージC-1
@@ -13849,6 +14361,7 @@
   ScoreBonusValue1: 10000
   ScoreBonusValue2: 10000
   ScoreBonusValue3: 10000
+  SkipRestrictedType: 0
 - Id: 804112302
   GrandPrixSeriesId: 8041123
   Name: ステージC-2
@@ -13876,6 +14389,7 @@
   ScoreBonusValue1: 10500
   ScoreBonusValue2: 10750
   ScoreBonusValue3: 11000
+  SkipRestrictedType: 0
 - Id: 804112303
   GrandPrixSeriesId: 8041123
   Name: ステージC-3
@@ -13903,6 +14417,7 @@
   ScoreBonusValue1: 11500
   ScoreBonusValue2: 11750
   ScoreBonusValue3: 12000
+  SkipRestrictedType: 0
 - Id: 804112304
   GrandPrixSeriesId: 8041123
   Name: ステージC-4
@@ -13930,3 +14445,340 @@
   ScoreBonusValue1: 12500
   ScoreBonusValue2: 12750
   ScoreBonusValue3: 13000
+  SkipRestrictedType: 0
+- Id: 805101101
+  GrandPrixSeriesId: 8051011
+  Name: ステージA-1
+  Description: ステージA-1
+  Hint: ""
+  OrderId: 1
+  StageType: 0
+  LiveStagesId: 805011
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  QuestRank: 1
+  FirstClearRewardSeriesId: 8051011011
+  CompleteRewardSeriesId: 8051011013
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 750000
+  Score2: 1000000
+  Score3: 1200000
+  StylePoint: 500
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10000
+  ScoreBonusValue2: 10000
+  ScoreBonusValue3: 10000
+  SkipRestrictedType: 1
+- Id: 805101102
+  GrandPrixSeriesId: 8051011
+  Name: ステージA-2
+  Description: ステージA-2
+  Hint: ""
+  OrderId: 2
+  StageType: 0
+  LiveStagesId: 805012
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  QuestRank: 2
+  FirstClearRewardSeriesId: 8051011021
+  CompleteRewardSeriesId: 8051011023
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 3500000
+  Score2: 5000000
+  Score3: 6000000
+  StylePoint: 1000
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10500
+  ScoreBonusValue2: 10750
+  ScoreBonusValue3: 11000
+  SkipRestrictedType: 1
+- Id: 805101103
+  GrandPrixSeriesId: 8051011
+  Name: ステージA-3
+  Description: ステージA-3
+  Hint: ""
+  OrderId: 3
+  StageType: 0
+  LiveStagesId: 805013
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 30
+  QuestRank: 3
+  FirstClearRewardSeriesId: 8051011031
+  CompleteRewardSeriesId: 8051011033
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+  Score2: 13500000
+  Score3: 15000000
+  StylePoint: 1500
+  GainMusicExp: 0
+  ScoreBonusValue0: 11000
+  ScoreBonusValue1: 11500
+  ScoreBonusValue2: 11750
+  ScoreBonusValue3: 12000
+  SkipRestrictedType: 1
+- Id: 805101104
+  GrandPrixSeriesId: 8051011
+  Name: ステージA-4
+  Description: ステージA-4
+  Hint: ""
+  OrderId: 4
+  StageType: 0
+  LiveStagesId: 805014
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204120
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 4
+  FirstClearRewardSeriesId: 8051011041
+  CompleteRewardSeriesId: 8051011043
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 18000000
+  Score2: 21000000
+  Score3: 22500000
+  StylePoint: 2000
+  GainMusicExp: 0
+  ScoreBonusValue0: 12000
+  ScoreBonusValue1: 12500
+  ScoreBonusValue2: 12750
+  ScoreBonusValue3: 13000
+  SkipRestrictedType: 1
+- Id: 805101201
+  GrandPrixSeriesId: 8051012
+  Name: ステージB-1
+  Description: ステージB-1
+  Hint: ""
+  OrderId: 1
+  StageType: 0
+  LiveStagesId: 805021
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  QuestRank: 1
+  FirstClearRewardSeriesId: 8051012011
+  CompleteRewardSeriesId: 8051012013
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 750000
+  Score2: 1000000
+  Score3: 1200000
+  StylePoint: 500
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10000
+  ScoreBonusValue2: 10000
+  ScoreBonusValue3: 10000
+  SkipRestrictedType: 1
+- Id: 805101202
+  GrandPrixSeriesId: 8051012
+  Name: ステージB-2
+  Description: ステージB-2
+  Hint: ""
+  OrderId: 2
+  StageType: 0
+  LiveStagesId: 805022
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  QuestRank: 2
+  FirstClearRewardSeriesId: 8051012021
+  CompleteRewardSeriesId: 8051012023
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 3500000
+  Score2: 5000000
+  Score3: 6000000
+  StylePoint: 1000
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10500
+  ScoreBonusValue2: 10750
+  ScoreBonusValue3: 11000
+  SkipRestrictedType: 1
+- Id: 805101203
+  GrandPrixSeriesId: 8051012
+  Name: ステージB-3
+  Description: ステージB-3
+  Hint: ""
+  OrderId: 3
+  StageType: 0
+  LiveStagesId: 805023
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 30
+  QuestRank: 3
+  FirstClearRewardSeriesId: 8051012031
+  CompleteRewardSeriesId: 8051012033
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+  Score2: 13500000
+  Score3: 15000000
+  StylePoint: 1500
+  GainMusicExp: 0
+  ScoreBonusValue0: 11000
+  ScoreBonusValue1: 11500
+  ScoreBonusValue2: 11750
+  ScoreBonusValue3: 12000
+  SkipRestrictedType: 1
+- Id: 805101204
+  GrandPrixSeriesId: 8051012
+  Name: ステージB-4
+  Description: ステージB-4
+  Hint: ""
+  OrderId: 4
+  StageType: 0
+  LiveStagesId: 805024
+  QuestMusicsType: 2
+  QuestMusicsDetail: 104118
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 4
+  FirstClearRewardSeriesId: 8051012041
+  CompleteRewardSeriesId: 8051012043
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 18000000
+  Score2: 21000000
+  Score3: 22500000
+  StylePoint: 2000
+  GainMusicExp: 0
+  ScoreBonusValue0: 12000
+  ScoreBonusValue1: 12500
+  ScoreBonusValue2: 12750
+  ScoreBonusValue3: 13000
+  SkipRestrictedType: 1
+- Id: 805101301
+  GrandPrixSeriesId: 8051013
+  Name: ステージC-1
+  Description: ステージC-1
+  Hint: ""
+  OrderId: 1
+  StageType: 0
+  LiveStagesId: 805031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105101
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 6
+  QuestRank: 1
+  FirstClearRewardSeriesId: 8051013011
+  CompleteRewardSeriesId: 8051013013
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 750000
+  Score2: 1000000
+  Score3: 1200000
+  StylePoint: 500
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10000
+  ScoreBonusValue2: 10000
+  ScoreBonusValue3: 10000
+  SkipRestrictedType: 1
+- Id: 805101302
+  GrandPrixSeriesId: 8051013
+  Name: ステージC-2
+  Description: ステージC-2
+  Hint: ""
+  OrderId: 2
+  StageType: 0
+  LiveStagesId: 805032
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105101
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 18
+  QuestRank: 2
+  FirstClearRewardSeriesId: 8051013021
+  CompleteRewardSeriesId: 8051013023
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 3500000
+  Score2: 5000000
+  Score3: 6000000
+  StylePoint: 1000
+  GainMusicExp: 0
+  ScoreBonusValue0: 10000
+  ScoreBonusValue1: 10500
+  ScoreBonusValue2: 10750
+  ScoreBonusValue3: 11000
+  SkipRestrictedType: 1
+- Id: 805101303
+  GrandPrixSeriesId: 8051013
+  Name: ステージC-3
+  Description: ステージC-3
+  Hint: ""
+  OrderId: 3
+  StageType: 0
+  LiveStagesId: 805033
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105101
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 30
+  QuestRank: 3
+  FirstClearRewardSeriesId: 8051013031
+  CompleteRewardSeriesId: 8051013033
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+  Score2: 13500000
+  Score3: 15000000
+  StylePoint: 1500
+  GainMusicExp: 0
+  ScoreBonusValue0: 11000
+  ScoreBonusValue1: 11500
+  ScoreBonusValue2: 11750
+  ScoreBonusValue3: 12000
+  SkipRestrictedType: 1
+- Id: 805101304
+  GrandPrixSeriesId: 8051013
+  Name: ステージC-4
+  Description: ステージC-4
+  Hint: ""
+  OrderId: 4
+  StageType: 0
+  LiveStagesId: 805034
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105101
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 4
+  FirstClearRewardSeriesId: 8051013041
+  CompleteRewardSeriesId: 8051013043
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 18000000
+  Score2: 21000000
+  Score3: 22500000
+  StylePoint: 2000
+  GainMusicExp: 0
+  ScoreBonusValue0: 12000
+  ScoreBonusValue1: 12500
+  ScoreBonusValue2: 12750
+  ScoreBonusValue3: 13000
+  SkipRestrictedType: 1

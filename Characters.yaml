@@ -20,6 +20,38 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 0
   StyleType: 2
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "101"
+- Id: 1020
+  NameLast: ""
+  NameFirst: ""
+  LatinAlphabetNameLast: ""
+  LatinAlphabetNameFirst: ""
+  GenerationsId: 100
+  SeriesType: 0
+  IconOrderId: 997
+  CharacterVoice: 花宮初奈&佐々木琴子&月音こな
+  ThemeColor: "#003670"
+  Introduction: |-
+    誕生日　　　　　　身長　　 
+    趣味　　　　　　 
+    特技　　　　　　 
+    好きな食べ物　　 
+    好きな言葉　　　 
+    好きな教科　　　 
+    好きな動物　　　
+  ShowSeasonFanLvStartTime: 2025-03-31T03:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 0
+  StyleType: 2
+  PrintFilterType: 1
+  DisplayFullName: 乙宗 梢＆夕霧 綴理＆藤島 慈
+  LatinAlpabetFullName: Otomune Kozue ＆ Yugiri Tsuzuri ＆ Fujishima Megumi
+  NameDisplayType: 1
+  DisplayGeneration: "102"
 - Id: 1021
   NameLast: 乙宗
   NameFirst: 梢
@@ -27,10 +59,11 @@
   LatinAlphabetNameFirst: Kozue
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 7
+  IconOrderId: 9
   CharacterVoice: 花宮初奈
   ThemeColor: "#68be8d"
   Introduction: |-
+    蓮ノ空女学院 102期卒業生
     誕生日　　6月15日　　　　身長　　167cm
     趣味　　　　　　天体観測、音楽鑑賞、お茶菓子作り
     特技　　　　　　クラシックバレエ、筋トレ
@@ -39,9 +72,14 @@
     好きな教科　　　美術、世界史
     好きな動物　　　猫
   ShowSeasonFanLvStartTime: 2022-12-31T15:00:00Z
-  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  ShowSeasonFanLvEndTime: 2025-04-10T11:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "102"
 - Id: 1022
   NameLast: 夕霧
   NameFirst: 綴理
@@ -49,10 +87,11 @@
   LatinAlphabetNameFirst: Tsuzuri
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 8
+  IconOrderId: 10
   CharacterVoice: 佐々木琴子
   ThemeColor: "#ba2636"
   Introduction: |-
+    蓮ノ空女学院 102期卒業生
     誕生日　　11月17日　　　　身長　　171cm
     趣味　　　　　　うごくものをながめる、誰かの話を聞くこと
     特技　　　　　　寝るまでの速さは自慢
@@ -61,9 +100,14 @@
     好きな教科　　　数学
     好きな動物　　　あったかい生き物
   ShowSeasonFanLvStartTime: 2022-12-31T15:00:00Z
-  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  ShowSeasonFanLvEndTime: 2025-04-10T11:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "102"
 - Id: 1023
   NameLast: 藤島
   NameFirst: 慈
@@ -71,21 +115,27 @@
   LatinAlphabetNameFirst: Megumi
   GenerationsId: 102
   SeriesType: 0
-  IconOrderId: 9
+  IconOrderId: 11
   CharacterVoice: 月音こな
   ThemeColor: "#c8c2c6"
   Introduction: |-
+    蓮ノ空女学院 102期卒業生
     誕生日　　12月20日　　　　身長　　160cm
     趣味　　　　　　配信、編集作業（地味だけど大事！）
-    特技　　　　　　女の子の絵を描くこと、アクセサリー作り
+    特技　　　　　　女の子の絵を描くこと、アクセサリー作り、作詞
     好きな食べ物　　最中（こしあん）、ねぎとろ
     好きな言葉　　　好きこそ物の上手なれ
     好きな教科　　　勉強なんて将来の役に立たないからいいんだよ
     好きな動物　　　シェパード
   ShowSeasonFanLvStartTime: 2023-08-25T10:00:00Z
-  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  ShowSeasonFanLvEndTime: 2025-04-10T11:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "102"
 - Id: 1031
   NameLast: 日野下
   NameFirst: 花帆
@@ -93,13 +143,13 @@
   LatinAlphabetNameFirst: Kaho
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 4
+  IconOrderId: 6
   CharacterVoice: 楡井希実
   ThemeColor: "#f8b500"
   Introduction: |-
     誕生日　　5月22日　　　　身長　　155cm
     趣味　　　　　　カラオケ、読書
-    特技　　　　　　食べ物の好き嫌いがない
+    特技　　　　　　食べ物の好き嫌いがない、紅茶を淹れること
     好きな食べ物　　りんご、ハントンライス
     好きな言葉　　　なんにでも全力！
     好きな教科　　　体育と音楽、かな！
@@ -108,6 +158,11 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "103"
 - Id: 1032
   NameLast: 村野
   NameFirst: さやか
@@ -115,7 +170,7 @@
   LatinAlphabetNameFirst: Sayaka
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 5
+  IconOrderId: 7
   CharacterVoice: 野中ここな
   ThemeColor: "#5383c3"
   Introduction: |-
@@ -131,6 +186,11 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "103"
 - Id: 1033
   NameLast: 大沢
   NameFirst: 瑠璃乃
@@ -138,12 +198,12 @@
   LatinAlphabetNameFirst: Rurino
   GenerationsId: 103
   SeriesType: 0
-  IconOrderId: 6
+  IconOrderId: 8
   CharacterVoice: 菅 叶和
   ThemeColor: "#e7609e"
   Introduction: |-
     誕生日　　8月31日　　　　身長　　151cm
-    趣味　　　　　　釣り、カラオケ、バッティングセンター
+    趣味　　　　　　釣り、カラオケ、バッティングセンター、配信
     特技　　　　　　どんなことでも楽しめる！
     好きな食べ物　　タピオカ！ 琥珀糖！
     好きな言葉　　　その道に入らんと思ふ心こそ、
@@ -154,6 +214,11 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "103"
 - Id: 1041
   NameLast: 百生
   NameFirst: 吟子
@@ -161,7 +226,7 @@
   LatinAlphabetNameFirst: Ginko
   GenerationsId: 104
   SeriesType: 0
-  IconOrderId: 1
+  IconOrderId: 3
   CharacterVoice: 櫻井陽菜
   ThemeColor: "#a2d7dd"
   Introduction: |-
@@ -176,6 +241,11 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "104"
 - Id: 1042
   NameLast: 徒町
   NameFirst: 小鈴
@@ -183,13 +253,13 @@
   LatinAlphabetNameFirst: Kosuzu
   GenerationsId: 104
   SeriesType: 0
-  IconOrderId: 2
+  IconOrderId: 4
   CharacterVoice: 葉山風花
   ThemeColor: "#fad764"
   Introduction: |-
     誕生日　　2月28日　　　　身長　　152cm
     趣味　　　　　　文房具集め
-    特技　　　　　　特技と言えるようなことは何も…
+    特技　　　　　　ひとの長所を見つけること！
     好きな食べ物　　駄菓子のラムネ
     好きな言葉　　　石の上にも三年
     好きな教科　　　図画工作！
@@ -198,6 +268,11 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "104"
 - Id: 1043
   NameLast: 安養寺
   NameFirst: 姫芽
@@ -205,7 +280,7 @@
   LatinAlphabetNameFirst: Hime
   GenerationsId: 104
   SeriesType: 0
-  IconOrderId: 3
+  IconOrderId: 5
   CharacterVoice: 来栖りん
   ThemeColor: "#9d8de2"
   Introduction: |-
@@ -221,3 +296,90 @@
   ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
   IsExistFanLv: 1
   StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "104"
+- Id: 1044
+  NameLast: ""
+  NameFirst: ""
+  LatinAlphabetNameLast: ""
+  LatinAlphabetNameFirst: ""
+  GenerationsId: 100
+  SeriesType: 0
+  IconOrderId: 998
+  CharacterVoice: 進藤あまね&三宅美羽
+  ThemeColor: "#3d324d"
+  Introduction: |-
+    誕生日　　　　　　身長　　 
+    趣味　　　　　　 
+    特技　　　　　　 
+    好きな食べ物　　 
+    好きな言葉　　　 
+    好きな教科　　　 
+    好きな動物　　　
+  ShowSeasonFanLvStartTime: 2024-12-31T15:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 0
+  StyleType: 2
+  PrintFilterType: 1
+  DisplayFullName: 桂城 泉＆セラス 柳田 リリエンフェルト
+  LatinAlpabetFullName: Katsuragi Izumi＆Ceras Yanagida Lilienfeld
+  NameDisplayType: 1
+  DisplayGeneration: "104"
+- Id: 1051
+  NameLast: 桂城
+  NameFirst: 泉
+  LatinAlphabetNameLast: Katsuragi
+  LatinAlphabetNameFirst: Izumi
+  GenerationsId: 105
+  SeriesType: 0
+  IconOrderId: 2
+  CharacterVoice: 進藤あまね
+  ThemeColor: "#1ebecd"
+  Introduction: |-
+    誕生日　　12月1日　　　　身長　　170cm
+    趣味　　　　　　体を動かすこと、人間観察
+    特技　　　　　　スポーツ全般、特に短距離走
+    好きな食べ物　　イタリア料理、ハンバーガー、牛丼
+    好きな言葉　　　逢うは別れの始め
+    好きな教科　　　体育、数学
+    好きな動物　　　虎、ウサギ
+  ShowSeasonFanLvStartTime: 2025-04-09T15:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 1
+  StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: ""
+  LatinAlpabetFullName: ""
+  NameDisplayType: 0
+  DisplayGeneration: "104"
+- Id: 1052
+  NameLast: ""
+  NameFirst: セラス
+  LatinAlphabetNameLast: ""
+  LatinAlphabetNameFirst: Ceras
+  GenerationsId: 105
+  SeriesType: 0
+  IconOrderId: 1
+  CharacterVoice: 三宅美羽
+  ThemeColor: "#f56455"
+  Introduction: |-
+    誕生日　　6月26日　　　　身長　　153cm
+    趣味　　　　　　ホラー映画、ヴァイオリンを弾くこと
+    特技　　　　　　モノマネ、暇つぶし
+    好きな食べ物　　パフェ、ギョウザ、キャラメル味のもの、
+    　　　　　　　　とうもろこし
+    好きな言葉　　　よい花は後から
+    好きな教科　　　国語、美術
+    好きな動物　　　ラッコ
+  ShowSeasonFanLvStartTime: 2025-04-09T15:00:00Z
+  ShowSeasonFanLvEndTime: 2035-12-31T14:59:59Z
+  IsExistFanLv: 1
+  StyleType: 1
+  PrintFilterType: 0
+  DisplayFullName: セラス 柳田 リリエンフェルト
+  LatinAlpabetFullName: Ceras Yanagida Lilienfeld
+  NameDisplayType: 1
+  DisplayGeneration: "105"

@@ -285,3 +285,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-03-20T03:00:00Z
   EndTime: 2025-04-20T18:59:59Z
+- Id: 201042
+  Name: ようこそ蓮ノ空女学院へ！105期オープニングログインキャンペーン！
+  LoginBonusRewardSeriesId: 201042
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2026-03-31T18:59:59Z

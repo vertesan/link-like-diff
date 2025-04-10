@@ -206,6 +206,10 @@
   ItemsId: 2003041
   CharactersId: 1041
   FavoriteRank: 1
+- Id: 200304105
+  ItemsId: 2003041
+  CharactersId: 1051
+  FavoriteRank: 1
 - Id: 200304201
   ItemsId: 2003042
   CharactersId: 1031
@@ -222,6 +226,10 @@
   ItemsId: 2003042
   CharactersId: 1042
   FavoriteRank: 1
+- Id: 200304205
+  ItemsId: 2003042
+  CharactersId: 1052
+  FavoriteRank: 1
 - Id: 200304301
   ItemsId: 2003043
   CharactersId: 1031
@@ -237,6 +245,10 @@
 - Id: 200304304
   ItemsId: 2003043
   CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200304305
+  ItemsId: 2003043
+  CharactersId: 1052
   FavoriteRank: 1
 - Id: 200304401
   ItemsId: 2003044
@@ -270,6 +282,10 @@
   ItemsId: 2003051
   CharactersId: 1042
   FavoriteRank: 1
+- Id: 200305105
+  ItemsId: 2003051
+  CharactersId: 1052
+  FavoriteRank: 1
 - Id: 200305201
   ItemsId: 2003052
   CharactersId: 1032
@@ -285,6 +301,10 @@
 - Id: 200305204
   ItemsId: 2003052
   CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200305205
+  ItemsId: 2003052
+  CharactersId: 1051
   FavoriteRank: 1
 - Id: 200305301
   ItemsId: 2003053
@@ -318,6 +338,10 @@
   ItemsId: 2003054
   CharactersId: 1042
   FavoriteRank: 1
+- Id: 200305405
+  ItemsId: 2003054
+  CharactersId: 1051
+  FavoriteRank: 1
 - Id: 200306101
   ItemsId: 2003061
   CharactersId: 1033
@@ -333,6 +357,10 @@
 - Id: 200306104
   ItemsId: 2003061
   CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200306105
+  ItemsId: 2003061
+  CharactersId: 1051
   FavoriteRank: 1
 - Id: 200306201
   ItemsId: 2003062
@@ -350,6 +378,10 @@
   ItemsId: 2003062
   CharactersId: 1043
   FavoriteRank: 1
+- Id: 200306205
+  ItemsId: 2003062
+  CharactersId: 1052
+  FavoriteRank: 1
 - Id: 200306301
   ItemsId: 2003063
   CharactersId: 1033
@@ -365,6 +397,10 @@
 - Id: 200306304
   ItemsId: 2003063
   CharactersId: 1042
+  FavoriteRank: 1
+- Id: 200306305
+  ItemsId: 2003063
+  CharactersId: 1051
   FavoriteRank: 1
 - Id: 200306401
   ItemsId: 2003064
@@ -398,6 +434,10 @@
   ItemsId: 2003081
   CharactersId: 1042
   FavoriteRank: 1
+- Id: 200308105
+  ItemsId: 2003081
+  CharactersId: 1052
+  FavoriteRank: 1
 - Id: 200308201
   ItemsId: 2003082
   CharactersId: 1041
@@ -429,6 +469,10 @@
 - Id: 200308304
   ItemsId: 2003083
   CharactersId: 1043
+  FavoriteRank: 1
+- Id: 200308305
+  ItemsId: 2003083
+  CharactersId: 1051
   FavoriteRank: 1
 - Id: 200308401
   ItemsId: 2003084
@@ -478,6 +522,10 @@
   ItemsId: 2003086
   CharactersId: 1043
   FavoriteRank: 1
+- Id: 200308605
+  ItemsId: 2003086
+  CharactersId: 1051
+  FavoriteRank: 1
 - Id: 200308701
   ItemsId: 2003087
   CharactersId: 1042
@@ -509,6 +557,10 @@
 - Id: 200308804
   ItemsId: 2003088
   CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200308805
+  ItemsId: 2003088
+  CharactersId: 1052
   FavoriteRank: 1
 - Id: 200308901
   ItemsId: 2003089
@@ -558,6 +610,10 @@
   ItemsId: 2003091
   CharactersId: 1042
   FavoriteRank: 1
+- Id: 200309105
+  ItemsId: 2003091
+  CharactersId: 1052
+  FavoriteRank: 1
 - Id: 200309201
   ItemsId: 2003092
   CharactersId: 1043
@@ -573,4 +629,120 @@
 - Id: 200309204
   ItemsId: 2003092
   CharactersId: 1042
+  FavoriteRank: 1
+- Id: 200310101
+  ItemsId: 2003101
+  CharactersId: 1051
+  FavoriteRank: 2
+- Id: 200310102
+  ItemsId: 2003101
+  CharactersId: 1033
+  FavoriteRank: 1
+- Id: 200310103
+  ItemsId: 2003101
+  CharactersId: 1043
+  FavoriteRank: 1
+- Id: 200310104
+  ItemsId: 2003101
+  CharactersId: 1052
+  FavoriteRank: 1
+- Id: 200310201
+  ItemsId: 2003102
+  CharactersId: 1051
+  FavoriteRank: 2
+- Id: 200310202
+  ItemsId: 2003102
+  CharactersId: 1031
+  FavoriteRank: 1
+- Id: 200310203
+  ItemsId: 2003102
+  CharactersId: 1033
+  FavoriteRank: 1
+- Id: 200310204
+  ItemsId: 2003102
+  CharactersId: 1052
+  FavoriteRank: 1
+- Id: 200310301
+  ItemsId: 2003103
+  CharactersId: 1051
+  FavoriteRank: 2
+- Id: 200310302
+  ItemsId: 2003103
+  CharactersId: 1032
+  FavoriteRank: 1
+- Id: 200310303
+  ItemsId: 2003103
+  CharactersId: 1043
+  FavoriteRank: 1
+- Id: 200310401
+  ItemsId: 2003104
+  CharactersId: 1051
+  FavoriteRank: 2
+- Id: 200310402
+  ItemsId: 2003104
+  CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200310403
+  ItemsId: 2003104
+  CharactersId: 1052
+  FavoriteRank: 1
+- Id: 200311101
+  ItemsId: 2003111
+  CharactersId: 1052
+  FavoriteRank: 2
+- Id: 200311102
+  ItemsId: 2003111
+  CharactersId: 1031
+  FavoriteRank: 1
+- Id: 200311103
+  ItemsId: 2003111
+  CharactersId: 1032
+  FavoriteRank: 1
+- Id: 200311104
+  ItemsId: 2003111
+  CharactersId: 1051
+  FavoriteRank: 1
+- Id: 200311201
+  ItemsId: 2003112
+  CharactersId: 1052
+  FavoriteRank: 2
+- Id: 200311202
+  ItemsId: 2003112
+  CharactersId: 1032
+  FavoriteRank: 1
+- Id: 200311203
+  ItemsId: 2003112
+  CharactersId: 1041
+  FavoriteRank: 1
+- Id: 200311204
+  ItemsId: 2003112
+  CharactersId: 1051
+  FavoriteRank: 1
+- Id: 200311301
+  ItemsId: 2003113
+  CharactersId: 1052
+  FavoriteRank: 2
+- Id: 200311302
+  ItemsId: 2003113
+  CharactersId: 1033
+  FavoriteRank: 1
+- Id: 200311303
+  ItemsId: 2003113
+  CharactersId: 1042
+  FavoriteRank: 1
+- Id: 200311401
+  ItemsId: 2003114
+  CharactersId: 1052
+  FavoriteRank: 2
+- Id: 200311402
+  ItemsId: 2003114
+  CharactersId: 1031
+  FavoriteRank: 1
+- Id: 200311403
+  ItemsId: 2003114
+  CharactersId: 1042
+  FavoriteRank: 1
+- Id: 200311404
+  ItemsId: 2003114
+  CharactersId: 1051
   FavoriteRank: 1

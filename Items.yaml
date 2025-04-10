@@ -276,7 +276,7 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 2003033
   Name: 星の砂
-  NameFurigana: ほしのつな
+  NameFurigana: ほしのすな
   ItemType: 1
   ItemCategory: 2
   Rarity: 3
@@ -706,6 +706,102 @@
   Description: "慈と瑠璃乃のアクリルスタンド。置くだけで、いつでもどこでも、\\nみらくらぱーく！らしい。いくらあっても良いとされている。"
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2003101
+  Name: レトルト牛丼
+  NameFurigana: れとるとぎゅうどん
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "一瞬で牛丼を用意できるパック。牛丼屋なんてどこにでもあると思\\nうかもしれないが、蓮ノ空には通用しない。これは\"救い\"。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003102
+  Name: フローラルバスボム
+  NameFurigana: ふろーらるばすぼむ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 500
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "お風呂をフローラルの香りでいっぱいにできるバスボム。その香り\\nと色、成分で極上のリラックスを提供してくれる。サンクス。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003103
+  Name: スタイリッシュスクイズボトル
+  NameFurigana: すたいりっしゅすくいずぼとる
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 1000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "握りこむことでドリンクをゴクゴク飲めるボトル。動きながらでも\\n飲みたいだけ飲めてこぼれない。今日からあなたもスクイズボトル。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003104
+  Name: ファッションカタログ
+  NameFurigana: ふぁっしょんかたろぐ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "様々なファッションを一目で確認できるカタログ。その組み合わせ\\nは無限大、何を選ぶかが運命を決める、そんな情熱がほとばしる。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003111
+  Name: キャラメルポップコーン
+  NameFurigana: きゃらめるぽっぷこーん
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 100
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "キャラメルでコーティングされたポップコーン。映画鑑賞のお供と\\nして右に出るものはいない。お腹も出ないように気を付けよう。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003112
+  Name: チューナー
+  NameFurigana: ちゅーなー
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 500
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "ヴァイオリンをチューニングするためのチューナー。人の心を動かす\\n美しい演奏は正しい音程から。聞かせよう、蓮ノ空の協奏を――。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003113
+  Name: おばけのアイマスク
+  NameFurigana: おばけのあいますく
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 1000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "起こしに来てくれた人を驚かせてしまう、恩を仇で返すタイプの\\nアイマスク。逆にこれを付けて、寝ている人を起こすのも楽しい。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2003114
+  Name: くるみ割りラッコ
+  NameFurigana: くるみわりらっこ
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "強烈な一撃でくるみを粉砕する驚異のラッコ。貝だけでは飽き足ら\\nずくるみにまで手を出すその姿は「止まるな」と訴えかけるよう。"
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2015001
   Name: Fes×LIVE S席チケット
   NameFurigana: ふぇすらいぶえすせきちけっと
@@ -849,6 +945,30 @@
   RequestableNum: 0
   Description: UR1枚以上確定10連カードパックガチャを利用することができるチケット。
   StartTime: 2023-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3002111
+  Name: UR1枚以上確定10連カードパックチケット（104期通常のみ）
+  NameFurigana: うるとられあいちまいいじょうかくていじゅうれんかーどぱっくちけっとひゃくよんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: UR1枚以上確定10連カードパックガチャを利用することができるチケット。
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3002112
+  Name: UR1枚以上確定10連カードパックチケット（103期SEASON LIMITEDのみ）
+  NameFurigana: うるとられあいちまいいじょうかくていじゅうれんかーどぱっくちけっとひゃくさんきしーずんりみてっどのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: UR1枚以上確定10連カードパックガチャを利用することができるチケット。
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3003001
   Name: 事前登録プレゼントURカードセレクトチケット
@@ -2074,6 +2194,18 @@
   Description: "これまで続き、これからも続いていくスクールアイドルの歴史を司\\nる機械仕掛けのツバサの欠片。その夢は何処までも飛躍していく。"
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3008003
+  Name: ユメノコトワリ
+  NameFurigana: ゆめのことわり
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "これまで続き、これからも続いて〓くスクールアイドル〓久遠の輪\\n廻を彩〓福音の徒〓。その夢は〓か〓〓。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3009000
   Name: ミュージックPt.
   NameFurigana: みゅーじっくぽいんと
@@ -2145,6 +2277,18 @@
   RequestableNum: 0
   Description: "ライブグランプリで獲得できるチケット。集めることで、\\n候補の中から選択したカード1枚と交換できる。"
   StartTime: 2024-04-15T01:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3011002
+  Name: ユメノチケット
+  NameFurigana: ゆめのちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "ユメへの標となるフラグメントと引換できるチケット。\\nアイテム交換所で使用できる。"
+  StartTime: 2025-04-10T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3012001
   Name: ブロンズティア
@@ -4186,6 +4330,30 @@
   Description: スタイル解放素材(日野下 花帆)
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031305
+  Name: "[ノヴァホワイト]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4031306
+  Name: "[翠鱗舞]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031401
   Name: "[水彩世界]日野下\u00a0花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4846,6 +5014,30 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032305
+  Name: "[ノヴァホワイト]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032306
+  Name: "[翠鱗舞]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032401
   Name: "[AWOKE]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5494,6 +5686,30 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033305
+  Name: "[ノヴァホワイト]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4033306
+  Name: "[翠鱗舞]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033401
   Name: "[R's One Day]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5986,6 +6202,30 @@
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041303
+  Name: "[ノヴァホワイト]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041304
+  Name: "[翠鱗舞]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041401
   Name: "[アオクハルカ]百生\u00a0吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6213,6 +6453,30 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2024-04-12T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042303
+  Name: "[ノヴァホワイト]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042304
+  Name: "[翠鱗舞]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042401
   Name: "[青嵐の鯉流し]徒町\u00a0小鈴 解放Pt."
@@ -6442,6 +6706,30 @@
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2024-04-12T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4043303
+  Name: "[ノヴァホワイト]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043304
+  Name: "[翠鱗舞]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4043401
   Name: "[Bloom the smile, Bloom the dream!]安養寺\u00a0姫芽 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6657,4 +6945,88 @@
   RequestableNum: 0
   Description: スタイル解放素材(桂城 泉＆セラス 柳田 リリエンフェルト)
   StartTime: 2025-01-26T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051301
+  Name: "[ノヴァホワイト]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051302
+  Name: "[翠鱗舞]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051401
+  Name: "[Her-bath-rium]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051501
+  Name: "[Dream Believers]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052301
+  Name: "[ノヴァホワイト]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052302
+  Name: "[翠鱗舞]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052501
+  Name: "[Dream Believers]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z

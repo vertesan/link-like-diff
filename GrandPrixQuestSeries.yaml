@@ -1288,3 +1288,33 @@
   SeriesNum: 3
   StartTime: 2025-03-11T03:00:00Z
   EndTime: 2025-03-16T18:59:59Z
+- Id: 8051011
+  Name: ステージA
+  Description: ステージA
+  GrandPrixesId: 805101
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 1
+  SeriesNum: 1
+  StartTime: 2025-04-11T03:00:00Z
+  EndTime: 2025-04-16T18:59:59Z
+- Id: 8051012
+  Name: ステージB
+  Description: ステージB
+  GrandPrixesId: 805101
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 2
+  SeriesNum: 2
+  StartTime: 2025-04-11T03:00:00Z
+  EndTime: 2025-04-16T18:59:59Z
+- Id: 8051013
+  Name: ステージC
+  Description: ステージC
+  GrandPrixesId: 805101
+  PlayLimitCount: 2
+  RetireLimitCount: 1
+  OrderId: 3
+  SeriesNum: 3
+  StartTime: 2025-04-11T03:00:00Z
+  EndTime: 2025-04-16T18:59:59Z

@@ -85,6 +85,15 @@
 - Id: 100029
   StageSkillConditionId: 1030130
   StageSkillEffectId: 10830302
+- Id: 100030
+  StageSkillConditionId: 1030010
+  StageSkillEffectId: 10600005
+- Id: 100031
+  StageSkillConditionId: 1052051
+  StageSkillEffectId: 10740001
+- Id: 100032
+  StageSkillConditionId: 1052052
+  StageSkillEffectId: 10740001
 - Id: 200001
   StageSkillConditionId: 1051013
   StageSkillEffectId: 20600001
@@ -141,6 +150,9 @@
   StageSkillEffectId: 20812801
 - Id: 300001
   StageSkillConditionId: 1030003
+  StageSkillEffectId: 10500000
+- Id: 300002
+  StageSkillConditionId: 1030005
   StageSkillEffectId: 10500000
 - Id: 900011
   StageSkillConditionId: 1030010

@@ -40,6 +40,13 @@
   UpperLimitCool: 126000
   UpperLimitMental: 8400
   UpperLimitBP: 1200
+- Id: 10308
+  NumberOfMember: 8
+  UpperLimitSmile: 168000
+  UpperLimitPure: 168000
+  UpperLimitCool: 168000
+  UpperLimitMental: 11520
+  UpperLimitBP: 1600
 - Id: 10309
   NumberOfMember: 9
   UpperLimitSmile: 189000
