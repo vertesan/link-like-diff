@@ -2212,6 +2212,18 @@
   Priority: 33003
   VoiceName: vo_chara_m1043_skillrank_0003
   ReleaseConditionText: ""
+- Id: 105100001
+  CharactersId: 1051
+  Name: タイトルコール①
+  Priority: 1
+  VoiceName: vo_title_m1051_0001
+  ReleaseConditionText: ""
+- Id: 105100002
+  CharactersId: 1051
+  Name: タイトルコール②
+  Priority: 2
+  VoiceName: vo_title_m1051_0002
+  ReleaseConditionText: ""
 - Id: 105111001
   CharactersId: 1051
   Name: ★3ライブクリア①
@@ -2445,6 +2457,18 @@
   Name: スキルLv. UP③
   Priority: 33003
   VoiceName: vo_chara_m1051_skillrank_0003
+  ReleaseConditionText: ""
+- Id: 105200001
+  CharactersId: 1052
+  Name: タイトルコール①
+  Priority: 1
+  VoiceName: vo_title_m1052_0001
+  ReleaseConditionText: ""
+- Id: 105200002
+  CharactersId: 1052
+  Name: タイトルコール②
+  Priority: 2
+  VoiceName: vo_title_m1052_0002
   ReleaseConditionText: ""
 - Id: 105211001
   CharactersId: 1052

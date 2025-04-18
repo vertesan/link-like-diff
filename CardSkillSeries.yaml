@@ -4475,17 +4475,17 @@
   SkillIcon: 10513020
   SkillMainEffect: 2
 - Id: 10514010
-  Name: 仮
+  Name: プロテクトヒート
   SkillIcon: 10514010
-  SkillMainEffect: 1
+  SkillMainEffect: 21
 - Id: 10514011
-  Name: 仮
+  Name: プロテクトヒート
   SkillIcon: 10514010
-  SkillMainEffect: 1
+  SkillMainEffect: 21
 - Id: 10514012
-  Name: 仮
+  Name: プロテクトヒート
   SkillIcon: 10514010
-  SkillMainEffect: 1
+  SkillMainEffect: 21
 - Id: 10515010
   Name: エクステヒート
   SkillIcon: 10515010
@@ -6059,9 +6059,9 @@
   SkillIcon: 20513020
   SkillMainEffect: 46
 - Id: 20514010
-  Name: 仮
+  Name: イミテーションボルテージ
   SkillIcon: 20514010
-  SkillMainEffect: 1
+  SkillMainEffect: 46
 - Id: 20515010
   Name: イミテーションハート
   SkillIcon: 20515010
@@ -7539,9 +7539,9 @@
   SkillIcon: 30444010
   SkillMainEffect: 18
 - Id: 30514010
-  Name: 仮
+  Name: サウンド：APゲイン
   SkillIcon: 30514010
-  SkillMainEffect: 904
+  SkillMainEffect: 14
 - Id: 30515010
   Name: APゲイン
   SkillIcon: 30515010

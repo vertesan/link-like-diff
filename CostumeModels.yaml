@@ -218,6 +218,16 @@
   CharactersId: 1043
   CostumesId: 1004
   HairStyleId: 1
+- Id: 1004105101
+  Label: 体操服(冬)_桂城泉
+  CharactersId: 1051
+  CostumesId: 1004
+  HairStyleId: 1
+- Id: 1004105201
+  Label: 体操服(冬)_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 1004
+  HairStyleId: 1
 - Id: 1004900701
   Label: 体操服(冬)_大賀美沙知
   CharactersId: 9007
@@ -428,6 +438,16 @@
   CharactersId: 1041
   CostumesId: 2003
   HairStyleId: 2
+- Id: 2003105102
+  Label: 入浴姿_桂城泉
+  CharactersId: 1051
+  CostumesId: 2003
+  HairStyleId: 2
+- Id: 2003105202
+  Label: 入浴姿_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 2003
+  HairStyleId: 2
 - Id: 2004102101
   Label: 部屋着(春夏)_乙宗梢
   CharactersId: 1021
@@ -483,6 +503,16 @@
   CharactersId: 1043
   CostumesId: 2004
   HairStyleId: 5
+- Id: 2004105101
+  Label: 部屋着(春夏)_桂城泉
+  CharactersId: 1051
+  CostumesId: 2004
+  HairStyleId: 1
+- Id: 2004105201
+  Label: 部屋着(春夏)_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 2004
+  HairStyleId: 1
 - Id: 2006103101
   Label: スケート着_日野下花帆
   CharactersId: 1031
@@ -536,6 +566,16 @@
 - Id: 2007104301
   Label: 外出着(春夏)_安養寺姫芽
   CharactersId: 1043
+  CostumesId: 2007
+  HairStyleId: 1
+- Id: 2007105101
+  Label: 外出着(春夏)_桂城泉
+  CharactersId: 1051
+  CostumesId: 2007
+  HairStyleId: 1
+- Id: 2007105201
+  Label: 外出着(春夏)_セラス・柳田・L
+  CharactersId: 1052
   CostumesId: 2007
   HairStyleId: 1
 - Id: 2007900801
@@ -1066,6 +1106,16 @@
 - Id: 3009104301
   Label: トレーニングウェア(春夏)_安養寺姫芽
   CharactersId: 1043
+  CostumesId: 3009
+  HairStyleId: 1
+- Id: 3009105101
+  Label: トレーニングウェア(春夏)_桂城泉
+  CharactersId: 1051
+  CostumesId: 3009
+  HairStyleId: 1
+- Id: 3009105201
+  Label: トレーニングウェア(春夏)_セラス・柳田・L
+  CharactersId: 1052
   CostumesId: 3009
   HairStyleId: 1
 - Id: 3010102103
