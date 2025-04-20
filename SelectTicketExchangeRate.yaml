@@ -922,6 +922,13 @@
   ExchangeItemQuantity: 1
   StartTime: 2023-05-19T19:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2030703022
+  SelectTicketSeriesId: 2030703
+  ExchangeItemType: 2
+  ExchangeItemId: 10414030
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2030704001
   SelectTicketSeriesId: 2030704
   ExchangeItemType: 2
@@ -1173,6 +1180,13 @@
   ExchangeItemId: 10215270
   ExchangeItemQuantity: 1
   StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2030704037
+  SelectTicketSeriesId: 2030704
+  ExchangeItemType: 2
+  ExchangeItemId: 10215230
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 2030705001
   SelectTicketSeriesId: 2030705
@@ -1923,6 +1937,20 @@
   ExchangeItemQuantity: 1
   StartTime: 2025-03-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2030708030
+  SelectTicketSeriesId: 2030708
+  ExchangeItemType: 2
+  ExchangeItemId: 10225210
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2030708031
+  SelectTicketSeriesId: 2030708
+  ExchangeItemType: 2
+  ExchangeItemId: 10425130
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2030709001
   SelectTicketSeriesId: 2030709
   ExchangeItemType: 2
@@ -2524,6 +2552,20 @@
   ExchangeItemId: 10235240
   ExchangeItemQuantity: 1
   StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2030712030
+  SelectTicketSeriesId: 2030712
+  ExchangeItemType: 2
+  ExchangeItemId: 10235200
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2030712031
+  SelectTicketSeriesId: 2030712
+  ExchangeItemType: 2
+  ExchangeItemId: 10435130
+  ExchangeItemQuantity: 1
+  StartTime: 2025-04-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3030801001
   SelectTicketSeriesId: 3030801

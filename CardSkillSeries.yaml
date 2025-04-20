@@ -3778,6 +3778,18 @@
   Name: ブーステッドゲイン
   SkillIcon: 10414020
   SkillMainEffect: 32
+- Id: 10414030
+  Name: リフレッシュゲイン
+  SkillIcon: 10414030
+  SkillMainEffect: 13
+- Id: 10414031
+  Name: リフレッシュゲイン
+  SkillIcon: 10414030
+  SkillMainEffect: 13
+- Id: 10414032
+  Name: リフレッシュゲイン
+  SkillIcon: 10414030
+  SkillMainEffect: 13
 - Id: 10415010
   Name: アトラクトゲイン
   SkillIcon: 10415010
@@ -4182,6 +4194,18 @@
   Name: スクステチャレンジ
   SkillIcon: 10425120
   SkillMainEffect: 44
+- Id: 10425130
+  Name: エクステプロテクト
+  SkillIcon: 10425130
+  SkillMainEffect: 20
+- Id: 10425131
+  Name: エクステプロテクト
+  SkillIcon: 10425130
+  SkillMainEffect: 20
+- Id: 10425132
+  Name: エクステプロテクト
+  SkillIcon: 10425130
+  SkillMainEffect: 20
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -4430,6 +4454,18 @@
   Name: ドライブイグニッション
   SkillIcon: 10435120
   SkillMainEffect: 45
+- Id: 10435130
+  Name: リフレッシュチェンジプロテクト
+  SkillIcon: 10435130
+  SkillMainEffect: 13
+- Id: 10435131
+  Name: リフレッシュチェンジプロテクト
+  SkillIcon: 10435130
+  SkillMainEffect: 13
+- Id: 10435132
+  Name: リフレッシュチェンジプロテクト
+  SkillIcon: 10435130
+  SkillMainEffect: 13
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -5818,6 +5854,10 @@
   Name: ドレス《聖夜譚》
   SkillIcon: 20414020
   SkillMainEffect: 28
+- Id: 20414030
+  Name: ドレス《Her-bath-rium》
+  SkillIcon: 20414030
+  SkillMainEffect: 28
 - Id: 20415010
   Name: ドレス《Dream Believers》
   SkillIcon: 20415010
@@ -5954,6 +5994,10 @@
   Name: スキルチャレンジ
   SkillIcon: 20425120
   SkillMainEffect: 13
+- Id: 20425130
+  Name: サウンドハート
+  SkillIcon: 20425130
+  SkillMainEffect: 1
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -6038,6 +6082,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20435120
   SkillMainEffect: 36
+- Id: 20435130
+  Name: サウンドプロテクト
+  SkillIcon: 20435130
+  SkillMainEffect: 7
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -7338,6 +7386,10 @@
   Name: ドロー：ハッピー/APレデュース
   SkillIcon: 30414020
   SkillMainEffect: 17
+- Id: 30414030
+  Name: ドロー：サウンド/APレデュース：スリーズブーケ
+  SkillIcon: 30414030
+  SkillMainEffect: 29
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
   SkillIcon: 30415010
@@ -7458,6 +7510,10 @@
   Name: APレデュース：DOLLCHESTRA
   SkillIcon: 30425120
   SkillMainEffect: 17
+- Id: 30425130
+  Name: サウンド：リインフォース
+  SkillIcon: 30425130
+  SkillMainEffect: 18
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -7526,6 +7582,10 @@
   Name: ドロー：モードチェンジ
   SkillIcon: 30435120
   SkillMainEffect: 35
+- Id: 30435130
+  Name: オルタネイト：イグニッション
+  SkillIcon: 30435130
+  SkillMainEffect: 36
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -7594,6 +7654,10 @@
   Name: イグニッション：みらくらぱーく！
   SkillIcon: 31435110
   SkillMainEffect: 35
+- Id: 31435130
+  Name: サウンド：イグニッション
+  SkillIcon: 31435130
+  SkillMainEffect: 35
 - Id: 32235160
   Name: レイトドロー：4/APレデュース
   SkillIcon: 32235160
@@ -7637,6 +7701,10 @@
 - Id: 32435110
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 32435110
+  SkillMainEffect: 21
+- Id: 32435130
+  Name: ドロー：ヒートアップ
+  SkillIcon: 32435130
   SkillMainEffect: 21
 - Id: 80013010
   Name: ラブアトラクト
@@ -7686,6 +7754,10 @@
   Name: ハートキャプチャ
   SkillIcon: 80413030
   SkillMainEffect: 1
+- Id: 80034010
+  Name: 《Her-bath-rium》
+  SkillIcon: 80414030
+  SkillMainEffect: 13
 - Id: 80035010
   Name: ハートキャプチャ
   SkillIcon: 80415020
@@ -7929,6 +8001,10 @@
 - Id: 90033010
   Name: インスタンス
   SkillIcon: 90410000
+  SkillMainEffect: 19
+- Id: 90034010
+  Name: インスタンス ＆ APレデュース：サウンド
+  SkillIcon: 90414030
   SkillMainEffect: 19
 - Id: 90035010
   Name: インスタンス
