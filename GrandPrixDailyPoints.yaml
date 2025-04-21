@@ -6,25 +6,35 @@
 - Id: 2
   MinRank: 11
   MaxRank: 100
-  BasePoint: 2460000
+  BasePoint: 2455000
   AdditionalPoint: 5000
 - Id: 3
   MinRank: 101
   MaxRank: 1000
-  BasePoint: 2010000
-  AdditionalPoint: 500
+  BasePoint: 1551000
+  AdditionalPoint: 1000
 - Id: 4
   MinRank: 1001
-  MaxRank: 10000
-  BasePoint: 1560000
-  AdditionalPoint: 50
+  MaxRank: 3000
+  BasePoint: 950300
+  AdditionalPoint: 300
 - Id: 5
-  MinRank: 10001
-  MaxRank: 100000
-  BasePoint: 1110000
-  AdditionalPoint: 5
+  MinRank: 3001
+  MaxRank: 5000
+  BasePoint: 350300
+  AdditionalPoint: 300
 - Id: 6
-  MinRank: 100001
-  MaxRank: 1000000
-  BasePoint: 210000
+  MinRank: 5001
+  MaxRank: 10000
+  BasePoint: 100050
+  AdditionalPoint: 50
+- Id: 7
+  MinRank: 10001
+  MaxRank: 15000
+  BasePoint: 50010
+  AdditionalPoint: 10
+- Id: 8
+  MinRank: 20001
+  MaxRank: 50000
+  BasePoint: 20001
   AdditionalPoint: 1
