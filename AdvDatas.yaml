@@ -3958,6 +3958,66 @@
   StartTime: 2025-04-18T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10500106
+  AdvSeriesId: 105001
+  Name: 第1話『Brand New Stories!!』
+  Description: PART 6
+  ScriptId: 10500106
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 266
+  SubTitleName: "6"
+  StartTime: 2025-04-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500107
+  AdvSeriesId: 105001
+  Name: 第1話『Brand New Stories!!』
+  Description: PART 7
+  ScriptId: 10500107
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 267
+  SubTitleName: "7"
+  StartTime: 2025-04-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500108
+  AdvSeriesId: 105001
+  Name: 第1話『Brand New Stories!!』
+  Description: PART 8
+  ScriptId: 10500108
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 268
+  SubTitleName: "8"
+  StartTime: 2025-04-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500109
+  AdvSeriesId: 105001
+  Name: 第1話『Brand New Stories!!』
+  Description: PART 9
+  ScriptId: 10500109
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 269
+  SubTitleName: "9"
+  StartTime: 2025-04-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
 - Id: 10500191
   AdvSeriesId: 105001
   Name: PART 0

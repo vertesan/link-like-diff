@@ -640,6 +640,12 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30
+- Id: 40205201
+  MusicsId: 205201
+  Name: 輪舞-revolution
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
 - Id: 40303101
   MusicsId: 303101
   Name: On your mark
@@ -949,6 +955,12 @@
 - Id: 40304301
   MusicsId: 304301
   Name: Daydream Warrior
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
+- Id: 40305101
+  MusicsId: 305101
+  Name: Edelied
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30

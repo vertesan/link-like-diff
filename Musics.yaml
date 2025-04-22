@@ -3315,6 +3315,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 205201
+  OrderId: 6030
+  Title: 輪舞-revolution
+  TitleFurigana: ろんどれぼりゅーしょん
+  JacketId: 205201
+  SoundId: 20520101
+  Description: 一般カバー
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1052
+  SingerCharacterId: "1051"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 18367
+  ApIncrement: 844
+  SongTime: 8438
+  PlayTime: 101250
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303101
   OrderId: 1003
   Title: On your mark
@@ -4922,6 +4953,37 @@
   ReleaseConditionType: 2
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 305101
+  OrderId: 1801
+  Title: Edelied
+  TitleFurigana: えーでりーと
+  JacketId: 305101
+  SoundId: 30510101
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1051
+  SingerCharacterId: "1052"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 15000
+  ApIncrement: 763
+  SongTime: 7630
+  PlayTime: 91561
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
