@@ -12,62 +12,6 @@
   FreeId: 2
   NextId: 31016261
   MovieIds: ""
-- Id: 31016301
-  Label: 暗転_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 1
-  NextId: -1
-  MovieIds: ""
-- Id: 31019302
-  Label: MCから暗転_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 2
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019303
-  Label: 客電から暗転_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019304
-  Label: AURORAto入退場_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019305
-  Label: Key Of Like! to入退場_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019306
-  Label: ジョーショーto入退場_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019307
-  Label: バアドゲージto入退場_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31019308
-  Label: ハナムスビto入退場_ドーム
-  MusicId: 31016
-  LocationsId: 30
-  FreeId: 3
-  NextId: 31016301
-  MovieIds: ""
 - Id: 31036261
   Label: MC_第二音楽堂
   MusicId: 31036
@@ -89,34 +33,6 @@
   FreeId: 3
   NextId: 31016262
   MovieIds: ""
-- Id: 31039301
-  Label: MC_ドーム
-  MusicId: 31036
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31019302
-  MovieIds: ""
-- Id: 31039302
-  Label: 審査中_ドーム
-  MusicId: 31119
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31019302
-  MovieIds: ""
-- Id: 31039303
-  Label: 結果発表_ドーム
-  MusicId: 31129
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31019302
-  MovieIds: ""
-- Id: 31039304
-  Label: 舞台袖でのMC_ドーム
-  MusicId: 31036
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31019302
-  MovieIds: ""
 - Id: 31049261
   Label: 客電_第二音楽堂
   MusicId: 31049
@@ -130,34 +46,6 @@
   LocationsId: 26
   FreeId: 2
   NextId: 31016261
-  MovieIds: ""
-- Id: 31049301
-  Label: 客電_ドーム
-  MusicId: 31049
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31019303
-  MovieIds: ""
-- Id: 31089301
-  Label: アタックA_ドーム
-  MusicId: 31089
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31099301
-  Label: アタックB_ドーム
-  MusicId: 31089
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31109301
-  Label: オープニング_ドーム
-  MusicId: 31109
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
   MovieIds: ""
 - Id: 31139261
   Label: 幕間演出_第二音楽堂
@@ -201,48 +89,6 @@
   FreeId: 1
   NextId: 31016261
   MovieIds: ""
-- Id: 31659301
-  Label: KEY of Like！_ドーム
-  MusicId: 31659
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31669301
-  Label: AURORA FLOWER_ドーム
-  MusicId: 31669
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31672301
-  Label: Edelied_ドーム
-  MusicId: 31672
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31683301
-  Label: ハナムスビ_ドーム
-  MusicId: 31683
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31693301
-  Label: バアドケージ_ドーム
-  MusicId: 31693
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
-- Id: 31703301
-  Label: ジョーショーキリュー_ドーム
-  MusicId: 31703
-  LocationsId: 30
-  FreeId: 1
-  NextId: 31016301
-  MovieIds: ""
 - Id: 41019261
   Label: Overture_第二音楽堂
   MusicId: 41129
@@ -256,11 +102,4 @@
   LocationsId: 26
   FreeId: 1
   NextId: 31016261
-  MovieIds: ""
-- Id: 1041019301
-  Label: DreamBelievers_ドーム
-  MusicId: 1041019
-  LocationsId: 30
-  FreeId: 1
-  NextId: -1
   MovieIds: ""
