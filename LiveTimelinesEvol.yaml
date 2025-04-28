@@ -12,6 +12,20 @@
   FreeId: 2
   NextId: 31016261
   MovieIds: ""
+- Id: 31016333
+  Label: 暗転_第二音楽堂_4月
+  MusicId: 31016
+  LocationsId: 33
+  FreeId: 3
+  NextId: -1
+  MovieIds: ""
+- Id: 31016334
+  Label: MCから暗転_第二音楽堂_4月
+  MusicId: 31016
+  LocationsId: 33
+  FreeId: 4
+  NextId: 31016333
+  MovieIds: ""
 - Id: 31036261
   Label: MC_第二音楽堂
   MusicId: 31036
@@ -33,6 +47,20 @@
   FreeId: 3
   NextId: 31016262
   MovieIds: ""
+- Id: 31036333
+  Label: MC_第二音楽堂_4月
+  MusicId: 31036
+  LocationsId: 33
+  FreeId: 3
+  NextId: 31016334
+  MovieIds: ""
+- Id: 31036334
+  Label: MCEdel_第二音楽堂_4月
+  MusicId: 31036
+  LocationsId: 33
+  FreeId: 3
+  NextId: 31016334
+  MovieIds: ""
 - Id: 31049261
   Label: 客電_第二音楽堂
   MusicId: 31049
@@ -46,6 +74,20 @@
   LocationsId: 26
   FreeId: 2
   NextId: 31016261
+  MovieIds: ""
+- Id: 31049333
+  Label: 客電_第二音楽堂_4月
+  MusicId: 31049
+  LocationsId: 33
+  FreeId: 3
+  NextId: 31049334
+  MovieIds: ""
+- Id: 31049334
+  Label: 客電から暗転_第二音楽堂_4月
+  MusicId: 31049
+  LocationsId: 33
+  FreeId: 4
+  NextId: 31016333
   MovieIds: ""
 - Id: 31139261
   Label: 幕間演出_第二音楽堂
@@ -95,6 +137,48 @@
   LocationsId: 26
   FreeId: 1
   NextId: 31016261
+  MovieIds: ""
+- Id: 41019332
+  Label: Overture_第二音楽堂_4月
+  MusicId: 31078
+  LocationsId: 33
+  FreeId: 2
+  NextId: 31016333
+  MovieIds: ""
+- Id: 50012331
+  Label: Celebration!_第二音楽堂_4月
+  MusicId: 50012
+  LocationsId: 33
+  FreeId: 1
+  NextId: 31016333
+  MovieIds: ""
+- Id: 50022331
+  Label: WAWO_第二音楽堂_4月
+  MusicId: 50022
+  LocationsId: 33
+  FreeId: 1
+  NextId: 31016333
+  MovieIds: ""
+- Id: 50032331
+  Label: アンペア_第二音楽堂_4月
+  MusicId: 50032
+  LocationsId: 33
+  FreeId: 1
+  NextId: 31016333
+  MovieIds: ""
+- Id: 50048331
+  Label: Dream Believers_第二音楽堂_4月
+  MusicId: 50048
+  LocationsId: 33
+  FreeId: 1
+  NextId: 31016333
+  MovieIds: ""
+- Id: 50052331
+  Label: Retrofuture_第二音楽堂_4月
+  MusicId: 50052
+  LocationsId: 33
+  FreeId: 1
+  NextId: 31016333
   MovieIds: ""
 - Id: 1041019261
   Label: Dream Believers_第二音楽堂

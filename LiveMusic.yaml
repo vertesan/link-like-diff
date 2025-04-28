@@ -47,6 +47,13 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 31078
+  Label: Overture2504
+  MusicId: 3106
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 31089
   Label: アタックA
   MusicId: 3108
@@ -306,6 +313,41 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 50012
+  Label: Celebration!
+  MusicId: 5001
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1031,1041
+- Id: 50022
+  Label: WAWO!
+  MusicId: 5002
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1033,1043
+- Id: 50032
+  Label: アンペア
+  MusicId: 5003
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1032,1042
+- Id: 50048
+  Label: DreamBelievers(105期)
+  MusicId: 5004
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50052
+  Label: Retrofuture
+  MusicId: 5005
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101

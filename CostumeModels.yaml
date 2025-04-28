@@ -898,6 +898,16 @@
   CharactersId: 1043
   CostumesId: 3001
   HairStyleId: 1
+- Id: 3001105101
+  Label: ライブ衣装01_桂城泉
+  CharactersId: 1051
+  CostumesId: 3001
+  HairStyleId: 1
+- Id: 3001105201
+  Label: ライブ衣装01_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 3001
+  HairStyleId: 1
 - Id: 3002102102
   Label: ライブ衣装02_乙宗梢
   CharactersId: 1021
@@ -1763,3 +1773,43 @@
   CharactersId: 1043
   CostumesId: 3025
   HairStyleId: 6
+- Id: 3026103101
+  Label: ライブ衣装22_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026103209
+  Label: ライブ衣装22_村野さやか
+  CharactersId: 1032
+  CostumesId: 3026
+  HairStyleId: 9
+- Id: 3026103301
+  Label: ライブ衣装22_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026104101
+  Label: ライブ衣装22_百生吟子
+  CharactersId: 1041
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026104201
+  Label: ライブ衣装22_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026104301
+  Label: ライブ衣装22_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026105101
+  Label: ライブ衣装22_桂城泉
+  CharactersId: 1051
+  CostumesId: 3026
+  HairStyleId: 1
+- Id: 3026105201
+  Label: ライブ衣装22_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 3026
+  HairStyleId: 1
