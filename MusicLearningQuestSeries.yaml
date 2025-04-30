@@ -322,6 +322,12 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30
+- Id: 40105102
+  MusicsId: 105102
+  Name: Celebration!
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
 - Id: 40203101
   MusicsId: 203101
   Name: Mix shake!!
@@ -637,6 +643,12 @@
 - Id: 40204302
   MusicsId: 204302
   Name: NEO SKY, NEO MAP!
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
+- Id: 40205101
+  MusicsId: 205101
+  Name: WAWO！
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30
@@ -961,6 +973,18 @@
 - Id: 40305101
   MusicsId: 305101
   Name: Edelied
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
+- Id: 40305102
+  MusicsId: 305102
+  Name: アンペア
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
+- Id: 40305103
+  MusicsId: 305103
+  Name: Retrofuture
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30

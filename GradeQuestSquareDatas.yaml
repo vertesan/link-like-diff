@@ -298,6 +298,24 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11051101
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 11051201
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 11051301
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -736,6 +754,12 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 21051301
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 3
+  MaxActionPoint: 3
 - Id: 31031101
   Name: ライブステージ1
   SquareType: 3
@@ -1612,6 +1636,54 @@
   TargetId: 531044504
   MinActionPoint: 1
   MaxActionPoint: 5
+- Id: 31051101
+  Name: ライブステージ1
+  SquareType: 3
+  TargetId: 531051101
+  MinActionPoint: 1
+  MaxActionPoint: 3
+- Id: 31051102
+  Name: ライブステージ2
+  SquareType: 3
+  TargetId: 531051102
+  MinActionPoint: 1
+  MaxActionPoint: 3
+- Id: 31051201
+  Name: ライブステージ1
+  SquareType: 3
+  TargetId: 531051201
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051202
+  Name: ライブステージ2
+  SquareType: 3
+  TargetId: 531051202
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051203
+  Name: ライブステージ3
+  SquareType: 3
+  TargetId: 531051203
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051301
+  Name: ライブステージ1
+  SquareType: 3
+  TargetId: 531051301
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051302
+  Name: ライブステージ2
+  SquareType: 3
+  TargetId: 531051302
+  MinActionPoint: 1
+  MaxActionPoint: 10
+- Id: 31051303
+  Name: ライブステージ3
+  SquareType: 3
+  TargetId: 531051303
+  MinActionPoint: 1
+  MaxActionPoint: 5
 - Id: 41031101
   Name: 追加効果（★）
   SquareType: 4
@@ -2260,6 +2332,48 @@
   TargetId: 1043
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 41051101
+  Name: 追加効果（★）
+  SquareType: 4
+  TargetId: 1
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051201
+  Name: 追加効果（★★）
+  SquareType: 4
+  TargetId: 2
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051202
+  Name: 追加効果（★★）
+  SquareType: 4
+  TargetId: 2
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051203
+  Name: 追加効果（★★）
+  SquareType: 4
+  TargetId: 2
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051301
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051302
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051303
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 51031201
   Name: 『初期メンタル -10%』解除
   SquareType: 5
@@ -2836,6 +2950,24 @@
   TargetId: 104016
   MinActionPoint: 2
   MaxActionPoint: 2
+- Id: 61051101
+  Name: 105期 獲得ライブPt. +5%
+  SquareType: 6
+  TargetId: 105001
+  MinActionPoint: 1
+  MaxActionPoint: 1
+- Id: 61051201
+  Name: 105期 獲得ライブPt. +5%
+  SquareType: 6
+  TargetId: 105002
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 61051301
+  Name: 105期 獲得ライブPt. +5%
+  SquareType: 6
+  TargetId: 105003
+  MinActionPoint: 3
+  MaxActionPoint: 3
 - Id: 71031101
   Name: メインライブステージ
   SquareType: 7
@@ -3136,3 +3268,21 @@
   TargetId: 571045601
   MinActionPoint: 1
   MaxActionPoint: 1
+- Id: 71051101
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051101
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 71051201
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051201
+  MinActionPoint: 1
+  MaxActionPoint: 10
+- Id: 71051301
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051301
+  MinActionPoint: 1
+  MaxActionPoint: 10

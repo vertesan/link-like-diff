@@ -1414,6 +1414,54 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003041
+  Name: メンバーシップ【Edel Note】特典 SRセレクトチケット（通常/GP PRIZEのみ）
+  NameFurigana: めんばーしっぷえーでるのーととくてんすーぱーれあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003042
+  Name: メンバーシップ【Edel Note】特典 URセレクトチケット（通常/GP PRIZEのみ）
+  NameFurigana: めんばーしっぷえーでるのーととくてんうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003043
+  Name: メンバーシップ【Edel Note】特典 《LIMITED》SRセレクトチケット
+  NameFurigana: めんばーしっぷえーでるのーととくてんりみてっどすーぱーれあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003044
+  Name: メンバーシップ【Edel Note】特典 《LIMITED》URセレクトチケット
+  NameFurigana: めんばーしっぷえーでるのーととくてんりみてっどうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと
@@ -2289,6 +2337,18 @@
   RequestableNum: 0
   Description: "ユメへの標となるフラグメントと引換できるチケット。\\nアイテム交換所で使用できる。"
   StartTime: 2025-04-10T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3011003
+  Name: Edel Note メンバーシップ特典交換チケット
+  NameFurigana: えーでるのーとめんばーしっぷとくてんこうかんちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999
+  RequestableNum: 0
+  Description: Edel Noteのメンバーシップ特典と交換できるチケット。
+  StartTime: 2025-04-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3012001
   Name: ブロンズティア
@@ -4954,6 +5014,18 @@
   Description: スタイル解放素材(日野下 花帆)
   StartTime: 2024-05-19T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031803
+  Name: "[Oracle Étude]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031901
   Name: "[17th Birthday]日野下\u00a0花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5602,6 +5674,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-01-26T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032526
+  Name: "[Her-bath-rium]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -5625,6 +5709,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4032803
+  Name: "[Oracle Étude]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-04-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4032901
   Name: "[17th Birthday]村野\u00a0さやか 解放Pt."
@@ -6166,6 +6262,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2024-05-19T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033803
+  Name: "[Oracle Étude]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033901
   Name: "[17th Birthday]大沢\u00a0瑠璃乃 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6429,6 +6537,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2024-05-19T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041802
+  Name: "[Oracle Étude]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-04-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4041901
   Name: "[16th Birthday]百生\u00a0吟子 解放Pt."
@@ -6694,6 +6814,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2024-05-19T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042802
+  Name: "[Oracle Étude]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042901
   Name: "[16th Birthday]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6958,6 +7090,18 @@
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2024-05-19T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4043802
+  Name: "[Oracle Étude]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4043901
   Name: "[16th Birthday]安養寺\u00a0姫芽 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7030,6 +7174,30 @@
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4051502
+  Name: "[Retrofuture]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051801
+  Name: "[Oracle Étude]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4052301
   Name: "[ノヴァホワイト]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7065,4 +7233,28 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052502
+  Name: "[Retrofuture]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052801
+  Name: "[Oracle Étude]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-04-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z

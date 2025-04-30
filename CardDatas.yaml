@@ -26548,6 +26548,106 @@
   AttributeId: 30318020
   SpineId: 45
   OrderId: 10300131
+- Id: 10318031
+  CardSeriesId: 1031803
+  Name: Oracle Étude
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10318031
+  SkillSeriesId: 20318030
+  AttributeId: 30318030
+  SpineId: 59
+  OrderId: 10383831
+- Id: 10318032
+  CardSeriesId: 1031803
+  Name: Oracle Étude
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10318032
+  SkillSeriesId: 20318030
+  AttributeId: 30318030
+  SpineId: 59
+  OrderId: 10383831
+- Id: 10318033
+  CardSeriesId: 1031803
+  Name: Oracle Étude
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10318032
+  SkillSeriesId: 20318030
+  AttributeId: 30318030
+  SpineId: 59
+  OrderId: 10383831
+- Id: 10318034
+  CardSeriesId: 1031803
+  Name: Oracle Étude
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10318032
+  SkillSeriesId: 20318030
+  AttributeId: 30318030
+  SpineId: 59
+  OrderId: 10383831
 - Id: 10319011
   CardSeriesId: 1031901
   Name: 17th Birthday
@@ -33273,6 +33373,131 @@
   AttributeId: 30325250
   SpineId: 54
   OrderId: 10382432
+- Id: 10325260
+  CardSeriesId: 1032526
+  Name: Her-bath-rium
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 54
+  InitialPure: 51
+  InitialCool: 40
+  InitialMental: 94
+  MaxSmile: 2700
+  MaxPure: 2550
+  MaxCool: 2000
+  MaxMental: 235
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325260
+  SkillSeriesId: 20325260
+  AttributeId: 30325260
+  SpineId: 60
+  OrderId: 10383632
+- Id: 10325261
+  CardSeriesId: 1032526
+  Name: Her-bath-rium
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2700
+  InitialPure: 2550
+  InitialCool: 2000
+  InitialMental: 235
+  MaxSmile: 3780
+  MaxPure: 3570
+  MaxCool: 2800
+  MaxMental: 329
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325261
+  SkillSeriesId: 20325260
+  AttributeId: 30325260
+  SpineId: 60
+  OrderId: 10383632
+- Id: 10325262
+  CardSeriesId: 1032526
+  Name: Her-bath-rium
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3780
+  InitialPure: 3570
+  InitialCool: 2800
+  InitialMental: 329
+  MaxSmile: 5400
+  MaxPure: 5100
+  MaxCool: 4000
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325262
+  SkillSeriesId: 20325260
+  AttributeId: 30325260
+  SpineId: 60
+  OrderId: 10383632
+- Id: 10325263
+  CardSeriesId: 1032526
+  Name: Her-bath-rium
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5400
+  InitialPure: 5100
+  InitialCool: 4000
+  InitialMental: 470
+  MaxSmile: 5940
+  MaxPure: 5610
+  MaxCool: 4400
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325262
+  SkillSeriesId: 20325260
+  AttributeId: 30325260
+  SpineId: 60
+  OrderId: 10383632
+- Id: 10325264
+  CardSeriesId: 1032526
+  Name: Her-bath-rium
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5940
+  InitialPure: 5610
+  InitialCool: 4400
+  InitialMental: 470
+  MaxSmile: 6480
+  MaxPure: 6120
+  MaxCool: 4800
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325262
+  SkillSeriesId: 20325260
+  AttributeId: 30325260
+  SpineId: 60
+  OrderId: 10383632
 - Id: 10328011
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -33473,6 +33698,106 @@
   AttributeId: 30328020
   SpineId: 44
   OrderId: 10300132
+- Id: 10328031
+  CardSeriesId: 1032803
+  Name: Oracle Étude
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10328031
+  SkillSeriesId: 20328030
+  AttributeId: 30328030
+  SpineId: 59
+  OrderId: 10383832
+- Id: 10328032
+  CardSeriesId: 1032803
+  Name: Oracle Étude
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10328032
+  SkillSeriesId: 20328030
+  AttributeId: 30328030
+  SpineId: 59
+  OrderId: 10383832
+- Id: 10328033
+  CardSeriesId: 1032803
+  Name: Oracle Étude
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10328032
+  SkillSeriesId: 20328030
+  AttributeId: 30328030
+  SpineId: 59
+  OrderId: 10383832
+- Id: 10328034
+  CardSeriesId: 1032803
+  Name: Oracle Étude
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10328032
+  SkillSeriesId: 20328030
+  AttributeId: 30328030
+  SpineId: 59
+  OrderId: 10383832
 - Id: 10329011
   CardSeriesId: 1032901
   Name: 17th Birthday
@@ -39023,6 +39348,106 @@
   AttributeId: 30338020
   SpineId: 33
   OrderId: 10300133
+- Id: 10338031
+  CardSeriesId: 1033803
+  Name: Oracle Étude
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10338031
+  SkillSeriesId: 20338030
+  AttributeId: 30338030
+  SpineId: 47
+  OrderId: 10383833
+- Id: 10338032
+  CardSeriesId: 1033803
+  Name: Oracle Étude
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10338032
+  SkillSeriesId: 20338030
+  AttributeId: 30338030
+  SpineId: 47
+  OrderId: 10383833
+- Id: 10338033
+  CardSeriesId: 1033803
+  Name: Oracle Étude
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10338032
+  SkillSeriesId: 20338030
+  AttributeId: 30338030
+  SpineId: 47
+  OrderId: 10383833
+- Id: 10338034
+  CardSeriesId: 1033803
+  Name: Oracle Étude
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10338032
+  SkillSeriesId: 20338030
+  AttributeId: 30338030
+  SpineId: 47
+  OrderId: 10383833
 - Id: 10339011
   CardSeriesId: 1033901
   Name: 17th Birthday
@@ -41723,6 +42148,106 @@
   AttributeId: 30418010
   SpineId: 4
   OrderId: 10300141
+- Id: 10418021
+  CardSeriesId: 1041802
+  Name: Oracle Étude
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10418021
+  SkillSeriesId: 20418020
+  AttributeId: 30418020
+  SpineId: 23
+  OrderId: 10383841
+- Id: 10418022
+  CardSeriesId: 1041802
+  Name: Oracle Étude
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10418022
+  SkillSeriesId: 20418020
+  AttributeId: 30418020
+  SpineId: 23
+  OrderId: 10383841
+- Id: 10418023
+  CardSeriesId: 1041802
+  Name: Oracle Étude
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10418022
+  SkillSeriesId: 20418020
+  AttributeId: 30418020
+  SpineId: 23
+  OrderId: 10383841
+- Id: 10418024
+  CardSeriesId: 1041802
+  Name: Oracle Étude
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10418022
+  SkillSeriesId: 20418020
+  AttributeId: 30418020
+  SpineId: 23
+  OrderId: 10383841
 - Id: 10419011
   CardSeriesId: 1041901
   Name: 16th Birthday
@@ -44423,6 +44948,106 @@
   AttributeId: 30428010
   SpineId: 4
   OrderId: 10300142
+- Id: 10428021
+  CardSeriesId: 1042802
+  Name: Oracle Étude
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10428021
+  SkillSeriesId: 20428020
+  AttributeId: 30428020
+  SpineId: 23
+  OrderId: 10383842
+- Id: 10428022
+  CardSeriesId: 1042802
+  Name: Oracle Étude
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10428022
+  SkillSeriesId: 20428020
+  AttributeId: 30428020
+  SpineId: 23
+  OrderId: 10383842
+- Id: 10428023
+  CardSeriesId: 1042802
+  Name: Oracle Étude
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10428022
+  SkillSeriesId: 20428020
+  AttributeId: 30428020
+  SpineId: 23
+  OrderId: 10383842
+- Id: 10428024
+  CardSeriesId: 1042802
+  Name: Oracle Étude
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10428022
+  SkillSeriesId: 20428020
+  AttributeId: 30428020
+  SpineId: 23
+  OrderId: 10383842
 - Id: 10429011
   CardSeriesId: 1042901
   Name: 16th Birthday
@@ -47123,6 +47748,106 @@
   AttributeId: 30438010
   SpineId: 4
   OrderId: 10300143
+- Id: 10438021
+  CardSeriesId: 1043802
+  Name: Oracle Étude
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10438021
+  SkillSeriesId: 20438020
+  AttributeId: 30438020
+  SpineId: 23
+  OrderId: 10383843
+- Id: 10438022
+  CardSeriesId: 1043802
+  Name: Oracle Étude
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10438022
+  SkillSeriesId: 20438020
+  AttributeId: 30438020
+  SpineId: 23
+  OrderId: 10383843
+- Id: 10438023
+  CardSeriesId: 1043802
+  Name: Oracle Étude
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10438022
+  SkillSeriesId: 20438020
+  AttributeId: 30438020
+  SpineId: 23
+  OrderId: 10383843
+- Id: 10438024
+  CardSeriesId: 1043802
+  Name: Oracle Étude
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10438022
+  SkillSeriesId: 20438020
+  AttributeId: 30438020
+  SpineId: 23
+  OrderId: 10383843
 - Id: 10439011
   CardSeriesId: 1043901
   Name: 16th Birthday
@@ -47848,6 +48573,231 @@
   AttributeId: 30515010
   SpineId: 5
   OrderId: 10300251
+- Id: 10515020
+  CardSeriesId: 1051502
+  Name: Retrofuture
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 38
+  InitialPure: 50
+  InitialCool: 55
+  InitialMental: 98
+  MaxSmile: 1900
+  MaxPure: 2500
+  MaxCool: 2750
+  MaxMental: 245
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515020
+  SkillSeriesId: 20515020
+  AttributeId: 30515020
+  SpineId: 7
+  OrderId: 10383751
+- Id: 10515021
+  CardSeriesId: 1051502
+  Name: Retrofuture
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 1900
+  InitialPure: 2500
+  InitialCool: 2750
+  InitialMental: 245
+  MaxSmile: 2660
+  MaxPure: 3500
+  MaxCool: 3850
+  MaxMental: 343
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515021
+  SkillSeriesId: 20515020
+  AttributeId: 30515020
+  SpineId: 7
+  OrderId: 10383751
+- Id: 10515022
+  CardSeriesId: 1051502
+  Name: Retrofuture
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2660
+  InitialPure: 3500
+  InitialCool: 3850
+  InitialMental: 343
+  MaxSmile: 3800
+  MaxPure: 5000
+  MaxCool: 5500
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515022
+  SkillSeriesId: 20515020
+  AttributeId: 30515020
+  SpineId: 7
+  OrderId: 10383751
+- Id: 10515023
+  CardSeriesId: 1051502
+  Name: Retrofuture
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3800
+  InitialPure: 5000
+  InitialCool: 5500
+  InitialMental: 490
+  MaxSmile: 4180
+  MaxPure: 5500
+  MaxCool: 6050
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515022
+  SkillSeriesId: 20515020
+  AttributeId: 30515020
+  SpineId: 7
+  OrderId: 10383751
+- Id: 10515024
+  CardSeriesId: 1051502
+  Name: Retrofuture
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4180
+  InitialPure: 5500
+  InitialCool: 6050
+  InitialMental: 490
+  MaxSmile: 4560
+  MaxPure: 6000
+  MaxCool: 6600
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515022
+  SkillSeriesId: 20515020
+  AttributeId: 30515020
+  SpineId: 7
+  OrderId: 10383751
+- Id: 10518011
+  CardSeriesId: 1051801
+  Name: Oracle Étude
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10518011
+  SkillSeriesId: 20518010
+  AttributeId: 30518010
+  SpineId: 4
+  OrderId: 10383851
+- Id: 10518012
+  CardSeriesId: 1051801
+  Name: Oracle Étude
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10518012
+  SkillSeriesId: 20518010
+  AttributeId: 30518010
+  SpineId: 4
+  OrderId: 10383851
+- Id: 10518013
+  CardSeriesId: 1051801
+  Name: Oracle Étude
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10518012
+  SkillSeriesId: 20518010
+  AttributeId: 30518010
+  SpineId: 4
+  OrderId: 10383851
+- Id: 10518014
+  CardSeriesId: 1051801
+  Name: Oracle Étude
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10518012
+  SkillSeriesId: 20518010
+  AttributeId: 30518010
+  SpineId: 4
+  OrderId: 10383851
 - Id: 10523010
   CardSeriesId: 1052301
   Name: ノヴァホワイト
@@ -48223,3 +49173,228 @@
   AttributeId: 30525010
   SpineId: 5
   OrderId: 10300252
+- Id: 10525020
+  CardSeriesId: 1052502
+  Name: Retrofuture
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 38
+  InitialPure: 51
+  InitialCool: 55
+  InitialMental: 98
+  MaxSmile: 1875
+  MaxPure: 2550
+  MaxCool: 2725
+  MaxMental: 245
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525020
+  SkillSeriesId: 20525020
+  AttributeId: 30525020
+  SpineId: 6
+  OrderId: 10383752
+- Id: 10525021
+  CardSeriesId: 1052502
+  Name: Retrofuture
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 1875
+  InitialPure: 2550
+  InitialCool: 2725
+  InitialMental: 245
+  MaxSmile: 2625
+  MaxPure: 3570
+  MaxCool: 3815
+  MaxMental: 343
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525021
+  SkillSeriesId: 20525020
+  AttributeId: 30525020
+  SpineId: 6
+  OrderId: 10383752
+- Id: 10525022
+  CardSeriesId: 1052502
+  Name: Retrofuture
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2625
+  InitialPure: 3570
+  InitialCool: 3815
+  InitialMental: 343
+  MaxSmile: 3750
+  MaxPure: 5100
+  MaxCool: 5450
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525022
+  SkillSeriesId: 20525020
+  AttributeId: 30525020
+  SpineId: 6
+  OrderId: 10383752
+- Id: 10525023
+  CardSeriesId: 1052502
+  Name: Retrofuture
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3750
+  InitialPure: 5100
+  InitialCool: 5450
+  InitialMental: 490
+  MaxSmile: 4125
+  MaxPure: 5610
+  MaxCool: 5995
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525022
+  SkillSeriesId: 20525020
+  AttributeId: 30525020
+  SpineId: 6
+  OrderId: 10383752
+- Id: 10525024
+  CardSeriesId: 1052502
+  Name: Retrofuture
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4125
+  InitialPure: 5610
+  InitialCool: 5995
+  InitialMental: 490
+  MaxSmile: 4500
+  MaxPure: 6120
+  MaxCool: 6540
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525022
+  SkillSeriesId: 20525020
+  AttributeId: 30525020
+  SpineId: 6
+  OrderId: 10383752
+- Id: 10528011
+  CardSeriesId: 1052801
+  Name: Oracle Étude
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 8
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10528011
+  SkillSeriesId: 20528010
+  AttributeId: 30528010
+  SpineId: 4
+  OrderId: 10383852
+- Id: 10528012
+  CardSeriesId: 1052801
+  Name: Oracle Étude
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 8
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10528012
+  SkillSeriesId: 20528010
+  AttributeId: 30528010
+  SpineId: 4
+  OrderId: 10383852
+- Id: 10528013
+  CardSeriesId: 1052801
+  Name: Oracle Étude
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 8
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10528012
+  SkillSeriesId: 20528010
+  AttributeId: 30528010
+  SpineId: 4
+  OrderId: 10383852
+- Id: 10528014
+  CardSeriesId: 1052801
+  Name: Oracle Étude
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 8
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 8
+  InitialSmile: 0
+  InitialPure: 0
+  InitialCool: 0
+  InitialMental: 0
+  MaxSmile: 0
+  MaxPure: 0
+  MaxCool: 0
+  MaxMental: 0
+  BeatPoint: 0
+  SpecialAppealSeriesId: 10528012
+  SkillSeriesId: 20528010
+  AttributeId: 30528010
+  SpineId: 4
+  OrderId: 10383852

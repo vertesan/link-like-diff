@@ -38,3 +38,11 @@
   DisplayStartTime: 2025-04-10T12:00:00Z
   DisplayEndTime: 2025-04-30T11:59:59Z
   TermTitle: Opening Term
+- Id: 1005006
+  Description: ・集計期間中に開催されるライブグランプリ
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2025-04-30T12:00:00Z
+  CountEndTime: 2025-06-26T18:59:59Z
+  DisplayStartTime: 2025-04-30T12:00:00Z
+  DisplayEndTime: 2035-12-31T14:59:59Z
+  TermTitle: 105期 2nd Term

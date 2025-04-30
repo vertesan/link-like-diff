@@ -202,6 +202,18 @@
   SkillIcon: 10101400
   GradeAddSkillEffectsId: "4101443100"
   OrderId: 1
+- Id: 41014511
+  Name: スキルAP -1（泉）
+  Description: ライブ中、泉のスキル消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101451100"
+  OrderId: 1
+- Id: 41014521
+  Name: スキルAP -1（セラス）
+  Description: ライブ中、セラスのスキル消費APを-1する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101452100"
+  OrderId: 1
 - Id: 41015001
   Name: 手札の上限枚数 +1枚
   Description: ライブ中、手札の上限枚数が1枚増加する。

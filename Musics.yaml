@@ -1672,6 +1672,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 105102
+  OrderId: 1229
+  Title: Celebration!
+  TitleFurigana: せれぶれいしょん
+  JacketId: 105102
+  SoundId: 10510201
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: "1041"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 11538
+  ApIncrement: 848
+  SongTime: 8485
+  PlayTime: 101818
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -3310,6 +3341,37 @@
   ReleaseConditionType: 2
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 205101
+  OrderId: 1625
+  Title: WAWO！
+  TitleFurigana: わお
+  JacketId: 205101
+  SoundId: 20510101
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: "1043"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 18750
+  ApIncrement: 815
+  SongTime: 8154
+  PlayTime: 97846
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   MaxAp: 20
@@ -4977,6 +5039,68 @@
   SongTime: 7630
   PlayTime: 91561
   FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 305102
+  OrderId: 1429
+  Title: アンペア
+  TitleFurigana: あんぺあ
+  JacketId: 305102
+  SoundId: 30510201
+  Description: DOLLCHESTRA
+  GenerationsId: 105
+  UnitId: 102
+  CenterCharacterId: 1032
+  SingerCharacterId: "1042"
+  SupportCharacterId: 1031,1033,1041,1043,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 18000
+  ApIncrement: 836
+  SongTime: 8358
+  PlayTime: 100299
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 1
+  ReleaseConditionDetail: 1000
+  ReleaseConditionText: ラーニングライブで習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+- Id: 305103
+  OrderId: 1802
+  Title: Retrofuture
+  TitleFurigana: れとろふゅーちゃー
+  JacketId: 305103
+  SoundId: 30510301
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1052
+  SingerCharacterId: "1051"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 10714
+  ApIncrement: 1184
+  SongTime: 11842
+  PlayTime: 142105
+  FeverSectionNo: 5
   PreviewStartTime: 10000
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000

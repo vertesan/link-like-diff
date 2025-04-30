@@ -553,3 +553,48 @@
   StartTime: 2024-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0
+- Id: 4030021
+  ExchangeTicketName: メンバーシップ【Edel Note】特典 SRセレクトチケット（通常/GP PRIZEのみ）
+  Description: Edel Noteの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketId: 3003041
+  OrderId: 10003
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030022
+  ExchangeTicketName: メンバーシップ【Edel Note】特典 URセレクトチケット（通常/GP PRIZEのみ）
+  Description: Edel Noteの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketId: 3003042
+  OrderId: 10002
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030024
+  ExchangeTicketName: メンバーシップ【Edel Note】特典 《LIMITED》URセレクトチケット
+  Description: Edel NoteのLIMITED URカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketId: 3003044
+  OrderId: 10001
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
