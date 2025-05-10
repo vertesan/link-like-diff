@@ -3408,6 +3408,37 @@
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+- Id: 205202
+  OrderId: 6031
+  Title: ロミオとシンデレラ
+  TitleFurigana: ろみおとしんでれら
+  JacketId: 205202
+  SoundId: 20520201
+  Description: 一般カバー
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1052
+  SingerCharacterId: "0"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043,1051
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12162
+  ApIncrement: 941
+  SongTime: 9412
+  PlayTime: 112941
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
 - Id: 303101
   OrderId: 1003
   Title: On your mark

@@ -2,7 +2,7 @@
   Name: 絵文字『ポチっ』
   Alias: pochi
   Category: 3001
-  OrderId: 202
+  OrderId: 203
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3001
@@ -16,7 +16,7 @@
   Name: 絵文字【回転拍手】
   Alias: kaitenhakushu
   Category: 3001
-  OrderId: 203
+  OrderId: 204
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3001
@@ -30,7 +30,7 @@
   Name: 絵文字【ダンベル】
   Alias: danberu
   Category: 3001
-  OrderId: 201
+  OrderId: 205
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3001
@@ -44,7 +44,7 @@
   Name: 絵文字『あんやと』
   Alias: anyato
   Category: 3001
-  OrderId: 204
+  OrderId: 201
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3001
@@ -58,7 +58,7 @@
   Name: 絵文字【鶴】
   Alias: tsuru
   Category: 3001
-  OrderId: 205
+  OrderId: 202
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3001
@@ -71,11 +71,11 @@
 - Id: 7012201
   Name: 絵文字【高輝度ペンライト - 梢】
   Alias: penlight_kozue_high
-  Category: 3001
-  OrderId: 3
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3001
+  Category: 1102
+  OrderId: 102
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -113,11 +113,11 @@
 - Id: 7013201
   Name: 絵文字【表情○○ - 梢】
   Alias: face_kozue_oo
-  Category: 3001
-  OrderId: 105
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3001
+  Category: 1102
+  OrderId: 1102
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -127,11 +127,11 @@
 - Id: 7013202
   Name: 絵文字【表情>< - 梢】
   Alias: face_kozue_x
-  Category: 3001
-  OrderId: 106
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3001
+  Category: 1102
+  OrderId: 1103
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -198,7 +198,7 @@
   Name: 絵文字『人』
   Alias: bito
   Category: 3002
-  OrderId: 202
+  OrderId: 203
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3002
@@ -212,7 +212,7 @@
   Name: 絵文字『なにとぞ』
   Alias: nanitozo
   Category: 3002
-  OrderId: 201
+  OrderId: 205
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3002
@@ -226,7 +226,7 @@
   Name: 絵文字【ナスさん】
   Alias: nasusan
   Category: 3002
-  OrderId: 203
+  OrderId: 204
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3002
@@ -240,7 +240,7 @@
   Name: 絵文字『大成功』
   Alias: daiseikou
   Category: 3002
-  OrderId: 204
+  OrderId: 201
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3002
@@ -254,7 +254,7 @@
   Name: 絵文字【ゴンザレスししょー】
   Alias: gonzaresushisho-
   Category: 3002
-  OrderId: 205
+  OrderId: 202
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3002
@@ -267,11 +267,11 @@
 - Id: 7022201
   Name: 絵文字【高輝度ペンライト - 綴理】
   Alias: penlight_tsuzuri_high
-  Category: 3002
-  OrderId: 3
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3002
+  Category: 1102
+  OrderId: 202
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -309,11 +309,11 @@
 - Id: 7023201
   Name: 絵文字【表情○○ - 綴理】
   Alias: face_tsuzuri_oo
-  Category: 3002
-  OrderId: 105
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3002
+  Category: 1102
+  OrderId: 1202
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -323,11 +323,11 @@
 - Id: 7023202
   Name: 絵文字【表情>< - 綴理】
   Alias: face_tsuzuri_x
-  Category: 3002
-  OrderId: 106
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3002
+  Category: 1102
+  OrderId: 1203
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -394,7 +394,7 @@
   Name: 絵文字『こん』
   Alias: kon
   Category: 3003
-  OrderId: 203
+  OrderId: 205
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -408,7 +408,7 @@
   Name: 絵文字『バイ』
   Alias: bai
   Category: 3003
-  OrderId: 201
+  OrderId: 204
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -422,7 +422,7 @@
   Name: 絵文字『ばん』
   Alias: ban
   Category: 3003
-  OrderId: 205
+  OrderId: 206
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -436,7 +436,7 @@
   Name: 絵文字『よろ』
   Alias: yoro
   Category: 3003
-  OrderId: 204
+  OrderId: 203
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -450,7 +450,7 @@
   Name: 絵文字『対』
   Alias: tai
   Category: 3003
-  OrderId: 202
+  OrderId: 201
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -464,7 +464,7 @@
   Name: 絵文字『GG』
   Alias: gg
   Category: 3003
-  OrderId: 206
+  OrderId: 202
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
@@ -477,11 +477,11 @@
 - Id: 7032201
   Name: 絵文字【高輝度ペンライト - 慈】
   Alias: penlight_megumi_high
-  Category: 3003
-  OrderId: 3
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3003
+  Category: 1102
+  OrderId: 302
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -519,11 +519,11 @@
 - Id: 7033201
   Name: 絵文字【表情○○ - 慈】
   Alias: face_megumi_oo
-  Category: 3003
-  OrderId: 105
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3003
+  Category: 1102
+  OrderId: 1302
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -533,11 +533,11 @@
 - Id: 7033202
   Name: 絵文字【表情>< - 慈】
   Alias: face_megumi_x
-  Category: 3003
-  OrderId: 106
-  RequirementType: 8
-  RequirementDetail: JOIN_MEMBERSHIP
-  RequirementValue: 3003
+  Category: 1102
+  OrderId: 1303
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -594,6 +594,132 @@
   RequirementType: 8
   RequirementDetail: JOIN_MEMBERSHIP
   RequirementValue: 3003
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7041001
+  Name: 絵文字『おいしい』
+  Alias: oishii
+  Category: 3004
+  OrderId: 201
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7041002
+  Name: 絵文字『やれやれ』
+  Alias: yareyare
+  Category: 3004
+  OrderId: 202
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7041003
+  Name: 絵文字【サメ】
+  Alias: same
+  Category: 3004
+  OrderId: 203
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7042401
+  Name: 絵文字【高輝度ペンライト - 泉】
+  Alias: penlight_izumi_high
+  Category: 3004
+  OrderId: 2
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7042501
+  Name: 絵文字【高輝度ペンライト - セラス】
+  Alias: penlight_ceras_high
+  Category: 3004
+  OrderId: 1
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7043401
+  Name: 絵文字【表情○○ - 泉】
+  Alias: face_izumi_oo
+  Category: 3004
+  OrderId: 103
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7043402
+  Name: 絵文字【表情>< - 泉】
+  Alias: face_izumi_x
+  Category: 3004
+  OrderId: 104
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7043501
+  Name: 絵文字【表情○○ - セラス】
+  Alias: face_ceras_oo
+  Category: 3004
+  OrderId: 101
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7043502
+  Name: 絵文字【表情>< - セラス】
+  Alias: face_ceras_x
+  Category: 3004
+  OrderId: 102
+  RequirementType: 8
+  RequirementDetail: JOIN_MEMBERSHIP
+  RequirementValue: 3004
   RequirementText: ""
   IsVisibleOnlyPossess: 0
   StartTime: 2023-03-31T15:00:00Z
@@ -785,8 +911,8 @@
 - Id: 7100014
   Name: 絵文字『めぐ』
   Alias: megu
-  Category: 1001
-  OrderId: 105
+  Category: 1102
+  OrderId: 2001
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -838,11 +964,67 @@
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2023-03-31T15:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7100018
+  Name: 絵文字『ルリ』
+  Alias: ruri
+  Category: 1001
+  OrderId: 105
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7100019
+  Name: 絵文字『大』
+  Alias: dai
+  Category: 1001
+  OrderId: 109
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7100020
+  Name: 絵文字『先輩』
+  Alias: senpai
+  Category: 1001
+  OrderId: 110
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7100021
+  Name: 絵文字『後輩』
+  Alias: kouhai
+  Category: 1001
+  OrderId: 111
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
 - Id: 7221001
   Name: 絵文字【ペンライト - 梢】
   Alias: penlight_kozue
-  Category: 1002
-  OrderId: 3
+  Category: 1102
+  OrderId: 101
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -855,8 +1037,8 @@
 - Id: 7222001
   Name: 絵文字【ペンライト - 綴理】
   Alias: penlight_tsuzuri
-  Category: 1002
-  OrderId: 6
+  Category: 1102
+  OrderId: 201
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -869,8 +1051,8 @@
 - Id: 7223001
   Name: 絵文字【ペンライト - 慈】
   Alias: penlight_megumi
-  Category: 1002
-  OrderId: 9
+  Category: 1102
+  OrderId: 301
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -898,7 +1080,7 @@
   Name: 絵文字【ペンライト - さやか】
   Alias: penlight_sayaka
   Category: 1002
-  OrderId: 5
+  OrderId: 4
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -912,7 +1094,7 @@
   Name: 絵文字【ペンライト - 瑠璃乃】
   Alias: penlight_rurino
   Category: 1002
-  OrderId: 8
+  OrderId: 6
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -940,7 +1122,7 @@
   Name: 絵文字【ペンライト - 小鈴】
   Alias: penlight_kosuzu
   Category: 1002
-  OrderId: 4
+  OrderId: 3
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -953,6 +1135,34 @@
 - Id: 7243001
   Name: 絵文字【ペンライト - 姫芽】
   Alias: penlight_hime
+  Category: 1002
+  OrderId: 5
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7251001
+  Name: 絵文字【ペンライト - 泉】
+  Alias: penlight_izumi
+  Category: 1002
+  OrderId: 8
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7252001
+  Name: 絵文字【ペンライト - セラス】
+  Alias: penlight_ceras
   Category: 1002
   OrderId: 7
   RequirementType: 999
@@ -967,8 +1177,8 @@
 - Id: 7321001
   Name: 絵文字【通常顔 - 梢】
   Alias: face_kozue_normal
-  Category: 1003
-  OrderId: 3
+  Category: 1102
+  OrderId: 1101
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -981,8 +1191,8 @@
 - Id: 7322001
   Name: 絵文字【通常顔 - 綴理】
   Alias: face_tsuzuri_normal
-  Category: 1003
-  OrderId: 6
+  Category: 1102
+  OrderId: 1201
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -995,8 +1205,8 @@
 - Id: 7323001
   Name: 絵文字【通常顔 - 慈】
   Alias: face_megumi_normal
-  Category: 1003
-  OrderId: 9
+  Category: 1102
+  OrderId: 1301
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -1024,7 +1234,7 @@
   Name: 絵文字【通常顔 - さやか】
   Alias: face_sayaka_normal
   Category: 1003
-  OrderId: 5
+  OrderId: 4
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -1038,7 +1248,7 @@
   Name: 絵文字【通常顔 - 瑠璃乃】
   Alias: face_rurino_normal
   Category: 1003
-  OrderId: 8
+  OrderId: 6
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -1066,7 +1276,7 @@
   Name: 絵文字【通常顔 - 小鈴】
   Alias: face_kosuzu_normal
   Category: 1003
-  OrderId: 4
+  OrderId: 3
   RequirementType: 999
   RequirementDetail: "0"
   RequirementValue: 0
@@ -1079,6 +1289,34 @@
 - Id: 7343001
   Name: 絵文字【通常顔 - 姫芽】
   Alias: face_hime_normal
+  Category: 1003
+  OrderId: 5
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7351001
+  Name: 絵文字【通常顔 - 泉】
+  Alias: face_izumi_normal
+  Category: 1003
+  OrderId: 8
+  RequirementType: 999
+  RequirementDetail: "0"
+  RequirementValue: 0
+  RequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2023-03-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2023-03-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+- Id: 7352001
+  Name: 絵文字【通常顔 - セラス】
+  Alias: face_ceras_normal
   Category: 1003
   OrderId: 7
   RequirementType: 999

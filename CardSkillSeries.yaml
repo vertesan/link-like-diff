@@ -2482,6 +2482,18 @@
   Name: ハートブースト：ブーケ
   SkillIcon: 10315270
   SkillMainEffect: 16
+- Id: 10315280
+  Name: ツインスリーズ
+  SkillIcon: 10315280
+  SkillMainEffect: 28
+- Id: 10315281
+  Name: ツインスリーズ
+  SkillIcon: 10315280
+  SkillMainEffect: 28
+- Id: 10315282
+  Name: ツインスリーズ
+  SkillIcon: 10315280
+  SkillMainEffect: 28
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -3450,6 +3462,18 @@
   Name: オールレンジ♡リフレッシュ
   SkillIcon: 10334140
   SkillMainEffect: 25
+- Id: 10334150
+  Name: リブートマインド
+  SkillIcon: 10334150
+  SkillMainEffect: 13
+- Id: 10334151
+  Name: リブートマインド
+  SkillIcon: 10334150
+  SkillMainEffect: 13
+- Id: 10334152
+  Name: リブートマインド
+  SkillIcon: 10334150
+  SkillMainEffect: 13
 - Id: 10335010
   Name: リゲインアトラクト
   SkillIcon: 10335010
@@ -3994,6 +4018,18 @@
   Name: ワードローブ
   SkillIcon: 10415130
   SkillMainEffect: 43
+- Id: 10415140
+  Name: ツインスリーズ
+  SkillIcon: 10415140
+  SkillMainEffect: 28
+- Id: 10415141
+  Name: ツインスリーズ
+  SkillIcon: 10415140
+  SkillMainEffect: 28
+- Id: 10415142
+  Name: ツインスリーズ
+  SkillIcon: 10415140
+  SkillMainEffect: 28
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -5546,6 +5582,10 @@
   Name: サステイン＊ドリーム
   SkillIcon: 20315270
   SkillMainEffect: 25
+- Id: 20315280
+  Name: エグザクトアトラクション
+  SkillIcon: 20315280
+  SkillMainEffect: 1
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -5874,6 +5914,10 @@
   Name: オルタネイト：イグニッション
   SkillIcon: 20334140
   SkillMainEffect: 36
+- Id: 20334150
+  Name: サウンドリフレッシュマインド
+  SkillIcon: 20334150
+  SkillMainEffect: 5
 - Id: 20335010
   Name: リゲインボルテージ
   SkillIcon: 20335010
@@ -6057,6 +6101,10 @@
 - Id: 20415130
   Name: ドレス《キセキ》
   SkillIcon: 20415130
+  SkillMainEffect: 28
+- Id: 20415140
+  Name: ドレス《Celebration!》
+  SkillIcon: 20415140
   SkillMainEffect: 28
 - Id: 20418010
   Name: ドレス《Ether Aria》
@@ -7186,6 +7234,10 @@
   Name: デイブレイク
   SkillIcon: 30315270
   SkillMainEffect: 14
+- Id: 30315280
+  Name: ハッピースリーズ
+  SkillIcon: 30315280
+  SkillMainEffect: 28
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -7466,6 +7518,10 @@
   Name: イグニッション＆APレデュース：みらくらぱーく！
   SkillIcon: 30334140
   SkillMainEffect: 17
+- Id: 30334150
+  Name: ドロー：サウンド/エクステリカバー
+  SkillIcon: 30334150
+  SkillMainEffect: 20
 - Id: 30335010
   Name: ドロー：ボルテージゲイン & アーリードロー：3/APレデュース
   SkillIcon: 30335010
@@ -7634,6 +7690,10 @@
   Name: テイラー
   SkillIcon: 30415130
   SkillMainEffect: 38
+- Id: 30415140
+  Name: ドロー：ハッピー/エクステゲイン
+  SkillIcon: 30415140
+  SkillMainEffect: 20
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -8166,6 +8226,18 @@
   Name: リユニオンチャーム/Megumi
   SkillIcon: 80235240
   SkillMainEffect: 29
+- Id: 80285010
+  Name: ハピネスチェリー
+  SkillIcon: 80415140
+  SkillMainEffect: 29
+- Id: 80285020
+  Name: Celebration!
+  SkillIcon: 80415141
+  SkillMainEffect: 1
+- Id: 80285030
+  Name: Celebration!
+  SkillIcon: 80415142
+  SkillMainEffect: 13
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -8414,6 +8486,18 @@
   Name: プロミス
   SkillIcon: 90235240
   SkillMainEffect: 7
+- Id: 90285010
+  Name: ハッピーセオリー
+  SkillIcon: 90415140
+  SkillMainEffect: 1
+- Id: 90285020
+  Name: ドロー：ハッピー/ハートキャプチャ＆インスタンス
+  SkillIcon: 90415141
+  SkillMainEffect: 1
+- Id: 90285030
+  Name: ドロー：ハッピー/ハートキャプチャ＆インスタンス
+  SkillIcon: 90415142
+  SkillMainEffect: 1
 - Id: 90444010
   Name: クローズ
   SkillIcon: 90444010
