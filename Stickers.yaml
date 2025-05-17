@@ -40222,6 +40222,32 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90305103
+  Name: Jacket『Retrofuture』
+  Text: |-
+    世界に新たな象徴を 弱音、ガジェットで武装して
+    鞄には強がりさえあればいい
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120042
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 250313001
+  RequirementText: CD『Retrofuture』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 91000001
   Name: Cover『Link！Like！ラブライブ！はじめてガイドブック』
   Text: はじめてでも大丈夫！「リンクラ」はあなたのスクールアイドル応援活動を全力サポートします。
