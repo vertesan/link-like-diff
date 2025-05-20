@@ -25,10 +25,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103102
   OrderId: 1002
   Title: 永遠のEuphoria（4人Ver.）
@@ -56,10 +58,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103103
   OrderId: 1203
   Title: フォーチュンムービー
@@ -87,10 +91,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 103104
   OrderId: 1202
   Title: Reflection in the mirror
@@ -118,10 +124,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 103105
   OrderId: 1205
   Title: 謳歌爛漫
@@ -149,10 +157,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 103106
   OrderId: 1207
   Title: 眩耀夜行
@@ -180,10 +190,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103107
   OrderId: 1208
   Title: Kawaii no susume
@@ -207,14 +219,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103108
   OrderId: 1408
   Title: ジブンダイアリー
@@ -238,14 +252,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103109
   OrderId: 1005
   Title: 永遠のEuphoria
@@ -273,10 +289,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103110
   OrderId: 1602
   Title: ハクチューアラモード
@@ -304,10 +322,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103111
   OrderId: 1409
   Title: パラレルダンサー
@@ -331,14 +351,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103112
   OrderId: 1007
   Title: Dream Believers
@@ -362,14 +384,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103113
   OrderId: 1604
   Title: アイデンティティ
@@ -393,14 +417,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103114
   OrderId: 1008
   Title: Legato
@@ -424,14 +450,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103115
   OrderId: 1211
   Title: 千変万華
@@ -455,14 +483,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103116
   OrderId: 1010
   Title: Yup! Yup! Yup!
@@ -486,14 +516,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103117
   OrderId: 1213
   Title: シュガーメルト
@@ -517,14 +549,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103118
   OrderId: 1013
   Title: Link to the FUTURE
@@ -548,14 +582,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103119
   OrderId: 2001
   Title: ハッピー至上主義！
@@ -579,14 +615,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103120
   OrderId: 1610
   Title: マハラジャンボリー
@@ -610,14 +648,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103201
   OrderId: 6003
   Title: Preserved Roses
@@ -645,10 +685,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 103202
   OrderId: 6012
   Title: 心予報
@@ -676,10 +718,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103203
   OrderId: 6015
   Title: ダンスロボットダンス
@@ -707,10 +751,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103204
   OrderId: 6018
   Title: 御旗のもとに
@@ -738,10 +784,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103205
   OrderId: 6019
   Title: ダイヤモンドハッピー
@@ -769,10 +817,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 3
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 103301
   OrderId: 5003
   Title: TOKIMEKI Runners
@@ -800,10 +850,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 103302
   OrderId: 5002
   Title: 君のこころは輝いてるかい?
@@ -831,10 +883,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 104101
   OrderId: 1016
   Title: Dream Believers（104期Ver.）
@@ -862,10 +916,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104102
   OrderId: 1415
   Title: Sparkly Spot（104期NEW Ver.）
@@ -889,14 +945,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104103
   OrderId: 1018
   Title: 365 Days
@@ -920,14 +978,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104104
   OrderId: 1217
   Title: 千変万華（104期Ver.）
@@ -951,14 +1011,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104105
   OrderId: 1019
   Title: Bloom the smile, Bloom the dream!
@@ -982,14 +1044,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104106
   OrderId: 1020
   Title: 永遠のEuphoria（104期Ver.）
@@ -1013,14 +1077,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 104107
   OrderId: 1220
   Title: 眩耀夜行（104期Ver.）
@@ -1044,14 +1110,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104108
   OrderId: 1616
   Title: ハクチューアラモード（104期Ver.）
@@ -1075,14 +1143,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 104109
   OrderId: 1617
   Title: ファンファーレ！！！
@@ -1106,14 +1176,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104110
   OrderId: 1618
   Title: マハラジャンボリー（104期Ver.）
@@ -1137,14 +1209,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104111
   OrderId: 1024
   Title: Link to the FUTURE（104期Ver.）
@@ -1168,14 +1242,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104112
   OrderId: 1223
   Title: ハナムスビ
@@ -1199,14 +1275,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104113
   OrderId: 1225
   Title: シュガーメルト（104期Ver.）
@@ -1230,14 +1308,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104114
   OrderId: 1622
   Title: 全方位キュン♡
@@ -1261,14 +1341,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104115
   OrderId: 1227
   Title: Chu! Chocolate
@@ -1292,14 +1374,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104116
   OrderId: 1428
   Title: ベジ・ラブ・ルー
@@ -1323,14 +1407,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104117
   OrderId: 1030
   Title: おいでよ！石川大観光
@@ -1354,14 +1440,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104118
   OrderId: 1031
   Title: いったん
@@ -1385,14 +1473,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104119
   OrderId: 1033
   Title: Dream Believers（SAKURA Ver.）
@@ -1416,14 +1506,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104120
   OrderId: 4002
   Title: Love it! Wonderful Trip!
@@ -1447,14 +1539,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104201
   OrderId: 6021
   Title: ミラクルショッピング ～ドン・キホーテのテーマ～
@@ -1482,10 +1576,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104202
   OrderId: 6022
   Title: ルージュの伝言
@@ -1513,10 +1609,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104203
   OrderId: 6028
   Title: Welcome!
@@ -1544,10 +1642,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104204
   OrderId: 6029
   Title: コネクト
@@ -1575,10 +1675,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104301
   OrderId: 5008
   Title: 夏色えがおで1,2,Jump!
@@ -1606,10 +1708,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 3
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104302
   OrderId: 5009
   Title: 常夏☆サンシャイン
@@ -1637,10 +1741,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 105101
   OrderId: 1034
   Title: Dream Believers（105期Ver.）
@@ -1668,10 +1774,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 105102
   OrderId: 1229
   Title: Celebration!
@@ -1695,14 +1803,49 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
+- Id: 105103
+  OrderId: 1803
+  Title: チリコンカン
+  TitleFurigana: ちりこんかん
+  JacketId: 105103
+  SoundId: 10510301
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1051
+  SingerCharacterId: "1052"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 14063
+  ApIncrement: 795
+  SongTime: 7955
+  PlayTime: 95455
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -1730,10 +1873,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203102
   OrderId: 1403
   Title: ツキマカセ
@@ -1761,10 +1906,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 203103
   OrderId: 1206
   Title: Holiday∞Holiday
@@ -1792,10 +1939,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203104
   OrderId: 1407
   Title: Mirage Voyage
@@ -1823,10 +1972,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203105
   OrderId: 1006
   Title: 夏めきペイン
@@ -1854,10 +2005,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203106
   OrderId: 1601
   Title: ド！ド！ド！
@@ -1885,10 +2038,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203107
   OrderId: 1210
   Title: 素顔のピクセル
@@ -1912,14 +2067,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203108
   OrderId: 1605
   Title: ノンフィクションヒーローショー
@@ -1943,14 +2100,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203109
   OrderId: 3001
   Title: Runway
@@ -1974,14 +2133,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203110
   OrderId: 1412
   Title: 青春の輪郭
@@ -2005,14 +2166,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203111
   OrderId: 1012
   Title: ツバサ・ラ・リベルテ
@@ -2036,14 +2199,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203112
   OrderId: 1606
   Title: 天才なのかもしれない
@@ -2067,14 +2232,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203113
   OrderId: 1214
   Title: Special Thanks
@@ -2098,14 +2265,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203114
   OrderId: 1607
   Title: ミルク
@@ -2129,14 +2298,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203115
   OrderId: 2003
   Title: Colorfulness
@@ -2160,14 +2331,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203116
   OrderId: 1608
   Title: BANG YOU グラビティ
@@ -2191,14 +2364,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203117
   OrderId: 1014
   Title: 抱きしめる花びら
@@ -2222,14 +2397,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 1
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203118
   OrderId: 1015
   Title: STEP UP !
@@ -2253,14 +2430,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203201
   OrderId: 6004
   Title: そばかす
@@ -2288,10 +2467,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 203202
   OrderId: 6001
   Title: ビバハピ
@@ -2319,10 +2500,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203203
   OrderId: 6007
   Title: 狙いうち
@@ -2350,10 +2533,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203204
   OrderId: 6008
   Title: ♡桃色片想い♡
@@ -2381,10 +2566,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203205
   OrderId: 6009
   Title: いーあるふぁんくらぶ
@@ -2412,10 +2599,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203206
   OrderId: 6010
   Title: ハッピーシンセサイザ
@@ -2443,10 +2632,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203207
   OrderId: 6014
   Title: 強風オールバック
@@ -2474,10 +2665,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203208
   OrderId: 6016
   Title: CHANGE!!!!
@@ -2505,10 +2698,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 3
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203301
   OrderId: 5001
   Title: 僕らのLIVE 君とのLIFE
@@ -2536,10 +2731,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 203302
   OrderId: 5004
   Title: 始まりは君の空
@@ -2567,10 +2764,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 204101
   OrderId: 1611
   Title: アイデンティティ（104期NEW Ver.）
@@ -2594,14 +2793,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204102
   OrderId: 1216
   Title: Mix shake!!（104期Ver.）
@@ -2625,14 +2826,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 204103
   OrderId: 1613
   Title: ノンフィクションヒーローショー（104期Ver.）
@@ -2656,14 +2859,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204104
   OrderId: 1614
   Title: みらくりえーしょん
@@ -2687,14 +2892,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204105
   OrderId: 1218
   Title: アオクハルカ
@@ -2718,14 +2925,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204106
   OrderId: 1419
   Title: Mirage Voyage（104期Ver.）
@@ -2749,14 +2958,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204107
   OrderId: 1420
   Title: Proof
@@ -2780,14 +2991,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2024-08-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204108
   OrderId: 1021
   Title: 夏めきペイン（104期Ver.）
@@ -2811,14 +3024,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2024-08-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 204109
   OrderId: 1221
   Title: Holiday∞Holiday（104期Ver.）
@@ -2842,14 +3057,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204110
   OrderId: 1222
   Title: 素顔のピクセル（104期Ver.）
@@ -2873,14 +3090,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204111
   OrderId: 1620
   Title: ド！ド！ド！（104期Ver.）
@@ -2904,14 +3123,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 204112
   OrderId: 1423
   Title: バアドケージ
@@ -2935,14 +3156,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204113
   OrderId: 1026
   Title: ツバサ・ラ・リベルテ（104期Ver.）
@@ -2966,14 +3189,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204114
   OrderId: 1425
   Title: 青春の輪郭（104期Ver.）
@@ -2997,14 +3222,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204115
   OrderId: 1621
   Title: 天才なのかもしれない（104期Ver.）
@@ -3028,14 +3255,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204116
   OrderId: 1027
   Title: KEY of Like！
@@ -3059,14 +3288,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204117
   OrderId: 1226
   Title: ユメワズライ
@@ -3090,14 +3321,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204118
   OrderId: 1427
   Title: レム
@@ -3121,14 +3354,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204119
   OrderId: 1228
   Title: 恋景色昭和ロマン
@@ -3152,14 +3387,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204120
   OrderId: 1032
   Title: いつでも、いつまでも
@@ -3183,14 +3420,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204121
   OrderId: 4003
   Title: アステリズム
@@ -3214,14 +3453,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204201
   OrderId: 6023
   Title: ビビデバ
@@ -3249,10 +3490,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204202
   OrderId: 6027
   Title: きゅうくらりん
@@ -3280,10 +3523,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204301
   OrderId: 5005
   Title: Snow halation
@@ -3311,10 +3556,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204302
   OrderId: 5006
   Title: NEO SKY, NEO MAP!
@@ -3342,10 +3589,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 205101
   OrderId: 1625
   Title: WAWO！
@@ -3369,14 +3618,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 205201
   OrderId: 6030
   Title: 輪舞-revolution
@@ -3404,10 +3655,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 205202
   OrderId: 6031
   Title: ロミオとシンデレラ
@@ -3435,10 +3688,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303101
   OrderId: 1003
   Title: On your mark
@@ -3466,10 +3721,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303102
   OrderId: 1201
   Title: 水彩世界
@@ -3497,10 +3754,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 3
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303103
   OrderId: 1401
   Title: AWOKE
@@ -3528,10 +3787,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303104
   OrderId: 1402
   Title: Sparkly Spot
@@ -3559,10 +3820,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 303105
   OrderId: 1404
   Title: 希望的プリズム
@@ -3590,10 +3853,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303106
   OrderId: 1405
   Title: スケイプゴート
@@ -3621,10 +3886,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 303107
   OrderId: 1004
   Title: DEEPNESS
@@ -3652,10 +3919,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303108
   OrderId: 1406
   Title: Tragic Drops
@@ -3683,10 +3952,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303109
   OrderId: 1603
   Title: ココン東西
@@ -3714,10 +3985,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303110
   OrderId: 1209
   Title: 残陽
@@ -3741,14 +4014,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303111
   OrderId: 1410
   Title: Take It Over
@@ -3772,14 +4047,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303112
   OrderId: 1411
   Title: KNOT
@@ -3803,14 +4080,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303113
   OrderId: 1009
   Title: Trick & Cute
@@ -3834,14 +4113,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303114
   OrderId: 1212
   Title: Dear my future
@@ -3865,14 +4146,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303115
   OrderId: 1011
   Title: 明日の空の僕たちへ
@@ -3896,14 +4179,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303116
   OrderId: 1413
   Title: 飴色
@@ -3927,14 +4212,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303117
   OrderId: 1414
   Title: 青とシャボン
@@ -3958,14 +4245,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303118
   OrderId: 2002
   Title: Pleasure Feather
@@ -3989,14 +4278,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303119
   OrderId: 1609
   Title: 以心☆電信
@@ -4020,14 +4311,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303201
   OrderId: 6002
   Title: 深愛
@@ -4055,10 +4348,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303202
   OrderId: 6005
   Title: ロストワンの号哭
@@ -4086,10 +4381,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303203
   OrderId: 6006
   Title: 名前のない怪物
@@ -4117,10 +4414,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303204
   OrderId: 6011
   Title: ヴィラン
@@ -4148,10 +4447,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303205
   OrderId: 6013
   Title: 威風堂々
@@ -4179,10 +4480,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303206
   OrderId: 6017
   Title: 祝福
@@ -4210,10 +4513,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 303207
   OrderId: 6020
   Title: lucky train!
@@ -4241,10 +4546,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 10
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304101
   OrderId: 1017
   Title: On your mark（104期Ver.）
@@ -4268,14 +4575,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304102
   OrderId: 1215
   Title: Reflection in the mirror（104期NEW Ver.）
@@ -4299,14 +4608,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304103
   OrderId: 1612
   Title: ココン東西（104期Ver.）
@@ -4330,14 +4641,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304104
   OrderId: 1416
   Title: Tragic Drops（104期Ver.）
@@ -4361,14 +4674,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304105
   OrderId: 1417
   Title: レディバグ
@@ -4392,14 +4707,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304106
   OrderId: 1418
   Title: KNOT（104期Ver.）
@@ -4423,14 +4740,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304107
   OrderId: 1219
   Title: 月夜見海月
@@ -4454,14 +4773,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304108
   OrderId: 1615
   Title: 以心☆電信（104期Ver.）
@@ -4485,14 +4806,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2024-08-23T12:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304109
   OrderId: 1022
   Title: DEEPNESS（ReC Ver.）
@@ -4516,14 +4839,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 1
   VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304110
   OrderId: 1421
   Title: 希望的プリズム（104期Ver.）
@@ -4547,14 +4872,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304111
   OrderId: 1023
   Title: Trick & Cute（104期Ver.）
@@ -4578,14 +4905,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304112
   OrderId: 1422
   Title: Take It Over（104期Ver.）
@@ -4609,14 +4938,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304113
   OrderId: 1025
   Title: Now or Never
@@ -4640,14 +4971,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304114
   OrderId: 1619
   Title: ジョーショーキリュー
@@ -4671,14 +5004,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304115
   OrderId: 1424
   Title: AWOKE（104期Ver.）
@@ -4702,14 +5037,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304116
   OrderId: 1224
   Title: 水彩世界（104期Ver.）
@@ -4733,14 +5070,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 304117
   OrderId: 1028
   Title: AURORA FLOWER
@@ -4764,14 +5103,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304118
   OrderId: 1029
   Title: ゲッカビジン
@@ -4795,14 +5136,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304119
   OrderId: 1623
   Title: かくれんぼしよう
@@ -4826,14 +5169,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304120
   OrderId: 1426
   Title: COMPASS
@@ -4857,14 +5202,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304121
   OrderId: 1624
   Title: マハラジャンボリーⅡ
@@ -4888,14 +5235,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304122
   OrderId: 4001
   Title: 恥は人生のかきすて
@@ -4919,14 +5268,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304201
   OrderId: 6024
   Title: This game
@@ -4954,10 +5305,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304202
   OrderId: 6025
   Title: STARTLINER
@@ -4985,10 +5338,12 @@
   ReleaseConditionDetail: 0
   ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304203
   OrderId: 6026
   Title: 雑踏、僕らの街
@@ -5016,10 +5371,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304301
   OrderId: 5007
   Title: Daydream Warrior
@@ -5047,10 +5404,12 @@
   ReleaseConditionDetail: 1
   ReleaseConditionText: ミュージックPt. を使用して習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 305101
   OrderId: 1801
   Title: Edelied
@@ -5074,14 +5433,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 305102
   OrderId: 1429
   Title: アンペア
@@ -5105,14 +5466,16 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
   IsVideoMode: 0
   VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 305103
   OrderId: 1802
   Title: Retrofuture
@@ -5136,11 +5499,13 @@
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
   PreviewFadeOutTime: 14000
-  ReleaseConditionType: 1
-  ReleaseConditionDetail: 1000
-  ReleaseConditionText: ラーニングライブで習得
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
+  SongType: 1
+  MusicScoreReleaseTime: 2025-05-20T03:00:00Z

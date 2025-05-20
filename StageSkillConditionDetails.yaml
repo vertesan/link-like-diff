@@ -102,6 +102,30 @@
   StageSkillConditionId: 1052023
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
   ConditionValue: 1023
+- Id: 10520410
+  StageSkillConditionId: 1052041
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 2
+- Id: 10520411
+  StageSkillConditionId: 1052041
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 1041
+- Id: 10520420
+  StageSkillConditionId: 1052042
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 2
+- Id: 10520421
+  StageSkillConditionId: 1052042
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 1042
+- Id: 10520430
+  StageSkillConditionId: 1052043
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 2
+- Id: 10520431
+  StageSkillConditionId: 1052043
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 1043
 - Id: 10520510
   StageSkillConditionId: 1052051
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE

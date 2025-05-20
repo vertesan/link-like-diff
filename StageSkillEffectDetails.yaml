@@ -94,6 +94,22 @@
   StageSkillEffectId: 10723201
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: -1
+- Id: 107232050
+  StageSkillEffectId: 10723205
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 2
+- Id: 107232051
+  StageSkillEffectId: 10723205
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 1032
+- Id: 107232052
+  StageSkillEffectId: 10723205
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 107232053
+  StageSkillEffectId: 10723205
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: -5
 - Id: 107233010
   StageSkillEffectId: 10723301
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
@@ -110,6 +126,54 @@
   StageSkillEffectId: 10723301
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: -1
+- Id: 107233030
+  StageSkillEffectId: 10723303
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 2
+- Id: 107233031
+  StageSkillEffectId: 10723303
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 1033
+- Id: 107233032
+  StageSkillEffectId: 10723303
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 107233033
+  StageSkillEffectId: 10723303
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: -3
+- Id: 107242050
+  StageSkillEffectId: 10724205
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 2
+- Id: 107242051
+  StageSkillEffectId: 10724205
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 1042
+- Id: 107242052
+  StageSkillEffectId: 10724205
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 107242053
+  StageSkillEffectId: 10724205
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: -5
+- Id: 107243030
+  StageSkillEffectId: 10724303
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 2
+- Id: 107243031
+  StageSkillEffectId: 10724303
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 1043
+- Id: 107243032
+  StageSkillEffectId: 10724303
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 107243033
+  StageSkillEffectId: 10724303
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: -3
 - Id: 107400010
   StageSkillEffectId: 10740001
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE

@@ -1,3 +1,213 @@
+- Id: 94001
+  Name: いずれかの楽曲の難易度NORMALを1回クリアしよう
+  Description: いずれかの楽曲の難易度NORMALを1回クリアしよう
+  MissionType: 94
+  MissionConditionType: 902
+  MissionConditionNum: 1
+  MissionConditionDetail: 1
+  OpenType: 0
+  NextMissionsId: 94002
+  SortOrder: 1
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 101
+- Id: 94002
+  Name: 育成でいずれかのメンバーカードのレベルを30にしよう
+  Description: 育成でいずれかのメンバーカードのレベルを30にしよう
+  MissionType: 94
+  MissionConditionType: 31
+  MissionConditionNum: 30
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 94003
+  SortOrder: 2
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 102
+- Id: 94003
+  Name: いずれかの楽曲を5回クリアしよう
+  Description: いずれかの楽曲を5回クリアしよう
+  MissionType: 94
+  MissionConditionType: 901
+  MissionConditionNum: 5
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94004
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 103
+- Id: 94004
+  Name: 育成でいずれかのメンバーカードのセンタースキル、またはスキルを強化しよう
+  Description: 育成でいずれかのメンバーカードのセンタースキル、またはスキルを強化しよう
+  MissionType: 94
+  MissionConditionType: 41
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 94005
+  SortOrder: 4
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 104
+- Id: 94005
+  Name: 育成でいずれかのメンバーカードを1回特訓しよう
+  Description: 育成でいずれかのメンバーカードを1回特訓しよう
+  MissionType: 94
+  MissionConditionType: 40
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 94006
+  SortOrder: 5
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 105
+- Id: 94006
+  Name: いずれかの楽曲の難易度HARD以上を1回クリアしよう
+  Description: いずれかの楽曲の難易度HARD以上を1回クリアしよう
+  MissionType: 94
+  MissionConditionType: 902
+  MissionConditionNum: 1
+  MissionConditionDetail: 21
+  OpenType: 2
+  NextMissionsId: 94007
+  SortOrder: 6
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 106
+- Id: 94007
+  Name: ミュージックPt.を消費して楽曲を1つ解放しよう
+  Description: ミュージックPt.を消費して楽曲を1つ解放しよう
+  MissionType: 94
+  MissionConditionType: 14
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 94008
+  SortOrder: 7
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 107
+- Id: 94008
+  Name: いずれかの楽曲を10回クリアしよう
+  Description: いずれかの楽曲を10回クリアしよう
+  MissionType: 94
+  MissionConditionType: 901
+  MissionConditionNum: 10
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94009
+  SortOrder: 8
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 108
+- Id: 94009
+  Name: 編成でおすすめ編成を1回使用しよう
+  Description: 編成でおすすめ編成を1回使用しよう
+  MissionType: 94
+  MissionConditionType: 113
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 94010
+  SortOrder: 9
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 109
+- Id: 94010
+  Name: 「10連カードパックチケット（2025/H1）」を使用してガチャを引こう
+  Description: 「10連カードパックチケット（2025/H1）」を使用してガチャを引こう
+  MissionType: 94
+  MissionConditionType: 100
+  MissionConditionNum: 10
+  MissionConditionDetail: 1040001
+  OpenType: 0
+  NextMissionsId: 94011
+  SortOrder: 10
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 110
+- Id: 94011
+  Name: 1プレイの間にスキルを合計7回発動させよう
+  Description: 1プレイの間にスキルを合計7回発動させよう
+  MissionType: 94
+  MissionConditionType: 931
+  MissionConditionNum: 7
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94012
+  SortOrder: 11
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 111
+- Id: 94012
+  Name: センタースキルを1回発動させよう
+  Description: センタースキルを1回発動させよう
+  MissionType: 94
+  MissionConditionType: 933
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94013
+  SortOrder: 12
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 112
+- Id: 94013
+  Name: 1プレイの間にボルテージLv.を8以上にしよう
+  Description: 1プレイの間にボルテージLv.を8以上にしよう
+  MissionType: 94
+  MissionConditionType: 941
+  MissionConditionNum: 8
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94014
+  SortOrder: 13
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 113
+- Id: 94014
+  Name: いずれかの楽曲でスコアを1500000以上獲得しよう
+  Description: いずれかの楽曲でスコアを1500000以上獲得しよう
+  MissionType: 94
+  MissionConditionType: 911
+  MissionConditionNum: 1500000
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 94015
+  SortOrder: 14
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 114
+- Id: 94015
+  Name: いずれかの楽曲でFULL COMBOを1回達成しよう
+  Description: いずれかの楽曲でFULL COMBOを1回達成しよう
+  MissionType: 94
+  MissionConditionType: 921
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 2
+  NextMissionsId: 0
+  SortOrder: 15
+  TransitionContentsId: 800
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 115
 - Id: 900101
   Name: 2023 April 第1話『花咲きたい！』PART1を読もう
   Description: 第1話『花咲きたい！』PART1を読もう
@@ -391,7 +601,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 17
 - Id: 10010001
-  Name: ライブを3回クリアしよう
+  Name: スクールアイドルステージでライブを3回クリアしよう
   Description: ライブを3回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 1
@@ -405,7 +615,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 10010002
-  Name: ライブを5回クリアしよう
+  Name: スクールアイドルステージでライブを5回クリアしよう
   Description: ライブを5回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 1
@@ -419,7 +629,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 10010003
-  Name: ライブを10回クリアしよう
+  Name: スクールアイドルステージでライブを10回クリアしよう
   Description: ライブを10回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 1
@@ -433,7 +643,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 10010004
-  Name: ライブを20回クリアしよう
+  Name: スクールアイドルステージでライブを20回クリアしよう
   Description: ライブを20回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 1
@@ -447,7 +657,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 10010005
-  Name: ライブを30回クリアしよう
+  Name: スクールアイドルステージでライブを30回クリアしよう
   Description: ライブを30回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 1
@@ -461,7 +671,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 10020001
-  Name: デイリーライブを3回クリアしよう
+  Name: スクールアイドルステージでデイリーライブを3回クリアしよう
   Description: デイリーライブを3回クリアしよう（スキップ可）
   MissionType: 1
   MissionConditionType: 3
@@ -474,8 +684,92 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
+- Id: 10080001
+  Name: スクールアイドルショウで任意の楽曲を1回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を1回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 1
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 7
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 10080002
+  Name: スクールアイドルショウで任意の楽曲を2回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を2回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 2
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 8
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 10080003
+  Name: スクールアイドルショウで任意の楽曲を3回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を3回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 3
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 9
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 10080004
+  Name: スクールアイドルショウで任意の楽曲を5回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を5回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 5
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 10
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 10080005
+  Name: スクールアイドルショウで任意の楽曲を7回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を7回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 7
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 11
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 10080006
+  Name: スクールアイドルショウで任意の楽曲を10回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を10回クリアしよう
+  MissionType: 1
+  MissionConditionType: 901
+  MissionConditionNum: 10
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 0
+  SortOrder: 12
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
 - Id: 20010001
-  Name: ライブを50回クリアしよう
+  Name: スクールアイドルステージでライブを50回クリアしよう
   Description: ライブを50回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -489,7 +783,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010002
-  Name: ライブを100回クリアしよう
+  Name: スクールアイドルステージでライブを100回クリアしよう
   Description: ライブを100回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -503,7 +797,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010003
-  Name: ライブを150回クリアしよう
+  Name: スクールアイドルステージでライブを150回クリアしよう
   Description: ライブを150回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -517,7 +811,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010004
-  Name: ライブを200回クリアしよう
+  Name: スクールアイドルステージでライブを200回クリアしよう
   Description: ライブを200回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -531,7 +825,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010005
-  Name: ライブを300回クリアしよう
+  Name: スクールアイドルステージでライブを300回クリアしよう
   Description: ライブを300回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -545,7 +839,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010006
-  Name: ライブを400回クリアしよう
+  Name: スクールアイドルステージでライブを400回クリアしよう
   Description: ライブを400回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -559,7 +853,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20010007
-  Name: ライブを500回クリアしよう
+  Name: スクールアイドルステージでライブを500回クリアしよう
   Description: ライブを500回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 1
@@ -573,7 +867,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20020001
-  Name: デイリーライブを12回クリアしよう
+  Name: スクールアイドルステージでデイリーライブを12回クリアしよう
   Description: デイリーライブを12回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 3
@@ -587,7 +881,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20020002
-  Name: デイリーライブを18回クリアしよう
+  Name: スクールアイドルステージでデイリーライブを18回クリアしよう
   Description: デイリーライブを18回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 3
@@ -601,7 +895,7 @@
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20020003
-  Name: デイリーライブを24回クリアしよう
+  Name: スクールアイドルステージでデイリーライブを24回クリアしよう
   Description: デイリーライブを24回クリアしよう（スキップ可）
   MissionType: 2
   MissionConditionType: 3
@@ -614,6 +908,146 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
+- Id: 20080001
+  Name: スクールアイドルショウで任意の楽曲を5回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を5回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 5
+  MissionConditionDetail: 0
+  OpenType: 0
+  NextMissionsId: 20080002
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080002
+  Name: スクールアイドルショウで任意の楽曲を10回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を10回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 10
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080003
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080003
+  Name: スクールアイドルショウで任意の楽曲を15回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を15回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 15
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080004
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080004
+  Name: スクールアイドルショウで任意の楽曲を20回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を20回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 20
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080005
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080005
+  Name: スクールアイドルショウで任意の楽曲を25回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を25回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 25
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080006
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080006
+  Name: スクールアイドルショウで任意の楽曲を30回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を30回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 30
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080007
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080007
+  Name: スクールアイドルショウで任意の楽曲を35回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を35回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 35
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080008
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080008
+  Name: スクールアイドルショウで任意の楽曲を40回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を40回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 40
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080009
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080009
+  Name: スクールアイドルショウで任意の楽曲を45回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を45回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 45
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 20080010
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
+- Id: 20080010
+  Name: スクールアイドルショウで任意の楽曲を50回クリアしよう
+  Description: スクールアイドルショウで任意の楽曲を50回クリアしよう
+  MissionType: 2
+  MissionConditionType: 901
+  MissionConditionNum: 50
+  MissionConditionDetail: 0
+  OpenType: 1
+  NextMissionsId: 0
+  SortOrder: 3
+  TransitionContentsId: 800
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  Hint: 0
 - Id: 20200001
   Name: カードを3回入手しよう
   Description: 任意のカードを3回入手しよう（解放Pt.に変換されても可）
@@ -623,7 +1057,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 20200002
-  SortOrder: 3
+  SortOrder: 4
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -637,7 +1071,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 20200003
-  SortOrder: 3
+  SortOrder: 4
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -651,7 +1085,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 3
+  SortOrder: 4
   TransitionContentsId: 501
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -665,7 +1099,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 20300002
-  SortOrder: 4
+  SortOrder: 5
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -679,7 +1113,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 20300003
-  SortOrder: 4
+  SortOrder: 5
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -693,7 +1127,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 20300004
-  SortOrder: 4
+  SortOrder: 5
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -707,7 +1141,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 4
+  SortOrder: 5
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -721,7 +1155,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 20400002
-  SortOrder: 5
+  SortOrder: 6
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -735,35 +1169,35 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 5
+  SortOrder: 6
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20410001
-  Name: 1回スペシャルアピールLv/スキルLvを上げよう
-  Description: 任意のスタイルのスペシャルアピールLvかスキルLvを1回上げよう
+  Name: スクールアイドルステージ、またはスクールアイドルショウでスキルLvを1回上げよう
+  Description: スクールアイドルステージ、またはスクールアイドルショウでスキルLvを1回上げよう
   MissionType: 2
   MissionConditionType: 41
   MissionConditionNum: 1
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 20410002
-  SortOrder: 6
+  SortOrder: 7
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   Hint: 0
 - Id: 20410002
-  Name: 3回スペシャルアピールLv/スキルLvを上げよう
-  Description: 任意のスタイルのスペシャルアピールLvかスキルLvを3回上げよう
+  Name: スクールアイドルステージ、またはスクールアイドルショウでスキルLvを3回上げよう
+  Description: スクールアイドルステージ、またはスクールアイドルショウでスキルLvを3回上げよう
   MissionType: 2
   MissionConditionType: 41
   MissionConditionNum: 3
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 6
+  SortOrder: 7
   TransitionContentsId: 309
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -777,7 +1211,7 @@
   MissionConditionDetail: 0
   OpenType: 0
   NextMissionsId: 20500002
-  SortOrder: 7
+  SortOrder: 8
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -791,7 +1225,7 @@
   MissionConditionDetail: 0
   OpenType: 1
   NextMissionsId: 0
-  SortOrder: 7
+  SortOrder: 8
   TransitionContentsId: 203
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z

@@ -1,0 +1,16 @@
+- Id: 101
+  MusicDifficulty: 1
+  OutGameBgImageId: 101
+  InGameBgImageId: 101
+- Id: 102
+  MusicDifficulty: 2
+  OutGameBgImageId: 102
+  InGameBgImageId: 101
+- Id: 103
+  MusicDifficulty: 3
+  OutGameBgImageId: 103
+  InGameBgImageId: 101
+- Id: 104
+  MusicDifficulty: 4
+  OutGameBgImageId: 104
+  InGameBgImageId: 101

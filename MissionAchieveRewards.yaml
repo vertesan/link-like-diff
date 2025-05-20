@@ -30,6 +30,14 @@
   RewardNum: 50
   RewardTextId: 40202001
   SortOrder: 1
+- Id: 2040
+  MissionType: 2
+  AchieveMarkNum: 4
+  RewardType: 1
+  ItemsId: 3006301
+  RewardNum: 1
+  RewardTextId: 40202001
+  SortOrder: 2
 - Id: 2050
   MissionType: 2
   AchieveMarkNum: 5
@@ -37,7 +45,7 @@
   ItemsId: 1002001
   RewardNum: 50
   RewardTextId: 40202001
-  SortOrder: 2
+  SortOrder: 3
 - Id: 2070
   MissionType: 2
   AchieveMarkNum: 7
@@ -45,7 +53,15 @@
   ItemsId: 1002001
   RewardNum: 100
   RewardTextId: 40202001
-  SortOrder: 3
+  SortOrder: 4
+- Id: 2080
+  MissionType: 2
+  AchieveMarkNum: 8
+  RewardType: 1
+  ItemsId: 3006301
+  RewardNum: 1
+  RewardTextId: 40202001
+  SortOrder: 5
 - Id: 2090
   MissionType: 2
   AchieveMarkNum: 9
@@ -53,7 +69,7 @@
   ItemsId: 1002001
   RewardNum: 100
   RewardTextId: 40202001
-  SortOrder: 4
+  SortOrder: 6
 - Id: 2110
   MissionType: 2
   AchieveMarkNum: 11
@@ -61,7 +77,7 @@
   ItemsId: 1002001
   RewardNum: 150
   RewardTextId: 40202001
-  SortOrder: 5
+  SortOrder: 7
 - Id: 2130
   MissionType: 2
   AchieveMarkNum: 13
@@ -69,7 +85,7 @@
   ItemsId: 1002001
   RewardNum: 150
   RewardTextId: 40202001
-  SortOrder: 6
+  SortOrder: 8
 - Id: 2150
   MissionType: 2
   AchieveMarkNum: 15
@@ -77,7 +93,15 @@
   ItemsId: 1002001
   RewardNum: 200
   RewardTextId: 40202001
-  SortOrder: 7
+  SortOrder: 9
+- Id: 2160
+  MissionType: 2
+  AchieveMarkNum: 16
+  RewardType: 1
+  ItemsId: 3006301
+  RewardNum: 1
+  RewardTextId: 40202001
+  SortOrder: 10
 - Id: 2170
   MissionType: 2
   AchieveMarkNum: 17
@@ -85,4 +109,4 @@
   ItemsId: 2003072
   RewardNum: 1
   RewardTextId: 40202001
-  SortOrder: 8
+  SortOrder: 11

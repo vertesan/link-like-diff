@@ -3182,6 +3182,18 @@
   Name: リブートボルテージ
   SkillIcon: 10325260
   SkillMainEffect: 13
+- Id: 10325270
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10325270
+  SkillMainEffect: 34
+- Id: 10325271
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10325270
+  SkillMainEffect: 34
+- Id: 10325272
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10325270
+  SkillMainEffect: 34
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -4302,6 +4314,18 @@
   Name: エクステプロテクト
   SkillIcon: 10425130
   SkillMainEffect: 20
+- Id: 10425140
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10425140
+  SkillMainEffect: 34
+- Id: 10425141
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10425140
+  SkillMainEffect: 34
+- Id: 10425142
+  Name: アグレッシブワイドビリーフ
+  SkillIcon: 10425140
+  SkillMainEffect: 34
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -4702,6 +4726,18 @@
   Name: アトラクトバイブス
   SkillIcon: 10523020
   SkillMainEffect: 47
+- Id: 10524010
+  Name: リフレッシュサウンドバイブス
+  SkillIcon: 10524010
+  SkillMainEffect: 13
+- Id: 10524011
+  Name: リフレッシュサウンドバイブス
+  SkillIcon: 10524010
+  SkillMainEffect: 13
+- Id: 10524012
+  Name: リフレッシュサウンドバイブス
+  SkillIcon: 10524010
+  SkillMainEffect: 13
 - Id: 10525010
   Name: ワイドサウンドバイブス
   SkillIcon: 10525010
@@ -5818,6 +5854,10 @@
   Name: サウンドハートブースト
   SkillIcon: 20325260
   SkillMainEffect: 16
+- Id: 20325270
+  Name: ブレイブワイドアトラクション
+  SkillIcon: 20325270
+  SkillMainEffect: 2
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -6198,6 +6238,10 @@
   Name: サウンドハート
   SkillIcon: 20425130
   SkillMainEffect: 1
+- Id: 20425140
+  Name: ブレイブワイドアトラクション
+  SkillIcon: 20425140
+  SkillMainEffect: 1
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -6337,6 +6381,10 @@
 - Id: 20523020
   Name: ハッピーアンビエンス
   SkillIcon: 20523020
+  SkillMainEffect: 48
+- Id: 20524010
+  Name: スケルツォアンビエンス
+  SkillIcon: 20524010
   SkillMainEffect: 48
 - Id: 20525010
   Name: サウンドアンビエンス
@@ -7446,6 +7494,10 @@
   Name: サウンド：APレデュース
   SkillIcon: 30325260
   SkillMainEffect: 17
+- Id: 30325270
+  Name: UN-PAIR
+  SkillIcon: 30325270
+  SkillMainEffect: 902
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -7770,6 +7822,10 @@
   Name: サウンド：リインフォース
   SkillIcon: 30425130
   SkillMainEffect: 18
+- Id: 30425140
+  Name: UN-PAIR
+  SkillIcon: 30425140
+  SkillMainEffect: 902
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -7878,6 +7934,10 @@
   Name: 〓〓〓〓〓〓〓
   SkillIcon: 30518010
   SkillMainEffect: 904
+- Id: 30524010
+  Name: サウンド：ワイドハート
+  SkillIcon: 30524010
+  SkillMainEffect: 25
 - Id: 30525010
   Name: サウンドバイブス
   SkillIcon: 30525010

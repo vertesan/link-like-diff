@@ -970,6 +970,18 @@
   Description: UR1枚以上確定10連カードパックガチャを利用することができるチケット。
   StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3002210
+  Name: 10連カードパックチケット（2025/H1）
+  NameFurigana: じゅうれんかーどぱっくちけっとにせんにじゅうごえいちわん
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 特定のカードパックガチャ（10連）を利用することができるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3003001
   Name: 事前登録プレゼントURカードセレクトチケット
   NameFurigana: じぜんとうろくぷれぜんとうるとられあかーどせれくとちけっと
@@ -1461,6 +1473,66 @@
   RequestableNum: 0
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003045
+  Name: SRセレクトチケット（103期通常のみ）
+  NameFurigana: すーぱーれあせれくとちけっとひゃくさんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003046
+  Name: SRセレクトチケット（104期通常のみ）
+  NameFurigana: すーぱーれあせれくとちけっとひゃくよんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003047
+  Name: URセレクトチケット（104期通常のみ）
+  NameFurigana: うるとられあせれくとちけっとひゃくよんきつうじょうのみ
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003048
+  Name: 【2周年記念】《LIMITED》URセレクトチケット
+  NameFurigana: にしゅうねんきねんりみてっどうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003049
+  Name: 【2周年記念】《LIMITED》SRセレクトチケット
+  NameFurigana: にしゅうねんきねんりみてっどすーぱーれあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-05-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
@@ -2134,6 +2206,150 @@
   Description: "スクールアイドルたちのラブライブ！にかける想いがとても大きな\\nアメジストとして結晶化したもの。"
   StartTime: 2023-12-10T01:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3006111
+  Name: ソルピース（R1）
+  NameFurigana: そるぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 1
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが小さな太陽の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006112
+  Name: ソルピース（R2）
+  NameFurigana: そるぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 2
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが太陽の形として\\n結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006113
+  Name: ソルピース（R3）
+  NameFurigana: そるぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 3
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが大きな太陽の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006114
+  Name: ソルピース（R4）
+  NameFurigana: そるぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いがとても大きな\\n太陽の形として結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006121
+  Name: ルナピース（R1）
+  NameFurigana: るなぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 1
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが小さな月の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006122
+  Name: ルナピース（R2）
+  NameFurigana: るなぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 2
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが月の形として\\n結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006123
+  Name: ルナピース（R3）
+  NameFurigana: るなぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 3
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが大きな月の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006124
+  Name: ルナピース（R4）
+  NameFurigana: るなぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いがとても大きな\\n月の形として結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006131
+  Name: ステラピース（R1）
+  NameFurigana: すてらぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 1
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが小さな星の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006132
+  Name: ステラピース（R2）
+  NameFurigana: すてらぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 2
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが星の形として\\n結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006133
+  Name: ステラピース（R3）
+  NameFurigana: すてらぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 3
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いが大きな星の形\\nとして結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3006134
+  Name: ステラピース（R4）
+  NameFurigana: すてらぴーす
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのラブライブ！にかける想いがとても大きな\\n星の形として結晶化したもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3006213
   Name: ソルチャーム（R3）
   NameFurigana: そるちゃーむ
@@ -2206,6 +2422,18 @@
   Description: "スクールアイドルたちのステージでの輝きが星の形として結晶化し\\nたもの。"
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3006301
+  Name: クリスタルチャーム
+  NameFurigana: くりすたるちゃーむ
+  ItemType: 1
+  ItemCategory: 1
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 999999
+  RequestableNum: 0
+  Description: "スクールアイドルたちのステージでの輝きが音符の形として結晶化\\nしたもの。"
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3007001
   Name: ペタルコイン
   NameFurigana: ぺたるこいん
@@ -2265,6 +2493,18 @@
   RequestableNum: 0
   Description: 一部の楽曲を解放するのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3009001
+  Name: ステッカー交換Pt.
+  NameFurigana: すてっかーこうかんぽいんと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999999
+  RequestableNum: 0
+  Description: 一部のステッカーと交換することができるポイント。
+  StartTime: 2025-04-30T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3010001
   Name: デイリーライブ開放チケット（パフォーマー）
@@ -2349,6 +2589,42 @@
   RequestableNum: 0
   Description: Edel Noteのメンバーシップ特典と交換できるチケット。
   StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3011004
+  Name: スリーズブーケ メンバーシップ特典交換チケット
+  NameFurigana: すりーずぶーけめんばーしっぷとくてんこうかんちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999
+  RequestableNum: 0
+  Description: スリーズブーケのメンバーシップ特典と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3011005
+  Name: DOLLCHESTRA メンバーシップ特典交換チケット
+  NameFurigana: どるけすとらめんばーしっぷとくてんこうかんちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999
+  RequestableNum: 0
+  Description: DOLLCHESTRAのメンバーシップ特典と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3011006
+  Name: みらくらぱーく！ メンバーシップ特典交換チケット
+  NameFurigana: みらくらぱーくめんばーしっぷとくてんこうかんちけっと
+  ItemType: 1
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999
+  RequestableNum: 0
+  Description: みらくらぱーく！のメンバーシップ特典と交換できるチケット。
+  StartTime: 2025-04-30T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3012001
   Name: ブロンズティア
@@ -5698,6 +5974,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-04-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032527
+  Name: "[アンペア]村野 さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6838,6 +7126,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-04-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042514
+  Name: "[アンペア]徒町 小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7257,6 +7557,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052401
+  Name: "[Her-bath-rium]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-05-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052501
   Name: "[Dream Believers]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

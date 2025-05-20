@@ -4,21 +4,21 @@
   IsSunday: 1
   IsMonday: 1
   IsTuesday: 1
-  IsWednesday: 0
-  IsThursday: 0
+  IsWednesday: 1
+  IsThursday: 1
   IsFriday: 1
-  IsSaturday: 0
+  IsSaturday: 1
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3030102
   Name: ムードメーカークエスト
   Description: ムードメーカーの特訓素材が手に入るクエスト。
   IsSunday: 1
-  IsMonday: 0
+  IsMonday: 1
   IsTuesday: 1
   IsWednesday: 1
-  IsThursday: 0
-  IsFriday: 0
+  IsThursday: 1
+  IsFriday: 1
   IsSaturday: 1
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
@@ -27,20 +27,20 @@
   Description: チアリーダーの特訓素材が手に入るクエスト。
   IsSunday: 1
   IsMonday: 1
-  IsTuesday: 0
+  IsTuesday: 1
   IsWednesday: 1
   IsThursday: 1
-  IsFriday: 0
-  IsSaturday: 0
+  IsFriday: 1
+  IsSaturday: 1
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3030104
   Name: トリックスタークエスト
   Description: トリックスターの特訓素材が手に入るクエスト。
   IsSunday: 1
-  IsMonday: 0
-  IsTuesday: 0
-  IsWednesday: 0
+  IsMonday: 1
+  IsTuesday: 1
+  IsWednesday: 1
   IsThursday: 1
   IsFriday: 1
   IsSaturday: 1
