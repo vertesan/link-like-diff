@@ -2534,6 +2534,18 @@
   Name: ワイドハート
   SkillIcon: 10319010
   SkillMainEffect: 25
+- Id: 10319020
+  Name: ハートブースト
+  SkillIcon: 10319020
+  SkillMainEffect: 16
+- Id: 10319021
+  Name: ハートブースト
+  SkillIcon: 10319020
+  SkillMainEffect: 16
+- Id: 10319022
+  Name: ハートブースト
+  SkillIcon: 10319020
+  SkillMainEffect: 16
 - Id: 10323010
   Name: ラブアトラクト
   SkillIcon: 10323010
@@ -5638,6 +5650,10 @@
   Name: セレブレイション
   SkillIcon: 20319010
   SkillMainEffect: 16
+- Id: 20319020
+  Name: ブルームマイセルフ
+  SkillIcon: 20319020
+  SkillMainEffect: 16
 - Id: 20323010
   Name: ラブアトラクト
   SkillIcon: 20323010
@@ -7302,6 +7318,10 @@
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30319010
   SkillMainEffect: 29
+- Id: 30319020
+  Name: バースデイキャンドル
+  SkillIcon: 30319020
+  SkillMainEffect: 14
 - Id: 30324010
   Name: フェイバリット：1
   SkillIcon: 30324010

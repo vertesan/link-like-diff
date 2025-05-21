@@ -32248,6 +32248,126 @@
   RhythmGameSkillSeriesId: 30319014
   CenterSkillLvUpItemId: 91
   RhythmGameSkillLvUpItemId: 91
+- Id: 10319021
+  CardSeriesId: 1031902
+  Name: 18th Birthday
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319021
+  SkillSeriesId: 20319020
+  AttributeId: 30319020
+  SpineId: 61
+  OrderId: 10384331
+  CenterSkillSeriesId: 10319020
+  CenterAttributeSeriesId: 20319020
+  RhythmGameSkillSeriesId: 30319020
+  CenterSkillLvUpItemId: 91
+  RhythmGameSkillLvUpItemId: 91
+- Id: 10319022
+  CardSeriesId: 1031902
+  Name: 18th Birthday
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319022
+  SkillSeriesId: 20319020
+  AttributeId: 30319020
+  SpineId: 61
+  OrderId: 10384331
+  CenterSkillSeriesId: 10319020
+  CenterAttributeSeriesId: 20319020
+  RhythmGameSkillSeriesId: 30319022
+  CenterSkillLvUpItemId: 91
+  RhythmGameSkillLvUpItemId: 91
+- Id: 10319023
+  CardSeriesId: 1031902
+  Name: 18th Birthday
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319022
+  SkillSeriesId: 20319020
+  AttributeId: 30319020
+  SpineId: 61
+  OrderId: 10384331
+  CenterSkillSeriesId: 10319020
+  CenterAttributeSeriesId: 20319020
+  RhythmGameSkillSeriesId: 30319023
+  CenterSkillLvUpItemId: 91
+  RhythmGameSkillLvUpItemId: 91
+- Id: 10319024
+  CardSeriesId: 1031902
+  Name: 18th Birthday
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10319022
+  SkillSeriesId: 20319020
+  AttributeId: 30319020
+  SpineId: 61
+  OrderId: 10384331
+  CenterSkillSeriesId: 10319020
+  CenterAttributeSeriesId: 20319020
+  RhythmGameSkillSeriesId: 30319024
+  CenterSkillLvUpItemId: 91
+  RhythmGameSkillLvUpItemId: 91
 - Id: 10323010
   CardSeriesId: 1032301
   Name: オーロラスカイ
