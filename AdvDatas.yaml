@@ -4123,3 +4123,48 @@
   StartTime: 2025-05-17T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10500206
+  AdvSeriesId: 105002
+  Name: 第2話『Dream Match！』
+  Description: PART 6
+  ScriptId: 10500206
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 276
+  SubTitleName: "6"
+  StartTime: 2025-05-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500207
+  AdvSeriesId: 105002
+  Name: 第2話『Dream Match！』
+  Description: PART 7
+  ScriptId: 10500207
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 277
+  SubTitleName: "7"
+  StartTime: 2025-05-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500208
+  AdvSeriesId: 105002
+  Name: 第2話『Dream Match！』
+  Description: PART 8
+  ScriptId: 10500208
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 278
+  SubTitleName: "8"
+  StartTime: 2025-05-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1

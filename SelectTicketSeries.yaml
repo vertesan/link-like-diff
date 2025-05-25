@@ -2,7 +2,7 @@
   ExchangeTicketName: 事前登録報酬UR交換チケット
   Description: 2023/04/14までに追加されたURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003001
-  OrderId: 10031
+  OrderId: 10034
   PickUpCardSeriesId_1: 1031501
   PickUpCardSeriesId_2: 1032501
   PickUpCardSeriesId_3: 1033501
@@ -17,7 +17,7 @@
   ExchangeTicketName: 【0.5周年記念】URセレクトチケット
   Description: 一部のURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003014
-  OrderId: 10030
+  OrderId: 10033
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -32,7 +32,7 @@
   ExchangeTicketName: 【スタートボーナス】URセレクトチケット（103期通常のみ）
   Description: 103期のガチャから排出される恒常URカード全てから選択できるチケットです。
   ExchangeTicketId: 3003021
-  OrderId: 10029
+  OrderId: 10032
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -227,7 +227,7 @@
   ExchangeTicketName: 【ライブグランプリ～103期12月度】SRセレクトチケット
   Description: 103期12月度までのライブグランプリ報酬SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003015
-  OrderId: 10027
+  OrderId: 10030
   PickUpCardSeriesId_1: 1032409
   PickUpCardSeriesId_2: 1021411
   PickUpCardSeriesId_3: 1032412
@@ -242,7 +242,7 @@
   ExchangeTicketName: 【ライブグランプリ～103期12月度】URセレクトチケット
   Description: 103期12月度までのライブグランプリ報酬URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003016
-  OrderId: 10028
+  OrderId: 10031
   PickUpCardSeriesId_1: 1022508
   PickUpCardSeriesId_2: 1031510
   PickUpCardSeriesId_3: 1022511
@@ -257,7 +257,7 @@
   ExchangeTicketName: 【ユニット甲子園2024】URセレクトチケット
   Description: 103期のガチャから排出される恒常URカード全てから選択できるチケットです。
   ExchangeTicketId: 3003017
-  OrderId: 10026
+  OrderId: 10029
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -272,7 +272,7 @@
   ExchangeTicketName: 【スリーズブーケ】SRセレクトチケット（103期通常のみ）
   Description: "スリーズブーケに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
   ExchangeTicketId: 3003018
-  OrderId: 10023
+  OrderId: 10026
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -287,7 +287,7 @@
   ExchangeTicketName: 【DOLLCHESTRA】SRセレクトチケット（103期通常のみ）
   Description: "DOLLCHESTRAに所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
   ExchangeTicketId: 3003019
-  OrderId: 10024
+  OrderId: 10027
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -302,7 +302,7 @@
   ExchangeTicketName: 【みらくらぱーく！】SRセレクトチケット（103期通常のみ）
   Description: "みらくらぱーく！に所属するキャラのカードのうち、\\n103期のガチャから排出される恒常SRカード全てから選択できるチケットです。"
   ExchangeTicketId: 3003020
-  OrderId: 10025
+  OrderId: 10028
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -317,7 +317,7 @@
   ExchangeTicketName: URセレクトチケット（103期通常のみ）
   Description: 103期のガチャから排出される恒常URカード全てから選択できるチケットです。
   ExchangeTicketId: 3003024
-  OrderId: 10022
+  OrderId: 10025
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -332,7 +332,7 @@
   ExchangeTicketName: 【104期生 Dream Believers】URセレクトチケット
   Description: 104期新入生の新規URカード3種（DreamBelievers）から1枚選択できるセレクトチケットです。
   ExchangeTicketId: 3003022
-  OrderId: 10021
+  OrderId: 10024
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -347,7 +347,7 @@
   ExchangeTicketName: 【蓮ノ空歌留多】URセレクトチケット
   Description: 蓮ノ空歌留多シリーズから選択できるチケットです。
   ExchangeTicketId: 3003023
-  OrderId: 10020
+  OrderId: 10023
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -362,7 +362,7 @@
   ExchangeTicketName: SRセレクトチケット（103期GP PRIZEのみ）
   Description: 103期のGP PRIZEカテゴリーのSRカード全てから選択できるチケットです。
   ExchangeTicketId: 3003025
-  OrderId: 10018
+  OrderId: 10021
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -377,7 +377,7 @@
   ExchangeTicketName: URセレクトチケット（103期GP PRIZEのみ）
   Description: 103期のGP PRIZEカテゴリーのURカード全てから選択できるチケットです。
   ExchangeTicketId: 3003026
-  OrderId: 10019
+  OrderId: 10022
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -392,7 +392,7 @@
   ExchangeTicketName: 【1周年記念】《LIMITED》URセレクトチケット
   Description: 103期のSPRING / SUMMER / AUTUMN / WINTERのURカード全てから選択できるチケットです。
   ExchangeTicketId: 3003027
-  OrderId: 10017
+  OrderId: 10020
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -407,7 +407,7 @@
   ExchangeTicketName: URセレクトチケット（通常/GP PRIZEのみ）
   Description: 通常/GP PRIZEのURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003028
-  OrderId: 10016
+  OrderId: 10019
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -422,7 +422,7 @@
   ExchangeTicketName: 【コミケ104出展記念！】URセレクトチケット
   Description: 2024 SPRING までの恒常URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003029
-  OrderId: 10015
+  OrderId: 10018
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -437,7 +437,7 @@
   ExchangeTicketName: 【DEEPNESS】URセレクトチケット（103期）
   Description: "[DEEPNESS] 乙宗 梢 または [DEEPNESS] 夕霧 綴理 のいずれかから1枚を選んで獲得できるチケットです。"
   ExchangeTicketId: 3003030
-  OrderId: 10014
+  OrderId: 10017
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -452,7 +452,7 @@
   ExchangeTicketName: 【1.5周年記念】URセレクトチケット
   Description: 2024 AUTUMN までの恒常URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003031
-  OrderId: 10013
+  OrderId: 10016
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -467,7 +467,7 @@
   ExchangeTicketName: 【1.5周年記念】《LIMITED》URセレクトチケット
   Description: 2024 SUMMER までのLIMITED URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003032
-  OrderId: 10012
+  OrderId: 10015
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -482,7 +482,7 @@
   ExchangeTicketName: 【TRY TRY SELECT!!!】URセレクトチケット
   Description: 特定のURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003033
-  OrderId: 10010
+  OrderId: 10013
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -497,7 +497,7 @@
   ExchangeTicketName: 【TRY TRY SELECT!!!】SRセレクトチケット
   Description: 特定のSRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003034
-  OrderId: 10011
+  OrderId: 10014
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -512,7 +512,7 @@
   ExchangeTicketName: URセレクトチケット（103期GRADUATION）
   Description: 103期のGRADUATION LIMITED URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003035
-  OrderId: 10008
+  OrderId: 10011
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -527,7 +527,7 @@
   ExchangeTicketName: SRセレクトチケット（103期GRADUATION）
   Description: 103期のGRADUATION LIMITED SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003036
-  OrderId: 10009
+  OrderId: 10012
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -542,7 +542,7 @@
   ExchangeTicketName: 【Dream Believers】URセレクトチケット（104期）
   Description: Dream Believersのカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003037
-  OrderId: 10007
+  OrderId: 10010
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -557,7 +557,7 @@
   ExchangeTicketName: メンバーシップ【Edel Note】特典 SRセレクトチケット（通常/GP PRIZEのみ）
   Description: Edel Noteの通常/GP PRIZE SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003041
-  OrderId: 10006
+  OrderId: 10009
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -572,7 +572,7 @@
   ExchangeTicketName: メンバーシップ【Edel Note】特典 URセレクトチケット（通常/GP PRIZEのみ）
   Description: Edel Noteの通常/GP PRIZE URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003042
-  OrderId: 10005
+  OrderId: 10008
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -587,7 +587,7 @@
   ExchangeTicketName: メンバーシップ【Edel Note】特典 《LIMITED》SRセレクトチケット
   Description: Edel NoteのLIMITED SRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003043
-  OrderId: 10004
+  OrderId: 10007
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -602,7 +602,7 @@
   ExchangeTicketName: メンバーシップ【Edel Note】特典 《LIMITED》URセレクトチケット
   Description: Edel NoteのLIMITED URカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003044
-  OrderId: 10003
+  OrderId: 10006
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -617,7 +617,7 @@
   ExchangeTicketName: 【2周年記念】《LIMITED》URセレクトチケット
   Description: 特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003048
-  OrderId: 10001
+  OrderId: 10004
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -632,7 +632,7 @@
   ExchangeTicketName: 【2周年記念】《LIMITED》SRセレクトチケット
   Description: 特定のLIMITEDのSRカードから1枚を選んで獲得できるチケットです。
   ExchangeTicketId: 3003049
-  OrderId: 10002
+  OrderId: 10005
   PickUpCardSeriesId_1: 0
   PickUpCardSeriesId_2: 0
   PickUpCardSeriesId_3: 0
@@ -641,5 +641,50 @@
   PickUpCardSeriesId_6: 0
   BgType: 1
   StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030027
+  ExchangeTicketName: SRセレクトチケット（103期通常のみ）
+  Description: 103期のガチャから排出される恒常SRカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003045
+  OrderId: 10003
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-05-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030028
+  ExchangeTicketName: SRセレクトチケット（104期通常のみ）
+  Description: 104期のガチャから排出される恒常SRカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003046
+  OrderId: 10002
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-05-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0
+- Id: 4030029
+  ExchangeTicketName: URセレクトチケット（104期通常のみ）
+  Description: 104期のガチャから排出される恒常URカード全てから選択できるチケットです。
+  ExchangeTicketId: 3003047
+  OrderId: 10001
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-05-25T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0
