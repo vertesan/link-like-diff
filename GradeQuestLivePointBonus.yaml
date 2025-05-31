@@ -1678,3 +1678,99 @@
   ConditionsValue: 8
   BonusNum: 0
   BonusLimitUp: 30
+- Id: 1051401
+  GradeQuestSeriesId: 10514
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1051402
+  GradeQuestSeriesId: 10514
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1051403
+  GradeQuestSeriesId: 10514
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1051404
+  GradeQuestSeriesId: 10514
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1051501
+  GradeQuestSeriesId: 10515
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1051502
+  GradeQuestSeriesId: 10515
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1051503
+  GradeQuestSeriesId: 10515
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1051504
+  GradeQuestSeriesId: 10515
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1051601
+  GradeQuestSeriesId: 10516
+  OrderId: 1
+  Description: SPRING LIMITED
+  ConditionsType: 1
+  ConditionsValue: 1
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1051602
+  GradeQuestSeriesId: 10516
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1051603
+  GradeQuestSeriesId: 10516
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1051604
+  GradeQuestSeriesId: 10516
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30

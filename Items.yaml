@@ -1426,6 +1426,42 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2024-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003038
+  Name: 【Star Sign Memories/乙宗 梢】URセレクトチケット
+  NameFurigana: すたーさいんめもりーずおとむねこずえうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003039
+  Name: 【Star Sign Memories/夕霧 綴理】URセレクトチケット
+  NameFurigana: すたーさいんめもりーずゆうぎりつづりうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003040
+  Name: 【Star Sign Memories/藤島 慈】URセレクトチケット
+  NameFurigana: すたーさいんめもりーずふじしまめぐみうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3003041
   Name: メンバーシップ【Edel Note】特典 SRセレクトチケット（通常/GP PRIZEのみ）
   NameFurigana: めんばーしっぷえーでるのーととくてんすーぱーれあせれくとちけっと
@@ -5278,6 +5314,18 @@
   Description: スタイル解放素材(日野下 花帆)
   StartTime: 2025-05-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031529
+  Name: "[Her-bath-rium]日野下 花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031801
   Name: "[Prism Echo]日野下\u00a0花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -6562,6 +6610,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2025-01-26T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033523
+  Name: "[WAWO!]大沢 瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7425,6 +7485,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-04-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043514
+  Name: "[WAWO!]安養寺 姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."

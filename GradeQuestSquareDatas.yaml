@@ -316,6 +316,24 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11051401
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 11051501
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 11051601
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -760,6 +778,18 @@
   TargetId: 0
   MinActionPoint: 3
   MaxActionPoint: 3
+- Id: 21051501
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 3
+  MaxActionPoint: 3
+- Id: 21051502
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 5
+  MaxActionPoint: 5
 - Id: 31031101
   Name: ライブステージ1
   SquareType: 3
@@ -1684,6 +1714,60 @@
   TargetId: 531051303
   MinActionPoint: 1
   MaxActionPoint: 5
+- Id: 31051401
+  Name: ライブステージ1
+  SquareType: 3
+  TargetId: 531051401
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051402
+  Name: ライブステージ2
+  SquareType: 3
+  TargetId: 531051402
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051403
+  Name: ライブステージ3
+  SquareType: 3
+  TargetId: 531051403
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051404
+  Name: ライブステージ4
+  SquareType: 3
+  TargetId: 531051404
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051405
+  Name: ライブステージ5
+  SquareType: 3
+  TargetId: 531051405
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051501
+  Name: ライブステージ1
+  SquareType: 3
+  TargetId: 531051501
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051502
+  Name: ライブステージ2
+  SquareType: 3
+  TargetId: 531051502
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051503
+  Name: ライブステージ3
+  SquareType: 3
+  TargetId: 531051503
+  MinActionPoint: 1
+  MaxActionPoint: 5
+- Id: 31051504
+  Name: ライブステージ4
+  SquareType: 3
+  TargetId: 531051504
+  MinActionPoint: 1
+  MaxActionPoint: 5
 - Id: 41031101
   Name: 追加効果（★）
   SquareType: 4
@@ -2374,6 +2458,30 @@
   TargetId: 1053
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 41051401
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051402
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051501
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 41051502
+  Name: 追加効果（★★★）
+  SquareType: 4
+  TargetId: 1053
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 51031201
   Name: 『初期メンタル -10%』解除
   SquareType: 5
@@ -2758,6 +2866,42 @@
   TargetId: 51045601
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 51051401
+  Name: 『スキルAP +2』解除
+  SquareType: 5
+  TargetId: 51051401
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 51051402
+  Name: 『スキルAP +2』解除
+  SquareType: 5
+  TargetId: 51051402
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 51051501
+  Name: 『手札上限 -2枚 』解除
+  SquareType: 5
+  TargetId: 51051501
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 51051502
+  Name: 『AP回復速度 -30%』解除
+  SquareType: 5
+  TargetId: 51051502
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 51051503
+  Name: 『メンタル減少速度+50%』解除
+  SquareType: 5
+  TargetId: 51051503
+  MinActionPoint: 2
+  MaxActionPoint: 2
+- Id: 51051601
+  Name: 『スキルAP -3（DOLLCHESTRA）』解除
+  SquareType: 5
+  TargetId: 51051601
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 61031101
   Name: 103期 獲得ライブPt. +5%
   SquareType: 6
@@ -2968,6 +3112,12 @@
   TargetId: 105003
   MinActionPoint: 3
   MaxActionPoint: 3
+- Id: 61051401
+  Name: 105期 獲得ライブPt. +10%
+  SquareType: 6
+  TargetId: 105004
+  MinActionPoint: 2
+  MaxActionPoint: 2
 - Id: 71031101
   Name: メインライブステージ
   SquareType: 7
@@ -3286,3 +3436,21 @@
   TargetId: 571051301
   MinActionPoint: 1
   MaxActionPoint: 10
+- Id: 71051401
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051401
+  MinActionPoint: 1
+  MaxActionPoint: 10
+- Id: 71051501
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051501
+  MinActionPoint: 1
+  MaxActionPoint: 10
+- Id: 71051601
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571051601
+  MinActionPoint: 1
+  MaxActionPoint: 1

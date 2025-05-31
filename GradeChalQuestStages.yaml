@@ -376,3 +376,45 @@
   QuestMusicsDetail: 305101
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
+- Id: 1041001
+  GradeChalSeasonId: 10410
+  Name: Grade Challenge Stage A
+  Description: ""
+  Hint: ""
+  CharacterId: 1031
+  OrderId: 1
+  StageType: 0
+  StageIconId: 1001
+  LiveStagesId: 1041001
+  QuestMusicsType: 2
+  QuestMusicsDetail: 103302
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+- Id: 1041002
+  GradeChalSeasonId: 10410
+  Name: Grade Challenge Stage B
+  Description: ""
+  Hint: ""
+  CharacterId: 1043
+  OrderId: 2
+  StageType: 0
+  StageIconId: 1002
+  LiveStagesId: 1041002
+  QuestMusicsType: 2
+  QuestMusicsDetail: 204111
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+- Id: 1041003
+  GradeChalSeasonId: 10410
+  Name: Grade Challenge Stage C
+  Description: ""
+  Hint: ""
+  CharacterId: 1052
+  OrderId: 3
+  StageType: 0
+  StageIconId: 1003
+  LiveStagesId: 1041003
+  QuestMusicsType: 2
+  QuestMusicsDetail: 305103
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0

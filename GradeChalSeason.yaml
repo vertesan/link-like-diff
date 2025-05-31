@@ -52,3 +52,9 @@
   BgImageId: 1001
   StartTime: 2025-04-30T12:00:00Z
   EndTime: 2025-05-31T02:59:59Z
+- Id: 10410
+  Name: 第10回 GradeChallenge
+  GiveSeasonGradeId: 1005000
+  BgImageId: 1001
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2025-06-26T18:59:59Z

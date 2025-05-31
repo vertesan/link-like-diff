@@ -31768,6 +31768,156 @@
   RhythmGameSkillSeriesId: 30315284
   CenterSkillLvUpItemId: 51
   RhythmGameSkillLvUpItemId: 51
+- Id: 10315290
+  CardSeriesId: 1031529
+  Name: Her-bath-rium
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 55
+  InitialPure: 50
+  InitialCool: 38
+  InitialMental: 98
+  MaxSmile: 2750
+  MaxPure: 2500
+  MaxCool: 1900
+  MaxMental: 245
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315290
+  SkillSeriesId: 20315290
+  AttributeId: 30315290
+  SpineId: 62
+  OrderId: 10384531
+  CenterSkillSeriesId: 10315290
+  CenterAttributeSeriesId: 20315290
+  RhythmGameSkillSeriesId: 30315290
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315291
+  CardSeriesId: 1031529
+  Name: Her-bath-rium
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2750
+  InitialPure: 2500
+  InitialCool: 1900
+  InitialMental: 245
+  MaxSmile: 3850
+  MaxPure: 3500
+  MaxCool: 2660
+  MaxMental: 343
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315291
+  SkillSeriesId: 20315290
+  AttributeId: 30315290
+  SpineId: 62
+  OrderId: 10384531
+  CenterSkillSeriesId: 10315290
+  CenterAttributeSeriesId: 20315290
+  RhythmGameSkillSeriesId: 30315290
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315292
+  CardSeriesId: 1031529
+  Name: Her-bath-rium
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3850
+  InitialPure: 3500
+  InitialCool: 2660
+  InitialMental: 343
+  MaxSmile: 5500
+  MaxPure: 5000
+  MaxCool: 3800
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315292
+  SkillSeriesId: 20315290
+  AttributeId: 30315290
+  SpineId: 62
+  OrderId: 10384531
+  CenterSkillSeriesId: 10315290
+  CenterAttributeSeriesId: 20315290
+  RhythmGameSkillSeriesId: 30315292
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315293
+  CardSeriesId: 1031529
+  Name: Her-bath-rium
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5500
+  InitialPure: 5000
+  InitialCool: 3800
+  InitialMental: 490
+  MaxSmile: 6050
+  MaxPure: 5500
+  MaxCool: 4180
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315292
+  SkillSeriesId: 20315290
+  AttributeId: 30315290
+  SpineId: 62
+  OrderId: 10384531
+  CenterSkillSeriesId: 10315290
+  CenterAttributeSeriesId: 20315290
+  RhythmGameSkillSeriesId: 30315293
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315294
+  CardSeriesId: 1031529
+  Name: Her-bath-rium
+  Description: 日野下花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 6050
+  InitialPure: 5500
+  InitialCool: 4180
+  InitialMental: 490
+  MaxSmile: 6600
+  MaxPure: 6000
+  MaxCool: 4560
+  MaxMental: 490
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315292
+  SkillSeriesId: 20315290
+  AttributeId: 30315290
+  SpineId: 62
+  OrderId: 10384531
+  CenterSkillSeriesId: 10315290
+  CenterAttributeSeriesId: 20315290
+  RhythmGameSkillSeriesId: 30315294
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
 - Id: 10318011
   CardSeriesId: 1031801
   Name: Prism Echo
@@ -32032,7 +32182,7 @@
   SkillSeriesId: 20318030
   AttributeId: 30318030
   SpineId: 59
-  OrderId: 10383831
+  OrderId: 10300144
   CenterSkillSeriesId: 10318030
   CenterAttributeSeriesId: 20318030
   RhythmGameSkillSeriesId: 30318030
@@ -32062,7 +32212,7 @@
   SkillSeriesId: 20318030
   AttributeId: 30318030
   SpineId: 59
-  OrderId: 10383831
+  OrderId: 10300144
   CenterSkillSeriesId: 10318030
   CenterAttributeSeriesId: 20318030
   RhythmGameSkillSeriesId: 30318032
@@ -32092,7 +32242,7 @@
   SkillSeriesId: 20318030
   AttributeId: 30318030
   SpineId: 59
-  OrderId: 10383831
+  OrderId: 10300144
   CenterSkillSeriesId: 10318030
   CenterAttributeSeriesId: 20318030
   RhythmGameSkillSeriesId: 30318033
@@ -32122,7 +32272,7 @@
   SkillSeriesId: 20318030
   AttributeId: 30318030
   SpineId: 59
-  OrderId: 10383831
+  OrderId: 10300144
   CenterSkillSeriesId: 10318030
   CenterAttributeSeriesId: 20318030
   RhythmGameSkillSeriesId: 30318034
@@ -40882,7 +41032,7 @@
   SkillSeriesId: 20328030
   AttributeId: 30328030
   SpineId: 59
-  OrderId: 10383832
+  OrderId: 10300145
   CenterSkillSeriesId: 10328030
   CenterAttributeSeriesId: 20328030
   RhythmGameSkillSeriesId: 30328030
@@ -40912,7 +41062,7 @@
   SkillSeriesId: 20328030
   AttributeId: 30328030
   SpineId: 59
-  OrderId: 10383832
+  OrderId: 10300145
   CenterSkillSeriesId: 10328030
   CenterAttributeSeriesId: 20328030
   RhythmGameSkillSeriesId: 30328032
@@ -40942,7 +41092,7 @@
   SkillSeriesId: 20328030
   AttributeId: 30328030
   SpineId: 59
-  OrderId: 10383832
+  OrderId: 10300145
   CenterSkillSeriesId: 10328030
   CenterAttributeSeriesId: 20328030
   RhythmGameSkillSeriesId: 30328033
@@ -40972,7 +41122,7 @@
   SkillSeriesId: 20328030
   AttributeId: 30328030
   SpineId: 59
-  OrderId: 10383832
+  OrderId: 10300145
   CenterSkillSeriesId: 10328030
   CenterAttributeSeriesId: 20328030
   RhythmGameSkillSeriesId: 30328034
@@ -47548,6 +47698,156 @@
   RhythmGameSkillSeriesId: 30335224
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
+- Id: 10335230
+  CardSeriesId: 1033523
+  Name: WAWO!
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 42
+  InitialPure: 60
+  InitialCool: 43
+  InitialMental: 96
+  MaxSmile: 2075
+  MaxPure: 3000
+  MaxCool: 2125
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335230
+  SkillSeriesId: 20335230
+  AttributeId: 30335230
+  SpineId: 49
+  OrderId: 10384433
+  CenterSkillSeriesId: 10335230
+  CenterAttributeSeriesId: 20335230
+  RhythmGameSkillSeriesId: 30335230
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335231
+  CardSeriesId: 1033523
+  Name: WAWO!
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2075
+  InitialPure: 3000
+  InitialCool: 2125
+  InitialMental: 240
+  MaxSmile: 2905
+  MaxPure: 4200
+  MaxCool: 2975
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335231
+  SkillSeriesId: 20335230
+  AttributeId: 30335230
+  SpineId: 49
+  OrderId: 10384433
+  CenterSkillSeriesId: 10335230
+  CenterAttributeSeriesId: 20335230
+  RhythmGameSkillSeriesId: 30335230
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335232
+  CardSeriesId: 1033523
+  Name: WAWO!
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2905
+  InitialPure: 4200
+  InitialCool: 2975
+  InitialMental: 336
+  MaxSmile: 4150
+  MaxPure: 6000
+  MaxCool: 4250
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335232
+  SkillSeriesId: 20335230
+  AttributeId: 30335230
+  SpineId: 49
+  OrderId: 10384433
+  CenterSkillSeriesId: 10335230
+  CenterAttributeSeriesId: 20335230
+  RhythmGameSkillSeriesId: 30335232
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335233
+  CardSeriesId: 1033523
+  Name: WAWO!
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4150
+  InitialPure: 6000
+  InitialCool: 4250
+  InitialMental: 480
+  MaxSmile: 4565
+  MaxPure: 6600
+  MaxCool: 4675
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335232
+  SkillSeriesId: 20335230
+  AttributeId: 30335230
+  SpineId: 49
+  OrderId: 10384433
+  CenterSkillSeriesId: 10335230
+  CenterAttributeSeriesId: 20335230
+  RhythmGameSkillSeriesId: 30335233
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335234
+  CardSeriesId: 1033523
+  Name: WAWO!
+  Description: 大沢瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4565
+  InitialPure: 6600
+  InitialCool: 4675
+  InitialMental: 480
+  MaxSmile: 4980
+  MaxPure: 7200
+  MaxCool: 5100
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335232
+  SkillSeriesId: 20335230
+  AttributeId: 30335230
+  SpineId: 49
+  OrderId: 10384433
+  CenterSkillSeriesId: 10335230
+  CenterAttributeSeriesId: 20335230
+  RhythmGameSkillSeriesId: 30335234
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
 - Id: 10338011
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -47812,7 +48112,7 @@
   SkillSeriesId: 20338030
   AttributeId: 30338030
   SpineId: 47
-  OrderId: 10383833
+  OrderId: 10300146
   CenterSkillSeriesId: 10338030
   CenterAttributeSeriesId: 20338030
   RhythmGameSkillSeriesId: 30338030
@@ -47842,7 +48142,7 @@
   SkillSeriesId: 20338030
   AttributeId: 30338030
   SpineId: 47
-  OrderId: 10383833
+  OrderId: 10300146
   CenterSkillSeriesId: 10338030
   CenterAttributeSeriesId: 20338030
   RhythmGameSkillSeriesId: 30338032
@@ -47872,7 +48172,7 @@
   SkillSeriesId: 20338030
   AttributeId: 30338030
   SpineId: 47
-  OrderId: 10383833
+  OrderId: 10300146
   CenterSkillSeriesId: 10338030
   CenterAttributeSeriesId: 20338030
   RhythmGameSkillSeriesId: 30338033
@@ -47902,7 +48202,7 @@
   SkillSeriesId: 20338030
   AttributeId: 30338030
   SpineId: 47
-  OrderId: 10383833
+  OrderId: 10300146
   CenterSkillSeriesId: 10338030
   CenterAttributeSeriesId: 20338030
   RhythmGameSkillSeriesId: 30338034
@@ -51322,7 +51622,7 @@
   SkillSeriesId: 20418020
   AttributeId: 30418020
   SpineId: 23
-  OrderId: 10383841
+  OrderId: 10300147
   CenterSkillSeriesId: 10418020
   CenterAttributeSeriesId: 20418020
   RhythmGameSkillSeriesId: 30418020
@@ -51352,7 +51652,7 @@
   SkillSeriesId: 20418020
   AttributeId: 30418020
   SpineId: 23
-  OrderId: 10383841
+  OrderId: 10300147
   CenterSkillSeriesId: 10418020
   CenterAttributeSeriesId: 20418020
   RhythmGameSkillSeriesId: 30418022
@@ -51382,7 +51682,7 @@
   SkillSeriesId: 20418020
   AttributeId: 30418020
   SpineId: 23
-  OrderId: 10383841
+  OrderId: 10300147
   CenterSkillSeriesId: 10418020
   CenterAttributeSeriesId: 20418020
   RhythmGameSkillSeriesId: 30418023
@@ -51412,7 +51712,7 @@
   SkillSeriesId: 20418020
   AttributeId: 30418020
   SpineId: 23
-  OrderId: 10383841
+  OrderId: 10300147
   CenterSkillSeriesId: 10418020
   CenterAttributeSeriesId: 20418020
   RhythmGameSkillSeriesId: 30418024
@@ -54832,7 +55132,7 @@
   SkillSeriesId: 20428020
   AttributeId: 30428020
   SpineId: 23
-  OrderId: 10383842
+  OrderId: 10300148
   CenterSkillSeriesId: 10428020
   CenterAttributeSeriesId: 20428020
   RhythmGameSkillSeriesId: 30428020
@@ -54862,7 +55162,7 @@
   SkillSeriesId: 20428020
   AttributeId: 30428020
   SpineId: 23
-  OrderId: 10383842
+  OrderId: 10300148
   CenterSkillSeriesId: 10428020
   CenterAttributeSeriesId: 20428020
   RhythmGameSkillSeriesId: 30428022
@@ -54892,7 +55192,7 @@
   SkillSeriesId: 20428020
   AttributeId: 30428020
   SpineId: 23
-  OrderId: 10383842
+  OrderId: 10300148
   CenterSkillSeriesId: 10428020
   CenterAttributeSeriesId: 20428020
   RhythmGameSkillSeriesId: 30428023
@@ -54922,7 +55222,7 @@
   SkillSeriesId: 20428020
   AttributeId: 30428020
   SpineId: 23
-  OrderId: 10383842
+  OrderId: 10300148
   CenterSkillSeriesId: 10428020
   CenterAttributeSeriesId: 20428020
   RhythmGameSkillSeriesId: 30428024
@@ -58048,6 +58348,156 @@
   RhythmGameSkillSeriesId: 30435134
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
+- Id: 10435140
+  CardSeriesId: 1043514
+  Name: WAWO!
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 42
+  InitialPure: 61
+  InitialCool: 41
+  InitialMental: 96
+  MaxSmile: 2100
+  MaxPure: 3050
+  MaxCool: 2050
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435140
+  SkillSeriesId: 20435140
+  AttributeId: 30435140
+  SpineId: 25
+  OrderId: 10384443
+  CenterSkillSeriesId: 10435140
+  CenterAttributeSeriesId: 20435140
+  RhythmGameSkillSeriesId: 30435140
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435141
+  CardSeriesId: 1043514
+  Name: WAWO!
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2100
+  InitialPure: 3050
+  InitialCool: 2050
+  InitialMental: 240
+  MaxSmile: 2940
+  MaxPure: 4270
+  MaxCool: 2870
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435141
+  SkillSeriesId: 20435140
+  AttributeId: 30435140
+  SpineId: 25
+  OrderId: 10384443
+  CenterSkillSeriesId: 10435140
+  CenterAttributeSeriesId: 20435140
+  RhythmGameSkillSeriesId: 30435140
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435142
+  CardSeriesId: 1043514
+  Name: WAWO!
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2940
+  InitialPure: 4270
+  InitialCool: 2870
+  InitialMental: 336
+  MaxSmile: 4200
+  MaxPure: 6100
+  MaxCool: 4100
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435142
+  SkillSeriesId: 20435140
+  AttributeId: 30435140
+  SpineId: 25
+  OrderId: 10384443
+  CenterSkillSeriesId: 10435140
+  CenterAttributeSeriesId: 20435140
+  RhythmGameSkillSeriesId: 30435142
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435143
+  CardSeriesId: 1043514
+  Name: WAWO!
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4200
+  InitialPure: 6100
+  InitialCool: 4100
+  InitialMental: 480
+  MaxSmile: 4620
+  MaxPure: 6710
+  MaxCool: 4510
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435142
+  SkillSeriesId: 20435140
+  AttributeId: 30435140
+  SpineId: 25
+  OrderId: 10384443
+  CenterSkillSeriesId: 10435140
+  CenterAttributeSeriesId: 20435140
+  RhythmGameSkillSeriesId: 30435143
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435144
+  CardSeriesId: 1043514
+  Name: WAWO!
+  Description: 安養寺姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4620
+  InitialPure: 6710
+  InitialCool: 4510
+  InitialMental: 480
+  MaxSmile: 5040
+  MaxPure: 7320
+  MaxCool: 4920
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435142
+  SkillSeriesId: 20435140
+  AttributeId: 30435140
+  SpineId: 25
+  OrderId: 10384443
+  CenterSkillSeriesId: 10435140
+  CenterAttributeSeriesId: 20435140
+  RhythmGameSkillSeriesId: 30435144
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
 - Id: 10438011
   CardSeriesId: 1043801
   Name: Ether Aria
@@ -58176,23 +58626,23 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 1
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 2200
+  InitialPure: 3500
+  InitialCool: 3050
+  InitialMental: 285
+  MaxSmile: 3080
+  MaxPure: 4900
+  MaxCool: 4270
+  MaxMental: 399
+  BeatPoint: 100
   SpecialAppealSeriesId: 10438021
   SkillSeriesId: 20438020
   AttributeId: 30438020
   SpineId: 23
-  OrderId: 10383843
+  OrderId: 10300149
   CenterSkillSeriesId: 10438020
   CenterAttributeSeriesId: 20438020
   RhythmGameSkillSeriesId: 30438020
@@ -58206,23 +58656,23 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 1
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 3080
+  InitialPure: 4900
+  InitialCool: 4270
+  InitialMental: 399
+  MaxSmile: 4400
+  MaxPure: 7000
+  MaxCool: 6100
+  MaxMental: 570
+  BeatPoint: 100
   SpecialAppealSeriesId: 10438022
   SkillSeriesId: 20438020
   AttributeId: 30438020
   SpineId: 23
-  OrderId: 10383843
+  OrderId: 10300149
   CenterSkillSeriesId: 10438020
   CenterAttributeSeriesId: 20438020
   RhythmGameSkillSeriesId: 30438022
@@ -58236,23 +58686,23 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 1
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 4400
+  InitialPure: 7000
+  InitialCool: 6100
+  InitialMental: 570
+  MaxSmile: 4840
+  MaxPure: 7700
+  MaxCool: 6710
+  MaxMental: 570
+  BeatPoint: 100
   SpecialAppealSeriesId: 10438022
   SkillSeriesId: 20438020
   AttributeId: 30438020
   SpineId: 23
-  OrderId: 10383843
+  OrderId: 10300149
   CenterSkillSeriesId: 10438020
   CenterAttributeSeriesId: 20438020
   RhythmGameSkillSeriesId: 30438023
@@ -58266,23 +58716,23 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 1
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 4840
+  InitialPure: 7700
+  InitialCool: 6710
+  InitialMental: 570
+  MaxSmile: 5280
+  MaxPure: 8400
+  MaxCool: 7320
+  MaxMental: 570
+  BeatPoint: 100
   SpecialAppealSeriesId: 10438022
   SkillSeriesId: 20438020
   AttributeId: 30438020
   SpineId: 23
-  OrderId: 10383843
+  OrderId: 10300149
   CenterSkillSeriesId: 10438020
   CenterAttributeSeriesId: 20438020
   RhythmGameSkillSeriesId: 30438024
@@ -59332,7 +59782,7 @@
   SkillSeriesId: 20518010
   AttributeId: 30518010
   SpineId: 4
-  OrderId: 10383851
+  OrderId: 10300150
   CenterSkillSeriesId: 10518010
   CenterAttributeSeriesId: 20518010
   RhythmGameSkillSeriesId: 30518010
@@ -59362,7 +59812,7 @@
   SkillSeriesId: 20518010
   AttributeId: 30518010
   SpineId: 4
-  OrderId: 10383851
+  OrderId: 10300150
   CenterSkillSeriesId: 10518010
   CenterAttributeSeriesId: 20518010
   RhythmGameSkillSeriesId: 30518012
@@ -59392,7 +59842,7 @@
   SkillSeriesId: 20518010
   AttributeId: 30518010
   SpineId: 4
-  OrderId: 10383851
+  OrderId: 10300150
   CenterSkillSeriesId: 10518010
   CenterAttributeSeriesId: 20518010
   RhythmGameSkillSeriesId: 30518013
@@ -59422,7 +59872,7 @@
   SkillSeriesId: 20518010
   AttributeId: 30518010
   SpineId: 4
-  OrderId: 10383851
+  OrderId: 10300150
   CenterSkillSeriesId: 10518010
   CenterAttributeSeriesId: 20518010
   RhythmGameSkillSeriesId: 30518014
@@ -60202,7 +60652,7 @@
   SkillSeriesId: 20528010
   AttributeId: 30528010
   SpineId: 4
-  OrderId: 10383852
+  OrderId: 10300151
   CenterSkillSeriesId: 10528010
   CenterAttributeSeriesId: 20528010
   RhythmGameSkillSeriesId: 30528010
@@ -60232,7 +60682,7 @@
   SkillSeriesId: 20528010
   AttributeId: 30528010
   SpineId: 4
-  OrderId: 10383852
+  OrderId: 10300151
   CenterSkillSeriesId: 10528010
   CenterAttributeSeriesId: 20528010
   RhythmGameSkillSeriesId: 30528012
@@ -60262,7 +60712,7 @@
   SkillSeriesId: 20528010
   AttributeId: 30528010
   SpineId: 4
-  OrderId: 10383852
+  OrderId: 10300151
   CenterSkillSeriesId: 10528010
   CenterAttributeSeriesId: 20528010
   RhythmGameSkillSeriesId: 30528013
@@ -60292,7 +60742,7 @@
   SkillSeriesId: 20528010
   AttributeId: 30528010
   SpineId: 4
-  OrderId: 10383852
+  OrderId: 10300151
   CenterSkillSeriesId: 10528010
   CenterAttributeSeriesId: 20528010
   RhythmGameSkillSeriesId: 30528014

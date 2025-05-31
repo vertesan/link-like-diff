@@ -201,31 +201,31 @@
   Title: 「おいでよ！石川大観光」発売中
   OrderId: 34
   StartTime: 2025-03-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-05-31T02:59:59Z
 - Id: 110035
   DownloadType: 1
   Title: 「ユメワズライ」発売中
   OrderId: 35
   StartTime: 2025-03-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-05-31T02:59:59Z
 - Id: 110036
   DownloadType: 1
   Title: 「COMAPSS」発売中
   OrderId: 36
   StartTime: 2025-03-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-05-31T02:59:59Z
 - Id: 110037
   DownloadType: 1
   Title: 「全方位キュン♡」発売中
   OrderId: 37
   StartTime: 2025-03-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-05-31T02:59:59Z
 - Id: 110038
   DownloadType: 1
   Title: 「いつでも、いつまでも」発売中
   OrderId: 38
   StartTime: 2025-04-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-05-31T02:59:59Z
 - Id: 110039
   DownloadType: 1
   Title: 「Dream Believers（105期Ver.）」発売中
@@ -237,4 +237,34 @@
   Title: 「Retrofuture」発売中
   OrderId: 40
   StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110041
+  DownloadType: 1
+  Title: Edel Noteメンバーシップ
+  OrderId: 41
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110042
+  DownloadType: 1
+  Title: 104th Collection
+  OrderId: 42
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110043
+  DownloadType: 1
+  Title: 102nd Graduation Album 梢
+  OrderId: 43
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110044
+  DownloadType: 1
+  Title: 102nd Graduation Album 綴理
+  OrderId: 44
+  StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110045
+  DownloadType: 1
+  Title: 102nd Graduation Album 慈
+  OrderId: 45
+  StartTime: 2025-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z

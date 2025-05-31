@@ -334,6 +334,12 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30
+- Id: 40105104
+  MusicsId: 105104
+  Name: Hello, new dream!
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  ExReleaseConditionsLevel: 30
 - Id: 40203101
   MusicsId: 203101
   Name: Mix shake!!
@@ -654,7 +660,7 @@
   ExReleaseConditionsLevel: 30
 - Id: 40205101
   MusicsId: 205101
-  Name: WAWO！
+  Name: WAWO!
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   ExReleaseConditionsLevel: 30

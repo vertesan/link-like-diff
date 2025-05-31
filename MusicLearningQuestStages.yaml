@@ -11198,6 +11198,206 @@
   SkipRestrictedType: 1
   StartTime: 2024-12-25T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 401051041
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4010510411
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051042
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4010510421
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051043
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4010510431
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051044
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4010510441
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051045
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 80
+  QuestRank: 5
+  FirstClearRewardSeriesId: 4010510451
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000000
+  GainStylePoint: 4000
+  GainMusicExp: 7200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051046
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 100
+  QuestRank: 6
+  FirstClearRewardSeriesId: 4010510461
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 40000000000
+  GainStylePoint: 4000
+  GainMusicExp: 10500
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051047
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 110
+  QuestRank: 7
+  FirstClearRewardSeriesId: 4010510471
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 200000000000
+  GainStylePoint: 8000
+  GainMusicExp: 25200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 401051048
+  LearningLiveSeriesId: 40105104
+  Name: 『Hello, new dream!』
+  Description: Hello, new dream!
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 105104
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 120
+  QuestRank: 8
+  FirstClearRewardSeriesId: 4010510481
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1000000000000
+  GainStylePoint: 8000
+  GainMusicExp: 38000
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 402031011
   LearningLiveSeriesId: 40203101
   Name: 『Mix shake!!』
@@ -21800,8 +22000,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051011
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21825,8 +22025,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051012
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21850,8 +22050,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051013
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21875,8 +22075,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051014
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21900,8 +22100,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051015
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21925,8 +22125,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051016
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21950,8 +22150,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051017
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1
@@ -21975,8 +22175,8 @@
   EndTime: 2035-12-31T14:59:59Z
 - Id: 402051018
   LearningLiveSeriesId: 40205101
-  Name: 『WAWO！』
-  Description: WAWO！
+  Name: 『WAWO!』
+  Description: WAWO!
   Hint: 　
   StageType: 0
   UseType: 1

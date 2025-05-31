@@ -716,6 +716,64 @@
   Description: 105期OpeningTerm サークル対抗戦 1501位～2000位のプライズです。
 - Id: 10702407
   Description: 105期OpeningTerm サークル対抗戦 2001位～のプライズです。
+- Id: 10702408
+  Description: 105期1stTerm 第1回 サークル対抗戦 1位～10位のプライズです。
+- Id: 10702409
+  Description: 105期1stTerm 第1回 サークル対抗戦 11位～30位のプライズです。
+- Id: 10702410
+  Description: 105期1stTerm 第1回 サークル対抗戦 31位～100位のプライズです。
+- Id: 10702411
+  Description: 105期1stTerm 第1回 サークル対抗戦 101位～200位のプライズです。
+- Id: 10702412
+  Description: 105期1stTerm 第1回 サークル対抗戦 201位～300位のプライズです。
+- Id: 10702413
+  Description: 105期1stTerm 第1回 サークル対抗戦 301位～500位のプライズです。
+- Id: 10702414
+  Description: 105期1stTerm 第1回 サークル対抗戦 501位～1000位のプライズです。
+- Id: 10702415
+  Description: 105期1stTerm 第1回 サークル対抗戦 1001位～1500位のプライズです。
+- Id: 10702416
+  Description: 105期1stTerm 第1回 サークル対抗戦 1501位～5000位のプライズです。
+- Id: 10702417
+  Description: 105期1stTerm 第1回 サークル対抗戦 5001位～のプライズです。
+- Id: 10702418
+  Description: 105期1stTerm 第1回 サークル対抗戦 1位のプライズです。
+- Id: 10702419
+  Description: 105期1stTerm 第1回 サークル対抗戦 2位のプライズです。
+- Id: 10702420
+  Description: 105期1stTerm 第1回 サークル対抗戦 3位のプライズです。
+- Id: 10702421
+  Description: 105期1stTerm 第1回 サークル対抗戦 4位のプライズです。
+- Id: 10702422
+  Description: 105期1stTerm 第1回 サークル対抗戦 5位のプライズです。
+- Id: 10702423
+  Description: 105期1stTerm 第1回 サークル対抗戦 6位のプライズです。
+- Id: 10702424
+  Description: 105期1stTerm 第1回 サークル対抗戦 7位のプライズです。
+- Id: 10702425
+  Description: 105期1stTerm 第1回 サークル対抗戦 8位のプライズです。
+- Id: 10702426
+  Description: 105期1stTerm 第1回 サークル対抗戦 9位のプライズです。
+- Id: 10702427
+  Description: 105期1stTerm 第1回 サークル対抗戦 10位のプライズです。
+- Id: 10702428
+  Description: 105期1stTerm 第1回 サークル対抗戦 11位～30位のプライズです。
+- Id: 10702429
+  Description: 105期1stTerm 第1回 サークル対抗戦 31位～100位のプライズです。
+- Id: 10702430
+  Description: 105期1stTerm 第1回 サークル対抗戦 101位～200位のプライズです。
+- Id: 10702431
+  Description: 105期1stTerm 第1回 サークル対抗戦 201位～300位のプライズです。
+- Id: 10702432
+  Description: 105期1stTerm 第1回 サークル対抗戦 301位～500位のプライズです。
+- Id: 10702433
+  Description: 105期1stTerm 第1回 サークル対抗戦 501位～1000位のプライズです。
+- Id: 10702434
+  Description: 105期1stTerm 第1回 サークル対抗戦 1001位～1500位のプライズです。
+- Id: 10702435
+  Description: 105期1stTerm 第1回 サークル対抗戦 1501位～2000位のプライズです。
+- Id: 10702436
+  Description: 105期1stTerm 第1回 サークル対抗戦 2001位～のプライズです。
 - Id: 10802001
   Description: Live Grand Prix 103期第1回個人戦 1位～200位のプライズです。
 - Id: 10802002
@@ -1912,6 +1970,8 @@
   Description: Dream Show Bloom Stage, リンクラ！2周年バージョンアップキャンペーン ログインボーナス 7日目のプレゼントです。
 - Id: 40102471
   Description: 4th Live Dream ～Bloom, The Dream Believers～ 兵庫公演開催記念プレゼントです。
+- Id: 40102481
+  Description: 4th Live Dream ～Bloom, The Dream Believers～ 102期卒業公演開催記念プレゼントです。
 - Id: 40201001
   Description: デイリーミッションで獲得したプレゼントです。
 - Id: 40202001
@@ -2074,6 +2134,8 @@
   Description: 「Dream Show Bloom Stage, リンクラ！エンジョイセット」を購入して獲得したアイテムです。
 - Id: 60401074
   Description: 「Kaho's 18th Birthday セレブレイトパック」を購入して獲得したアイテムです。
+- Id: 60401075
+  Description: 「4th Live Dream ～Bloom, The Dream Believers～ 兵庫公演記念パック！」を購入して獲得したアイテムです。
 - Id: 90100001
   Description: 事前登録キャンペーンのプライズです。
 - Id: 90100002
@@ -2212,6 +2274,12 @@
   Description: CD『Dream Believers（105期Ver.）』シリアルコード特典です。
 - Id: 90300031
   Description: CD『Retrofuture』シリアルコード特典です。
+- Id: 90300032
+  Description: CD『～Star Sign Memories～ Otomune Kozue』シリアルコード特典です。
+- Id: 90300033
+  Description: CD『～Star Sign Memories～ Yugiri Tsuzuri』シリアルコード特典です。
+- Id: 90300034
+  Description: CD『～Star Sign Memories～ Fujishima Megumi』シリアルコード特典です。
 - Id: 90310001
   Description: 『Link！Like！ラブライブ！はじめてガイドブック』シリアルコード特典です。
 - Id: 90310002
@@ -2230,3 +2298,5 @@
   Description: コミックマーケット104出展記念シリアルコード特典です。
 - Id: 90400001
   Description: 「スクフェス2」×「リンクラ」 どっちも遊ぼうコラボキャンペーン開催プレゼントです。
+- Id: 90400002
+  Description: 『オンゲキRe:Fresh』×『Link！Like！ラブライブ！』コラボグッズプレゼントキャンペーンで獲得したアイテムです。

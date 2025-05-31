@@ -778,3 +778,51 @@
   SkillIcon: 20100300
   GradeAddSkillEffectsId: "5100302050"
   OrderId: 1
+- Id: 51051401
+  Name: スキルAP+2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51051402
+  Name: スキルAP+2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51051501
+  Name: 手札上限 -2枚
+  Description: ライブ中、手札の上限枚数を-2枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500002"
+  OrderId: 1
+- Id: 51051502
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
+- Id: 51051503
+  Name: メンタル減少速度 +50%
+  Description: ライブ中、メンタルの減少速度を+50%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302050"
+  OrderId: 1
+- Id: 51051601
+  Name: スキルAP -3（DOLLCHESTRA）
+  Description: ライブ中、DOLLCHESTRAのメンバーのスキルAPを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: 4101422300,4101432300,4101442300
+  OrderId: 2
+- Id: 51051602
+  Name: スキルAP +2（DOLLCHESTRA）
+  Description: ライブ中、DOLLCHESTRAのメンバーのスキルAPを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: 5101422200,5101432200,5101442200
+  OrderId: 1
+- Id: 51051603
+  Name: メンタル減少速度 +100%
+  Description: ライブ中、メンタルの減少速度を+100%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302100"
+  OrderId: 1
