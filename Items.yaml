@@ -3418,6 +3418,18 @@
   Description: スタイル解放素材(乙宗 梢)
   StartTime: 2025-03-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4021701
+  Name: "[be proud]乙宗\u00a0梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗 梢)
+  StartTime: 2025-06-08T10:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4021801
   Name: "[Prism Echo]乙宗\u00a0梢 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4078,6 +4090,18 @@
   Description: スタイル解放素材(夕霧 綴理)
   StartTime: 2025-03-30T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4022701
+  Name: "[幸せのリボン]夕霧\u00a0綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧 綴理)
+  StartTime: 2025-06-08T10:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4022801
   Name: "[Prism Echo]夕霧\u00a0綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -4617,6 +4641,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(藤島 慈)
   StartTime: 2025-03-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4023701
+  Name: "[やっぱ天使！]藤島\u00a0慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島 慈)
+  StartTime: 2025-06-08T10:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4023801
   Name: "[Prism Echo]藤島\u00a0慈 解放Pt."

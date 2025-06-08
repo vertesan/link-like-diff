@@ -946,6 +946,36 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20217011
+  CenterAttributeSeriesId: 20217010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 10020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217012
+  CenterAttributeSeriesId: 20217010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 20020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217013
+  CenterAttributeSeriesId: 20217010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 30020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217014
+  CenterAttributeSeriesId: 20217010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000001
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217015
+  CenterAttributeSeriesId: 20217010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
 - Id: 20218011
   CenterAttributeSeriesId: 20218010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -1972,6 +2002,36 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20227011
+  CenterAttributeSeriesId: 20227010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 10020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20227012
+  CenterAttributeSeriesId: 20227010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 20020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20227013
+  CenterAttributeSeriesId: 20227010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 30020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20227014
+  CenterAttributeSeriesId: 20227010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000001
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20227015
+  CenterAttributeSeriesId: 20227010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
 - Id: 20228011
   CenterAttributeSeriesId: 20228010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -2818,6 +2878,36 @@
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20237011
+  CenterAttributeSeriesId: 20237010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 10020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237012
+  CenterAttributeSeriesId: 20237010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 20020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237013
+  CenterAttributeSeriesId: 20237010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "30102"
+  CenterAttributeEffectId: 30020000
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237014
+  CenterAttributeSeriesId: 20237010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000001
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237015
+  CenterAttributeSeriesId: 20237010
+  CenterAttributeName: アピールアップ（102期）&APレデュース&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: 102期生のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
 - Id: 20238011
   CenterAttributeSeriesId: 20238010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース

@@ -88,6 +88,36 @@
   TargetDetail: 5
   TargetNum: 4
   BonusValue: 14000
+- Id: 7000001070
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 7
+  TargetNum: 0
+  BonusValue: 10000
+- Id: 7000001071
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 7
+  TargetNum: 1
+  BonusValue: 12000
+- Id: 7000001072
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 7
+  TargetNum: 2
+  BonusValue: 13000
+- Id: 7000001073
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 7
+  TargetNum: 3
+  BonusValue: 13500
+- Id: 7000001074
+  GrandPrixesId: 700000
+  TargetType: 1
+  TargetDetail: 7
+  TargetNum: 4
+  BonusValue: 14000
 - Id: 7000001090
   GrandPrixesId: 700000
   TargetType: 1
