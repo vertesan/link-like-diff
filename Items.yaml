@@ -6958,6 +6958,18 @@
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2025-05-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041515
+  Name: "[37.5℃のファンタジー]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-06-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生\u00a0吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7245,6 +7257,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042515
+  Name: "[アイマイメーデー]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-06-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
@@ -7689,6 +7713,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-05-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052402
+  Name: "[魔法少女リズミックハート３]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-06-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052501
   Name: "[Dream Believers]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

@@ -382,6 +382,26 @@
   StageSkillEffectId: 10830303
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: -1
+- Id: 110303000
+  StageSkillEffectId: 11030300
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_CALC_TYPE
+  EffectValue: 1
+- Id: 110303001
+  StageSkillEffectId: 11030300
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM
+  EffectValue: 3000000
+- Id: 110303002
+  StageSkillEffectId: 11030300
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM_BONUS_MOOD
+  EffectValue: 0
+- Id: 110303003
+  StageSkillEffectId: 11030300
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 110303004
+  StageSkillEffectId: 11030300
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
+  EffectValue: 0
 - Id: 203000100
   StageSkillEffectId: 20300010
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
@@ -438,6 +458,14 @@
   StageSkillEffectId: 20600002
   SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
   EffectValue: -20000
+- Id: 206000030
+  StageSkillEffectId: 20600003
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 206000031
+  StageSkillEffectId: 20600003
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  EffectValue: -30000
 - Id: 207113010
   StageSkillEffectId: 20711301
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE

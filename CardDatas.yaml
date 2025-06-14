@@ -8392,7 +8392,7 @@
   SkillSeriesId: 20217010
   AttributeId: 30217010
   SpineId: 57
-  OrderId: 10399921
+  OrderId: 10384621
   CenterSkillSeriesId: 10217010
   CenterAttributeSeriesId: 20217010
   RhythmGameSkillSeriesId: 30217010
@@ -8422,7 +8422,7 @@
   SkillSeriesId: 20217010
   AttributeId: 30217010
   SpineId: 57
-  OrderId: 10399921
+  OrderId: 10384621
   CenterSkillSeriesId: 10217010
   CenterAttributeSeriesId: 20217010
   RhythmGameSkillSeriesId: 30217012
@@ -8452,7 +8452,7 @@
   SkillSeriesId: 20217010
   AttributeId: 30217010
   SpineId: 57
-  OrderId: 10399921
+  OrderId: 10384621
   CenterSkillSeriesId: 10217010
   CenterAttributeSeriesId: 20217010
   RhythmGameSkillSeriesId: 30217013
@@ -8482,7 +8482,7 @@
   SkillSeriesId: 20217010
   AttributeId: 30217010
   SpineId: 57
-  OrderId: 10399921
+  OrderId: 10384621
   CenterSkillSeriesId: 10217010
   CenterAttributeSeriesId: 20217010
   RhythmGameSkillSeriesId: 30217014
@@ -16672,7 +16672,7 @@
   SkillSeriesId: 20227010
   AttributeId: 30227010
   SpineId: 57
-  OrderId: 10399922
+  OrderId: 10384622
   CenterSkillSeriesId: 10227010
   CenterAttributeSeriesId: 20227010
   RhythmGameSkillSeriesId: 30227010
@@ -16702,7 +16702,7 @@
   SkillSeriesId: 20227010
   AttributeId: 30227010
   SpineId: 57
-  OrderId: 10399922
+  OrderId: 10384622
   CenterSkillSeriesId: 10227010
   CenterAttributeSeriesId: 20227010
   RhythmGameSkillSeriesId: 30227012
@@ -16732,7 +16732,7 @@
   SkillSeriesId: 20227010
   AttributeId: 30227010
   SpineId: 57
-  OrderId: 10399922
+  OrderId: 10384622
   CenterSkillSeriesId: 10227010
   CenterAttributeSeriesId: 20227010
   RhythmGameSkillSeriesId: 30227013
@@ -16762,7 +16762,7 @@
   SkillSeriesId: 20227010
   AttributeId: 30227010
   SpineId: 57
-  OrderId: 10399922
+  OrderId: 10384622
   CenterSkillSeriesId: 10227010
   CenterAttributeSeriesId: 20227010
   RhythmGameSkillSeriesId: 30227014
@@ -23452,7 +23452,7 @@
   SkillSeriesId: 20237010
   AttributeId: 30237010
   SpineId: 47
-  OrderId: 10399923
+  OrderId: 10384623
   CenterSkillSeriesId: 10237010
   CenterAttributeSeriesId: 20237010
   RhythmGameSkillSeriesId: 30237010
@@ -23482,7 +23482,7 @@
   SkillSeriesId: 20237010
   AttributeId: 30237010
   SpineId: 47
-  OrderId: 10399923
+  OrderId: 10384623
   CenterSkillSeriesId: 10237010
   CenterAttributeSeriesId: 20237010
   RhythmGameSkillSeriesId: 30237012
@@ -23512,7 +23512,7 @@
   SkillSeriesId: 20237010
   AttributeId: 30237010
   SpineId: 47
-  OrderId: 10399923
+  OrderId: 10384623
   CenterSkillSeriesId: 10237010
   CenterAttributeSeriesId: 20237010
   RhythmGameSkillSeriesId: 30237013
@@ -23542,7 +23542,7 @@
   SkillSeriesId: 20237010
   AttributeId: 30237010
   SpineId: 47
-  OrderId: 10399923
+  OrderId: 10384623
   CenterSkillSeriesId: 10237010
   CenterAttributeSeriesId: 20237010
   RhythmGameSkillSeriesId: 30237014
@@ -51838,6 +51838,156 @@
   RhythmGameSkillSeriesId: 30415144
   CenterSkillLvUpItemId: 51
   RhythmGameSkillLvUpItemId: 51
+- Id: 10415150
+  CardSeriesId: 1041515
+  Name: 37.5℃のファンタジー
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 56
+  InitialPure: 51
+  InitialCool: 37
+  InitialMental: 96
+  MaxSmile: 2800
+  MaxPure: 2550
+  MaxCool: 1850
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415150
+  SkillSeriesId: 20415150
+  AttributeId: 30415150
+  SpineId: 26
+  OrderId: 10384741
+  CenterSkillSeriesId: 10415150
+  CenterAttributeSeriesId: 20415150
+  RhythmGameSkillSeriesId: 30415150
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415151
+  CardSeriesId: 1041515
+  Name: 37.5℃のファンタジー
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2800
+  InitialPure: 2550
+  InitialCool: 1850
+  InitialMental: 240
+  MaxSmile: 3920
+  MaxPure: 3570
+  MaxCool: 2590
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415151
+  SkillSeriesId: 20415150
+  AttributeId: 30415150
+  SpineId: 26
+  OrderId: 10384741
+  CenterSkillSeriesId: 10415150
+  CenterAttributeSeriesId: 20415150
+  RhythmGameSkillSeriesId: 30415150
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415152
+  CardSeriesId: 1041515
+  Name: 37.5℃のファンタジー
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3920
+  InitialPure: 3570
+  InitialCool: 2590
+  InitialMental: 336
+  MaxSmile: 5600
+  MaxPure: 5100
+  MaxCool: 3700
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415152
+  SkillSeriesId: 20415150
+  AttributeId: 30415150
+  SpineId: 26
+  OrderId: 10384741
+  CenterSkillSeriesId: 10415150
+  CenterAttributeSeriesId: 20415150
+  RhythmGameSkillSeriesId: 30415152
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415153
+  CardSeriesId: 1041515
+  Name: 37.5℃のファンタジー
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 5600
+  InitialPure: 5100
+  InitialCool: 3700
+  InitialMental: 480
+  MaxSmile: 6160
+  MaxPure: 5610
+  MaxCool: 4070
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415152
+  SkillSeriesId: 20415150
+  AttributeId: 30415150
+  SpineId: 26
+  OrderId: 10384741
+  CenterSkillSeriesId: 10415150
+  CenterAttributeSeriesId: 20415150
+  RhythmGameSkillSeriesId: 30415153
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415154
+  CardSeriesId: 1041515
+  Name: 37.5℃のファンタジー
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 6160
+  InitialPure: 5610
+  InitialCool: 4070
+  InitialMental: 480
+  MaxSmile: 6720
+  MaxPure: 6120
+  MaxCool: 4440
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415152
+  SkillSeriesId: 20415150
+  AttributeId: 30415150
+  SpineId: 26
+  OrderId: 10384741
+  CenterSkillSeriesId: 10415150
+  CenterAttributeSeriesId: 20415150
+  RhythmGameSkillSeriesId: 30415154
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
 - Id: 10418011
   CardSeriesId: 1041801
   Name: Ether Aria
@@ -55346,6 +55496,156 @@
   CenterSkillSeriesId: 10425140
   CenterAttributeSeriesId: 20425140
   RhythmGameSkillSeriesId: 30425144
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425150
+  CardSeriesId: 1042515
+  Name: アイマイメーデー
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 35
+  InitialPure: 51
+  InitialCool: 58
+  InitialMental: 96
+  MaxSmile: 1750
+  MaxPure: 2550
+  MaxCool: 2900
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425150
+  SkillSeriesId: 20425150
+  AttributeId: 30425150
+  SpineId: 26
+  OrderId: 10384742
+  CenterSkillSeriesId: 10425150
+  CenterAttributeSeriesId: 20425150
+  RhythmGameSkillSeriesId: 30425150
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425151
+  CardSeriesId: 1042515
+  Name: アイマイメーデー
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 1750
+  InitialPure: 2550
+  InitialCool: 2900
+  InitialMental: 240
+  MaxSmile: 2450
+  MaxPure: 3570
+  MaxCool: 4060
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425151
+  SkillSeriesId: 20425150
+  AttributeId: 30425150
+  SpineId: 26
+  OrderId: 10384742
+  CenterSkillSeriesId: 10425150
+  CenterAttributeSeriesId: 20425150
+  RhythmGameSkillSeriesId: 30425150
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425152
+  CardSeriesId: 1042515
+  Name: アイマイメーデー
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 2450
+  InitialPure: 3570
+  InitialCool: 4060
+  InitialMental: 336
+  MaxSmile: 3500
+  MaxPure: 5100
+  MaxCool: 5800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425152
+  SkillSeriesId: 20425150
+  AttributeId: 30425150
+  SpineId: 26
+  OrderId: 10384742
+  CenterSkillSeriesId: 10425150
+  CenterAttributeSeriesId: 20425150
+  RhythmGameSkillSeriesId: 30425152
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425153
+  CardSeriesId: 1042515
+  Name: アイマイメーデー
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3500
+  InitialPure: 5100
+  InitialCool: 5800
+  InitialMental: 480
+  MaxSmile: 3850
+  MaxPure: 5610
+  MaxCool: 6380
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425152
+  SkillSeriesId: 20425150
+  AttributeId: 30425150
+  SpineId: 26
+  OrderId: 10384742
+  CenterSkillSeriesId: 10425150
+  CenterAttributeSeriesId: 20425150
+  RhythmGameSkillSeriesId: 30425153
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425154
+  CardSeriesId: 1042515
+  Name: アイマイメーデー
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3850
+  InitialPure: 5610
+  InitialCool: 6380
+  InitialMental: 480
+  MaxSmile: 4200
+  MaxPure: 6120
+  MaxCool: 6960
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425152
+  SkillSeriesId: 20425150
+  AttributeId: 30425150
+  SpineId: 26
+  OrderId: 10384742
+  CenterSkillSeriesId: 10425150
+  CenterAttributeSeriesId: 20425150
+  RhythmGameSkillSeriesId: 30425154
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
 - Id: 10428011
@@ -60686,6 +60986,156 @@
   CenterSkillSeriesId: 10524010
   CenterAttributeSeriesId: 20524010
   RhythmGameSkillSeriesId: 30524014
+  CenterSkillLvUpItemId: 44
+  RhythmGameSkillLvUpItemId: 44
+- Id: 10524020
+  CardSeriesId: 1052402
+  Name: 魔法少女リズミックハート３
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 42
+  InitialPure: 45
+  InitialCool: 38
+  InitialMental: 86
+  MaxSmile: 2100
+  MaxPure: 2250
+  MaxCool: 1900
+  MaxMental: 215
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10524020
+  SkillSeriesId: 20524020
+  AttributeId: 30524020
+  SpineId: 8
+  OrderId: 10384752
+  CenterSkillSeriesId: 10524020
+  CenterAttributeSeriesId: 20524020
+  RhythmGameSkillSeriesId: 30524020
+  CenterSkillLvUpItemId: 44
+  RhythmGameSkillLvUpItemId: 44
+- Id: 10524021
+  CardSeriesId: 1052402
+  Name: 魔法少女リズミックハート３
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 2100
+  InitialPure: 2250
+  InitialCool: 1900
+  InitialMental: 215
+  MaxSmile: 2940
+  MaxPure: 3150
+  MaxCool: 2660
+  MaxMental: 301
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10524021
+  SkillSeriesId: 20524020
+  AttributeId: 30524020
+  SpineId: 8
+  OrderId: 10384752
+  CenterSkillSeriesId: 10524020
+  CenterAttributeSeriesId: 20524020
+  RhythmGameSkillSeriesId: 30524020
+  CenterSkillLvUpItemId: 44
+  RhythmGameSkillLvUpItemId: 44
+- Id: 10524022
+  CardSeriesId: 1052402
+  Name: 魔法少女リズミックハート３
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 2940
+  InitialPure: 3150
+  InitialCool: 2660
+  InitialMental: 301
+  MaxSmile: 4200
+  MaxPure: 4500
+  MaxCool: 3800
+  MaxMental: 430
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10524022
+  SkillSeriesId: 20524020
+  AttributeId: 30524020
+  SpineId: 8
+  OrderId: 10384752
+  CenterSkillSeriesId: 10524020
+  CenterAttributeSeriesId: 20524020
+  RhythmGameSkillSeriesId: 30524022
+  CenterSkillLvUpItemId: 44
+  RhythmGameSkillLvUpItemId: 44
+- Id: 10524023
+  CardSeriesId: 1052402
+  Name: 魔法少女リズミックハート３
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 4
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 4200
+  InitialPure: 4500
+  InitialCool: 3800
+  InitialMental: 430
+  MaxSmile: 4620
+  MaxPure: 4950
+  MaxCool: 4180
+  MaxMental: 430
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10524022
+  SkillSeriesId: 20524020
+  AttributeId: 30524020
+  SpineId: 8
+  OrderId: 10384752
+  CenterSkillSeriesId: 10524020
+  CenterAttributeSeriesId: 20524020
+  RhythmGameSkillSeriesId: 30524023
+  CenterSkillLvUpItemId: 44
+  RhythmGameSkillLvUpItemId: 44
+- Id: 10524024
+  CardSeriesId: 1052402
+  Name: 魔法少女リズミックハート３
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 4
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 4620
+  InitialPure: 4950
+  InitialCool: 4180
+  InitialMental: 430
+  MaxSmile: 5040
+  MaxPure: 5400
+  MaxCool: 4560
+  MaxMental: 430
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10524022
+  SkillSeriesId: 20524020
+  AttributeId: 30524020
+  SpineId: 8
+  OrderId: 10384752
+  CenterSkillSeriesId: 10524020
+  CenterAttributeSeriesId: 20524020
+  RhythmGameSkillSeriesId: 30524024
   CenterSkillLvUpItemId: 44
   RhythmGameSkillLvUpItemId: 44
 - Id: 10525010

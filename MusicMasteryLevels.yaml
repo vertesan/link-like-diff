@@ -2258,6 +2258,26 @@
   MusicsId: 205102
   Level: 50
   MusicMasterySkillsId: 3
+- Id: 20510310
+  MusicsId: 205103
+  Level: 10
+  MusicMasterySkillsId: 1
+- Id: 20510320
+  MusicsId: 205103
+  Level: 20
+  MusicMasterySkillsId: 1
+- Id: 20510330
+  MusicsId: 205103
+  Level: 30
+  MusicMasterySkillsId: 1
+- Id: 20510340
+  MusicsId: 205103
+  Level: 40
+  MusicMasterySkillsId: 1
+- Id: 20510350
+  MusicsId: 205103
+  Level: 50
+  MusicMasterySkillsId: 1
 - Id: 20520110
   MusicsId: 205201
   Level: 10
@@ -2296,6 +2316,26 @@
   MusicMasterySkillsId: 4
 - Id: 20520250
   MusicsId: 205202
+  Level: 50
+  MusicMasterySkillsId: 4
+- Id: 20530110
+  MusicsId: 205301
+  Level: 10
+  MusicMasterySkillsId: 4
+- Id: 20530120
+  MusicsId: 205301
+  Level: 20
+  MusicMasterySkillsId: 4
+- Id: 20530130
+  MusicsId: 205301
+  Level: 30
+  MusicMasterySkillsId: 4
+- Id: 20530140
+  MusicsId: 205301
+  Level: 40
+  MusicMasterySkillsId: 4
+- Id: 20530150
+  MusicsId: 205301
   Level: 50
   MusicMasterySkillsId: 4
 - Id: 30310110
@@ -3418,3 +3458,23 @@
   MusicsId: 305104
   Level: 50
   MusicMasterySkillsId: 3
+- Id: 30510510
+  MusicsId: 305105
+  Level: 10
+  MusicMasterySkillsId: 2
+- Id: 30510520
+  MusicsId: 305105
+  Level: 20
+  MusicMasterySkillsId: 2
+- Id: 30510530
+  MusicsId: 305105
+  Level: 30
+  MusicMasterySkillsId: 2
+- Id: 30510540
+  MusicsId: 305105
+  Level: 40
+  MusicMasterySkillsId: 2
+- Id: 30510550
+  MusicsId: 305105
+  Level: 50
+  MusicMasterySkillsId: 2

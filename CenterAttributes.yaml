@@ -6520,6 +6520,24 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415151
+  CenterAttributeSeriesId: 20415150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20415152
+  CenterAttributeSeriesId: 20415150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20415153
+  CenterAttributeSeriesId: 20415150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20418011
   CenterAttributeSeriesId: 20418010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -6982,6 +7000,24 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20425151
+  CenterAttributeSeriesId: 20425150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20425152
+  CenterAttributeSeriesId: 20425150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20425153
+  CenterAttributeSeriesId: 20425150
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20428011
   CenterAttributeSeriesId: 20428010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -7696,6 +7732,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30015000
   Description: Edel Noteに所属するメンバーのアピール値が150％上昇
+- Id: 20524021
+  CenterAttributeSeriesId: 20524020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20524022
+  CenterAttributeSeriesId: 20524020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20524023
+  CenterAttributeSeriesId: 20524020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30005400
+  Description: 全メンバーのアピール値が54％上昇
 - Id: 20525011
   CenterAttributeSeriesId: 20525010
   CenterAttributeName: アピールアップ
