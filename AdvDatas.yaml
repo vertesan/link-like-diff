@@ -4243,3 +4243,48 @@
   StartTime: 2025-06-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10500306
+  AdvSeriesId: 105003
+  Name: 第3話『星に憧れて、花は舞う』
+  Description: PART 6
+  ScriptId: 10500306
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 284
+  SubTitleName: "6"
+  StartTime: 2025-06-18T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500307
+  AdvSeriesId: 105003
+  Name: 第3話『星に憧れて、花は舞う』
+  Description: PART 7
+  ScriptId: 10500307
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 285
+  SubTitleName: "7"
+  StartTime: 2025-06-18T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500308
+  AdvSeriesId: 105003
+  Name: 第3話『星に憧れて、花は舞う』
+  Description: PART 8
+  ScriptId: 10500308
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 286
+  SubTitleName: "8"
+  StartTime: 2025-06-18T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
