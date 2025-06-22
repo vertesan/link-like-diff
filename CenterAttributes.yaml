@@ -7480,6 +7480,24 @@
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435151
+  CenterAttributeSeriesId: 20435150
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435152
+  CenterAttributeSeriesId: 20435150
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435153
+  CenterAttributeSeriesId: 20435150
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
 - Id: 20438011
   CenterAttributeSeriesId: 20438010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -7612,6 +7630,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30005400
   Description: 全メンバーのアピール値が54％上昇
+- Id: 20514021
+  CenterAttributeSeriesId: 20514020
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 10015000
+  Description: Edel Noteに所属するメンバーのアピール値が150％上昇
+- Id: 20514022
+  CenterAttributeSeriesId: 20514020
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 20015000
+  Description: Edel Noteに所属するメンバーのアピール値が150％上昇
+- Id: 20514023
+  CenterAttributeSeriesId: 20514020
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 30015000
+  Description: Edel Noteに所属するメンバーのアピール値が150％上昇
 - Id: 20515011
   CenterAttributeSeriesId: 20515010
   CenterAttributeName: アピールアップ
@@ -7782,6 +7818,24 @@
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
 - Id: 20525023
   CenterAttributeSeriesId: 20525020
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 30020000
+  Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525031
+  CenterAttributeSeriesId: 20525030
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 10020000
+  Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525032
+  CenterAttributeSeriesId: 20525030
+  CenterAttributeName: アピールアップ（Edel Note）
+  TargetIds: "20105"
+  CenterAttributeEffectId: 20020000
+  Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525033
+  CenterAttributeSeriesId: 20525030
   CenterAttributeName: アピールアップ（Edel Note）
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000

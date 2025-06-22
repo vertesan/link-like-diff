@@ -166,6 +166,14 @@
   Label: 黒猫カチューシャ
   BindBoneId: 10
   PosesId: -1
+- Id: 6101043
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
+- Id: 6101051
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
 - Id: 7101031
   Label: うさ耳カチューシャ
   BindBoneId: 10
@@ -220,5 +228,21 @@
   PosesId: -1
 - Id: 13101043
   Label: 魔女帽子
+  BindBoneId: 10
+  PosesId: -1
+- Id: 14101043
+  Label: サングラス
+  BindBoneId: 10
+  PosesId: -1
+- Id: 14101051
+  Label: サングラス
+  BindBoneId: 10
+  PosesId: -1
+- Id: 15101043
+  Label: 悪魔のツノ
+  BindBoneId: 10
+  PosesId: -1
+- Id: 15101051
+  Label: 悪魔のツノ
   BindBoneId: 10
   PosesId: -1

@@ -7558,6 +7558,18 @@
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4043515
+  Name: "[BLAST!!]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-06-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7641,6 +7653,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051402
+  Name: "[十六夜セレーネ]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-06-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4051501
   Name: "[Dream Believers]桂城\u00a0泉 解放Pt."
@@ -7749,6 +7773,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-04-30T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052503
+  Name: "[十六夜セレーネ]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-06-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052801
   Name: "[Oracle Étude]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

@@ -1027,3 +1027,24 @@
   EndTime: 2035-12-31T14:59:59Z
   TabListId: 1041
   AppearanceCharacterIds: 1021,1022,1023
+- Id: 13001
+  Name: 第1話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1031,1032,1033
+- Id: 13002
+  Name: 第2話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1031,1041,1052
+- Id: 13003
+  Name: 第3話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1031,1051,1052

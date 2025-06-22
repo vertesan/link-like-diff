@@ -1713,7 +1713,7 @@
   IsVideoMode: 1
   VideoBgId: 3
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-06-22T03:00:00Z
 - Id: 104302
   OrderId: 5009
   Title: 常夏☆サンシャイン
@@ -1746,7 +1746,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-06-22T03:00:00Z
 - Id: 105101
   OrderId: 1034
   Title: Dream Believers（105期Ver.）
@@ -1912,6 +1912,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-06-08T10:00:00Z
+- Id: 105106
+  OrderId: 1626
+  Title: BLAST!!
+  TitleFurigana: ぶらすと
+  JacketId: 105106
+  SoundId: 10510601
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: "1033"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 15000
+  ApIncrement: 695
+  SongTime: 6947
+  PlayTime: 83368
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -3627,7 +3660,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-06-22T03:00:00Z
 - Id: 204302
   OrderId: 5006
   Title: NEO SKY, NEO MAP!
@@ -3660,7 +3693,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-06-22T03:00:00Z
 - Id: 205101
   OrderId: 1625
   Title: WAWO!
@@ -3812,6 +3845,39 @@
   SongTime: 9412
   PlayTime: 112941
   FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+- Id: 205203
+  OrderId: 6032
+  Title: 月光
+  TitleFurigana: げっこう
+  JacketId: 205203
+  SoundId: 20520301
+  Description: 一般カバー
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1051
+  SingerCharacterId: "0"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 25714
+  ApIncrement: 1039
+  SongTime: 10395
+  PlayTime: 124737
+  FeverSectionNo: 5
   PreviewStartTime: 10000
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000
@@ -5574,7 +5640,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-06-22T03:00:00Z
 - Id: 305101
   OrderId: 1801
   Title: Edelied
@@ -5726,6 +5792,39 @@
   SongTime: 7125
   PlayTime: 85500
   FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+- Id: 305106
+  OrderId: 1804
+  Title: 十六夜セレーネ
+  TitleFurigana: いざよいせれーね
+  JacketId: 305106
+  SoundId: 30510601
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1052
+  SingerCharacterId: "1051"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 14286
+  ApIncrement: 972
+  SongTime: 9718
+  PlayTime: 116620
+  FeverSectionNo: 4
   PreviewStartTime: 10000
   PreviewEndTime: 15000
   PreviewFadeInTime: 11000

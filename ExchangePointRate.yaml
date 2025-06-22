@@ -5773,6 +5773,28 @@
   EndTime: 2025-06-19T11:59:59Z
   GachaSeriesId: 1050204
   BonusItemQuantity: 0
+- Id: 1001527
+  ExchangePointId: 10502
+  ExchangeItemType: 2
+  ExchangeItemId: 10435150
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2025-06-22T03:00:00Z
+  EndTime: 2025-06-30T02:59:59Z
+  GachaSeriesId: 1050205
+  BonusItemQuantity: 40
+- Id: 1001528
+  ExchangePointId: 10502
+  ExchangeItemType: 2
+  ExchangeItemId: 10525030
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2025-06-22T03:00:00Z
+  EndTime: 2025-06-30T02:59:59Z
+  GachaSeriesId: 1050205
+  BonusItemQuantity: 40
 - Id: 2000001
   ExchangePointId: 1000101
   ExchangeItemType: 2
