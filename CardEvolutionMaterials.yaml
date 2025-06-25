@@ -11492,3 +11492,24 @@
   CostNum2: 194
   CostItemsId3: 3005041
   CostNum3: 300
+- Id: 10529012
+  CostItemsId1: 3005023
+  CostNum1: 24
+  CostItemsId2: 3005022
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10529013
+  CostItemsId1: 3005023
+  CostNum1: 36
+  CostItemsId2: 3005022
+  CostNum2: 60
+  CostItemsId3: 3005021
+  CostNum3: 96
+- Id: 10529014
+  CostItemsId1: 3005023
+  CostNum1: 48
+  CostItemsId2: 3005022
+  CostNum2: 72
+  CostItemsId3: 3005021
+  CostNum3: 144

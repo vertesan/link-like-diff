@@ -7870,3 +7870,21 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: セラスのアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少
+- Id: 20529011
+  CenterAttributeSeriesId: 20529010
+  CenterAttributeName: アピールアップ（セラス）
+  TargetIds: "11052"
+  CenterAttributeEffectId: 10040000
+  Description: セラスのアピール値が400％上昇
+- Id: 20529012
+  CenterAttributeSeriesId: 20529010
+  CenterAttributeName: アピールアップ（セラス）
+  TargetIds: "11052"
+  CenterAttributeEffectId: 20040000
+  Description: セラスのアピール値が400％上昇
+- Id: 20529013
+  CenterAttributeSeriesId: 20529010
+  CenterAttributeName: アピールアップ（セラス）
+  TargetIds: "11052"
+  CenterAttributeEffectId: 30040000
+  Description: セラスのアピール値が400％上昇

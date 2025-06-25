@@ -7516,3 +7516,21 @@
   Priority: 3
   VoiceName: vo_card_1052801_spappeal_0001
   ReleaseConditionText: ""
+- Id: 105290101
+  CardSeriesId: 1052901
+  Name: ライブ開始
+  Priority: 1
+  VoiceName: vo_card_1052901_livestart_0001
+  ReleaseConditionText: ""
+- Id: 105290102
+  CardSeriesId: 1052901
+  Name: スキル発動
+  Priority: 2
+  VoiceName: vo_card_1052901_skill_0001
+  ReleaseConditionText: ""
+- Id: 105290103
+  CardSeriesId: 1052901
+  Name: スペシャルアピール発動
+  Priority: 3
+  VoiceName: vo_card_1052901_spappeal_0001
+  ReleaseConditionText: ""
