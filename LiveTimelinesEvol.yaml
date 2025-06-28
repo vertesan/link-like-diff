@@ -12,6 +12,13 @@
   FreeId: 4
   NextId: 31016333
   MovieIds: ""
+- Id: 31016351
+  Label: 暗転_第二音楽堂_6月
+  MusicId: 31016
+  LocationsId: 35
+  FreeId: 1
+  NextId: -1
+  MovieIds: ""
 - Id: 31036333
   Label: MC_第二音楽堂_4月
   MusicId: 31036
@@ -26,6 +33,62 @@
   FreeId: 3
   NextId: 31016334
   MovieIds: ""
+- Id: 31036351
+  Label: MC_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31036352
+  MovieIds: ""
+- Id: 31036352
+  Label: MCから暗転_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 2
+  NextId: 31016351
+  MovieIds: ""
+- Id: 31036353
+  Label: MC曲振り_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 3
+  NextId: 31016351
+  MovieIds: ""
+- Id: 31036354
+  Label: MC曲振りから暗転_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 4
+  NextId: 31016351
+  MovieIds: ""
+- Id: 31036355
+  Label: MCパーティー_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 5
+  NextId: 31036357
+  MovieIds: ""
+- Id: 31036356
+  Label: MCパーティー発表_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 6
+  NextId: 31036358
+  MovieIds: ""
+- Id: 31036357
+  Label: MCパーティーから暗転_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 7
+  NextId: 31016351
+  MovieIds: ""
+- Id: 31036358
+  Label: MCパーティー発表から暗転_第二音楽堂_6月
+  MusicId: 31036
+  LocationsId: 35
+  FreeId: 8
+  NextId: 31016351
+  MovieIds: ""
 - Id: 31049333
   Label: 客電_第二音楽堂_4月
   MusicId: 31049
@@ -39,6 +102,27 @@
   LocationsId: 33
   FreeId: 4
   NextId: 31016333
+  MovieIds: ""
+- Id: 31049351
+  Label: 客電_第二音楽堂_6月
+  MusicId: 31049
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31049352
+  MovieIds: ""
+- Id: 31049352
+  Label: 客電から暗転_第二音楽堂_6月
+  MusicId: 31049
+  LocationsId: 35
+  FreeId: 2
+  NextId: 31016351
+  MovieIds: ""
+- Id: 31098351
+  Label: Overture_第二音楽堂_6月
+  MusicId: 31098
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
   MovieIds: ""
 - Id: 41019332
   Label: Overture_第二音楽堂_4月
@@ -81,4 +165,39 @@
   LocationsId: 33
   FreeId: 1
   NextId: 31016333
+  MovieIds: ""
+- Id: 50068351
+  Label: アイドゥーミー！_第二音楽堂_6月
+  MusicId: 50068
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
+  MovieIds: ""
+- Id: 50072351
+  Label: 37.5°Cのファンタジー_第二音楽堂_6月
+  MusicId: 50072
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
+  MovieIds: ""
+- Id: 50082351
+  Label: アイマイメーデー_第二音楽堂_6月
+  MusicId: 50082
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
+  MovieIds: ""
+- Id: 50092351
+  Label: BLAST!!_第二音楽堂_6月
+  MusicId: 50092
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
+  MovieIds: ""
+- Id: 50102251
+  Label: 十六夜セレーネ_第二音楽堂_6月
+  MusicId: 50102
+  LocationsId: 35
+  FreeId: 1
+  NextId: 31016351
   MovieIds: ""

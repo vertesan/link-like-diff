@@ -61,6 +61,13 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31098
+  Label: Overture2506
+  MusicId: 3109
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 31109
   Label: オープニング
   MusicId: 3110
@@ -348,6 +355,48 @@
   HaveMotion: 1
   CharactersCount: 2
   CharactersIds: 1051,1052
+- Id: 50068
+  Label: アイドゥーミー！
+  MusicId: 5006
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50072
+  Label: 37.5°Cのファンタジー
+  MusicId: 5007
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1031,1041
+- Id: 50082
+  Label: アイマイメーデー
+  MusicId: 5008
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1032,1042
+- Id: 50092
+  Label: BLAST!!
+  MusicId: 5009
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1033,1043
+- Id: 50102
+  Label: 十六夜セレーネ
+  MusicId: 5010
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
+- Id: 50118
+  Label: ガーデンパーティ発表BGM
+  MusicId: 5011
+  HaveMusic: 1
+  HaveMotion: 0
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
