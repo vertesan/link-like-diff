@@ -32278,6 +32278,156 @@
   RhythmGameSkillSeriesId: 30315294
   CenterSkillLvUpItemId: 51
   RhythmGameSkillLvUpItemId: 51
+- Id: 10315300
+  CardSeriesId: 1031530
+  Name: アイドゥーミー！
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 50
+  InitialPure: 52
+  InitialCool: 58
+  InitialMental: 104
+  MaxSmile: 2500
+  MaxPure: 2600
+  MaxCool: 2900
+  MaxMental: 260
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315300
+  SkillSeriesId: 20315300
+  AttributeId: 30315300
+  SpineId: 63
+  OrderId: 10385131
+  CenterSkillSeriesId: 10315300
+  CenterAttributeSeriesId: 20315300
+  RhythmGameSkillSeriesId: 30315300
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315301
+  CardSeriesId: 1031530
+  Name: アイドゥーミー！
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2500
+  InitialPure: 2600
+  InitialCool: 2900
+  InitialMental: 260
+  MaxSmile: 3500
+  MaxPure: 3640
+  MaxCool: 4060
+  MaxMental: 364
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315301
+  SkillSeriesId: 20315300
+  AttributeId: 30315300
+  SpineId: 63
+  OrderId: 10385131
+  CenterSkillSeriesId: 10315300
+  CenterAttributeSeriesId: 20315300
+  RhythmGameSkillSeriesId: 30315300
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315302
+  CardSeriesId: 1031530
+  Name: アイドゥーミー！
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3500
+  InitialPure: 3640
+  InitialCool: 4060
+  InitialMental: 364
+  MaxSmile: 5000
+  MaxPure: 5200
+  MaxCool: 5800
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315302
+  SkillSeriesId: 20315300
+  AttributeId: 30315300
+  SpineId: 63
+  OrderId: 10385131
+  CenterSkillSeriesId: 10315300
+  CenterAttributeSeriesId: 20315300
+  RhythmGameSkillSeriesId: 30315302
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315303
+  CardSeriesId: 1031530
+  Name: アイドゥーミー！
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5000
+  InitialPure: 5200
+  InitialCool: 5800
+  InitialMental: 520
+  MaxSmile: 5500
+  MaxPure: 5720
+  MaxCool: 6380
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315302
+  SkillSeriesId: 20315300
+  AttributeId: 30315300
+  SpineId: 63
+  OrderId: 10385131
+  CenterSkillSeriesId: 10315300
+  CenterAttributeSeriesId: 20315300
+  RhythmGameSkillSeriesId: 30315303
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10315304
+  CardSeriesId: 1031530
+  Name: アイドゥーミー！
+  Description: 日野下 花帆
+  CharactersId: 1031
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5500
+  InitialPure: 5720
+  InitialCool: 6380
+  InitialMental: 520
+  MaxSmile: 6000
+  MaxPure: 6240
+  MaxCool: 6960
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10315302
+  SkillSeriesId: 20315300
+  AttributeId: 30315300
+  SpineId: 63
+  OrderId: 10385131
+  CenterSkillSeriesId: 10315300
+  CenterAttributeSeriesId: 20315300
+  RhythmGameSkillSeriesId: 30315304
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
 - Id: 10318011
   CardSeriesId: 1031801
   Name: Prism Echo
@@ -41128,6 +41278,156 @@
   RhythmGameSkillSeriesId: 30325274
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
+- Id: 10325280
+  CardSeriesId: 1032528
+  Name: アイドゥーミー！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 51
+  InitialPure: 58
+  InitialCool: 51
+  InitialMental: 104
+  MaxSmile: 2550
+  MaxPure: 2900
+  MaxCool: 2550
+  MaxMental: 260
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325280
+  SkillSeriesId: 20325280
+  AttributeId: 30325280
+  SpineId: 62
+  OrderId: 10385132
+  CenterSkillSeriesId: 10325280
+  CenterAttributeSeriesId: 20325280
+  RhythmGameSkillSeriesId: 30325280
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325281
+  CardSeriesId: 1032528
+  Name: アイドゥーミー！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2550
+  InitialPure: 2900
+  InitialCool: 2550
+  InitialMental: 260
+  MaxSmile: 3570
+  MaxPure: 4060
+  MaxCool: 3570
+  MaxMental: 364
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325281
+  SkillSeriesId: 20325280
+  AttributeId: 30325280
+  SpineId: 62
+  OrderId: 10385132
+  CenterSkillSeriesId: 10325280
+  CenterAttributeSeriesId: 20325280
+  RhythmGameSkillSeriesId: 30325280
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325282
+  CardSeriesId: 1032528
+  Name: アイドゥーミー！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3570
+  InitialPure: 4060
+  InitialCool: 3570
+  InitialMental: 364
+  MaxSmile: 5100
+  MaxPure: 5800
+  MaxCool: 5100
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325282
+  SkillSeriesId: 20325280
+  AttributeId: 30325280
+  SpineId: 62
+  OrderId: 10385132
+  CenterSkillSeriesId: 10325280
+  CenterAttributeSeriesId: 20325280
+  RhythmGameSkillSeriesId: 30325282
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325283
+  CardSeriesId: 1032528
+  Name: アイドゥーミー！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5100
+  InitialPure: 5800
+  InitialCool: 5100
+  InitialMental: 520
+  MaxSmile: 5610
+  MaxPure: 6380
+  MaxCool: 5610
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325282
+  SkillSeriesId: 20325280
+  AttributeId: 30325280
+  SpineId: 62
+  OrderId: 10385132
+  CenterSkillSeriesId: 10325280
+  CenterAttributeSeriesId: 20325280
+  RhythmGameSkillSeriesId: 30325283
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325284
+  CardSeriesId: 1032528
+  Name: アイドゥーミー！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5610
+  InitialPure: 6380
+  InitialCool: 5610
+  InitialMental: 520
+  MaxSmile: 6120
+  MaxPure: 6960
+  MaxCool: 6120
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325282
+  SkillSeriesId: 20325280
+  AttributeId: 30325280
+  SpineId: 62
+  OrderId: 10385132
+  CenterSkillSeriesId: 10325280
+  CenterAttributeSeriesId: 20325280
+  RhythmGameSkillSeriesId: 30325284
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
 - Id: 10328011
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -48208,6 +48508,156 @@
   RhythmGameSkillSeriesId: 30335234
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
+- Id: 10335240
+  CardSeriesId: 1033524
+  Name: アイドゥーミー！
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 58
+  InitialPure: 53
+  InitialCool: 49
+  InitialMental: 104
+  MaxSmile: 2900
+  MaxPure: 2650
+  MaxCool: 2450
+  MaxMental: 260
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335240
+  SkillSeriesId: 20335240
+  AttributeId: 30335240
+  SpineId: 50
+  OrderId: 10385133
+  CenterSkillSeriesId: 10335240
+  CenterAttributeSeriesId: 20335240
+  RhythmGameSkillSeriesId: 30335240
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335241
+  CardSeriesId: 1033524
+  Name: アイドゥーミー！
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2900
+  InitialPure: 2650
+  InitialCool: 2450
+  InitialMental: 260
+  MaxSmile: 4060
+  MaxPure: 3710
+  MaxCool: 3430
+  MaxMental: 364
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335241
+  SkillSeriesId: 20335240
+  AttributeId: 30335240
+  SpineId: 50
+  OrderId: 10385133
+  CenterSkillSeriesId: 10335240
+  CenterAttributeSeriesId: 20335240
+  RhythmGameSkillSeriesId: 30335240
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335242
+  CardSeriesId: 1033524
+  Name: アイドゥーミー！
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4060
+  InitialPure: 3710
+  InitialCool: 3430
+  InitialMental: 364
+  MaxSmile: 5800
+  MaxPure: 5300
+  MaxCool: 4900
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335242
+  SkillSeriesId: 20335240
+  AttributeId: 30335240
+  SpineId: 50
+  OrderId: 10385133
+  CenterSkillSeriesId: 10335240
+  CenterAttributeSeriesId: 20335240
+  RhythmGameSkillSeriesId: 30335242
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335243
+  CardSeriesId: 1033524
+  Name: アイドゥーミー！
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5800
+  InitialPure: 5300
+  InitialCool: 4900
+  InitialMental: 520
+  MaxSmile: 6380
+  MaxPure: 5830
+  MaxCool: 5390
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335242
+  SkillSeriesId: 20335240
+  AttributeId: 30335240
+  SpineId: 50
+  OrderId: 10385133
+  CenterSkillSeriesId: 10335240
+  CenterAttributeSeriesId: 20335240
+  RhythmGameSkillSeriesId: 30335243
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335244
+  CardSeriesId: 1033524
+  Name: アイドゥーミー！
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 6380
+  InitialPure: 5830
+  InitialCool: 5390
+  InitialMental: 520
+  MaxSmile: 6960
+  MaxPure: 6360
+  MaxCool: 5880
+  MaxMental: 520
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335242
+  SkillSeriesId: 20335240
+  AttributeId: 30335240
+  SpineId: 50
+  OrderId: 10385133
+  CenterSkillSeriesId: 10335240
+  CenterAttributeSeriesId: 20335240
+  RhythmGameSkillSeriesId: 30335244
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
 - Id: 10338011
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -48456,18 +48906,18 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 3
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 2900
+  InitialPure: 2250
+  InitialCool: 3500
+  InitialMental: 295
+  MaxSmile: 4060
+  MaxPure: 3150
+  MaxCool: 4900
+  MaxMental: 413
+  BeatPoint: 100
   SpecialAppealSeriesId: 10338031
   SkillSeriesId: 20338030
   AttributeId: 30338030
@@ -48486,18 +48936,18 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 3
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 4060
+  InitialPure: 3150
+  InitialCool: 4900
+  InitialMental: 413
+  MaxSmile: 5800
+  MaxPure: 4500
+  MaxCool: 7000
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10338032
   SkillSeriesId: 20338030
   AttributeId: 30338030
@@ -48516,18 +48966,18 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 3
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 5800
+  InitialPure: 4500
+  InitialCool: 7000
+  InitialMental: 590
+  MaxSmile: 6380
+  MaxPure: 4950
+  MaxCool: 7700
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10338032
   SkillSeriesId: 20338030
   AttributeId: 30338030
@@ -48546,18 +48996,18 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 3
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 6380
+  InitialPure: 4950
+  InitialCool: 7700
+  InitialMental: 590
+  MaxSmile: 6960
+  MaxPure: 5400
+  MaxCool: 8400
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10338032
   SkillSeriesId: 20338030
   AttributeId: 30338030

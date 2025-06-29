@@ -94,6 +94,10 @@
   RhythmGameSkillConditionType: 2
   RhythmGameSkillConditionValue: 10
   RhythmGameSkillConditionValue2: 2
+- Id: 3100100
+  RhythmGameSkillConditionType: 3
+  RhythmGameSkillConditionValue: 100
+  RhythmGameSkillConditionValue2: 1
 - Id: 3101000
   RhythmGameSkillConditionType: 3
   RhythmGameSkillConditionValue: 1000
@@ -181,6 +185,10 @@
 - Id: 3209000
   RhythmGameSkillConditionType: 3
   RhythmGameSkillConditionValue: 9000
+  RhythmGameSkillConditionValue2: 2
+- Id: 3209900
+  RhythmGameSkillConditionType: 3
+  RhythmGameSkillConditionValue: 9900
   RhythmGameSkillConditionValue2: 2
 - Id: 3210000
   RhythmGameSkillConditionType: 3

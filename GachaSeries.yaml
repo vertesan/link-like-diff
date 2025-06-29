@@ -4228,3 +4228,33 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+- Id: 1050207
+  GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.3
+  Description: SUMMER LIMITED COLLECTION VOL.3
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10502
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1032528
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1033524
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-06-29T12:00:00Z
+  EndTime: 2025-07-09T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0

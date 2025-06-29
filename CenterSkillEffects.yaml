@@ -12244,6 +12244,9 @@
 - Id: 310000300
   CenterSkillEffectType: 3
   CenterSkillEffectValue: -300
+- Id: 310001000
+  CenterSkillEffectType: 3
+  CenterSkillEffectValue: -1000
 - Id: 400000500
   CenterSkillEffectType: 4
   CenterSkillEffectValue: 500

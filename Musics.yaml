@@ -5839,3 +5839,36 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+- Id: 305107
+  OrderId: 1036
+  Title: アイドゥーミー！
+  TitleFurigana: あいどぅーみー
+  JacketId: 305107
+  SoundId: 30510701
+  Description: 全体曲
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1033
+  SingerCharacterId: 1031,1032,1041,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 10588
+  ApIncrement: 984
+  SongTime: 9838
+  PlayTime: 118054
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-06-29T12:00:00Z
