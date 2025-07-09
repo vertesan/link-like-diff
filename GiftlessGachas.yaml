@@ -358,3 +358,18 @@
   LimitedPaidGachaResetType: 0
   LimitedPaidButtonDesignType: 1
   MiniBannerPopId: 102
+- Id: 1050209
+  SingleGachaPrice: 0
+  SingleGachaPopId: 0
+  ConsectiveGachaPrice: 0
+  ConsectiveGachaTimes: 0
+  ConsectiveGachaPopId: 0
+  PaidSIsCaOnlyGachaFlag: 1
+  PaidSIsCaOnlyGachaPrice: 1500
+  PaidSIsCaOnlyGachaTimes: 10
+  PaidSIsCaOnlyGachaPointFlag: 1
+  PaidSIsCaOnlyGachaaPopId: 201
+  LimitedPaidGachaCount: 30
+  LimitedPaidGachaResetType: 0
+  LimitedPaidButtonDesignType: 2
+  MiniBannerPopId: 0

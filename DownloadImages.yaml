@@ -189,13 +189,13 @@
   Title: 2nd Live Blu-Ray 発売決定
   OrderId: 32
   StartTime: 2025-02-05T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-07-09T02:59:59Z
 - Id: 110033
   DownloadType: 1
   Title: 4th Live Dream ～Bloom, The Dream Believers～ 開催決定
   OrderId: 33
   StartTime: 2025-02-05T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-07-09T02:59:59Z
 - Id: 110034
   DownloadType: 1
   Title: 「おいでよ！石川大観光」発売中
@@ -231,13 +231,13 @@
   Title: 「Dream Believers（105期Ver.）」発売中
   OrderId: 39
   StartTime: 2025-04-28T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-07-09T02:59:59Z
 - Id: 110040
   DownloadType: 1
   Title: 「Retrofuture」発売中
   OrderId: 40
   StartTime: 2025-04-30T12:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-07-09T02:59:59Z
 - Id: 110041
   DownloadType: 1
   Title: Edel Noteメンバーシップ
@@ -267,4 +267,34 @@
   Title: 102nd Graduation Album 慈
   OrderId: 45
   StartTime: 2025-05-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110046
+  DownloadType: 1
+  Title: 37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ
+  OrderId: 46
+  StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110047
+  DownloadType: 1
+  Title: アイドゥーミー！
+  OrderId: 47
+  StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110048
+  DownloadType: 1
+  Title: 3rd Live Blu-Ray 『TRY TRI UNITY!!!』
+  OrderId: 48
+  StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110049
+  DownloadType: 1
+  Title: 3rd Live Blu-Ray 『TRI TRI UNITY!!!』
+  OrderId: 49
+  StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110050
+  DownloadType: 1
+  Title: 5th Live Tour ～4Pair Power Spread!!!!～ 開催決定
+  OrderId: 50
+  StartTime: 2025-07-09T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z

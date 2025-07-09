@@ -1696,6 +1696,50 @@
   Description: Live Grand Prix 105期1stTerm 第2回 個人戦 11位～100位のプライズです。
 - Id: 10802432
   Description: Live Grand Prix 105期1stTerm 第2回 個人戦 101位～200位のプライズです。
+- Id: 10802433
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 1位～200位のプライズです。
+- Id: 10802434
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 201位～500位のプライズです。
+- Id: 10802435
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 501位～1000位のプライズです。
+- Id: 10802436
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 1001位～2000位のプライズです。
+- Id: 10802437
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 2001位～3000位のプライズです。
+- Id: 10802438
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 3001位～5000位のプライズです。
+- Id: 10802439
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 5001位～7000位のプライズです。
+- Id: 10802440
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 7001位～10000位のプライズです。
+- Id: 10802441
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 10001位～15000位のプライズです。
+- Id: 10802442
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 15001位～のプライズです。
+- Id: 10802443
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 1位のプライズです。
+- Id: 10802444
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 2位のプライズです。
+- Id: 10802445
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 3位のプライズです。
+- Id: 10802446
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 4位のプライズです。
+- Id: 10802447
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 5位のプライズです。
+- Id: 10802448
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 6位のプライズです。
+- Id: 10802449
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 7位のプライズです。
+- Id: 10802450
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 8位のプライズです。
+- Id: 10802451
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 9位のプライズです。
+- Id: 10802452
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 10位のプライズです。
+- Id: 10802453
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 11位～100位のプライズです。
+- Id: 10802454
+  Description: Live Grand Prix 105期SpecialTerm 個人戦 101位～200位のプライズです。
 - Id: 30200001
   Description: 活動記録の初回閲覧特典です。
 - Id: 31201001
@@ -2254,6 +2298,12 @@
   Description: 「ライブグランプリ応援！スクショウ育成パック」を購入して獲得したアイテムです。
 - Id: 60401083
   Description: 「ライブグランプリ応援！プレイPt.チャージパック」を購入して獲得したアイテムです。
+- Id: 60401084
+  Description: 「2023-2024 LIMITED COLLECTION MEMORY PREMIUM チケットパック60」を購入して獲得したアイテムです。
+- Id: 60401085
+  Description: 「2023-2024 LIMITED COLLECTION MEMORY PREMIUM チケットパック40」を購入して獲得したアイテムです。
+- Id: 60401086
+  Description: 「2023-2024 LIMITED COLLECTION MEMORY PREMIUM チケットパック30」を購入して獲得したアイテムです。
 - Id: 90100001
   Description: 事前登録キャンペーンのプライズです。
 - Id: 90100002
@@ -2330,6 +2380,8 @@
   Description: 緊急メンテナンスにご協力頂いたお詫びの品です。
 - Id: 90200005
   Description: メンバーシップ1ヶ月継続特典の補填の品です。
+- Id: 90200006
+  Description: 運営からのプレゼントです。
 - Id: 90300001
   Description: CD『Dream Believers』シリアルコード特典です。
 - Id: 90300002

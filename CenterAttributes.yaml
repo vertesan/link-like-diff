@@ -5644,6 +5644,18 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30005400
   Description: 全メンバーのアピール値が54％上昇
+- Id: 20334162
+  CenterAttributeSeriesId: 20334160
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20334163
+  CenterAttributeSeriesId: 20334160
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30005400
+  Description: 全メンバーのアピール値が54％上昇
 - Id: 20335011
   CenterAttributeSeriesId: 20335010
   CenterAttributeName: アピールアップ
@@ -7738,6 +7750,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20515031
+  CenterAttributeSeriesId: 20515030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20515032
+  CenterAttributeSeriesId: 20515030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20515033
+  CenterAttributeSeriesId: 20515030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20518011
   CenterAttributeSeriesId: 20518010
   CenterAttributeName: アピールアップ（桂城泉）&APレデュース&CTレデュース
@@ -7894,6 +7924,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525041
+  CenterAttributeSeriesId: 20525040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20525042
+  CenterAttributeSeriesId: 20525040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20525043
+  CenterAttributeSeriesId: 20525040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20528011
   CenterAttributeSeriesId: 20528010
   CenterAttributeName: アピールアップ（セラス）&APレデュース&CTレデュース
