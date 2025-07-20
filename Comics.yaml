@@ -1090,3 +1090,24 @@
   EndTime: 2035-12-31T14:59:59Z
   TabListId: 1051
   AppearanceCharacterIds: 1031,1032,1033
+- Id: 13010
+  Name: 第10話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1033,1042,1052
+- Id: 13011
+  Name: 第11話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1031,1041,1051,1052
+- Id: 13012
+  Name: 第12話
+  ViewType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  TabListId: 1051
+  AppearanceCharacterIds: 1031,1033,1042,1043,1051,1052

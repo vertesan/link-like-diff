@@ -1944,7 +1944,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z
 - Id: 203101
   OrderId: 1204
   Title: Mix shake!!
@@ -3792,7 +3792,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z
 - Id: 205201
   OrderId: 6030
   Title: 輪舞-revolution
@@ -5805,7 +5805,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z
 - Id: 305106
   OrderId: 1804
   Title: 十六夜セレーネ
@@ -5904,7 +5904,40 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z
+- Id: 405102
+  OrderId: 1231
+  Title: フルーツパンチ
+  TitleFurigana: ふるーつぱんち
+  JacketId: 405102
+  SoundId: 40510201
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: "1041"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 17308
+  ApIncrement: 892
+  SongTime: 8923
+  PlayTime: 107077
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!
@@ -5938,3 +5971,36 @@
   VideoBgId: 0
   SongType: 3
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+- Id: 405302
+  OrderId: 5012
+  Title: 愛♡スクリ～ム！
+  TitleFurigana: あいすくりーむ
+  JacketId: 405302
+  SoundId: 40530201
+  Description: LLカバー
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1033
+  SingerCharacterId: 1031,1032,1041,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 11111
+  ApIncrement: 1318
+  SongTime: 13182
+  PlayTime: 158182
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-07-20T03:00:00Z

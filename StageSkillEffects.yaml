@@ -74,11 +74,15 @@
   ActionType: 3
 - Id: 20300020
   ActionType: 3
+- Id: 20303050
+  ActionType: 3
 - Id: 20400060
   ActionType: 4
 - Id: 20400100
   ActionType: 4
 - Id: 20400300
+  ActionType: 4
+- Id: 20430000
   ActionType: 4
 - Id: 20600001
   ActionType: 6
@@ -99,6 +103,8 @@
 - Id: 20740001
   ActionType: 7
 - Id: 20811301
+  ActionType: 8
+- Id: 20811305
   ActionType: 8
 - Id: 20812503
   ActionType: 8

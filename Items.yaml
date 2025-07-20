@@ -5386,6 +5386,18 @@
   Description: スタイル解放素材(日野下 花帆)
   StartTime: 2025-06-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031531
+  Name: "[フルーツパンチ]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031801
   Name: "[Prism Echo]日野下\u00a0花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7030,6 +7042,18 @@
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2025-06-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041516
+  Name: "[フルーツパンチ]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生\u00a0吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7449,6 +7473,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-02-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043404
+  Name: "[蒼のツバメ]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-07-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043501
   Name: "[Dream Believers]安養寺\u00a0姫芽 解放Pt."

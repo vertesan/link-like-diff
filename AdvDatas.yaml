@@ -4333,3 +4333,93 @@
   StartTime: 2025-06-22T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 1
+- Id: 10500401
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 1
+  ScriptId: 10500401
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 290
+  SubTitleName: "1"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500402
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 2
+  ScriptId: 10500402
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 291
+  SubTitleName: "2"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500403
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 3
+  ScriptId: 10500403
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 292
+  SubTitleName: "3"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500404
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 4
+  ScriptId: 10500404
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 293
+  SubTitleName: "4"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500405
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 5
+  ScriptId: 10500405
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 294
+  SubTitleName: "5"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500406
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 6
+  ScriptId: 10500406
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 295
+  SubTitleName: "6"
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0

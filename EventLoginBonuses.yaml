@@ -320,3 +320,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-06-06T19:00:00Z
   EndTime: 2025-06-08T18:59:59Z
+- Id: 201047
+  Name: POP UP SHOP＊アイドゥーミー！＊ログインボーナス
+  LoginBonusRewardSeriesId: 201047
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-07-20T03:00:00Z
+  EndTime: 2025-08-20T18:59:59Z
