@@ -4423,3 +4423,48 @@
   StartTime: 2025-07-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+- Id: 10500407
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 7
+  ScriptId: 10500407
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 296
+  SubTitleName: "7"
+  StartTime: 2025-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500408
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 8
+  ScriptId: 10500408
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 297
+  SubTitleName: "8"
+  StartTime: 2025-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+- Id: 10500409
+  AdvSeriesId: 105004
+  Name: 第4話『太陽を目指した背中』
+  Description: PART 9
+  ScriptId: 10500409
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 298
+  SubTitleName: "9"
+  StartTime: 2025-07-27T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
