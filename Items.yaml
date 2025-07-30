@@ -154,6 +154,18 @@
   Description: Gradeを上昇させるのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1006001
+  Name: KEY of 『Shades of Stars』
+  NameFurigana: きーおぶしぇいずおぶすたーず
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 閉ざされた活動記録『Shades of Stars』へのアクセス権限を得られる不思議な鍵。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011
   Name: 猫のダンベルボール
   NameFurigana: ねこのだんべるぼーる
@@ -801,6 +813,54 @@
   RequestableNum: 0
   Description: "強烈な一撃でくるみを粉砕する驚異のラッコ。貝だけでは飽き足ら\\nずくるみにまで手を出すその姿は「止まるな」と訴えかけるよう。"
   StartTime: 2025-04-09T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2004002
+  Name: メッセージカード（ミニ）
+  NameFurigana: めっせーじかーどみに
+  ItemType: 9
+  ItemCategory: 2
+  Rarity: 1
+  EffectValue: 0
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "配信中のスクールアイドルに贈ることができる、ミニサイズのメッ\\nセージカード。気軽に贈ってみよう。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2004003
+  Name: メッセージカード（ノーマル）
+  NameFurigana: めっせーじかーどのーまる
+  ItemType: 9
+  ItemCategory: 2
+  Rarity: 2
+  EffectValue: 0
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "配信中のスクールアイドルに贈ることができる、ちょうどいいメッ\\nセージカード。みんなの御用達。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2004004
+  Name: メッセージカード（ビッグ）
+  NameFurigana: めっせーじかーどびっぐ
+  ItemType: 9
+  ItemCategory: 2
+  Rarity: 3
+  EffectValue: 0
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "配信中のスクールアイドルに贈ることができる、ビッグなメッセー\\nジカード。豪華な輝きを放っている。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2004005
+  Name: メッセージカード（スペシャル）
+  NameFurigana: めっせーじかーどすぺしゃる
+  ItemType: 9
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 0
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "配信中のスクールアイドルに贈ることができる、スペシャルなメッ\\nセージカード。君は間違いなくスクコネクターだ。"
+  StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 2015001
   Name: Fes×LIVE S席チケット
