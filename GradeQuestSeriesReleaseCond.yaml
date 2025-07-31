@@ -352,3 +352,21 @@
   ConditionsValue: 10522
   StartTime: 2025-06-29T12:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 105240
+  GradeQuestSeriesId: 10524
+  ConditionsType: 1
+  ConditionsValue: 10523
+  StartTime: 2025-07-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 105250
+  GradeQuestSeriesId: 10525
+  ConditionsType: 1
+  ConditionsValue: 10524
+  StartTime: 2025-07-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 105260
+  GradeQuestSeriesId: 10526
+  ConditionsType: 1
+  ConditionsValue: 10525
+  StartTime: 2025-07-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z

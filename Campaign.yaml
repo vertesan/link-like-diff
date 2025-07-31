@@ -374,3 +374,35 @@
   EffectValue: 1003
   StartTime: 2025-05-13T19:00:00Z
   EndTime: 2025-05-19T18:59:59Z
+- Id: 48
+  CampaignType: 3
+  TargetContents: 103
+  Name: アイテム獲得数増加
+  Description: 期間中、デイリーライブで獲得できるアイテムの個数が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-07-31T19:00:00Z
+  EndTime: 2025-08-04T18:59:59Z
+- Id: 49
+  CampaignType: 5
+  TargetContents: 103
+  Name: スタイルPt.獲得数増加
+  Description: 期間中、デイリーライブで獲得できるスタイルPt.の量が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-08-04T19:00:00Z
+  EndTime: 2025-08-08T18:59:59Z
+- Id: 50
+  CampaignType: 4
+  TargetContents: 103
+  Name: 獲得アイテム追加
+  Description: 期間中、デイリーライブで技能書が追加で獲得できる。
+  EffectValue: 1004
+  StartTime: 2025-08-08T19:00:00Z
+  EndTime: 2025-08-12T18:59:59Z
+- Id: 51
+  CampaignType: 6
+  TargetContents: 104
+  Name: 習得度の上昇量増加
+  Description: 期間中、ラーニングライブの習得度の上昇量が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-08-12T19:00:00Z
+  EndTime: 2025-08-16T18:59:59Z

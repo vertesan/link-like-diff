@@ -327,3 +327,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-07-20T03:00:00Z
   EndTime: 2025-08-20T18:59:59Z
+- Id: 201048
+  Name: 忘れられない煉獄い夏！リズミックサマーログインキャンペーン！
+  LoginBonusRewardSeriesId: 201048
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-07-31T19:00:00Z
+  EndTime: 2025-08-31T18:59:59Z

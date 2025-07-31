@@ -41578,6 +41578,156 @@
   RhythmGameSkillSeriesId: 30325284
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
+- Id: 10325290
+  CardSeriesId: 1032529
+  Name: 太陽であれ！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 33
+  InitialPure: 55
+  InitialCool: 57
+  InitialMental: 94
+  MaxSmile: 1650
+  MaxPure: 2750
+  MaxCool: 2850
+  MaxMental: 235
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325290
+  SkillSeriesId: 20325290
+  AttributeId: 30325290
+  SpineId: 63
+  OrderId: 10385632
+  CenterSkillSeriesId: 10325290
+  CenterAttributeSeriesId: 20325290
+  RhythmGameSkillSeriesId: 30325290
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325291
+  CardSeriesId: 1032529
+  Name: 太陽であれ！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 1650
+  InitialPure: 2750
+  InitialCool: 2850
+  InitialMental: 235
+  MaxSmile: 2310
+  MaxPure: 3850
+  MaxCool: 3990
+  MaxMental: 329
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325291
+  SkillSeriesId: 20325290
+  AttributeId: 30325290
+  SpineId: 63
+  OrderId: 10385632
+  CenterSkillSeriesId: 10325290
+  CenterAttributeSeriesId: 20325290
+  RhythmGameSkillSeriesId: 30325290
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325292
+  CardSeriesId: 1032529
+  Name: 太陽であれ！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 2310
+  InitialPure: 3850
+  InitialCool: 3990
+  InitialMental: 329
+  MaxSmile: 3300
+  MaxPure: 5500
+  MaxCool: 5700
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325292
+  SkillSeriesId: 20325290
+  AttributeId: 30325290
+  SpineId: 63
+  OrderId: 10385632
+  CenterSkillSeriesId: 10325290
+  CenterAttributeSeriesId: 20325290
+  RhythmGameSkillSeriesId: 30325292
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325293
+  CardSeriesId: 1032529
+  Name: 太陽であれ！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3300
+  InitialPure: 5500
+  InitialCool: 5700
+  InitialMental: 470
+  MaxSmile: 3630
+  MaxPure: 6050
+  MaxCool: 6270
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325292
+  SkillSeriesId: 20325290
+  AttributeId: 30325290
+  SpineId: 63
+  OrderId: 10385632
+  CenterSkillSeriesId: 10325290
+  CenterAttributeSeriesId: 20325290
+  RhythmGameSkillSeriesId: 30325293
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325294
+  CardSeriesId: 1032529
+  Name: 太陽であれ！
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3630
+  InitialPure: 6050
+  InitialCool: 6270
+  InitialMental: 470
+  MaxSmile: 3960
+  MaxPure: 6600
+  MaxCool: 6840
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325292
+  SkillSeriesId: 20325290
+  AttributeId: 30325290
+  SpineId: 63
+  OrderId: 10385632
+  CenterSkillSeriesId: 10325290
+  CenterAttributeSeriesId: 20325290
+  RhythmGameSkillSeriesId: 30325294
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
 - Id: 10328011
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -56548,6 +56698,156 @@
   RhythmGameSkillSeriesId: 30425154
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
+- Id: 10425160
+  CardSeriesId: 1042516
+  Name: 太陽であれ！
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 34
+  InitialPure: 55
+  InitialCool: 56
+  InitialMental: 94
+  MaxSmile: 1700
+  MaxPure: 2750
+  MaxCool: 2800
+  MaxMental: 235
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425160
+  SkillSeriesId: 20425160
+  AttributeId: 30425160
+  SpineId: 27
+  OrderId: 10385642
+  CenterSkillSeriesId: 10425160
+  CenterAttributeSeriesId: 20425160
+  RhythmGameSkillSeriesId: 30425160
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425161
+  CardSeriesId: 1042516
+  Name: 太陽であれ！
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 1700
+  InitialPure: 2750
+  InitialCool: 2800
+  InitialMental: 235
+  MaxSmile: 2380
+  MaxPure: 3850
+  MaxCool: 3920
+  MaxMental: 329
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425161
+  SkillSeriesId: 20425160
+  AttributeId: 30425160
+  SpineId: 27
+  OrderId: 10385642
+  CenterSkillSeriesId: 10425160
+  CenterAttributeSeriesId: 20425160
+  RhythmGameSkillSeriesId: 30425160
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425162
+  CardSeriesId: 1042516
+  Name: 太陽であれ！
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 2380
+  InitialPure: 3850
+  InitialCool: 3920
+  InitialMental: 329
+  MaxSmile: 3400
+  MaxPure: 5500
+  MaxCool: 5600
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425162
+  SkillSeriesId: 20425160
+  AttributeId: 30425160
+  SpineId: 27
+  OrderId: 10385642
+  CenterSkillSeriesId: 10425160
+  CenterAttributeSeriesId: 20425160
+  RhythmGameSkillSeriesId: 30425162
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425163
+  CardSeriesId: 1042516
+  Name: 太陽であれ！
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3400
+  InitialPure: 5500
+  InitialCool: 5600
+  InitialMental: 470
+  MaxSmile: 3740
+  MaxPure: 6050
+  MaxCool: 6160
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425162
+  SkillSeriesId: 20425160
+  AttributeId: 30425160
+  SpineId: 27
+  OrderId: 10385642
+  CenterSkillSeriesId: 10425160
+  CenterAttributeSeriesId: 20425160
+  RhythmGameSkillSeriesId: 30425163
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425164
+  CardSeriesId: 1042516
+  Name: 太陽であれ！
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 3
+  ExperienceType: 5
+  InitialSmile: 3740
+  InitialPure: 6050
+  InitialCool: 6160
+  InitialMental: 470
+  MaxSmile: 4080
+  MaxPure: 6600
+  MaxCool: 6720
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425162
+  SkillSeriesId: 20425160
+  AttributeId: 30425160
+  SpineId: 27
+  OrderId: 10385642
+  CenterSkillSeriesId: 10425160
+  CenterAttributeSeriesId: 20425160
+  RhythmGameSkillSeriesId: 30425164
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
 - Id: 10428011
   CardSeriesId: 1042801
   Name: Ether Aria
@@ -56676,18 +56976,18 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 2
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 2950
+  InitialPure: 3600
+  InitialCool: 2100
+  InitialMental: 295
+  MaxSmile: 4130
+  MaxPure: 5040
+  MaxCool: 2940
+  MaxMental: 413
+  BeatPoint: 100
   SpecialAppealSeriesId: 10428021
   SkillSeriesId: 20428020
   AttributeId: 30428020
@@ -56706,18 +57006,18 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 2
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 4130
+  InitialPure: 5040
+  InitialCool: 2940
+  InitialMental: 413
+  MaxSmile: 5900
+  MaxPure: 7200
+  MaxCool: 4200
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10428022
   SkillSeriesId: 20428020
   AttributeId: 30428020
@@ -56736,18 +57036,18 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 2
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 5900
+  InitialPure: 7200
+  InitialCool: 4200
+  InitialMental: 590
+  MaxSmile: 6490
+  MaxPure: 7920
+  MaxCool: 4620
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10428022
   SkillSeriesId: 20428020
   AttributeId: 30428020
@@ -56766,18 +57066,18 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 2
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 6490
+  InitialPure: 7920
+  InitialCool: 4620
+  InitialMental: 590
+  MaxSmile: 7080
+  MaxPure: 8640
+  MaxCool: 5040
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10428022
   SkillSeriesId: 20428020
   AttributeId: 30428020
@@ -61916,6 +62216,156 @@
   CenterSkillSeriesId: 10515030
   CenterAttributeSeriesId: 20515030
   RhythmGameSkillSeriesId: 30515034
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515040
+  CardSeriesId: 1051504
+  Name: 蒼のツバメ
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 52
+  InitialPure: 59
+  InitialCool: 34
+  InitialMental: 96
+  MaxSmile: 2575
+  MaxPure: 2925
+  MaxCool: 1700
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515040
+  SkillSeriesId: 20515040
+  AttributeId: 30515040
+  SpineId: 10
+  OrderId: 10385751
+  CenterSkillSeriesId: 10515040
+  CenterAttributeSeriesId: 20515040
+  RhythmGameSkillSeriesId: 30515040
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515041
+  CardSeriesId: 1051504
+  Name: 蒼のツバメ
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2575
+  InitialPure: 2925
+  InitialCool: 1700
+  InitialMental: 240
+  MaxSmile: 3605
+  MaxPure: 4095
+  MaxCool: 2380
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515041
+  SkillSeriesId: 20515040
+  AttributeId: 30515040
+  SpineId: 10
+  OrderId: 10385751
+  CenterSkillSeriesId: 10515040
+  CenterAttributeSeriesId: 20515040
+  RhythmGameSkillSeriesId: 30515040
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515042
+  CardSeriesId: 1051504
+  Name: 蒼のツバメ
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3605
+  InitialPure: 4095
+  InitialCool: 2380
+  InitialMental: 336
+  MaxSmile: 5150
+  MaxPure: 5850
+  MaxCool: 3400
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515042
+  SkillSeriesId: 20515040
+  AttributeId: 30515040
+  SpineId: 10
+  OrderId: 10385751
+  CenterSkillSeriesId: 10515040
+  CenterAttributeSeriesId: 20515040
+  RhythmGameSkillSeriesId: 30515042
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515043
+  CardSeriesId: 1051504
+  Name: 蒼のツバメ
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 5150
+  InitialPure: 5850
+  InitialCool: 3400
+  InitialMental: 480
+  MaxSmile: 5665
+  MaxPure: 6435
+  MaxCool: 3740
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515042
+  SkillSeriesId: 20515040
+  AttributeId: 30515040
+  SpineId: 10
+  OrderId: 10385751
+  CenterSkillSeriesId: 10515040
+  CenterAttributeSeriesId: 20515040
+  RhythmGameSkillSeriesId: 30515043
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515044
+  CardSeriesId: 1051504
+  Name: 蒼のツバメ
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 5665
+  InitialPure: 6435
+  InitialCool: 3740
+  InitialMental: 480
+  MaxSmile: 6180
+  MaxPure: 7020
+  MaxCool: 4080
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515042
+  SkillSeriesId: 20515040
+  AttributeId: 30515040
+  SpineId: 10
+  OrderId: 10385751
+  CenterSkillSeriesId: 10515040
+  CenterAttributeSeriesId: 20515040
+  RhythmGameSkillSeriesId: 30515044
   CenterSkillLvUpItemId: 54
   RhythmGameSkillLvUpItemId: 54
 - Id: 10518011

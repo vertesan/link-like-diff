@@ -6190,6 +6190,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-06-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032529
+  Name: "[太陽であれ！]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-07-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7414,6 +7426,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-06-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042516
+  Name: "[太陽であれ！]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-07-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7857,6 +7881,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051504
+  Name: "[蒼のツバメ]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-07-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4051801
   Name: "[Oracle Étude]桂城\u00a0泉 解放Pt."
