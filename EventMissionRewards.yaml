@@ -2099,7 +2099,7 @@
   EventMissionSeriesId: 10007
   EventMissionsId: 10007022
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 3004000
   RewardNum: 70000
   RewardTextId: 40205001
@@ -2396,7 +2396,7 @@
   EventMissionSeriesId: 10007
   EventMissionsId: 10007055
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 1002001
   RewardNum: 100
   RewardTextId: 40205001
@@ -2414,7 +2414,7 @@
   EventMissionSeriesId: 10007
   EventMissionsId: 10007057
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 1002001
   RewardNum: 150
   RewardTextId: 40205001
@@ -2459,7 +2459,7 @@
   EventMissionSeriesId: 10007
   EventMissionsId: 10007062
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 1002001
   RewardNum: 250
   RewardTextId: 40205001
@@ -2594,7 +2594,7 @@
   EventMissionSeriesId: 10008
   EventMissionsId: 10008015
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 1002001
   RewardNum: 200
   RewardTextId: 40205001
@@ -2639,7 +2639,7 @@
   EventMissionSeriesId: 10008
   EventMissionsId: 10008020
   RewardCategory: 2
-  RewardType: 1
+  RewardType: 3
   ItemsId: 1002001
   RewardNum: 300
   RewardTextId: 40205001
