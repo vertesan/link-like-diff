@@ -3858,7 +3858,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z
 - Id: 205203
   OrderId: 6032
   Title: 月光
@@ -3891,7 +3891,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z
 - Id: 205301
   OrderId: 5010
   Title: 青空Jumping Heart
@@ -5670,8 +5670,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2025-07-09T03:00:00Z
 - Id: 305102
@@ -6004,6 +6004,105 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-07-31T03:00:00Z
+- Id: 405105
+  OrderId: 1627
+  Title: Very! Very! COCO夏っ
+  TitleFurigana: べりーべりーここなつっ
+  JacketId: 405105
+  SoundId: 40510501
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: "1033"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 13846
+  ApIncrement: 910
+  SongTime: 9103
+  PlayTime: 109231
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z
+- Id: 405106
+  OrderId: 1232
+  Title: My Lucky Clover
+  TitleFurigana: まいらっきーくろーばー
+  JacketId: 405106
+  SoundId: 40510601
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: "1041"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 12500
+  ApIncrement: 963
+  SongTime: 9630
+  PlayTime: 115556
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z
+- Id: 405107
+  OrderId: 1432
+  Title: diamondz
+  TitleFurigana: だいやもんず
+  JacketId: 405107
+  SoundId: 40510701
+  Description: DOLLCHESTRA
+  GenerationsId: 105
+  UnitId: 102
+  CenterCharacterId: 1032
+  SingerCharacterId: "1042"
+  SupportCharacterId: 1031,1033,1041,1043,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 17308
+  ApIncrement: 773
+  SongTime: 7733
+  PlayTime: 92800
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!
@@ -6070,3 +6169,36 @@
   VideoBgId: 0
   SongType: 3
   MusicScoreReleaseTime: 2025-07-20T03:00:00Z
+- Id: 405303
+  OrderId: 5013
+  Title: START!! True dreams
+  TitleFurigana: すたーととぅるーどりーむす
+  JacketId: 405303
+  SoundId: 40530301
+  Description: LLカバー
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: "1041"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 14286
+  ApIncrement: 775
+  SongTime: 7753
+  PlayTime: 93034
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-08-10T03:00:00Z

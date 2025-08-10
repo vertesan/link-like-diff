@@ -163,7 +163,9 @@
   EffectValue: 1
   LimitNum: 9999
   RequestableNum: 0
-  Description: 閉ざされた活動記録『Shades of Stars』へのアクセス権限を得られる不思議な鍵。
+  Description: |-
+    閉ざされた活動記録『Shades of Stars』への
+    アクセス権限を得られる不思議な鍵。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011
@@ -6802,6 +6804,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2025-06-29T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033525
+  Name: "[Very! Very! COCO夏っ]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-08-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7749,6 +7763,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-06-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043516
+  Name: "[Very! Very! COCO夏っ]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-08-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."

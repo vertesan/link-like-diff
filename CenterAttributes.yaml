@@ -6136,6 +6136,24 @@
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335251
+  CenterAttributeSeriesId: 20335250
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335252
+  CenterAttributeSeriesId: 20335250
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335253
+  CenterAttributeSeriesId: 20335250
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
 - Id: 20338011
   CenterAttributeSeriesId: 20338010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -6864,6 +6882,24 @@
   Description: 全メンバーのアピール値が54％上昇
 - Id: 20424033
   CenterAttributeSeriesId: 20424030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20424041
+  CenterAttributeSeriesId: 20424040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20424042
+  CenterAttributeSeriesId: 20424040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20424043
+  CenterAttributeSeriesId: 20424040
   CenterAttributeName: アピールアップ
   TargetIds: "50000"
   CenterAttributeEffectId: 30005400
@@ -7656,6 +7692,24 @@
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
 - Id: 20435153
   CenterAttributeSeriesId: 20435150
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435161
+  CenterAttributeSeriesId: 20435160
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435162
+  CenterAttributeSeriesId: 20435160
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435163
+  CenterAttributeSeriesId: 20435160
   CenterAttributeName: アピールアップ（みらくらぱーく！）
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
