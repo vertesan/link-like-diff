@@ -406,3 +406,27 @@
   EffectValue: 200
   StartTime: 2025-08-12T19:00:00Z
   EndTime: 2025-08-16T18:59:59Z
+- Id: 52
+  CampaignType: 3
+  TargetContents: 800
+  Name: アイテム獲得数増加
+  Description: 期間中、スクールアイドルショウで獲得できるアイテムの個数が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-08-16T19:00:00Z
+  EndTime: 2025-08-21T18:59:59Z
+- Id: 53
+  CampaignType: 6
+  TargetContents: 800
+  Name: マスタリー習得度増加
+  Description: 期間中、スクールアイドルショウで獲得できるマスタリー習得度の獲得量が3倍に増加。
+  EffectValue: 300
+  StartTime: 2025-08-21T19:00:00Z
+  EndTime: 2025-08-26T18:59:59Z
+- Id: 54
+  CampaignType: 5
+  TargetContents: 800
+  Name: スタイルPt.獲得数増加
+  Description: 期間中、スクールアイドルショウで獲得できるスタイルPt.の量が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-08-26T19:00:00Z
+  EndTime: 2025-08-31T18:59:59Z

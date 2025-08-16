@@ -733,3 +733,18 @@
   StartTime: 2025-05-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0
+- Id: 4030033
+  ExchangeTicketName: 【夏コミ106出展記念！】《LIMITED》URセレクトチケット
+  Description: 特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketId: 3003050
+  OrderId: 10001
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-08-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0

@@ -1644,6 +1644,18 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2025-05-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003050
+  Name: 【夏コミ106出展記念！】《LIMITED》URセレクトチケット
+  NameFurigana: なつこみいちまるろくしゅってんきねんりみてっどうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2025-08-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと
