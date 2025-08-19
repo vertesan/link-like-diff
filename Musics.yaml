@@ -1119,7 +1119,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-19T03:00:00Z
 - Id: 104108
   OrderId: 1616
   Title: ハクチューアラモード（104期Ver.）
@@ -3066,7 +3066,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-19T03:00:00Z
 - Id: 204107
   OrderId: 1420
   Title: Proof
@@ -5868,8 +5868,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 1
   MusicScoreReleaseTime: 2025-06-29T12:00:00Z
 - Id: 405101
@@ -6103,6 +6103,72 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-08-10T03:00:00Z
+- Id: 405108
+  OrderId: 1233
+  Title: 可惜夜花火
+  TitleFurigana: あたらよはなび
+  JacketId: 405108
+  SoundId: 40510801
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: "1031"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 16071
+  ApIncrement: 890
+  SongTime: 8904
+  PlayTime: 106850
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-19T03:00:00Z
+- Id: 405109
+  OrderId: 1433
+  Title: ブルウモーメント
+  TitleFurigana: ぶるうもーめんと
+  JacketId: 405109
+  SoundId: 40510901
+  Description: DOLLCHESTRA
+  GenerationsId: 105
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: "1032"
+  SupportCharacterId: 1031,1033,1041,1043,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 16071
+  ApIncrement: 919
+  SongTime: 9185
+  PlayTime: 110222
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-19T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!

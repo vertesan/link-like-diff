@@ -5191,6 +5191,90 @@
 - Id: 804151601420
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "2"
+- Id: 804151700110
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700140
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700210
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700240
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700310
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700340
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700410
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700440
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700510
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700540
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700610
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700640
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700710
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700740
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700810
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700840
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700910
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151700940
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701010
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701040
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701110
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701140
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701210
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701240
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701310
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701340
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701410
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
+- Id: 804151701440
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "2"
 - Id: 804180100100
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "2"
@@ -5737,6 +5821,9 @@
 - Id: 3031505001100
   ParamType: CHANGE_PARAM_VALUE_ACTION_ID
   ParamValue: "2000000"
+- Id: 3031532001160
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "12"
 - Id: 3042511001110
   ParamType: CHANGE_PARAM_VALUE_ACTION_ID
   ParamValue: "1000000"
