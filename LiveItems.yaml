@@ -254,3 +254,35 @@
   Label: 悪魔のツノ
   BindBoneId: 10
   PosesId: -1
+- Id: 16101031
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291031
+- Id: 16101032
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291032
+- Id: 16101033
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291033
+- Id: 16101041
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291041
+- Id: 16101042
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291042
+- Id: 16101043
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291043
+- Id: 16101051
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291051
+- Id: 16101052
+  Label: うちわ
+  BindBoneId: 18
+  PosesId: 20291052

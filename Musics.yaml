@@ -1512,8 +1512,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104120
@@ -1644,8 +1644,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 2
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104204
@@ -3393,8 +3393,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204117
@@ -3525,8 +3525,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204121
@@ -5079,7 +5079,7 @@
   IsVideoMode: 1
   VideoBgId: 2
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 304110
   OrderId: 1421
   Title: 希望的プリズム（104期Ver.）
@@ -5340,8 +5340,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304118

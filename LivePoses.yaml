@@ -25,6 +25,12 @@
 - Id: 10011043
   Label: L_Mic持ち
   HandSide: 1
+- Id: 10011051
+  Label: L_Mic持ち
+  HandSide: 1
+- Id: 10011052
+  Label: L_Mic持ち
+  HandSide: 1
 - Id: 10021023
   Label: L_スマホ持ち
   HandSide: 1
@@ -58,6 +64,12 @@
 - Id: 10031043
   Label: L_デフォルト
   HandSide: 1
+- Id: 10031051
+  Label: L_デフォルト
+  HandSide: 1
+- Id: 10031052
+  Label: L_デフォルト
+  HandSide: 1
 - Id: 10041021
   Label: L_グー(固め)
   HandSide: 1
@@ -83,6 +95,12 @@
   Label: L_グー(固め)
   HandSide: 1
 - Id: 10041043
+  Label: L_グー(固め)
+  HandSide: 1
+- Id: 10041051
+  Label: L_グー(固め)
+  HandSide: 1
+- Id: 10041052
   Label: L_グー(固め)
   HandSide: 1
 - Id: 10051021
@@ -112,6 +130,12 @@
 - Id: 10051043
   Label: L_グー(柔らかめ)
   HandSide: 1
+- Id: 10051051
+  Label: L_グー(柔らかめ)
+  HandSide: 1
+- Id: 10051052
+  Label: L_グー(柔らかめ)
+  HandSide: 1
 - Id: 10061021
   Label: L_ピース
   HandSide: 1
@@ -137,6 +161,12 @@
   Label: L_ピース
   HandSide: 1
 - Id: 10061043
+  Label: L_ピース
+  HandSide: 1
+- Id: 10061051
+  Label: L_ピース
+  HandSide: 1
+- Id: 10061052
   Label: L_ピース
   HandSide: 1
 - Id: 10071021
@@ -166,6 +196,12 @@
 - Id: 10071043
   Label: L_パー(平た)
   HandSide: 1
+- Id: 10071051
+  Label: L_パー(平た)
+  HandSide: 1
+- Id: 10071052
+  Label: L_パー(平た)
+  HandSide: 1
 - Id: 10081021
   Label: L_パー(すぼめ)
   HandSide: 1
@@ -191,6 +227,12 @@
   Label: L_パー(すぼめ)
   HandSide: 1
 - Id: 10081043
+  Label: L_パー(すぼめ)
+  HandSide: 1
+- Id: 10081051
+  Label: L_パー(すぼめ)
+  HandSide: 1
+- Id: 10081052
   Label: L_パー(すぼめ)
   HandSide: 1
 - Id: 10091021
@@ -220,6 +262,12 @@
 - Id: 10091043
   Label: L_パー(指そろえ)
   HandSide: 1
+- Id: 10091051
+  Label: L_パー(指そろえ)
+  HandSide: 1
+- Id: 10091052
+  Label: L_パー(指そろえ)
+  HandSide: 1
 - Id: 10101021
   Label: L_ガオー
   HandSide: 1
@@ -245,6 +293,12 @@
   Label: L_ガオー
   HandSide: 1
 - Id: 10101043
+  Label: L_ガオー
+  HandSide: 1
+- Id: 10101051
+  Label: L_ガオー
+  HandSide: 1
+- Id: 10101052
   Label: L_ガオー
   HandSide: 1
 - Id: 10111021
@@ -274,6 +328,12 @@
 - Id: 10111043
   Label: L_OK
   HandSide: 1
+- Id: 10111051
+  Label: L_OK
+  HandSide: 1
+- Id: 10111052
+  Label: L_OK
+  HandSide: 1
 - Id: 10121021
   Label: L_サムズアップ
   HandSide: 1
@@ -299,6 +359,12 @@
   Label: L_サムズアップ
   HandSide: 1
 - Id: 10121043
+  Label: L_サムズアップ
+  HandSide: 1
+- Id: 10121051
+  Label: L_サムズアップ
+  HandSide: 1
+- Id: 10121052
   Label: L_サムズアップ
   HandSide: 1
 - Id: 10131021
@@ -328,6 +394,12 @@
 - Id: 10131043
   Label: L_指さし(親指なし)
   HandSide: 1
+- Id: 10131051
+  Label: L_指さし(親指なし)
+  HandSide: 1
+- Id: 10131052
+  Label: L_指さし(親指なし)
+  HandSide: 1
 - Id: 10141021
   Label: L_指さし(親指あり)
   HandSide: 1
@@ -353,6 +425,12 @@
   Label: L_指さし(親指あり)
   HandSide: 1
 - Id: 10141043
+  Label: L_指さし(親指あり)
+  HandSide: 1
+- Id: 10141051
+  Label: L_指さし(親指あり)
+  HandSide: 1
+- Id: 10141052
   Label: L_指さし(親指あり)
   HandSide: 1
 - Id: 10151021
@@ -382,6 +460,12 @@
 - Id: 10151043
   Label: L_指フレーム
   HandSide: 1
+- Id: 10151051
+  Label: L_指フレーム
+  HandSide: 1
+- Id: 10151052
+  Label: L_指フレーム
+  HandSide: 1
 - Id: 10161021
   Label: L_両手ハート
   HandSide: 1
@@ -407,6 +491,12 @@
   Label: L_両手ハート
   HandSide: 1
 - Id: 10161043
+  Label: L_両手ハート
+  HandSide: 1
+- Id: 10161051
+  Label: L_両手ハート
+  HandSide: 1
+- Id: 10161052
   Label: L_両手ハート
   HandSide: 1
 - Id: 10171021
@@ -436,6 +526,12 @@
 - Id: 10171043
   Label: L_ピースハート
   HandSide: 1
+- Id: 10171051
+  Label: L_ピースハート
+  HandSide: 1
+- Id: 10171052
+  Label: L_ピースハート
+  HandSide: 1
 - Id: 10181021
   Label: L_指ハート
   HandSide: 1
@@ -461,6 +557,12 @@
   Label: L_指ハート
   HandSide: 1
 - Id: 10181043
+  Label: L_指ハート
+  HandSide: 1
+- Id: 10181051
+  Label: L_指ハート
+  HandSide: 1
+- Id: 10181052
   Label: L_指ハート
   HandSide: 1
 - Id: 10191021
@@ -490,6 +592,12 @@
 - Id: 10191043
   Label: L_ウェイ
   HandSide: 1
+- Id: 10191051
+  Label: L_ウェイ
+  HandSide: 1
+- Id: 10191052
+  Label: L_ウェイ
+  HandSide: 1
 - Id: 10201021
   Label: L_メロイックサインA
   HandSide: 1
@@ -515,6 +623,12 @@
   Label: L_メロイックサインA
   HandSide: 1
 - Id: 10201043
+  Label: L_メロイックサインA
+  HandSide: 1
+- Id: 10201051
+  Label: L_メロイックサインA
+  HandSide: 1
+- Id: 10201052
   Label: L_メロイックサインA
   HandSide: 1
 - Id: 10211021
@@ -544,6 +658,12 @@
 - Id: 10211043
   Label: L_メロイックサインB
   HandSide: 1
+- Id: 10211051
+  Label: L_メロイックサインB
+  HandSide: 1
+- Id: 10211052
+  Label: L_メロイックサインB
+  HandSide: 1
 - Id: 10221021
   Label: L_ラッパー
   HandSide: 1
@@ -569,6 +689,12 @@
   Label: L_ラッパー
   HandSide: 1
 - Id: 10221043
+  Label: L_ラッパー
+  HandSide: 1
+- Id: 10221051
+  Label: L_ラッパー
+  HandSide: 1
+- Id: 10221052
   Label: L_ラッパー
   HandSide: 1
 - Id: 10231021
@@ -598,6 +724,12 @@
 - Id: 10231043
   Label: L_指切り
   HandSide: 1
+- Id: 10231051
+  Label: L_指切り
+  HandSide: 1
+- Id: 10231052
+  Label: L_指切り
+  HandSide: 1
 - Id: 10241021
   Label: L_チッス
   HandSide: 1
@@ -623,6 +755,12 @@
   Label: L_チッス
   HandSide: 1
 - Id: 10241043
+  Label: L_チッス
+  HandSide: 1
+- Id: 10241051
+  Label: L_チッス
+  HandSide: 1
+- Id: 10241052
   Label: L_チッス
   HandSide: 1
 - Id: 10251021
@@ -652,6 +790,12 @@
 - Id: 10251043
   Label: L_わなわな
   HandSide: 1
+- Id: 10251051
+  Label: L_わなわな
+  HandSide: 1
+- Id: 10251052
+  Label: L_わなわな
+  HandSide: 1
 - Id: 10261021
   Label: L_ハンドサイン”3”
   HandSide: 1
@@ -677,6 +821,12 @@
   Label: L_ハンドサイン”3”
   HandSide: 1
 - Id: 10261043
+  Label: L_ハンドサイン”3”
+  HandSide: 1
+- Id: 10261051
+  Label: L_ハンドサイン”3”
+  HandSide: 1
+- Id: 10261052
   Label: L_ハンドサイン”3”
   HandSide: 1
 - Id: 10271021
@@ -706,6 +856,12 @@
 - Id: 10271043
   Label: L_ハンドサイン”4”
   HandSide: 1
+- Id: 10271051
+  Label: L_ハンドサイン”4”
+  HandSide: 1
+- Id: 10271052
+  Label: L_ハンドサイン”4”
+  HandSide: 1
 - Id: 10281021
   Label: L_お狐様
   HandSide: 1
@@ -731,6 +887,12 @@
   Label: L_お狐様
   HandSide: 1
 - Id: 10281043
+  Label: L_お狐様
+  HandSide: 1
+- Id: 10281051
+  Label: L_お狐様
+  HandSide: 1
+- Id: 10281052
   Label: L_お狐様
   HandSide: 1
 - Id: 20031021
@@ -760,6 +922,12 @@
 - Id: 20031043
   Label: R_デフォルト
   HandSide: 2
+- Id: 20031051
+  Label: R_デフォルト
+  HandSide: 2
+- Id: 20031052
+  Label: R_デフォルト
+  HandSide: 2
 - Id: 20041021
   Label: R_グー(固め)
   HandSide: 2
@@ -785,6 +953,12 @@
   Label: R_グー(固め)
   HandSide: 2
 - Id: 20041043
+  Label: R_グー(固め)
+  HandSide: 2
+- Id: 20041051
+  Label: R_グー(固め)
+  HandSide: 2
+- Id: 20041052
   Label: R_グー(固め)
   HandSide: 2
 - Id: 20051021
@@ -814,6 +988,12 @@
 - Id: 20051043
   Label: R_グー(柔らかめ)
   HandSide: 2
+- Id: 20051051
+  Label: R_グー(柔らかめ)
+  HandSide: 2
+- Id: 20051052
+  Label: R_グー(柔らかめ)
+  HandSide: 2
 - Id: 20061021
   Label: R_ピース
   HandSide: 2
@@ -839,6 +1019,12 @@
   Label: R_ピース
   HandSide: 2
 - Id: 20061043
+  Label: R_ピース
+  HandSide: 2
+- Id: 20061051
+  Label: R_ピース
+  HandSide: 2
+- Id: 20061052
   Label: R_ピース
   HandSide: 2
 - Id: 20071021
@@ -868,6 +1054,12 @@
 - Id: 20071043
   Label: R_パー(平た)
   HandSide: 2
+- Id: 20071051
+  Label: R_パー(平た)
+  HandSide: 2
+- Id: 20071052
+  Label: R_パー(平た)
+  HandSide: 2
 - Id: 20081021
   Label: R_パー(すぼめ)
   HandSide: 2
@@ -893,6 +1085,12 @@
   Label: R_パー(すぼめ)
   HandSide: 2
 - Id: 20081043
+  Label: R_パー(すぼめ)
+  HandSide: 2
+- Id: 20081051
+  Label: R_パー(すぼめ)
+  HandSide: 2
+- Id: 20081052
   Label: R_パー(すぼめ)
   HandSide: 2
 - Id: 20091021
@@ -922,6 +1120,12 @@
 - Id: 20091043
   Label: R_パー(指そろえ)
   HandSide: 2
+- Id: 20091051
+  Label: R_パー(指そろえ)
+  HandSide: 2
+- Id: 20091052
+  Label: R_パー(指そろえ)
+  HandSide: 2
 - Id: 20101021
   Label: R_ガオー
   HandSide: 2
@@ -947,6 +1151,12 @@
   Label: R_ガオー
   HandSide: 2
 - Id: 20101043
+  Label: R_ガオー
+  HandSide: 2
+- Id: 20101051
+  Label: R_ガオー
+  HandSide: 2
+- Id: 20101052
   Label: R_ガオー
   HandSide: 2
 - Id: 20111021
@@ -976,6 +1186,12 @@
 - Id: 20111043
   Label: R_OK
   HandSide: 2
+- Id: 20111051
+  Label: R_OK
+  HandSide: 2
+- Id: 20111052
+  Label: R_OK
+  HandSide: 2
 - Id: 20121021
   Label: R_サムズアップ
   HandSide: 2
@@ -1001,6 +1217,12 @@
   Label: R_サムズアップ
   HandSide: 2
 - Id: 20121043
+  Label: R_サムズアップ
+  HandSide: 2
+- Id: 20121051
+  Label: R_サムズアップ
+  HandSide: 2
+- Id: 20121052
   Label: R_サムズアップ
   HandSide: 2
 - Id: 20131021
@@ -1030,6 +1252,12 @@
 - Id: 20131043
   Label: R_指さし(親指なし)
   HandSide: 2
+- Id: 20131051
+  Label: R_指さし(親指なし)
+  HandSide: 2
+- Id: 20131052
+  Label: R_指さし(親指なし)
+  HandSide: 2
 - Id: 20141021
   Label: R_指さし(親指あり)
   HandSide: 2
@@ -1055,6 +1283,12 @@
   Label: R_指さし(親指あり)
   HandSide: 2
 - Id: 20141043
+  Label: R_指さし(親指あり)
+  HandSide: 2
+- Id: 20141051
+  Label: R_指さし(親指あり)
+  HandSide: 2
+- Id: 20141052
   Label: R_指さし(親指あり)
   HandSide: 2
 - Id: 20151021
@@ -1084,6 +1318,12 @@
 - Id: 20151043
   Label: R_指フレーム
   HandSide: 2
+- Id: 20151051
+  Label: R_指フレーム
+  HandSide: 2
+- Id: 20151052
+  Label: R_指フレーム
+  HandSide: 2
 - Id: 20161021
   Label: R_両手ハート
   HandSide: 2
@@ -1109,6 +1349,12 @@
   Label: R_両手ハート
   HandSide: 2
 - Id: 20161043
+  Label: R_両手ハート
+  HandSide: 2
+- Id: 20161051
+  Label: R_両手ハート
+  HandSide: 2
+- Id: 20161052
   Label: R_両手ハート
   HandSide: 2
 - Id: 20171021
@@ -1138,6 +1384,12 @@
 - Id: 20171043
   Label: R_ピースハート
   HandSide: 2
+- Id: 20171051
+  Label: R_ピースハート
+  HandSide: 2
+- Id: 20171052
+  Label: R_ピースハート
+  HandSide: 2
 - Id: 20181021
   Label: R_指ハート
   HandSide: 2
@@ -1163,6 +1415,12 @@
   Label: R_指ハート
   HandSide: 2
 - Id: 20181043
+  Label: R_指ハート
+  HandSide: 2
+- Id: 20181051
+  Label: R_指ハート
+  HandSide: 2
+- Id: 20181052
   Label: R_指ハート
   HandSide: 2
 - Id: 20191021
@@ -1192,6 +1450,12 @@
 - Id: 20191043
   Label: R_ウェイ
   HandSide: 2
+- Id: 20191051
+  Label: R_ウェイ
+  HandSide: 2
+- Id: 20191052
+  Label: R_ウェイ
+  HandSide: 2
 - Id: 20201021
   Label: R_メロイックサインA
   HandSide: 2
@@ -1217,6 +1481,12 @@
   Label: R_メロイックサインA
   HandSide: 2
 - Id: 20201043
+  Label: R_メロイックサインA
+  HandSide: 2
+- Id: 20201051
+  Label: R_メロイックサインA
+  HandSide: 2
+- Id: 20201052
   Label: R_メロイックサインA
   HandSide: 2
 - Id: 20211021
@@ -1246,6 +1516,12 @@
 - Id: 20211043
   Label: R_メロイックサインB
   HandSide: 2
+- Id: 20211051
+  Label: R_メロイックサインB
+  HandSide: 2
+- Id: 20211052
+  Label: R_メロイックサインB
+  HandSide: 2
 - Id: 20221021
   Label: R_ラッパー
   HandSide: 2
@@ -1271,6 +1547,12 @@
   Label: R_ラッパー
   HandSide: 2
 - Id: 20221043
+  Label: R_ラッパー
+  HandSide: 2
+- Id: 20221051
+  Label: R_ラッパー
+  HandSide: 2
+- Id: 20221052
   Label: R_ラッパー
   HandSide: 2
 - Id: 20231021
@@ -1300,6 +1582,12 @@
 - Id: 20231043
   Label: R_指切り
   HandSide: 2
+- Id: 20231051
+  Label: R_指切り
+  HandSide: 2
+- Id: 20231052
+  Label: R_指切り
+  HandSide: 2
 - Id: 20241021
   Label: R_チッス
   HandSide: 2
@@ -1325,6 +1613,12 @@
   Label: R_チッス
   HandSide: 2
 - Id: 20241043
+  Label: R_チッス
+  HandSide: 2
+- Id: 20241051
+  Label: R_チッス
+  HandSide: 2
+- Id: 20241052
   Label: R_チッス
   HandSide: 2
 - Id: 20251021
@@ -1354,6 +1648,12 @@
 - Id: 20251043
   Label: R_わなわな
   HandSide: 2
+- Id: 20251051
+  Label: R_わなわな
+  HandSide: 2
+- Id: 20251052
+  Label: R_わなわな
+  HandSide: 2
 - Id: 20261021
   Label: R_ハンドサイン”3”
   HandSide: 2
@@ -1379,6 +1679,12 @@
   Label: R_ハンドサイン”3”
   HandSide: 2
 - Id: 20261043
+  Label: R_ハンドサイン”3”
+  HandSide: 2
+- Id: 20261051
+  Label: R_ハンドサイン”3”
+  HandSide: 2
+- Id: 20261052
   Label: R_ハンドサイン”3”
   HandSide: 2
 - Id: 20271021
@@ -1408,6 +1714,12 @@
 - Id: 20271043
   Label: R_ハンドサイン”4”
   HandSide: 2
+- Id: 20271051
+  Label: R_ハンドサイン”4”
+  HandSide: 2
+- Id: 20271052
+  Label: R_ハンドサイン”4”
+  HandSide: 2
 - Id: 20281021
   Label: R_お狐様
   HandSide: 2
@@ -1434,4 +1746,40 @@
   HandSide: 2
 - Id: 20281043
   Label: R_お狐様
+  HandSide: 2
+- Id: 20281051
+  Label: R_お狐様
+  HandSide: 2
+- Id: 20281052
+  Label: R_お狐様
+  HandSide: 2
+- Id: 20291031
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291032
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291033
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291041
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291042
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291043
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291051
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20291052
+  Label: R_うちわ持ち
+  HandSide: 2
+- Id: 20301033
+  Label: R_タオル持ち
+  HandSide: 2
+- Id: 20301043
+  Label: R_タオル持ち
   HandSide: 2

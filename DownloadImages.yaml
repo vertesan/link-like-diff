@@ -249,25 +249,25 @@
   Title: 104th Collection
   OrderId: 42
   StartTime: 2025-05-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-08-26T02:59:59Z
 - Id: 110043
   DownloadType: 1
   Title: 102nd Graduation Album 梢
   OrderId: 43
   StartTime: 2025-05-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-08-26T02:59:59Z
 - Id: 110044
   DownloadType: 1
   Title: 102nd Graduation Album 綴理
   OrderId: 44
   StartTime: 2025-05-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-08-26T02:59:59Z
 - Id: 110045
   DownloadType: 1
   Title: 102nd Graduation Album 慈
   OrderId: 45
   StartTime: 2025-05-31T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-08-26T02:59:59Z
 - Id: 110046
   DownloadType: 1
   Title: 37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ
@@ -297,4 +297,16 @@
   Title: 5th Live Tour ～4Pair Power Spread!!!!～ 開催決定
   OrderId: 50
   StartTime: 2025-07-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110051
+  DownloadType: 1
+  Title: フルーツパンチ
+  OrderId: 51
+  StartTime: 2025-08-26T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110052
+  DownloadType: 1
+  Title: 太陽であれ！
+  OrderId: 52
+  StartTime: 2025-08-26T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
