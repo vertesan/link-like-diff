@@ -1,0 +1,15 @@
+- Id: 1
+  MinTargetNum: 1
+  MaxTargetNum: 100
+  BaseMultiplier: 10000
+  AdditionalMultiplier: 0
+- Id: 2
+  MinTargetNum: 101
+  MaxTargetNum: 10000
+  BaseMultiplier: 10100
+  AdditionalMultiplier: 100
+- Id: 3
+  MinTargetNum: 10001
+  MaxTargetNum: 100000
+  BaseMultiplier: 1000010
+  AdditionalMultiplier: 10

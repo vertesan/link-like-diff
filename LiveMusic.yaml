@@ -390,6 +390,13 @@
   HaveMotion: 1
   CharactersCount: 2
   CharactersIds: 1051,1052
+- Id: 50112
+  Label: 可惜夜花火
+  MusicId: 5011
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1031,1041
 - Id: 50118
   Label: ガーデンパーティ発表BGM
   MusicId: 5011
@@ -397,6 +404,27 @@
   HaveMotion: 0
   CharactersCount: 8
   CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50122
+  Label: ブルウモーメント
+  MusicId: 5012
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1032,1042
+- Id: 50132
+  Label: Very! Very! COCO夏っ
+  MusicId: 5013
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1033,1043
+- Id: 50142
+  Label: フュージョンクラスト
+  MusicId: 5014
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
@@ -530,6 +558,13 @@
   HaveMotion: 0
   CharactersCount: 6
   CharactersIds: 1021,1022,1023,1031,1032,1033
+- Id: 2031058
+  Label: 夏めきペイン(105期)
+  MusicId: 203105
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 2031062
   Label: ド!ド!ド!
   MusicId: 203106
