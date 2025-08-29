@@ -118,3 +118,43 @@
   SeasonGradeId: 1005006
   MinTargetNum: 30001
   MaxTargetNum: 999999
+- Id: 100500801
+  SeasonGradeId: 1005008
+  MinTargetNum: 1
+  MaxTargetNum: 3000
+- Id: 100500802
+  SeasonGradeId: 1005008
+  MinTargetNum: 3001
+  MaxTargetNum: 10000
+- Id: 100500803
+  SeasonGradeId: 1005008
+  MinTargetNum: 10001
+  MaxTargetNum: 20000
+- Id: 100500804
+  SeasonGradeId: 1005008
+  MinTargetNum: 20001
+  MaxTargetNum: 30000
+- Id: 100500805
+  SeasonGradeId: 1005008
+  MinTargetNum: 30001
+  MaxTargetNum: 999999
+- Id: 100500901
+  SeasonGradeId: 1005009
+  MinTargetNum: 1
+  MaxTargetNum: 3000
+- Id: 100500902
+  SeasonGradeId: 1005009
+  MinTargetNum: 3001
+  MaxTargetNum: 10000
+- Id: 100500903
+  SeasonGradeId: 1005009
+  MinTargetNum: 10001
+  MaxTargetNum: 20000
+- Id: 100500904
+  SeasonGradeId: 1005009
+  MinTargetNum: 20001
+  MaxTargetNum: 30000
+- Id: 100500905
+  SeasonGradeId: 1005009
+  MinTargetNum: 30001
+  MaxTargetNum: 999999

@@ -228,7 +228,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 103108
   OrderId: 1408
   Title: ジブンダイアリー
@@ -261,7 +261,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 103109
   OrderId: 1005
   Title: 永遠のEuphoria
@@ -2637,7 +2637,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 203204
   OrderId: 6008
   Title: ♡桃色片想い♡
@@ -2967,7 +2967,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 204104
   OrderId: 1614
   Title: みらくりえーしょん
@@ -4584,7 +4584,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 303202
   OrderId: 6005
   Title: ロストワンの号哭
@@ -6169,6 +6169,72 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-08-19T03:00:00Z
+- Id: 405110
+  OrderId: 1806
+  Title: フュージョンクラスト
+  TitleFurigana: ふゅーじょんくらすと
+  JacketId: 405110
+  SoundId: 40511001
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1052
+  SingerCharacterId: "1051"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 18367
+  ApIncrement: 1067
+  SongTime: 10673
+  PlayTime: 128077
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
+- Id: 405111
+  OrderId: 1038
+  Title: 夏めきペイン（105期Ver.）
+  TitleFurigana: なつめきぺいん
+  JacketId: 405111
+  SoundId: 40511101
+  Description: 全体曲
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1033
+  SingerCharacterId: 1031,1032,1041,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 13636
+  ApIncrement: 766
+  SongTime: 7660
+  PlayTime: 91915
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!
@@ -6201,7 +6267,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 3
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-08-29T12:00:00Z
 - Id: 405302
   OrderId: 5012
   Title: 愛♡スクリ～ム！

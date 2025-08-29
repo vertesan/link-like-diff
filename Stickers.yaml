@@ -9022,6 +9022,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10415181
+  Name: "[蒼のツバメ]百生\u00a0吟子"
+  Text: "[蒼のツバメ]百生\u00a0吟子 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 241518
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1041518
+  RequirementText: "[蒼のツバメ]百生\u00a0吟子 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-08-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-08-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10418011
   Name: "[Ether Aria]百生\u00a0吟子"
   Text: "[Ether Aria]百生\u00a0吟子 を4回解放した記念のステッカー"
@@ -10750,6 +10774,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10515051
+  Name: "[フュージョンクラスト]桂城\u00a0泉"
+  Text: "[フュージョンクラスト]桂城\u00a0泉 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 251505
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1051505
+  RequirementText: "[フュージョンクラスト]桂城\u00a0泉 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-08-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-08-29T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10518011
   Name: "[Oracle Étude]桂城\u00a0泉"
   Text: "[Oracle Étude]桂城\u00a0泉 を4回解放した記念のステッカー"
@@ -10987,6 +11035,30 @@
   StartTime: 2025-07-09T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-07-09T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10525051
+  Name: "[フュージョンクラスト]セラス\u00a0柳田\u00a0リリエンフェルト"
+  Text: "[フュージョンクラスト]セラス\u00a0柳田\u00a0リリエンフェルト を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 252505
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1052505
+  RequirementText: "[フュージョンクラスト]セラス\u00a0柳田\u00a0リリエンフェルト 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-08-29T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-08-29T12:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -42286,6 +42358,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405110
+  Name: 『フュージョンクラスト』マエストロ
+  Text: 『フュージョンクラスト』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601806
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405110
+  RequirementText: 『フュージョンクラスト』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405111
+  Name: 『夏めきペイン（105期Ver.）』マエストロ
+  Text: 『夏めきペイン（105期Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601038
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405111
+  RequirementText: 『夏めきペイン（105期Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40405301
   Name: 『虹色Passions!』マエストロ
   Text: 『虹色Passions!』のマスタリーLv.を30にした記念のステッカー
@@ -46173,6 +46293,30 @@
   RequirementDetail: SERIAL
   RequirementValue: 250625002
   RequirementText: CD『太陽であれ！』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90405108
+  Name: <nobr>Jacket『可惜夜花火 / ブルウモーメント / Very! Very! COCO夏っ / フュージョンクラスト』</nobr>
+  Text: どんな今日が待ってるんだろう みんなの夏はナニイロ？ 燃えなくたって燃やしてやる 無自覚も罪なものね
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120052
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 250625003
+  RequirementText: <nobr>CD『可惜夜花火 / ブルウモーメント / Very! Very! COCO夏っ / フュージョンクラスト』購入特典</nobr>
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

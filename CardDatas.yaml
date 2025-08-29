@@ -53638,6 +53638,156 @@
   RhythmGameSkillSeriesId: 30415174
   CenterSkillLvUpItemId: 51
   RhythmGameSkillLvUpItemId: 51
+- Id: 10415180
+  CardSeriesId: 1041518
+  Name: 蒼のツバメ
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 52
+  InitialPure: 57
+  InitialCool: 35
+  InitialMental: 96
+  MaxSmile: 2600
+  MaxPure: 2850
+  MaxCool: 1750
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415180
+  SkillSeriesId: 20415180
+  AttributeId: 30415180
+  SpineId: 29
+  OrderId: 10386241
+  CenterSkillSeriesId: 10415180
+  CenterAttributeSeriesId: 20415180
+  RhythmGameSkillSeriesId: 30415180
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415181
+  CardSeriesId: 1041518
+  Name: 蒼のツバメ
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2600
+  InitialPure: 2850
+  InitialCool: 1750
+  InitialMental: 240
+  MaxSmile: 3640
+  MaxPure: 3990
+  MaxCool: 2450
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415181
+  SkillSeriesId: 20415180
+  AttributeId: 30415180
+  SpineId: 29
+  OrderId: 10386241
+  CenterSkillSeriesId: 10415180
+  CenterAttributeSeriesId: 20415180
+  RhythmGameSkillSeriesId: 30415180
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415182
+  CardSeriesId: 1041518
+  Name: 蒼のツバメ
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3640
+  InitialPure: 3990
+  InitialCool: 2450
+  InitialMental: 336
+  MaxSmile: 5200
+  MaxPure: 5700
+  MaxCool: 3500
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415182
+  SkillSeriesId: 20415180
+  AttributeId: 30415180
+  SpineId: 29
+  OrderId: 10386241
+  CenterSkillSeriesId: 10415180
+  CenterAttributeSeriesId: 20415180
+  RhythmGameSkillSeriesId: 30415182
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415183
+  CardSeriesId: 1041518
+  Name: 蒼のツバメ
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 5200
+  InitialPure: 5700
+  InitialCool: 3500
+  InitialMental: 480
+  MaxSmile: 5720
+  MaxPure: 6270
+  MaxCool: 3850
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415182
+  SkillSeriesId: 20415180
+  AttributeId: 30415180
+  SpineId: 29
+  OrderId: 10386241
+  CenterSkillSeriesId: 10415180
+  CenterAttributeSeriesId: 20415180
+  RhythmGameSkillSeriesId: 30415183
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
+- Id: 10415184
+  CardSeriesId: 1041518
+  Name: 蒼のツバメ
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 5720
+  InitialPure: 6270
+  InitialCool: 3850
+  InitialMental: 480
+  MaxSmile: 6240
+  MaxPure: 6840
+  MaxCool: 4200
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10415182
+  SkillSeriesId: 20415180
+  AttributeId: 30415180
+  SpineId: 29
+  OrderId: 10386241
+  CenterSkillSeriesId: 10415180
+  CenterAttributeSeriesId: 20415180
+  RhythmGameSkillSeriesId: 30415184
+  CenterSkillLvUpItemId: 51
+  RhythmGameSkillLvUpItemId: 51
 - Id: 10418011
   CardSeriesId: 1041801
   Name: Ether Aria
@@ -63268,6 +63418,156 @@
   RhythmGameSkillSeriesId: 30515044
   CenterSkillLvUpItemId: 54
   RhythmGameSkillLvUpItemId: 54
+- Id: 10515050
+  CardSeriesId: 1051505
+  Name: フュージョンクラスト
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 32
+  InitialPure: 57
+  InitialCool: 55
+  InitialMental: 96
+  MaxSmile: 1600
+  MaxPure: 2850
+  MaxCool: 2750
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515050
+  SkillSeriesId: 20515050
+  AttributeId: 30515050
+  SpineId: 11
+  OrderId: 10386151
+  CenterSkillSeriesId: 10515050
+  CenterAttributeSeriesId: 20515050
+  RhythmGameSkillSeriesId: 30515050
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515051
+  CardSeriesId: 1051505
+  Name: フュージョンクラスト
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 1600
+  InitialPure: 2850
+  InitialCool: 2750
+  InitialMental: 240
+  MaxSmile: 2240
+  MaxPure: 3990
+  MaxCool: 3850
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515051
+  SkillSeriesId: 20515050
+  AttributeId: 30515050
+  SpineId: 11
+  OrderId: 10386151
+  CenterSkillSeriesId: 10515050
+  CenterAttributeSeriesId: 20515050
+  RhythmGameSkillSeriesId: 30515050
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515052
+  CardSeriesId: 1051505
+  Name: フュージョンクラスト
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2240
+  InitialPure: 3990
+  InitialCool: 3850
+  InitialMental: 336
+  MaxSmile: 3200
+  MaxPure: 5700
+  MaxCool: 5500
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515052
+  SkillSeriesId: 20515050
+  AttributeId: 30515050
+  SpineId: 11
+  OrderId: 10386151
+  CenterSkillSeriesId: 10515050
+  CenterAttributeSeriesId: 20515050
+  RhythmGameSkillSeriesId: 30515052
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515053
+  CardSeriesId: 1051505
+  Name: フュージョンクラスト
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3200
+  InitialPure: 5700
+  InitialCool: 5500
+  InitialMental: 480
+  MaxSmile: 3520
+  MaxPure: 6270
+  MaxCool: 6050
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515052
+  SkillSeriesId: 20515050
+  AttributeId: 30515050
+  SpineId: 11
+  OrderId: 10386151
+  CenterSkillSeriesId: 10515050
+  CenterAttributeSeriesId: 20515050
+  RhythmGameSkillSeriesId: 30515053
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515054
+  CardSeriesId: 1051505
+  Name: フュージョンクラスト
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3520
+  InitialPure: 6270
+  InitialCool: 6050
+  InitialMental: 480
+  MaxSmile: 3840
+  MaxPure: 6840
+  MaxCool: 6600
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515052
+  SkillSeriesId: 20515050
+  AttributeId: 30515050
+  SpineId: 11
+  OrderId: 10386151
+  CenterSkillSeriesId: 10515050
+  CenterAttributeSeriesId: 20515050
+  RhythmGameSkillSeriesId: 30515054
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
 - Id: 10518011
   CardSeriesId: 1051801
   Name: Oracle Étude
@@ -64588,6 +64888,156 @@
   RhythmGameSkillSeriesId: 30525044
   CenterSkillLvUpItemId: 54
   RhythmGameSkillLvUpItemId: 54
+- Id: 10525050
+  CardSeriesId: 1052505
+  Name: フュージョンクラスト
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 34
+  InitialPure: 57
+  InitialCool: 53
+  InitialMental: 96
+  MaxSmile: 1700
+  MaxPure: 2850
+  MaxCool: 2650
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525050
+  SkillSeriesId: 20525050
+  AttributeId: 30525050
+  SpineId: 12
+  OrderId: 10386152
+  CenterSkillSeriesId: 10525050
+  CenterAttributeSeriesId: 20525050
+  RhythmGameSkillSeriesId: 30525050
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525051
+  CardSeriesId: 1052505
+  Name: フュージョンクラスト
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 1700
+  InitialPure: 2850
+  InitialCool: 2650
+  InitialMental: 240
+  MaxSmile: 2380
+  MaxPure: 3990
+  MaxCool: 3710
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525051
+  SkillSeriesId: 20525050
+  AttributeId: 30525050
+  SpineId: 12
+  OrderId: 10386152
+  CenterSkillSeriesId: 10525050
+  CenterAttributeSeriesId: 20525050
+  RhythmGameSkillSeriesId: 30525050
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525052
+  CardSeriesId: 1052505
+  Name: フュージョンクラスト
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2380
+  InitialPure: 3990
+  InitialCool: 3710
+  InitialMental: 336
+  MaxSmile: 3400
+  MaxPure: 5700
+  MaxCool: 5300
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525052
+  SkillSeriesId: 20525050
+  AttributeId: 30525050
+  SpineId: 12
+  OrderId: 10386152
+  CenterSkillSeriesId: 10525050
+  CenterAttributeSeriesId: 20525050
+  RhythmGameSkillSeriesId: 30525052
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525053
+  CardSeriesId: 1052505
+  Name: フュージョンクラスト
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3400
+  InitialPure: 5700
+  InitialCool: 5300
+  InitialMental: 480
+  MaxSmile: 3740
+  MaxPure: 6270
+  MaxCool: 5830
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525052
+  SkillSeriesId: 20525050
+  AttributeId: 30525050
+  SpineId: 12
+  OrderId: 10386152
+  CenterSkillSeriesId: 10525050
+  CenterAttributeSeriesId: 20525050
+  RhythmGameSkillSeriesId: 30525053
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525054
+  CardSeriesId: 1052505
+  Name: フュージョンクラスト
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3740
+  InitialPure: 6270
+  InitialCool: 5830
+  InitialMental: 480
+  MaxSmile: 4080
+  MaxPure: 6840
+  MaxCool: 6360
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525052
+  SkillSeriesId: 20525050
+  AttributeId: 30525050
+  SpineId: 12
+  OrderId: 10386152
+  CenterSkillSeriesId: 10525050
+  CenterAttributeSeriesId: 20525050
+  RhythmGameSkillSeriesId: 30525054
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
 - Id: 10528011
   CardSeriesId: 1052801
   Name: Oracle Étude
@@ -64596,18 +65046,18 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 3600
+  InitialPure: 2150
+  InitialCool: 2950
+  InitialMental: 290
+  MaxSmile: 5040
+  MaxPure: 3010
+  MaxCool: 4130
+  MaxMental: 406
+  BeatPoint: 100
   SpecialAppealSeriesId: 10528011
   SkillSeriesId: 20528010
   AttributeId: 30528010
@@ -64626,18 +65076,18 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 5040
+  InitialPure: 3010
+  InitialCool: 4130
+  InitialMental: 406
+  MaxSmile: 7200
+  MaxPure: 4300
+  MaxCool: 5900
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10528012
   SkillSeriesId: 20528010
   AttributeId: 30528010
@@ -64656,18 +65106,18 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 7200
+  InitialPure: 4300
+  InitialCool: 5900
+  InitialMental: 580
+  MaxSmile: 7920
+  MaxPure: 4730
+  MaxCool: 6490
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10528012
   SkillSeriesId: 20528010
   AttributeId: 30528010
@@ -64686,18 +65136,18 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 1
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 7920
+  InitialPure: 4730
+  InitialCool: 6490
+  InitialMental: 580
+  MaxSmile: 8640
+  MaxPure: 5160
+  MaxCool: 7080
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10528012
   SkillSeriesId: 20528010
   AttributeId: 30528010

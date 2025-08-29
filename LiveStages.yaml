@@ -7966,6 +7966,42 @@
   StageSkillEffectId: 0
   StageSkillDescription: スキルを50回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+1し、スキルを30回使用するたび、メイン効果がトークンカード追加であるデッキの全てのカードの消費APをステージ中常に-1する。
   StageSkillSetIds: 200020,100038
+- Id: 1041301
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100132
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを10回使用するたび、メンタルを最大値の10%減少させ、スキルを25回使用するたび、デッキの全てのみらくらぱーく！の消費APをステージ中常に-1する。
+  StageSkillSetIds: 200009,100081
+- Id: 1041302
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを5回使用するたび、ボルテージを-300し、スキルを15回使用するたび、メイン効果がボルテージゲイン効果であるデッキの全てのカードの消費APをステージ中常に+1する。
+  StageSkillSetIds: 200035,200037
+- Id: 1041303
+  Name: ホール
+  Description: ホール
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100101
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを25回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に-1し、スキルを10回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
+  StageSkillSetIds: 100082,100021
 - Id: 531031101
   Name: 教室
   Description: 教室

@@ -60,5 +60,13 @@
   CountStartTime: 2025-07-20T03:00:00Z
   CountEndTime: 2025-08-27T18:59:59Z
   DisplayStartTime: 2025-07-20T03:00:00Z
-  DisplayEndTime: 2035-12-31T14:59:59Z
+  DisplayEndTime: 2025-08-29T11:59:59Z
   TermTitle: 105期 2nd Term
+- Id: 1005009
+  Description: ・集計期間中に開催されるライブグランプリ
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2025-08-29T12:00:00Z
+  CountEndTime: 2025-09-28T18:59:59Z
+  DisplayStartTime: 2025-08-29T12:00:00Z
+  DisplayEndTime: 2035-12-31T14:59:59Z
+  TermTitle: 105期 3rd Term
