@@ -50038,6 +50038,126 @@
   RhythmGameSkillSeriesId: 30339014
   CenterSkillLvUpItemId: 93
   RhythmGameSkillLvUpItemId: 93
+- Id: 10339021
+  CardSeriesId: 1033902
+  Name: 18th Birthday
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10339021
+  SkillSeriesId: 20339020
+  AttributeId: 30339020
+  SpineId: 53
+  OrderId: 10386333
+  CenterSkillSeriesId: 10339020
+  CenterAttributeSeriesId: 20339020
+  RhythmGameSkillSeriesId: 30339020
+  CenterSkillLvUpItemId: 93
+  RhythmGameSkillLvUpItemId: 93
+- Id: 10339022
+  CardSeriesId: 1033902
+  Name: 18th Birthday
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10339022
+  SkillSeriesId: 20339020
+  AttributeId: 30339020
+  SpineId: 53
+  OrderId: 10386333
+  CenterSkillSeriesId: 10339020
+  CenterAttributeSeriesId: 20339020
+  RhythmGameSkillSeriesId: 30339022
+  CenterSkillLvUpItemId: 93
+  RhythmGameSkillLvUpItemId: 93
+- Id: 10339023
+  CardSeriesId: 1033902
+  Name: 18th Birthday
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10339022
+  SkillSeriesId: 20339020
+  AttributeId: 30339020
+  SpineId: 53
+  OrderId: 10386333
+  CenterSkillSeriesId: 10339020
+  CenterAttributeSeriesId: 20339020
+  RhythmGameSkillSeriesId: 30339023
+  CenterSkillLvUpItemId: 93
+  RhythmGameSkillLvUpItemId: 93
+- Id: 10339024
+  CardSeriesId: 1033902
+  Name: 18th Birthday
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10339022
+  SkillSeriesId: 20339020
+  AttributeId: 30339020
+  SpineId: 53
+  OrderId: 10386333
+  CenterSkillSeriesId: 10339020
+  CenterAttributeSeriesId: 20339020
+  RhythmGameSkillSeriesId: 30339024
+  CenterSkillLvUpItemId: 93
+  RhythmGameSkillLvUpItemId: 93
 - Id: 10413010
   CardSeriesId: 1041301
   Name: レインボーシフォン

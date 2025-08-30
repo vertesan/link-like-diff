@@ -278,6 +278,46 @@
   VoltageBonus: 2
   HeartBonus: 2
   LoveBonus: 2
+- Id: 103390200
+  CardSeriesId: 1033902
+  SkillName: 18th Birthday
+  LimitBreakTimes: 0
+  MentalBonus: 1
+  VoltageBonus: 1
+  HeartBonus: 1
+  LoveBonus: 1
+- Id: 103390201
+  CardSeriesId: 1033902
+  SkillName: 18th Birthday
+  LimitBreakTimes: 1
+  MentalBonus: 2
+  VoltageBonus: 1
+  HeartBonus: 1
+  LoveBonus: 1
+- Id: 103390202
+  CardSeriesId: 1033902
+  SkillName: 18th Birthday
+  LimitBreakTimes: 2
+  MentalBonus: 2
+  VoltageBonus: 1
+  HeartBonus: 2
+  LoveBonus: 1
+- Id: 103390203
+  CardSeriesId: 1033902
+  SkillName: 18th Birthday
+  LimitBreakTimes: 3
+  MentalBonus: 2
+  VoltageBonus: 2
+  HeartBonus: 2
+  LoveBonus: 1
+- Id: 103390204
+  CardSeriesId: 1033902
+  SkillName: 18th Birthday
+  LimitBreakTimes: 4
+  MentalBonus: 2
+  VoltageBonus: 2
+  HeartBonus: 2
+  LoveBonus: 2
 - Id: 104190100
   CardSeriesId: 1041901
   SkillName: 16th Birthday
