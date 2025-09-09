@@ -360,7 +360,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-09T03:00:00Z
 - Id: 103112
   OrderId: 1007
   Title: Dream Believers
@@ -1182,8 +1182,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104110
@@ -1281,8 +1281,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104113
@@ -1347,8 +1347,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 104115
@@ -3261,8 +3261,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204113
@@ -3426,8 +3426,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 204118
@@ -4617,7 +4617,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-09T03:00:00Z
 - Id: 303203
   OrderId: 6006
   Title: 名前のない怪物
@@ -5010,8 +5010,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304108
@@ -5241,8 +5241,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304115
@@ -5439,8 +5439,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
 - Id: 304121
@@ -5703,8 +5703,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2025-05-20T03:00:00Z
 - Id: 305103
@@ -6235,6 +6235,72 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+- Id: 405112
+  OrderId: 1628
+  Title: ニャオシグニャル
+  TitleFurigana: にゃおしぐにゃる
+  JacketId: 405112
+  SoundId: 40511201
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1043
+  SingerCharacterId: "1033"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 12857
+  ApIncrement: 760
+  SongTime: 7600
+  PlayTime: 91200
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-09-09T03:00:00Z
+- Id: 405113
+  OrderId: 1629
+  Title: ハートにQ
+  TitleFurigana: はーとにきゅー
+  JacketId: 405113
+  SoundId: 40511301
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: "1043"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 17647
+  ApIncrement: 891
+  SongTime: 8906
+  PlayTime: 106875
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-09-09T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!
@@ -6334,3 +6400,36 @@
   VideoBgId: 0
   SongType: 3
   MusicScoreReleaseTime: 2025-08-10T03:00:00Z
+- Id: 405304
+  OrderId: 5014
+  Title: Shocking Party
+  TitleFurigana: しょっきんぐぱーてぃー
+  JacketId: 405304
+  SoundId: 40530401
+  Description: LLカバー
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1051
+  SingerCharacterId: "1052"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 19565
+  ApIncrement: 765
+  SongTime: 7647
+  PlayTime: 91765
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-09-09T03:00:00Z

@@ -98,6 +98,31 @@
   TargetIds: "0"
   RhythmGameSkillEffectValue: 200000
   RhythmGameSkillEffectValue2: 0
+- Id: 100210000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: 210000
+  RhythmGameSkillEffectValue2: 0
+- Id: 100220000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: 220000
+  RhythmGameSkillEffectValue2: 0
+- Id: 100230000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: 230000
+  RhythmGameSkillEffectValue2: 0
+- Id: 100240000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: 240000
+  RhythmGameSkillEffectValue2: 0
+- Id: 100250000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: 250000
+  RhythmGameSkillEffectValue2: 0
 - Id: 110010000
   RhythmGameSkillEffectType: 1
   TargetIds: "0"
