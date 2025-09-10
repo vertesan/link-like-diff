@@ -31498,6 +31498,36 @@
   TargetDetail: 7
   TargetNum: 4
   BonusValue: 14000
+- Id: 8051061080
+  GrandPrixesId: 805106
+  TargetType: 1
+  TargetDetail: 8
+  TargetNum: 0
+  BonusValue: 10000
+- Id: 8051061081
+  GrandPrixesId: 805106
+  TargetType: 1
+  TargetDetail: 8
+  TargetNum: 1
+  BonusValue: 12000
+- Id: 8051061082
+  GrandPrixesId: 805106
+  TargetType: 1
+  TargetDetail: 8
+  TargetNum: 2
+  BonusValue: 13000
+- Id: 8051061083
+  GrandPrixesId: 805106
+  TargetType: 1
+  TargetDetail: 8
+  TargetNum: 3
+  BonusValue: 13500
+- Id: 8051061084
+  GrandPrixesId: 805106
+  TargetType: 1
+  TargetDetail: 8
+  TargetNum: 4
+  BonusValue: 14000
 - Id: 8051061090
   GrandPrixesId: 805106
   TargetType: 1
