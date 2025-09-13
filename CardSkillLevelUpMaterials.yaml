@@ -78952,7 +78952,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 5
-  Cost_ItemsId2: 3006071
+  Cost_ItemsId2: 3006011
   CostNum2: 3
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -78964,7 +78964,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006071
+  Cost_ItemsId2: 3006011
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -78976,9 +78976,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 5
-  Cost_ItemsId2: 3006072
+  Cost_ItemsId2: 3006012
   CostNum2: 5
-  Cost_ItemsId3: 3006071
+  Cost_ItemsId3: 3006011
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -78988,7 +78988,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 7
-  Cost_ItemsId2: 3006072
+  Cost_ItemsId2: 3006012
   CostNum2: 10
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -79000,9 +79000,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006073
+  Cost_ItemsId2: 3006013
   CostNum2: 10
-  Cost_ItemsId3: 3006072
+  Cost_ItemsId3: 3006012
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79014,7 +79014,7 @@
   CostNum1: 5
   Cost_ItemsId2: 3006223
   CostNum2: 10
-  Cost_ItemsId3: 3006073
+  Cost_ItemsId3: 3006013
   CostNum3: 5
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79026,7 +79026,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006223
   CostNum2: 20
-  Cost_ItemsId3: 3006073
+  Cost_ItemsId3: 3006013
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79038,7 +79038,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 10
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 3
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79050,7 +79050,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79062,7 +79062,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79074,7 +79074,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79086,7 +79086,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79108,7 +79108,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 5
-  Cost_ItemsId2: 3006071
+  Cost_ItemsId2: 3006011
   CostNum2: 3
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -79120,7 +79120,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006071
+  Cost_ItemsId2: 3006011
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -79132,9 +79132,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 5
-  Cost_ItemsId2: 3006072
+  Cost_ItemsId2: 3006012
   CostNum2: 5
-  Cost_ItemsId3: 3006071
+  Cost_ItemsId3: 3006011
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79144,7 +79144,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 7
-  Cost_ItemsId2: 3006072
+  Cost_ItemsId2: 3006012
   CostNum2: 10
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -79156,9 +79156,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006073
+  Cost_ItemsId2: 3006013
   CostNum2: 10
-  Cost_ItemsId3: 3006072
+  Cost_ItemsId3: 3006012
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79170,7 +79170,7 @@
   CostNum1: 5
   Cost_ItemsId2: 3006223
   CostNum2: 10
-  Cost_ItemsId3: 3006073
+  Cost_ItemsId3: 3006013
   CostNum3: 5
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79182,7 +79182,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006223
   CostNum2: 20
-  Cost_ItemsId3: 3006073
+  Cost_ItemsId3: 3006013
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79194,7 +79194,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 10
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 3
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79206,7 +79206,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79218,7 +79218,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79230,7 +79230,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -79242,7 +79242,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006074
+  Cost_ItemsId3: 3006014
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""

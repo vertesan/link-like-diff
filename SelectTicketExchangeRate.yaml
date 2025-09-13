@@ -4814,6 +4814,13 @@
   ExchangeItemQuantity: 1
   StartTime: 2025-07-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4030011092
+  SelectTicketSeriesId: 4030011
+  ExchangeItemType: 2
+  ExchangeItemId: 10515040
+  ExchangeItemQuantity: 1
+  StartTime: 2025-08-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4030012001
   SelectTicketSeriesId: 4030012
   ExchangeItemType: 2
