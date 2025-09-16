@@ -154,6 +154,18 @@
   Description: Gradeを上昇させるのに必要なポイント。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1005009
+  Name: Grade Pt.
+  NameFurigana: ぐれーどぽいんと
+  ItemType: 8
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 99999999
+  RequestableNum: 0
+  Description: Gradeを上昇させるのに必要なポイント。
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 1006001
   Name: KEY of 『Shades of Stars』
   NameFurigana: きーおぶしぇいずおぶすたーず
