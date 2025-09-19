@@ -3472,6 +3472,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30005400
   Description: 全メンバーのアピール値が54％上昇
+- Id: 20314221
+  CenterAttributeSeriesId: 20314220
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 20314222
+  CenterAttributeSeriesId: 20314220
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 20314223
+  CenterAttributeSeriesId: 20314220
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30006000
+  Description: 全メンバーのアピール値が60％上昇
 - Id: 20315011
   CenterAttributeSeriesId: 20315010
   CenterAttributeName: アピールアップ
@@ -8098,6 +8116,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20515061
+  CenterAttributeSeriesId: 20515060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20515062
+  CenterAttributeSeriesId: 20515060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20515063
+  CenterAttributeSeriesId: 20515060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20518011
   CenterAttributeSeriesId: 20518010
   CenterAttributeName: アピールアップ（桂城泉）&APレデュース&CTレデュース
@@ -8290,6 +8326,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525061
+  CenterAttributeSeriesId: 20525060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20525062
+  CenterAttributeSeriesId: 20525060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20525063
+  CenterAttributeSeriesId: 20525060
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20528011
   CenterAttributeSeriesId: 20528010
   CenterAttributeName: アピールアップ（セラス）&APレデュース&CTレデュース

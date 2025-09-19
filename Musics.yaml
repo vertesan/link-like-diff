@@ -459,7 +459,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
 - Id: 103115
   OrderId: 1211
   Title: 千変万華
@@ -2736,7 +2736,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
 - Id: 203207
   OrderId: 6014
   Title: 強風オールバック
@@ -4254,7 +4254,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
 - Id: 303111
   OrderId: 1410
   Title: Take It Over
@@ -4650,7 +4650,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
 - Id: 303204
   OrderId: 6011
   Title: ヴィラン
@@ -6301,6 +6301,72 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-09-09T03:00:00Z
+- Id: 405114
+  OrderId: 1807
+  Title: 片翼のトリバガ
+  TitleFurigana: へんよくのとりばが
+  JacketId: 405114
+  SoundId: 40511401
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1051
+  SingerCharacterId: "1052"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 10714
+  ApIncrement: 1091
+  SongTime: 10909
+  PlayTime: 130909
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
+- Id: 405115
+  OrderId: 1808
+  Title: ドライブ・スペード・クレイジー
+  TitleFurigana: どらいぶすぺーとくれいじー
+  JacketId: 405115
+  SoundId: 40511501
+  Description: Edel Note
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1052
+  SingerCharacterId: "1051"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 14754
+  ApIncrement: 771
+  SongTime: 7714
+  PlayTime: 92571
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-09-19T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!

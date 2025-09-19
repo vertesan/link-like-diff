@@ -2743,6 +2743,21 @@
   SkillIcon: 10314210
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 10314220
+  Name: スーシェン
+  SkillIcon: 10314220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10314221
+  Name: スーシェン
+  SkillIcon: 10314220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10314222
+  Name: スーシェン
+  SkillIcon: 10314220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 10315010
   Name: ハートキャプチャ
   SkillIcon: 10315010
@@ -6373,6 +6388,21 @@
   SkillIcon: 10515050
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 10515060
+  Name: デビルアシスト
+  SkillIcon: 10515060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10515061
+  Name: デビルアシスト
+  SkillIcon: 10515060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10515062
+  Name: デビルアシスト
+  SkillIcon: 10515060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
 - Id: 10518010
   Name: 〓〓〓〓〓〓〓
   SkillIcon: 10518010
@@ -6522,6 +6552,21 @@
   Name: サマーマジックアワー
   SkillIcon: 10525050
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525060
+  Name: エンジェルアシスト
+  SkillIcon: 10525060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10525061
+  Name: エンジェルアシスト
+  SkillIcon: 10525060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10525062
+  Name: エンジェルアシスト
+  SkillIcon: 10525060
+  SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -7487,6 +7532,11 @@
   Name: フルネスエクステボルテージ
   SkillIcon: 20314210
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 20314220
+  Name: テトラハート
+  SkillIcon: 20314220
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20315010
   Name: サウンドハート
@@ -8718,6 +8768,11 @@
   SkillIcon: 20515050
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 20515060
+  Name: イミテーションエクステアトラクト
+  SkillIcon: 20515060
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 20518010
   Name: 〓〓〓〓〓〓〓
   SkillIcon: 20518010
@@ -8767,6 +8822,11 @@
   Name: サウンドフュージョン
   SkillIcon: 20525050
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 20525060
+  Name: リットアトラクトバイブス
+  SkillIcon: 20525060
+  SkillMainEffect: 47
   IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
@@ -9782,6 +9842,11 @@
   Name: ドロー：APレデュース：グルーヴィ＆チアフル
   SkillIcon: 30314210
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 30314220
+  Name: ベイファンジーホア
+  SkillIcon: 30314220
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30315010
   Name: フェイバリット：フィーバー & APレデュース：ラブアトラクト
@@ -10883,6 +10948,11 @@
   SkillIcon: 30515050
   SkillMainEffect: 47
   IsExSpecialAppeal: 0
+- Id: 30515060
+  Name: セラフィックウイング‖
+  SkillIcon: 30515060
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30518010
   Name: 〓〓〓〓〓〓〓
   SkillIcon: 30518010
@@ -10922,6 +10992,11 @@
   Name: サンセットライト
   SkillIcon: 30525050
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 30525060
+  Name: ‖デーモニックウイング
+  SkillIcon: 30525060
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive

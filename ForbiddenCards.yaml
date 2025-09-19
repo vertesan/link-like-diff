@@ -1,0 +1,15 @@
+- Id: 2025070001
+  ConditionType: 310
+  ConditionValue: 0
+  TargetType: 30
+  TargetValue: 8
+- Id: 2025070002
+  ConditionType: 600
+  ConditionValue: 0
+  TargetType: 30
+  TargetValue: 8
+- Id: 2025090001
+  ConditionType: 700
+  ConditionValue: 0
+  TargetType: 30
+  TargetValue: 8

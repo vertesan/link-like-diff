@@ -78,6 +78,14 @@
   StageSkillConditionId: 1051025
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
   ConditionValue: 25
+- Id: 10510280
+  StageSkillConditionId: 1051028
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 1
+- Id: 10510281
+  StageSkillConditionId: 1051028
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 28
 - Id: 10520210
   StageSkillConditionId: 1052021
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE

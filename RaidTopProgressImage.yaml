@@ -26,3 +26,11 @@
   RaidEventId: 900010
   Order: 7
   RequirePoint: 0
+- Id: 90002001
+  RaidEventId: 900020
+  Order: 1
+  RequirePoint: 0
+- Id: 90003001
+  RaidEventId: 900030
+  Order: 1
+  RequirePoint: 0

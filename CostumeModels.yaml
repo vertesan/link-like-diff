@@ -678,6 +678,16 @@
   CharactersId: 1043
   CostumesId: 2008
   HairStyleId: 5
+- Id: 2008105101
+  Label: 部屋着(秋冬)_桂城泉
+  CharactersId: 1051
+  CostumesId: 2008
+  HairStyleId: 1
+- Id: 2008105201
+  Label: 部屋着(秋冬)_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 2008
+  HairStyleId: 1
 - Id: 2009103205
   Label: スケート着(本番用)_村野さやか
   CharactersId: 1032
@@ -843,6 +853,16 @@
   CharactersId: 1043
   CostumesId: 2020
   HairStyleId: 1
+- Id: 2020105101
+  Label: 外出着(秋冬)_コートなし_桂城泉
+  CharactersId: 1051
+  CostumesId: 2020
+  HairStyleId: 1
+- Id: 2020105201
+  Label: 外出着(秋冬)_コートなし_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 2020
+  HairStyleId: 1
 - Id: 2021102106
   Label: 外出着(秋冬)_コートあり_乙宗梢
   CharactersId: 1021
@@ -891,6 +911,16 @@
 - Id: 2021104301
   Label: 外出着(秋冬)_コートあり_安養寺姫芽
   CharactersId: 1043
+  CostumesId: 2021
+  HairStyleId: 1
+- Id: 2021105101
+  Label: 外出着(秋冬)_コートあり_桂城泉
+  CharactersId: 1051
+  CostumesId: 2021
+  HairStyleId: 1
+- Id: 2021105201
+  Label: 外出着(秋冬)_コートあり_セラス・柳田・L
+  CharactersId: 1052
   CostumesId: 2021
   HairStyleId: 1
 - Id: 2022105201
@@ -1406,6 +1436,16 @@
 - Id: 3015104301
   Label: トレーニングウェア(秋冬)_安養寺姫芽
   CharactersId: 1043
+  CostumesId: 3015
+  HairStyleId: 1
+- Id: 3015105101
+  Label: トレーニングウェア(秋冬)_桂城泉
+  CharactersId: 1051
+  CostumesId: 3015
+  HairStyleId: 1
+- Id: 3015105201
+  Label: トレーニングウェア(秋冬)_セラス・柳田・L
+  CharactersId: 1052
   CostumesId: 3015
   HairStyleId: 1
 - Id: 3016102110
