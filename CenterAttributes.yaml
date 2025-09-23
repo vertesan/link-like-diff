@@ -7954,6 +7954,24 @@
   TargetIds: "11043"
   CenterAttributeEffectId: 30040000
   Description: 安養寺姫芽のアピール値が400％上昇
+- Id: 20439021
+  CenterAttributeSeriesId: 20439020
+  CenterAttributeName: アピールアップ（安養寺姫芽）
+  TargetIds: "11043"
+  CenterAttributeEffectId: 10040000
+  Description: 安養寺姫芽のアピール値が400％上昇
+- Id: 20439022
+  CenterAttributeSeriesId: 20439020
+  CenterAttributeName: アピールアップ（安養寺姫芽）
+  TargetIds: "11043"
+  CenterAttributeEffectId: 20040000
+  Description: 安養寺姫芽のアピール値が400％上昇
+- Id: 20439023
+  CenterAttributeSeriesId: 20439020
+  CenterAttributeName: アピールアップ（安養寺姫芽）
+  TargetIds: "11043"
+  CenterAttributeEffectId: 30040000
+  Description: 安養寺姫芽のアピール値が400％上昇
 - Id: 20513011
   CenterAttributeSeriesId: 20513010
   CenterAttributeName: アピールアップ

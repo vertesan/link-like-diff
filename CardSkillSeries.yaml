@@ -6253,6 +6253,21 @@
   SkillIcon: 10439010
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 10439020
+  Name: グルーヴイグニッション
+  SkillIcon: 10439020
+  SkillMainEffect: 45
+  IsExSpecialAppeal: 0
+- Id: 10439021
+  Name: グルーヴイグニッション
+  SkillIcon: 10439020
+  SkillMainEffect: 45
+  IsExSpecialAppeal: 0
+- Id: 10439022
+  Name: グルーヴイグニッション
+  SkillIcon: 10439020
+  SkillMainEffect: 45
+  IsExSpecialAppeal: 0
 - Id: 10513010
   Name: ハートキャプチャ
   SkillIcon: 10513010
@@ -8718,6 +8733,11 @@
   SkillIcon: 20439010
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 20439020
+  Name: ブルームマイセルフ
+  SkillIcon: 20439020
+  SkillMainEffect: 35
+  IsExSpecialAppeal: 0
 - Id: 20444010
   Name: Letztes Lied
   SkillIcon: 20444010
@@ -10907,6 +10927,11 @@
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30439010
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 30439020
+  Name: バースデイキャンドル
+  SkillIcon: 30439020
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 30444010
   Name: クローズ
