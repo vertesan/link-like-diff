@@ -38,6 +38,26 @@
   AdvUnlockItemNum: 1
   AdvUnlockConditionValue: 10200101
   IsPersistentReward: 1
+- Id: 10200103
+  AdvSeriesId: 102001
+  Name: ～Shades of Stars～
+  Description: 第3話『Reflection in the mirror』前編
+  ScriptId: 10250103
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3,6
+  WatchRewardId: 1002001,3009000,95000003
+  WatchRewardNum: 200,1,1
+  RewardTextId: 30200001,30200001,30200001
+  OrderId: 10200103
+  SubTitleName: 第3話
+  StartTime: 2025-09-26T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 1
+  AdvUnlockItemId: 1006001
+  AdvUnlockItemNum: 1
+  AdvUnlockConditionValue: 10200102
+  IsPersistentReward: 1
 - Id: 10300101
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』
@@ -6353,6 +6373,26 @@
   StartTime: 2025-09-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500610
+  AdvSeriesId: 105006
+  Name: 第6話『未来への花』
+  Description: BD
+  ScriptId: 10500610
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 317
+  SubTitleName: BD
+  StartTime: 2025-09-26T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
   AdvScreenMode: 0
   AdvUnlockItemId: 0
   AdvUnlockItemNum: 0

@@ -50880,6 +50880,32 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 95000003
+  Name: "[Shades\u00a0of\u00a0Stars/mini]乙宗\u00a0梢"
+  Text: |-
+    102期活動記録 ～Shades of Stars～
+    第3話『Reflection in the mirror』前編 読了証
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 160003
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 102期活動記録 ～Shades of Stars～ 第3話『Reflection in the mirror』前編 を読了
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-09-26T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-09-26T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 99000001
   Name: 【称号】音ノ木坂学院生
   Text: 国立音ノ木坂学院の生徒である証
