@@ -6588,6 +6588,18 @@
   Description: スタイル解放素材(日野下 花帆)
   StartTime: 2025-08-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4031533
+  Name: "[想造の地平から]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2025-09-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4031801
   Name: "[Prism Echo]日野下\u00a0花帆 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7356,6 +7368,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-07-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032530
+  Name: "[醒悟の地平から]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-09-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -7979,6 +8003,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2025-09-09T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4033528
+  Name: "[眺望の地平から]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-09-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."

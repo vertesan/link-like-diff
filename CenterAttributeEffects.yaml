@@ -22,6 +22,9 @@
 - Id: 10016000
   CenterAttributeEffectType: 1
   CenterAttributeEffectValue: 16000
+- Id: 10018000
+  CenterAttributeEffectType: 1
+  CenterAttributeEffectValue: 18000
 - Id: 10020000
   CenterAttributeEffectType: 1
   CenterAttributeEffectValue: 20000
@@ -58,6 +61,9 @@
 - Id: 20016000
   CenterAttributeEffectType: 2
   CenterAttributeEffectValue: 16000
+- Id: 20018000
+  CenterAttributeEffectType: 2
+  CenterAttributeEffectValue: 18000
 - Id: 20020000
   CenterAttributeEffectType: 2
   CenterAttributeEffectValue: 20000
@@ -94,6 +100,9 @@
 - Id: 30016000
   CenterAttributeEffectType: 3
   CenterAttributeEffectValue: 16000
+- Id: 30018000
+  CenterAttributeEffectType: 3
+  CenterAttributeEffectValue: 18000
 - Id: 30020000
   CenterAttributeEffectType: 3
   CenterAttributeEffectValue: 20000
@@ -106,12 +115,36 @@
 - Id: 30040000
   CenterAttributeEffectType: 3
   CenterAttributeEffectValue: 40000
+- Id: 71010000
+  CenterAttributeEffectType: 7
+  CenterAttributeEffectValue: -10000
+- Id: 80000100
+  CenterAttributeEffectType: 8
+  CenterAttributeEffectValue: 100
+- Id: 90000001
+  CenterAttributeEffectType: 9
+  CenterAttributeEffectValue: 1
 - Id: 91000001
   CenterAttributeEffectType: 9
   CenterAttributeEffectValue: -1
 - Id: 91000002
   CenterAttributeEffectType: 9
   CenterAttributeEffectValue: -2
+- Id: 91000008
+  CenterAttributeEffectType: 9
+  CenterAttributeEffectValue: -8
+- Id: 100000300
+  CenterAttributeEffectType: 10
+  CenterAttributeEffectValue: 300
 - Id: 101000200
   CenterAttributeEffectType: 10
   CenterAttributeEffectValue: -200
+- Id: 101000300
+  CenterAttributeEffectType: 10
+  CenterAttributeEffectValue: -300
+- Id: 110001000
+  CenterAttributeEffectType: 11
+  CenterAttributeEffectValue: 1000
+- Id: 120160000
+  CenterAttributeEffectType: 12
+  CenterAttributeEffectValue: 160000

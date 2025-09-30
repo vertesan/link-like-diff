@@ -3238,6 +3238,21 @@
   SkillIcon: 10315320
   SkillMainEffect: 47
   IsExSpecialAppeal: 0
+- Id: 10315330
+  Name: ジェネシスレルム
+  SkillIcon: 10315330
+  SkillMainEffect: 51
+  IsExSpecialAppeal: 0
+- Id: 10315331
+  Name: ジェネシスレルム
+  SkillIcon: 10315330
+  SkillMainEffect: 51
+  IsExSpecialAppeal: 0
+- Id: 10315332
+  Name: ジェネシスレルム
+  SkillIcon: 10315330
+  SkillMainEffect: 51
+  IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -4188,6 +4203,21 @@
   SkillIcon: 10325290
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 10325300
+  Name: アウェイキングガイア
+  SkillIcon: 10325300
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10325301
+  Name: アウェイキングガイア
+  SkillIcon: 10325300
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10325302
+  Name: アウェイキングガイア
+  SkillIcon: 10325300
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -4957,6 +4987,21 @@
   Name: ドリームジョッキー
   SkillIcon: 10335260
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335280
+  Name: セカンドサイト
+  SkillIcon: 10335280
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10335281
+  Name: セカンドサイト
+  SkillIcon: 10335280
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10335282
+  Name: セカンドサイト
+  SkillIcon: 10335280
+  SkillMainEffect: 53
   IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
@@ -7713,6 +7758,11 @@
   SkillIcon: 20315320
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20315330
+  Name: ブルーミングホライゾン
+  SkillIcon: 20315330
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -8033,6 +8083,11 @@
   SkillIcon: 20325290
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 20325300
+  Name: ブルーミングフューエル
+  SkillIcon: 20325300
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -8292,6 +8347,11 @@
   Name: グルーヴィシグニャル
   SkillIcon: 20335260
   SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 20335280
+  Name: ブルーミングパス
+  SkillIcon: 20335280
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
@@ -10028,6 +10088,11 @@
   SkillIcon: 30315320
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30315330
+  Name: グランドデザイン
+  SkillIcon: 30315330
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -10318,6 +10383,11 @@
   SkillIcon: 30325290
   SkillMainEffect: 34
   IsExSpecialAppeal: 0
+- Id: 30325300
+  Name: スコーチング
+  SkillIcon: 30325300
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -10547,6 +10617,11 @@
   Name: サウンドグルーヴィハート
   SkillIcon: 30335260
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 30335280
+  Name: ブリードバッテリー
+  SkillIcon: 30335280
+  SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
@@ -11511,6 +11586,61 @@
 - Id: 80335010
   Name: 《蒼のツバメ》
   SkillIcon: 80415180
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345010
+  Name: リフレッシュ & サーチ：梢
+  SkillIcon: 83351401
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345020
+  Name: リフレッシュ & サーチ：綴理
+  SkillIcon: 83351402
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345030
+  Name: リフレッシュ & サーチ：慈
+  SkillIcon: 83351403
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345040
+  Name: リフレッシュ & サーチ：花帆
+  SkillIcon: 83351404
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345050
+  Name: リフレッシュ & サーチ：さやか
+  SkillIcon: 83351405
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345060
+  Name: リフレッシュ & サーチ：瑠璃乃
+  SkillIcon: 83351406
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345070
+  Name: リフレッシュ & サーチ：吟子
+  SkillIcon: 83351407
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345080
+  Name: リフレッシュ & サーチ：小鈴
+  SkillIcon: 83351408
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345090
+  Name: リフレッシュ & サーチ：姫芽
+  SkillIcon: 83351409
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345100
+  Name: リフレッシュ & サーチ：泉
+  SkillIcon: 83351410
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80345110
+  Name: リフレッシュ & サーチ：セラス
+  SkillIcon: 83351411
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80444010

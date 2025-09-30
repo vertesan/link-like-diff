@@ -1718,3 +1718,11 @@
   RewardNum: 2
   LifeTimeDay: 30
   RewardTextId: 40102514
+- Id: 20105001
+  LoginBonusRewardSeriesId: 201050
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000053
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102515

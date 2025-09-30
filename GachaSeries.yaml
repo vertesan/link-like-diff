@@ -4858,3 +4858,33 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+- Id: 1050307
+  GachaSeriesName: 2025 PARTY! LIMITED COLLECTION
+  Description: PARTY! LIMITED COLLECTION
+  GachaType: 8
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1050307
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 1
+  FilterType: 1
+  PickUpCardSeriesId_1: 1031533
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1032530
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1033528
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-09-30T03:00:00Z
+  EndTime: 2025-10-06T11:59:59Z
+  NoticeText: "{'mainTitle':'2025 PARTY! LIMITED COLLECTIONに関する諸注意','mainMessages':['・LIMITEDとなるカードは、本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャにおいてPARTY! LIMITEDカードを','\u3000重複して獲得した場合、該当カードの解放Pt.が「100pt」付与されます。','・本ガチャから SEASON LIMITED カードの排出はありません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2025 PARTY! LIMITED COLLECTION」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2025 PARTY! LIMITED COLLECTION」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 10501101

@@ -4072,6 +4072,42 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315331
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: 20101,11032,11033
+  CenterAttributeEffectId: 10018000
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315332
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: 20101,11032,11033
+  CenterAttributeEffectId: 20018000
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315333
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: 20101,11032,11033
+  CenterAttributeEffectId: 30018000
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315334
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 90000001
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315335
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 110001000
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315336
+  CenterAttributeSeriesId: 20315330
+  CenterAttributeName: 三連華【想造】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000300
+  Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
 - Id: 20318011
   CenterAttributeSeriesId: 20318010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -5266,6 +5302,42 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325301
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: 20102,11031,11033
+  CenterAttributeEffectId: 10018000
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
+- Id: 20325302
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: 20102,11031,11033
+  CenterAttributeEffectId: 20018000
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
+- Id: 20325303
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: 20102,11031,11033
+  CenterAttributeEffectId: 30018000
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
+- Id: 20325304
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 100000300
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
+- Id: 20325305
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 120160000
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
+- Id: 20325306
+  CenterAttributeSeriesId: 20325300
+  CenterAttributeName: 三連華【醒悟】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000008
+  Description: DOLLCHESTRAに所属するメンバーと日野下花帆、大沢瑠璃乃のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が1600％増加する。
 - Id: 20328011
   CenterAttributeSeriesId: 20328010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -6244,6 +6316,48 @@
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335281
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: 20103,11031,11032
+  CenterAttributeEffectId: 10018000
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335282
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: 20103,11031,11032
+  CenterAttributeEffectId: 20018000
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335283
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: 20103,11031,11032
+  CenterAttributeEffectId: 30018000
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335284
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 71010000
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335285
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: "11033"
+  CenterAttributeEffectId: 80000100
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335286
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000002
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335287
+  CenterAttributeSeriesId: 20335280
+  CenterAttributeName: 三連華【眺望】
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
 - Id: 20338011
   CenterAttributeSeriesId: 20338010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース

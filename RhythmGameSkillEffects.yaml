@@ -223,6 +223,11 @@
   TargetIds: "0"
   RhythmGameSkillEffectValue: -200000
   RhythmGameSkillEffectValue2: 0
+- Id: 119990000
+  RhythmGameSkillEffectType: 1
+  TargetIds: "0"
+  RhythmGameSkillEffectValue: -9990000
+  RhythmGameSkillEffectValue2: 0
 - Id: 200000300
   RhythmGameSkillEffectType: 2
   TargetIds: "0"

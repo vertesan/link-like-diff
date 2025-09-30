@@ -306,6 +306,10 @@
   CenterSkillConditionType: 7
   CenterSkillConditionValue: 10
   CenterSkillConditionValue2: 1
+- Id: 7100020
+  CenterSkillConditionType: 7
+  CenterSkillConditionValue: 20
+  CenterSkillConditionValue2: 1
 - Id: 7200001
   CenterSkillConditionType: 7
   CenterSkillConditionValue: 1
