@@ -2406,7 +2406,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-05T12:00:00Z
 - Id: 203115
   OrderId: 2003
   Title: Colorfulness
@@ -3198,7 +3198,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-05T12:00:00Z
 - Id: 204111
   OrderId: 1620
   Title: ド！ド！ド！（104期Ver.）
@@ -4683,7 +4683,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-05T12:00:00Z
 - Id: 303205
   OrderId: 6013
   Title: 威風堂々
@@ -5178,7 +5178,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-05T12:00:00Z
 - Id: 304113
   OrderId: 1025
   Title: Now or Never
@@ -6367,6 +6367,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-09-19T03:00:00Z
+- Id: 405116
+  OrderId: 1039
+  Title: 一生に夢が咲くように
+  TitleFurigana: ひとよにゆめがさくように
+  JacketId: 405116
+  SoundId: 40511601
+  Description: 全体曲
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1041
+  SingerCharacterId: 1031,1032,1033,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 28125
+  ApIncrement: 966
+  SongTime: 9661
+  PlayTime: 115930
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-10-05T12:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!

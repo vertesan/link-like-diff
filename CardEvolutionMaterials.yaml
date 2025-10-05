@@ -9329,6 +9329,34 @@
   CostNum2: 72
   CostItemsId3: 3005021
   CostNum3: 144
+- Id: 10335271
+  CostItemsId1: 3005012
+  CostNum1: 24
+  CostItemsId2: 3005011
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10335272
+  CostItemsId1: 3005013
+  CostNum1: 24
+  CostItemsId2: 3005012
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10335273
+  CostItemsId1: 3005013
+  CostNum1: 36
+  CostItemsId2: 3005012
+  CostNum2: 60
+  CostItemsId3: 3005011
+  CostNum3: 96
+- Id: 10335274
+  CostItemsId1: 3005013
+  CostNum1: 48
+  CostItemsId2: 3005012
+  CostNum2: 72
+  CostItemsId3: 3005011
+  CostNum3: 144
 - Id: 10335281
   CostItemsId1: 3005042
   CostNum1: 24
@@ -10162,6 +10190,34 @@
   CostNum2: 72
   CostItemsId3: 3005041
   CostNum3: 144
+- Id: 10415191
+  CostItemsId1: 3005042
+  CostNum1: 24
+  CostItemsId2: 3005041
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10415192
+  CostItemsId1: 3005043
+  CostNum1: 24
+  CostItemsId2: 3005042
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10415193
+  CostItemsId1: 3005043
+  CostNum1: 36
+  CostItemsId2: 3005042
+  CostNum2: 60
+  CostItemsId3: 3005041
+  CostNum3: 96
+- Id: 10415194
+  CostItemsId1: 3005043
+  CostNum1: 48
+  CostItemsId2: 3005042
+  CostNum2: 72
+  CostItemsId3: 3005041
+  CostNum3: 144
 - Id: 10418012
   CostItemsId1: 3005043
   CostNum1: 60
@@ -10896,6 +10952,34 @@
   CostItemsId2: 3005012
   CostNum2: 72
   CostItemsId3: 3005011
+  CostNum3: 144
+- Id: 10425171
+  CostItemsId1: 3005032
+  CostNum1: 24
+  CostItemsId2: 3005031
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10425172
+  CostItemsId1: 3005033
+  CostNum1: 24
+  CostItemsId2: 3005032
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10425173
+  CostItemsId1: 3005033
+  CostNum1: 36
+  CostItemsId2: 3005032
+  CostNum2: 60
+  CostItemsId3: 3005031
+  CostNum3: 96
+- Id: 10425174
+  CostItemsId1: 3005033
+  CostNum1: 48
+  CostItemsId2: 3005032
+  CostNum2: 72
+  CostItemsId3: 3005031
   CostNum3: 144
 - Id: 10428012
   CostItemsId1: 3005033

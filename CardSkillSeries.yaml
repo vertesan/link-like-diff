@@ -4988,6 +4988,21 @@
   SkillIcon: 10335260
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 10335270
+  Name: チアフルワイドエクステンド
+  SkillIcon: 10335270
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335271
+  Name: チアフルワイドエクステンド
+  SkillIcon: 10335270
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335272
+  Name: チアフルワイドエクステンド
+  SkillIcon: 10335270
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
 - Id: 10335280
   Name: セカンドサイト
   SkillIcon: 10335280
@@ -5443,6 +5458,21 @@
   SkillIcon: 10415180
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 10415190
+  Name: Dream Bloom Link
+  SkillIcon: 10415190
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10415191
+  Name: Dream Bloom Link
+  SkillIcon: 10415190
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10415192
+  Name: Dream Bloom Link
+  SkillIcon: 10415190
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -5454,19 +5484,19 @@
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 10418020
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10418020
-  SkillMainEffect: 1
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 10418021
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10418020
-  SkillMainEffect: 1
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 10418022
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10418020
-  SkillMainEffect: 1
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 10419010
   Name: ドレス《16th Birthday》
@@ -5842,6 +5872,21 @@
   Name: ビリーフマイセルフ
   SkillIcon: 10425160
   SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10425170
+  Name: チアフルリカバーバイブス
+  SkillIcon: 10425170
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10425171
+  Name: チアフルリカバーバイブス
+  SkillIcon: 10425170
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10425172
+  Name: チアフルリカバーバイブス
+  SkillIcon: 10425170
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
@@ -8348,6 +8393,11 @@
   SkillIcon: 20335260
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 20335270
+  Name: チアフルブーステッドハート
+  SkillIcon: 20335270
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
 - Id: 20335280
   Name: ブルーミングパス
   SkillIcon: 20335280
@@ -8503,15 +8553,20 @@
   SkillIcon: 20415180
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 20415190
+  Name: ドレス《一生に夢が咲くように》
+  SkillIcon: 20415190
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20418020
-  Name: 〓〓〓〓〓〓〓
+  Name: mode:ARCHITECTURE
   SkillIcon: 20418020
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20419010
   Name: セレブレイション
@@ -8637,6 +8692,11 @@
   Name: レイディアントアトラクション
   SkillIcon: 20425160
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 20425170
+  Name: アーリーボルテックスプロテクト
+  SkillIcon: 20425170
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
@@ -10618,6 +10678,11 @@
   SkillIcon: 30335260
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30335270
+  Name: ファーストシードリング
+  SkillIcon: 30335270
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
 - Id: 30335280
   Name: ブリードバッテリー
   SkillIcon: 30335280
@@ -10753,15 +10818,20 @@
   SkillIcon: 30415180
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
+- Id: 30415190
+  Name: ファーストシードリング
+  SkillIcon: 30415190
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30418020
-  Name: 〓〓〓〓〓〓〓
+  Name: Radioactive
   SkillIcon: 30418020
-  SkillMainEffect: 904
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30419010
   Name: オーバーセクション：ブレッシング
@@ -10867,6 +10937,11 @@
   Name: ソルブレイブ
   SkillIcon: 30425160
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 30425170
+  Name: ファーストシードリング
+  SkillIcon: 30425170
+  SkillMainEffect: 21
   IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
@@ -11283,6 +11358,11 @@
   SkillIcon: 80415011
   SkillMainEffect: 2
   IsExSpecialAppeal: 0
+- Id: 80028010
+  Name: 《Oracle Étude》
+  SkillIcon: 80418020
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 80033010
   Name: ハートキャプチャ
   SkillIcon: 80413030
@@ -11589,58 +11669,63 @@
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345010
-  Name: リフレッシュ & サーチ：梢
+  Name: サモン：梢
   SkillIcon: 83351401
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345020
-  Name: リフレッシュ & サーチ：綴理
+  Name: サモン：綴理
   SkillIcon: 83351402
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345030
-  Name: リフレッシュ & サーチ：慈
+  Name: サモン：慈
   SkillIcon: 83351403
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345040
-  Name: リフレッシュ & サーチ：花帆
+  Name: サモン：花帆
   SkillIcon: 83351404
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345050
-  Name: リフレッシュ & サーチ：さやか
+  Name: サモン：さやか
   SkillIcon: 83351405
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345060
-  Name: リフレッシュ & サーチ：瑠璃乃
+  Name: サモン：瑠璃乃
   SkillIcon: 83351406
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345070
-  Name: リフレッシュ & サーチ：吟子
+  Name: サモン：吟子
   SkillIcon: 83351407
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345080
-  Name: リフレッシュ & サーチ：小鈴
+  Name: サモン：小鈴
   SkillIcon: 83351408
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345090
-  Name: リフレッシュ & サーチ：姫芽
+  Name: サモン：姫芽
   SkillIcon: 83351409
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345100
-  Name: リフレッシュ & サーチ：泉
+  Name: サモン：泉
   SkillIcon: 83351410
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80345110
-  Name: リフレッシュ & サーチ：セラス
+  Name: サモン：セラス
   SkillIcon: 83351411
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80415190
+  Name: 《一生に夢が咲くように》
+  SkillIcon: 80415190
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80444010
@@ -11707,6 +11792,11 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90028010
+  Name: Eclipse
+  SkillIcon: 90418020
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 90033010
   Name: インスタンス
@@ -12012,6 +12102,11 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90415190
+  Name: クロスアニマ
+  SkillIcon: 90415190
+  SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 90444010
   Name: クローズ

@@ -8434,6 +8434,42 @@
   StageSkillEffectId: 0
   StageSkillDescription: スキルを25回使用するたび、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に-1し、スキルを10回使用するたび、手札を全て捨てて、山札から手札上限まで引き直す。
   StageSkillSetIds: 100082,100021
+- Id: 1041401
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを20回使用するたび、デッキの全てのスリーズブーケの消費APをステージ中常に-1し、スキルを10回使用するたび、メンタルを最大値の20%減少させる。
+  StageSkillSetIds: 100018,200043
+- Id: 1041402
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを20回使用するたび、デッキの全てのEdel Noteの消費APをステージ中常に-1し、また山札が切れるたび、APが5減少する。
+  StageSkillSetIds: 100092,200023
+- Id: 1041403
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100132
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを20回使用するたび、デッキの全てのDOLLCHESTRAの消費APをステージ中常に-1し、ステージ開始時、メイン効果がリシャッフルであるデッキの全てのカードの消費APをステージ中常に+3する。
+  StageSkillSetIds: 100016,200044
 - Id: 531031101
   Name: 教室
   Description: 教室
@@ -10594,6 +10630,102 @@
   StageSkillEffectId: 0
   StageSkillDescription: ""
   StageSkillSetIds: ""
+- Id: 531053101
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100011
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053102
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 300
+  MentalStepClass: 1
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100021
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053201
+  Name: 講堂
+  Description: 講堂
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100031
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053202
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100071
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053203
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 1250
+  VoltageStepClass: 2
+  BackGroundId: 100111
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053301
+  Name: 教室
+  Description: 教室
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100012
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053302
+  Name: 体育館
+  Description: 体育館
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100022
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 531053303
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1500
+  VoltageStepClass: 2
+  BackGroundId: 100072
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
 - Id: 571031101
   Name: 中庭特設ステージ
   Description: 中庭特設ステージ
@@ -11334,6 +11466,42 @@
   BaseGainVoltage: 5000
   VoltageStepClass: 1
   BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571053101
+  Name: 中庭特設ステージ
+  Description: 中庭特設ステージ
+  BaseUseMental: 250
+  MentalStepClass: 2
+  BaseGainVoltage: 400
+  VoltageStepClass: 3
+  BackGroundId: 100041
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571053201
+  Name: 屋上特設ステージ
+  Description: 屋上特設ステージ
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 425
+  VoltageStepClass: 3
+  BackGroundId: 100051
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ""
+  StageSkillSetIds: ""
+- Id: 571053301
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 160
+  MentalStepClass: 2
+  BaseGainVoltage: 450
+  VoltageStepClass: 3
+  BackGroundId: 100112
   StageSkillConditionId: 0
   StageSkillEffectId: 0
   StageSkillDescription: ""

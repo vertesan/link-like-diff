@@ -435,6 +435,25 @@
   HardDropRewardSeriesId: 2
   ExpertDropRewardSeriesId: 2
   MasterDropRewardSeriesId: 2
+- Id: 203114
+  NormalLevel: 10
+  HardLevel: 16
+  ExpertLevel: 23
+  MasterLevel: 27
+  NormalMaxCombo: 146
+  HardMaxCombo: 218
+  ExpertMaxCombo: 568
+  MasterMaxCombo: 823
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 3
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 3
+  HardDropRewardSeriesId: 3
+  ExpertDropRewardSeriesId: 3
+  MasterDropRewardSeriesId: 3
 - Id: 203201
   NormalLevel: 10
   HardLevel: 17
@@ -672,6 +691,25 @@
   HardMaxCombo: 500
   ExpertMaxCombo: 694
   MasterMaxCombo: 970
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 1
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 1
+  HardDropRewardSeriesId: 1
+  ExpertDropRewardSeriesId: 1
+  MasterDropRewardSeriesId: 1
+- Id: 204110
+  NormalLevel: 13
+  HardLevel: 18
+  ExpertLevel: 25
+  MasterLevel: 28
+  NormalMaxCombo: 224
+  HardMaxCombo: 448
+  ExpertMaxCombo: 750
+  MasterMaxCombo: 915
   ShouldVerifyNotesCount: 1
   ScoreRewardSeriesId: 1
   NormalGainMusicExp: 6
@@ -986,6 +1024,25 @@
   HardDropRewardSeriesId: 2
   ExpertDropRewardSeriesId: 2
   MasterDropRewardSeriesId: 2
+- Id: 303204
+  NormalLevel: 12
+  HardLevel: 17
+  ExpertLevel: 26
+  MasterLevel: 29
+  NormalMaxCombo: 116
+  HardMaxCombo: 232
+  ExpertMaxCombo: 590
+  MasterMaxCombo: 591
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 2
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 2
+  HardDropRewardSeriesId: 2
+  ExpertDropRewardSeriesId: 2
+  MasterDropRewardSeriesId: 2
 - Id: 304101
   NormalLevel: 15
   HardLevel: 21
@@ -1090,6 +1147,25 @@
   HardMaxCombo: 520
   ExpertMaxCombo: 681
   MasterMaxCombo: 882
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 2
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 2
+  HardDropRewardSeriesId: 2
+  ExpertDropRewardSeriesId: 2
+  MasterDropRewardSeriesId: 2
+- Id: 304112
+  NormalLevel: 14
+  HardLevel: 19
+  ExpertLevel: 26
+  MasterLevel: 29
+  NormalMaxCombo: 319
+  HardMaxCombo: 396
+  ExpertMaxCombo: 678
+  MasterMaxCombo: 933
   ShouldVerifyNotesCount: 1
   ScoreRewardSeriesId: 2
   NormalGainMusicExp: 6
@@ -1556,6 +1632,25 @@
   HardDropRewardSeriesId: 2
   ExpertDropRewardSeriesId: 2
   MasterDropRewardSeriesId: 2
+- Id: 405116
+  NormalLevel: 10
+  HardLevel: 16
+  ExpertLevel: 23
+  MasterLevel: 27
+  NormalMaxCombo: 136
+  HardMaxCombo: 277
+  ExpertMaxCombo: 458
+  MasterMaxCombo: 685
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 1
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 1
+  HardDropRewardSeriesId: 1
+  ExpertDropRewardSeriesId: 1
+  MasterDropRewardSeriesId: 1
 - Id: 405301
   NormalLevel: 14
   HardLevel: 21
