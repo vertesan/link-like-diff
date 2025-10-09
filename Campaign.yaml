@@ -437,7 +437,7 @@
   Description: 期間中、ラーニングライブの習得度の上昇量が2倍に増加。
   EffectValue: 200
   StartTime: 2025-10-15T03:00:00Z
-  EndTime: 2025-10-20T18:59:59Z
+  EndTime: 2025-10-28T18:59:59Z
 - Id: 56
   CampaignType: 6
   TargetContents: 800
@@ -445,20 +445,4 @@
   Description: 期間中、スクールアイドルショウで獲得できるマスタリー習得度の獲得量が3倍に増加。
   EffectValue: 300
   StartTime: 2025-10-15T03:00:00Z
-  EndTime: 2025-10-20T18:59:59Z
-- Id: 57
-  CampaignType: 6
-  TargetContents: 104
-  Name: 習得度の上昇量増加
-  Description: 期間中、ラーニングライブの習得度の上昇量が2倍に増加。
-  EffectValue: 200
-  StartTime: 2025-10-24T03:00:00Z
-  EndTime: 2025-10-28T18:59:59Z
-- Id: 58
-  CampaignType: 6
-  TargetContents: 800
-  Name: マスタリー習得度増加
-  Description: 期間中、スクールアイドルショウで獲得できるマスタリー習得度の獲得量が3倍に増加。
-  EffectValue: 300
-  StartTime: 2025-10-24T03:00:00Z
   EndTime: 2025-10-28T18:59:59Z

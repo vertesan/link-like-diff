@@ -6398,3 +6398,23 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10500701
+  AdvSeriesId: 105007
+  Name: 幕間
+  Description: 『これまで→ここから』
+  ScriptId: 10500791
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 318
+  SubTitleName: 幕間
+  StartTime: 2025-10-09T10:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
