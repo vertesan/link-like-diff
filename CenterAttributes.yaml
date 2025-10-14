@@ -4108,6 +4108,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000300
   Description: スリーズブーケに所属するメンバーと村野さやか、大沢瑠璃乃のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20315341
+  CenterAttributeSeriesId: 20315340
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315342
+  CenterAttributeSeriesId: 20315340
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315343
+  CenterAttributeSeriesId: 20315340
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
 - Id: 20318011
   CenterAttributeSeriesId: 20318010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -6976,6 +6994,24 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415201
+  CenterAttributeSeriesId: 20415200
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415202
+  CenterAttributeSeriesId: 20415200
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415203
+  CenterAttributeSeriesId: 20415200
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
 - Id: 20418011
   CenterAttributeSeriesId: 20418010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -8418,6 +8454,24 @@
   Description: 全メンバーのアピール値が54％上昇
 - Id: 20524023
   CenterAttributeSeriesId: 20524020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20524031
+  CenterAttributeSeriesId: 20524030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20524032
+  CenterAttributeSeriesId: 20524030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20524033
+  CenterAttributeSeriesId: 20524030
   CenterAttributeName: アピールアップ
   TargetIds: "50000"
   CenterAttributeEffectId: 30005400

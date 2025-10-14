@@ -3253,6 +3253,21 @@
   SkillIcon: 10315330
   SkillMainEffect: 51
   IsExSpecialAppeal: 0
+- Id: 10315340
+  Name: オトメライター
+  SkillIcon: 10315340
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 10315341
+  Name: オトメライター
+  SkillIcon: 10315340
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 10315342
+  Name: オトメライター
+  SkillIcon: 10315340
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -5473,6 +5488,21 @@
   SkillIcon: 10415190
   SkillMainEffect: 24
   IsExSpecialAppeal: 0
+- Id: 10415200
+  Name: オトメライター
+  SkillIcon: 10415200
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10415201
+  Name: オトメライター
+  SkillIcon: 10415200
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10415202
+  Name: オトメライター
+  SkillIcon: 10415200
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -6582,6 +6612,21 @@
   Name: エクステスケルツォアンビエンス
   SkillIcon: 10524020
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10524030
+  Name: 仮
+  SkillIcon: 10524030
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10524031
+  Name: 仮
+  SkillIcon: 10524030
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10524032
+  Name: 仮
+  SkillIcon: 10524030
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10525010
   Name: ワイドサウンドバイブス
@@ -7808,6 +7853,11 @@
   SkillIcon: 20315330
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20315340
+  Name: リライトページ
+  SkillIcon: 20315340
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -8558,6 +8608,11 @@
   SkillIcon: 20415190
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 20415200
+  Name: ドレス《乙女詞華集》
+  SkillIcon: 20415200
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -8937,6 +8992,11 @@
   Name: アンビエンスハート
   SkillIcon: 20524020
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 20524030
+  Name: 仮
+  SkillIcon: 20524030
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20525010
   Name: サウンドアンビエンス
@@ -10153,6 +10213,11 @@
   SkillIcon: 30315330
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 30315340
+  Name: ガールズポエトリー
+  SkillIcon: 30315340
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -10823,6 +10888,11 @@
   SkillIcon: 30415190
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
+- Id: 30415200
+  Name: ガールズポエトリー
+  SkillIcon: 30415200
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -11142,6 +11212,11 @@
   Name: ジャストドロー：フィーバー/リタルダンド＆バイブス＆アンビエンス
   SkillIcon: 30524020
   SkillMainEffect: 47
+  IsExSpecialAppeal: 0
+- Id: 30524030
+  Name: 仮
+  SkillIcon: 30524030
+  SkillMainEffect: 904
   IsExSpecialAppeal: 0
 - Id: 30525010
   Name: サウンドバイブス
@@ -11723,6 +11798,26 @@
   SkillIcon: 83351411
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 80365010
+  Name: マニュスクリプト
+  SkillIcon: 80415200
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80365020
+  Name: スリーズアンソロジー
+  SkillIcon: 80415201
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80365030
+  Name: 《乙女詞華集》
+  SkillIcon: 80415202
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80365040
+  Name: 《乙女詞華集》
+  SkillIcon: 80415203
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
 - Id: 80415190
   Name: 《一生に夢が咲くように》
   SkillIcon: 80415190
@@ -12101,6 +12196,26 @@
 - Id: 90335010
   Name: インスタンス
   SkillIcon: 90410000
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90365010
+  Name: センチメンタルリリック
+  SkillIcon: 90415200
+  SkillMainEffect: 18
+  IsExSpecialAppeal: 0
+- Id: 90365020
+  Name: フラワリングリリック
+  SkillIcon: 90415201
+  SkillMainEffect: 18
+  IsExSpecialAppeal: 0
+- Id: 90365030
+  Name: エフェメラル
+  SkillIcon: 90415202
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90365040
+  Name: エフェメラル
+  SkillIcon: 90415203
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90415190

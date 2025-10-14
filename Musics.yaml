@@ -1020,7 +1020,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-14T03:00:00Z
 - Id: 104105
   OrderId: 1019
   Title: Bloom the smile, Bloom the dream!
@@ -4980,7 +4980,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-14T03:00:00Z
 - Id: 304107
   OrderId: 1219
   Title: 月夜見海月
@@ -6400,6 +6400,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-10-05T12:00:00Z
+- Id: 405117
+  OrderId: 1234
+  Title: 乙女詞華集
+  TitleFurigana: おとめあんそろじー
+  JacketId: 405117
+  SoundId: 40511701
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1041
+  SingerCharacterId: "1031"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 16364
+  ApIncrement: 871
+  SongTime: 8714
+  PlayTime: 104571
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-10-14T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!
@@ -6532,3 +6565,36 @@
   VideoBgId: 0
   SongType: 3
   MusicScoreReleaseTime: 2025-09-09T03:00:00Z
+- Id: 405305
+  OrderId: 5015
+  Title: 僕らは今のなかで
+  TitleFurigana: ぼくらはいまのなかで
+  JacketId: 405305
+  SoundId: 40530501
+  Description: LLカバー
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1032
+  SingerCharacterId: 1031,1033,1041,1042,1043,1051,1052
+  SupportCharacterId: "0"
+  MusicType: 1
+  ExperienceType: 1
+  BeatPointCoefficient: 12857
+  ApIncrement: 776
+  SongTime: 7755
+  PlayTime: 93061
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 3
+  MusicScoreReleaseTime: 2025-10-14T03:00:00Z
