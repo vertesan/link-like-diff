@@ -1652,7 +1652,7 @@
   Name: ステージA
   Description: ステージA
   GrandPrixesId: 805107
-  PlayLimitCount: 3
+  PlayLimitCount: 2
   RetireLimitCount: 1
   OrderId: 1
   SeriesNum: 1
@@ -1662,7 +1662,7 @@
   Name: ステージB
   Description: ステージB
   GrandPrixesId: 805107
-  PlayLimitCount: 3
+  PlayLimitCount: 2
   RetireLimitCount: 1
   OrderId: 2
   SeriesNum: 2
@@ -1672,7 +1672,7 @@
   Name: ステージC
   Description: ステージC
   GrandPrixesId: 805107
-  PlayLimitCount: 3
+  PlayLimitCount: 2
   RetireLimitCount: 1
   OrderId: 3
   SeriesNum: 3
