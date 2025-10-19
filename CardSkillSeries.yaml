@@ -5543,6 +5543,21 @@
   SkillIcon: 10419010
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 10419020
+  Name: ドレッサー
+  SkillIcon: 10419020
+  SkillMainEffect: 43
+  IsExSpecialAppeal: 0
+- Id: 10419021
+  Name: ドレッサー
+  SkillIcon: 10419020
+  SkillMainEffect: 43
+  IsExSpecialAppeal: 0
+- Id: 10419022
+  Name: ドレッサー
+  SkillIcon: 10419020
+  SkillMainEffect: 43
+  IsExSpecialAppeal: 0
 - Id: 10423010
   Name: ラブアトラクト
   SkillIcon: 10423010
@@ -8628,6 +8643,11 @@
   SkillIcon: 20419010
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 20419020
+  Name: ブルームマイセルフ
+  SkillIcon: 20419020
+  SkillMainEffect: 49
+  IsExSpecialAppeal: 0
 - Id: 20423010
   Name: メンタルリカバー
   SkillIcon: 20423010
@@ -10908,6 +10928,11 @@
   SkillIcon: 30419010
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 30419020
+  Name: バースデイキャンドル
+  SkillIcon: 30419020
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 30424010
   Name: ドロー：APレデュース
   SkillIcon: 30424010
@@ -11438,6 +11463,11 @@
   SkillIcon: 80418020
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 80029010
+  Name: 《17th Birthday》
+  SkillIcon: 80419020
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 80033010
   Name: ハートキャプチャ
   SkillIcon: 80413030
@@ -11892,6 +11922,11 @@
   Name: Eclipse
   SkillIcon: 90418020
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 90029010
+  Name: インスタンス＆ドロー：エクステンドハンド
+  SkillIcon: 90419020
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90033010
   Name: インスタンス

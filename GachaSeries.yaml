@@ -4948,3 +4948,63 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+- Id: 1050310
+  GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Ginko-
+  Description: 2025 BIRTHDAY LIMITED COLLECTION -Ginko-
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1050310
+  ExchangePointNoticeNum: 100
+  ExchangePointLockFlag: 0
+  OrderId: 2
+  FilterType: 1
+  PickUpCardSeriesId_1: 1041902
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-10-19T15:00:00Z
+  EndTime: 2025-10-24T11:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2025 BIRTHDAY LIMITED COLLECTION -Ginko-」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2025 BIRTHDAY LIMITED COLLECTION -Ginko-」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2025 BIRTHDAY LIMITED COLLECTION -Ginko-」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+- Id: 1050311
+  GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Ginko-
+  Description: 2024 BIRTHDAY LIMITED COLLECTION -Ginko-
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1050311
+  ExchangePointNoticeNum: 100
+  ExchangePointLockFlag: 0
+  OrderId: 3
+  FilterType: 1
+  PickUpCardSeriesId_1: 1041901
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2025-10-19T15:00:00Z
+  EndTime: 2025-10-24T11:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2024 BIRTHDAY LIMITED COLLECTION -Ginko-」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2024 BIRTHDAY LIMITED COLLECTION -Ginko-」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2024 BIRTHDAY LIMITED COLLECTION -Ginko-」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0

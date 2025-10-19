@@ -7090,6 +7090,24 @@
   TargetIds: "11041"
   CenterAttributeEffectId: 30040000
   Description: 百生吟子のアピール値が400％上昇
+- Id: 20419021
+  CenterAttributeSeriesId: 20419020
+  CenterAttributeName: アピールアップ（百生吟子）
+  TargetIds: "11041"
+  CenterAttributeEffectId: 10040000
+  Description: 百生吟子のアピール値が400％上昇
+- Id: 20419022
+  CenterAttributeSeriesId: 20419020
+  CenterAttributeName: アピールアップ（百生吟子）
+  TargetIds: "11041"
+  CenterAttributeEffectId: 20040000
+  Description: 百生吟子のアピール値が400％上昇
+- Id: 20419023
+  CenterAttributeSeriesId: 20419020
+  CenterAttributeName: アピールアップ（百生吟子）
+  TargetIds: "11041"
+  CenterAttributeEffectId: 30040000
+  Description: 百生吟子のアピール値が400％上昇
 - Id: 20423011
   CenterAttributeSeriesId: 20423010
   CenterAttributeName: アピールアップ
