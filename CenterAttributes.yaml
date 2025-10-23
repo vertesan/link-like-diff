@@ -6394,6 +6394,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: みらくらぱーく！に所属するメンバーと日野下花帆、村野さやかのアピール値が180％上昇／メンタルの最大値が編成している瑠璃乃のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20335291
+  CenterAttributeSeriesId: 20335290
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20335292
+  CenterAttributeSeriesId: 20335290
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20335293
+  CenterAttributeSeriesId: 20335290
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20338011
   CenterAttributeSeriesId: 20338010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -8098,6 +8116,24 @@
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20435181
+  CenterAttributeSeriesId: 20435180
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20435182
+  CenterAttributeSeriesId: 20435180
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20435183
+  CenterAttributeSeriesId: 20435180
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20438011
   CenterAttributeSeriesId: 20438010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -8266,6 +8302,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30015000
   Description: Edel Noteに所属するメンバーのアピール値が150％上昇
+- Id: 20514031
+  CenterAttributeSeriesId: 20514030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 20514032
+  CenterAttributeSeriesId: 20514030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 20514033
+  CenterAttributeSeriesId: 20514030
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30006000
+  Description: 全メンバーのアピール値が60％上昇
 - Id: 20515011
   CenterAttributeSeriesId: 20515010
   CenterAttributeName: アピールアップ

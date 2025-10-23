@@ -78,6 +78,26 @@
   AdvUnlockItemNum: 1
   AdvUnlockConditionValue: 10200103
   IsPersistentReward: 1
+- Id: 10200105
+  AdvSeriesId: 102001
+  Name: ～Shades of Stars～
+  Description: 第5話『Love with the world』
+  ScriptId: 10250105
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3,6
+  WatchRewardId: 1002001,3009000,95000005
+  WatchRewardNum: 200,1,1
+  RewardTextId: 30200001,30200001,30200001
+  OrderId: 10200105
+  SubTitleName: 第5話
+  StartTime: 2025-10-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 1
+  AdvUnlockItemId: 1006001
+  AdvUnlockItemNum: 1
+  AdvUnlockConditionValue: 10200104
+  IsPersistentReward: 1
 - Id: 10300101
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』

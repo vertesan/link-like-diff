@@ -722,6 +722,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 48500
   UrCardEffectBackgroundId: 20015
+- Id: 10335290
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 32000
+  UrCardEffectBackgroundId: 10900
 - Id: 10339011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 30500
@@ -958,6 +962,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 27000
   UrCardEffectBackgroundId: 10030
+- Id: 10435180
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 15200
+  UrCardEffectBackgroundId: 10910
 - Id: 10439011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 38000

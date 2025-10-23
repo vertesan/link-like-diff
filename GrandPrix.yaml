@@ -334,6 +334,18 @@
   InfoEndTime: 2025-09-29T14:59:59Z
   StartTime: 2025-09-20T03:00:00Z
   EndTime: 2025-09-25T18:59:59Z
+- Id: 705107
+  Name: 105期3rdTerm 第2回 サークル対抗戦
+  Description: 105期3rdTerm 第2回 サークル対抗戦
+  GrandPrixType: 2
+  GuildRankingTabs: 0,1,10,100,500,1000,1500,2000,5000
+  PersonalRankingTabs: 0,1,10,100,500,1000,1500,2000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2025-10-24T03:00:00Z
+  InfoEndTime: 2025-11-01T14:59:59Z
+  StartTime: 2025-10-24T03:00:00Z
+  EndTime: 2025-10-28T18:59:59Z
 - Id: 803101
   Name: ライブグランプリ 103期第1回個人戦
   Description: ライブグランプリ 103期第1回個人戦
@@ -667,6 +679,6 @@
   GuildPresentCommentId: 0
   PersonalPresentCommentId: 0
   InfoStartTime: 2025-10-15T03:00:00Z
-  InfoEndTime: 2025-10-24T14:59:59Z
+  InfoEndTime: 2025-10-24T02:59:59Z
   StartTime: 2025-10-15T03:00:00Z
   EndTime: 2025-10-20T18:59:59Z

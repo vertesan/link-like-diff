@@ -5033,6 +5033,21 @@
   SkillIcon: 10335280
   SkillMainEffect: 53
   IsExSpecialAppeal: 0
+- Id: 10335290
+  Name: リバイタリゼーション
+  SkillIcon: 10335290
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
+- Id: 10335291
+  Name: リバイタリゼーション
+  SkillIcon: 10335290
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
+- Id: 10335292
+  Name: リバイタリゼーション
+  SkillIcon: 10335290
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -6348,6 +6363,21 @@
   SkillIcon: 10435170
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 10435180
+  Name: リバイタリゼーション
+  SkillIcon: 10435180
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
+- Id: 10435181
+  Name: リバイタリゼーション
+  SkillIcon: 10435180
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
+- Id: 10435182
+  Name: リバイタリゼーション
+  SkillIcon: 10435180
+  SkillMainEffect: 32
+  IsExSpecialAppeal: 0
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -6462,6 +6492,21 @@
   Name: ワイドヒート
   SkillIcon: 10514020
   SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10514030
+  Name: イーシェン
+  SkillIcon: 10514030
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10514031
+  Name: イーシェン
+  SkillIcon: 10514030
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10514032
+  Name: イーシェン
+  SkillIcon: 10514030
+  SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 10515010
   Name: エクステヒート
@@ -8468,6 +8513,11 @@
   SkillIcon: 20335280
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20335290
+  Name: スティミュレーション
+  SkillIcon: 20335290
+  SkillMainEffect: 7
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -8913,6 +8963,11 @@
   SkillIcon: 20435170
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 20435180
+  Name: スティミュレーション
+  SkillIcon: 20435180
+  SkillMainEffect: 7
+  IsExSpecialAppeal: 0
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -8956,6 +9011,11 @@
 - Id: 20514020
   Name: イミテーションワイド
   SkillIcon: 20514020
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
+- Id: 20514030
+  Name: テトライミテーション
+  SkillIcon: 20514030
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
 - Id: 20515010
@@ -10773,6 +10833,11 @@
   SkillIcon: 30335280
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 30335290
+  Name: みらくらメディスン
+  SkillIcon: 30335290
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -11158,6 +11223,11 @@
   SkillIcon: 30435170
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30435180
+  Name: みらくらメディスン
+  SkillIcon: 30435180
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -11192,6 +11262,11 @@
   Name: イザヨイラバー
   SkillIcon: 30514020
   SkillMainEffect: 15
+  IsExSpecialAppeal: 0
+- Id: 30514030
+  Name: トンファンジーホア
+  SkillIcon: 30514030
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30515010
   Name: APゲイン
@@ -11848,6 +11923,11 @@
   SkillIcon: 80415203
   SkillMainEffect: 25
   IsExSpecialAppeal: 0
+- Id: 80375010
+  Name: QQボックス
+  SkillIcon: 80435180
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 80415190
   Name: 《一生に夢が咲くように》
   SkillIcon: 80415190
@@ -12252,6 +12332,11 @@
   Name: エフェメラル
   SkillIcon: 90415203
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90375010
+  Name: ファーストエイド
+  SkillIcon: 90435180
+  SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 90415190
   Name: クロスアニマ

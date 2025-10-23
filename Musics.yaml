@@ -723,7 +723,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-23T03:00:00Z
 - Id: 103203
   OrderId: 6015
   Title: ダンスロボットダンス
@@ -2472,7 +2472,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-23T03:00:00Z
 - Id: 203117
   OrderId: 1014
   Title: 抱きしめる花びら
@@ -4386,7 +4386,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-10-23T03:00:00Z
 - Id: 303115
   OrderId: 1011
   Title: 明日の空の僕たちへ
@@ -6433,6 +6433,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-10-14T03:00:00Z
+- Id: 405118
+  OrderId: 1630
+  Title: バイタルサイン
+  TitleFurigana: ばいたるさいん
+  JacketId: 405118
+  SoundId: 40511801
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: "1043"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 11688
+  ApIncrement: 818
+  SongTime: 8177
+  PlayTime: 98128
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-10-23T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!

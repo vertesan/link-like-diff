@@ -8040,6 +8040,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2025-09-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033529
+  Name: "[バイタルサイン]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-10-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9108,6 +9120,18 @@
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-09-09T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4043518
+  Name: "[バイタルサイン]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-10-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9215,6 +9239,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-06-22T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051403
+  Name: "[四蓮琴之龍]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-10-23T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4051501
   Name: "[Dream Believers]桂城\u00a0泉 解放Pt."

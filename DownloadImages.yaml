@@ -273,13 +273,13 @@
   Title: 37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ
   OrderId: 46
   StartTime: 2025-07-09T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-10-23T02:59:59Z
 - Id: 110047
   DownloadType: 1
   Title: アイドゥーミー！
   OrderId: 47
   StartTime: 2025-07-09T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-10-23T02:59:59Z
 - Id: 110048
   DownloadType: 1
   Title: 3rd Live Blu-Ray 『TRY TRI UNITY!!!』
@@ -303,10 +303,28 @@
   Title: フルーツパンチ
   OrderId: 51
   StartTime: 2025-08-26T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
+  EndTime: 2025-10-23T02:59:59Z
 - Id: 110052
   DownloadType: 1
   Title: 太陽であれ！
   OrderId: 52
   StartTime: 2025-08-26T03:00:00Z
+  EndTime: 2025-10-23T02:59:59Z
+- Id: 110053
+  DownloadType: 1
+  Title: 蓮ノ空2ndユニットスプリットシングル
+  OrderId: 53
+  StartTime: 2025-10-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110054
+  DownloadType: 1
+  Title: ニャオシグニャル
+  OrderId: 54
+  StartTime: 2025-10-23T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 110055
+  DownloadType: 1
+  Title: 片翼のトリバガ
+  OrderId: 55
+  StartTime: 2025-10-23T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
