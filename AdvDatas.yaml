@@ -6538,3 +6538,83 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10500706
+  AdvSeriesId: 105007
+  Name: 第7話『わがまま色の存在証明』
+  Description: PART 5
+  ScriptId: 10500705
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 323
+  SubTitleName: "5"
+  StartTime: 2025-10-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500707
+  AdvSeriesId: 105007
+  Name: 第7話『わがまま色の存在証明』
+  Description: PART 6
+  ScriptId: 10500706
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 324
+  SubTitleName: "6"
+  StartTime: 2025-10-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500708
+  AdvSeriesId: 105007
+  Name: 第7話『わがまま色の存在証明』
+  Description: PART 7
+  ScriptId: 10500707
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 325
+  SubTitleName: "7"
+  StartTime: 2025-10-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500709
+  AdvSeriesId: 105007
+  Name: 第7話『わがまま色の存在証明』
+  Description: PART 8
+  ScriptId: 10500708
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 326
+  SubTitleName: "8"
+  StartTime: 2025-10-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
