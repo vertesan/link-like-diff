@@ -47688,6 +47688,198 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000108
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]日野下\u00a0花帆"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100108
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡スリーズブーケパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000109
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]村野\u00a0さやか"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100109
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡DOLLCHESTRAパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000110
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]大沢\u00a0瑠璃乃"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100110
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡みらくらぱーく！パック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000111
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]百生\u00a0吟子"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100111
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡スリーズブーケパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000112
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]徒町\u00a0小鈴"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100112
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡DOLLCHESTRAパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000113
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]安養寺\u00a0姫芽"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100113
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡みらくらぱーく！パック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000114
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]セラス\u00a0柳田\u00a0リリエンフェルト"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100114
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡Edel Noteパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000115
+  Name: "[ハロウィンフェア/Trick\u00a0＆\u00a0Cute]桂城\u00a0泉"
+  Text: ハロウィンフェア 開催記念！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100115
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「ハロウィンフェア♪Trick ＆ Cute♡Edel Noteパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-10-27T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 90010210
   Name: Kozue Birthday 2023
   Text: Happy 17th Birthday to Dear Kozue!

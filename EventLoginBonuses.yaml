@@ -348,3 +348,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-10-03T19:00:00Z
   EndTime: 2025-10-05T18:59:59Z
+- Id: 201052
+  Name: ハロウィンフェア♪Trick ＆ Cute♡ログインキャンペーン
+  LoginBonusRewardSeriesId: 201052
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-10-27T12:00:00Z
+  EndTime: 2025-11-02T18:59:59Z
