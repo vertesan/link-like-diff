@@ -96,6 +96,13 @@
   HaveMotion: 0
   CharactersCount: 9
   CharactersIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 31242
+  Label: ダンスバトル2510
+  MusicId: 3124
+  HaveMusic: 0
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1032,1042
 - Id: 31599
   Label: DreamBelievers(SAKURA Ver.)
   MusicId: 3159
@@ -425,6 +432,13 @@
   HaveMotion: 1
   CharactersCount: 2
   CharactersIds: 1051,1052
+- Id: 50158
+  Label: 始まりの羽音
+  MusicId: 5015
+  HaveMusic: 0
+  HaveMotion: 1
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
