@@ -99,7 +99,7 @@
 - Id: 31242
   Label: ダンスバトル2510
   MusicId: 3124
-  HaveMusic: 0
+  HaveMusic: 1
   HaveMotion: 1
   CharactersCount: 2
   CharactersIds: 1032,1042
@@ -433,9 +433,9 @@
   CharactersCount: 2
   CharactersIds: 1051,1052
 - Id: 50158
-  Label: 始まりの羽音
+  Label: はじまりの羽音
   MusicId: 5015
-  HaveMusic: 0
+  HaveMusic: 1
   HaveMotion: 1
   CharactersCount: 8
   CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
