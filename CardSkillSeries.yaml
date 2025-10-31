@@ -4233,6 +4233,21 @@
   SkillIcon: 10325300
   SkillMainEffect: 52
   IsExSpecialAppeal: 0
+- Id: 10325310
+  Name: ダンシングボルテージ
+  SkillIcon: 10325310
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
+- Id: 10325311
+  Name: ダンシングボルテージ
+  SkillIcon: 10325310
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
+- Id: 10325312
+  Name: ダンシングボルテージ
+  SkillIcon: 10325310
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -4254,19 +4269,19 @@
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 10328030
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10328030
-  SkillMainEffect: 1
+  SkillMainEffect: 11
   IsExSpecialAppeal: 0
 - Id: 10328031
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10328030
-  SkillMainEffect: 1
+  SkillMainEffect: 11
   IsExSpecialAppeal: 0
 - Id: 10328032
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10328030
-  SkillMainEffect: 1
+  SkillMainEffect: 11
   IsExSpecialAppeal: 0
 - Id: 10329010
   Name: シーズニングキャプチャ
@@ -5948,6 +5963,21 @@
   SkillIcon: 10425170
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 10425180
+  Name: ダンシングボルテージ
+  SkillIcon: 10425180
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
+- Id: 10425181
+  Name: ダンシングボルテージ
+  SkillIcon: 10425180
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
+- Id: 10425182
+  Name: ダンシングボルテージ
+  SkillIcon: 10425180
+  SkillMainEffect: 39
+  IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -6377,6 +6407,21 @@
   Name: リバイタリゼーション
   SkillIcon: 10435180
   SkillMainEffect: 32
+  IsExSpecialAppeal: 0
+- Id: 10435190
+  Name: チアフルボルテージブースト
+  SkillIcon: 10435190
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 10435191
+  Name: チアフルボルテージブースト
+  SkillIcon: 10435190
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 10435192
+  Name: チアフルボルテージブースト
+  SkillIcon: 10435190
+  SkillMainEffect: 31
   IsExSpecialAppeal: 0
 - Id: 10438011
   Name: エイペックス
@@ -8243,6 +8288,11 @@
   SkillIcon: 20325300
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20325310
+  Name: ウイングビートアトラクション
+  SkillIcon: 20325310
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -8254,9 +8304,9 @@
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 20328030
-  Name: 〓〓〓〓〓〓〓
+  Name: mode:TERMINAL
   SkillIcon: 20328030
-  SkillMainEffect: 1
+  SkillMainEffect: 16
   IsExSpecialAppeal: 0
 - Id: 20329010
   Name: セレブレイション
@@ -8823,6 +8873,11 @@
   SkillIcon: 20425170
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20425180
+  Name: ウイングビートチャレンジャー
+  SkillIcon: 20425180
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -8967,6 +9022,11 @@
   Name: スティミュレーション
   SkillIcon: 20435180
   SkillMainEffect: 7
+  IsExSpecialAppeal: 0
+- Id: 20435190
+  Name: ウイングビートメンター
+  SkillIcon: 20435190
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20438010
   Name: ファッシネイション
@@ -10593,6 +10653,11 @@
   SkillIcon: 30325300
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 30325310
+  Name: フリーダムウイング
+  SkillIcon: 30325310
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -10604,9 +10669,9 @@
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30328030
-  Name: 〓〓〓〓〓〓〓
+  Name: Radioactive
   SkillIcon: 30328030
-  SkillMainEffect: 904
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30329010
   Name: オーバーセクション：ブレッシング
@@ -11103,6 +11168,11 @@
   SkillIcon: 30425170
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 30425180
+  Name: インヘリットウイング
+  SkillIcon: 30425180
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -11226,6 +11296,11 @@
 - Id: 30435180
   Name: みらくらメディスン
   SkillIcon: 30435180
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 30435190
+  Name: リカバーウイング
+  SkillIcon: 30435190
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30438010
@@ -11928,6 +12003,11 @@
   SkillIcon: 80435180
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 80385010
+  Name: セルフィッシュフェザー
+  SkillIcon: 80325310
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 80415190
   Name: 《一生に夢が咲くように》
   SkillIcon: 80415190
@@ -12337,6 +12417,11 @@
   Name: ファーストエイド
   SkillIcon: 90435180
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 90385010
+  Name: ソアラ
+  SkillIcon: 90325310
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 90415190
   Name: クロスアニマ

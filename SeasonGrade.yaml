@@ -68,5 +68,13 @@
   CountStartTime: 2025-08-29T12:00:00Z
   CountEndTime: 2025-10-29T18:59:59Z
   DisplayStartTime: 2025-08-29T12:00:00Z
-  DisplayEndTime: 2035-12-31T14:59:59Z
+  DisplayEndTime: 2025-10-31T11:59:59Z
   TermTitle: 105期 3rd Term
+- Id: 1005010
+  Description: 105期 Special Term/Road to BloomではTerm Grade Pt.は集計されません
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2025-10-31T12:00:00Z
+  CountEndTime: 2025-11-20T11:59:59Z
+  DisplayStartTime: 2025-10-31T12:00:00Z
+  DisplayEndTime: 2035-12-31T14:59:59Z
+  TermTitle: 105期 Special Term/Road to Bloom

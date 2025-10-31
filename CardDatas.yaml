@@ -42778,6 +42778,156 @@
   RhythmGameSkillSeriesId: 30325304
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
+- Id: 10325310
+  CardSeriesId: 1032531
+  Name: はじまりの羽音
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 35
+  InitialPure: 45
+  InitialCool: 66
+  InitialMental: 92
+  MaxSmile: 1750
+  MaxPure: 2250
+  MaxCool: 3300
+  MaxMental: 230
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325310
+  SkillSeriesId: 20325310
+  AttributeId: 30325310
+  SpineId: 56
+  OrderId: 10387532
+  CenterSkillSeriesId: 10325310
+  CenterAttributeSeriesId: 20325310
+  RhythmGameSkillSeriesId: 30325310
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325311
+  CardSeriesId: 1032531
+  Name: はじまりの羽音
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 1750
+  InitialPure: 2250
+  InitialCool: 3300
+  InitialMental: 230
+  MaxSmile: 2450
+  MaxPure: 3150
+  MaxCool: 4620
+  MaxMental: 322
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325311
+  SkillSeriesId: 20325310
+  AttributeId: 30325310
+  SpineId: 56
+  OrderId: 10387532
+  CenterSkillSeriesId: 10325310
+  CenterAttributeSeriesId: 20325310
+  RhythmGameSkillSeriesId: 30325310
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325312
+  CardSeriesId: 1032531
+  Name: はじまりの羽音
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2450
+  InitialPure: 3150
+  InitialCool: 4620
+  InitialMental: 322
+  MaxSmile: 3500
+  MaxPure: 4500
+  MaxCool: 6600
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325312
+  SkillSeriesId: 20325310
+  AttributeId: 30325310
+  SpineId: 56
+  OrderId: 10387532
+  CenterSkillSeriesId: 10325310
+  CenterAttributeSeriesId: 20325310
+  RhythmGameSkillSeriesId: 30325312
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325313
+  CardSeriesId: 1032531
+  Name: はじまりの羽音
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3500
+  InitialPure: 4500
+  InitialCool: 6600
+  InitialMental: 460
+  MaxSmile: 3850
+  MaxPure: 4950
+  MaxCool: 7260
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325312
+  SkillSeriesId: 20325310
+  AttributeId: 30325310
+  SpineId: 56
+  OrderId: 10387532
+  CenterSkillSeriesId: 10325310
+  CenterAttributeSeriesId: 20325310
+  RhythmGameSkillSeriesId: 30325313
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10325314
+  CardSeriesId: 1032531
+  Name: はじまりの羽音
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3850
+  InitialPure: 4950
+  InitialCool: 7260
+  InitialMental: 460
+  MaxSmile: 4200
+  MaxPure: 5400
+  MaxCool: 7920
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10325312
+  SkillSeriesId: 20325310
+  AttributeId: 30325310
+  SpineId: 56
+  OrderId: 10387532
+  CenterSkillSeriesId: 10325310
+  CenterAttributeSeriesId: 20325310
+  RhythmGameSkillSeriesId: 30325314
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
 - Id: 10328011
   CardSeriesId: 1032801
   Name: Prism Echo
@@ -43026,18 +43176,18 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 3000
+  InitialPure: 2000
+  InitialCool: 3650
+  InitialMental: 295
+  MaxSmile: 4200
+  MaxPure: 2800
+  MaxCool: 5110
+  MaxMental: 413
+  BeatPoint: 100
   SpecialAppealSeriesId: 10328031
   SkillSeriesId: 20328030
   AttributeId: 30328030
@@ -43056,18 +43206,18 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 4200
+  InitialPure: 2800
+  InitialCool: 5110
+  InitialMental: 413
+  MaxSmile: 6000
+  MaxPure: 4000
+  MaxCool: 7300
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10328032
   SkillSeriesId: 20328030
   AttributeId: 30328030
@@ -43086,18 +43236,18 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 6000
+  InitialPure: 4000
+  InitialCool: 7300
+  InitialMental: 590
+  MaxSmile: 6600
+  MaxPure: 4400
+  MaxCool: 8030
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10328032
   SkillSeriesId: 20328030
   AttributeId: 30328030
@@ -43116,18 +43266,18 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
-  Mood: 2
+  Style: 2
+  Mood: 3
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 6600
+  InitialPure: 4400
+  InitialCool: 8030
+  InitialMental: 590
+  MaxSmile: 7200
+  MaxPure: 4800
+  MaxCool: 8760
+  MaxMental: 590
+  BeatPoint: 100
   SpecialAppealSeriesId: 10328032
   SkillSeriesId: 20328030
   AttributeId: 30328030
@@ -59788,6 +59938,156 @@
   RhythmGameSkillSeriesId: 30425174
   CenterSkillLvUpItemId: 52
   RhythmGameSkillLvUpItemId: 52
+- Id: 10425180
+  CardSeriesId: 1042518
+  Name: はじまりの羽音
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 37
+  InitialPure: 46
+  InitialCool: 63
+  InitialMental: 92
+  MaxSmile: 1850
+  MaxPure: 2300
+  MaxCool: 3150
+  MaxMental: 230
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425180
+  SkillSeriesId: 20425180
+  AttributeId: 30425180
+  SpineId: 1
+  OrderId: 10387542
+  CenterSkillSeriesId: 10425180
+  CenterAttributeSeriesId: 20425180
+  RhythmGameSkillSeriesId: 30425180
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425181
+  CardSeriesId: 1042518
+  Name: はじまりの羽音
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 1850
+  InitialPure: 2300
+  InitialCool: 3150
+  InitialMental: 230
+  MaxSmile: 2590
+  MaxPure: 3220
+  MaxCool: 4410
+  MaxMental: 322
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425181
+  SkillSeriesId: 20425180
+  AttributeId: 30425180
+  SpineId: 1
+  OrderId: 10387542
+  CenterSkillSeriesId: 10425180
+  CenterAttributeSeriesId: 20425180
+  RhythmGameSkillSeriesId: 30425180
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425182
+  CardSeriesId: 1042518
+  Name: はじまりの羽音
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2590
+  InitialPure: 3220
+  InitialCool: 4410
+  InitialMental: 322
+  MaxSmile: 3700
+  MaxPure: 4600
+  MaxCool: 6300
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425182
+  SkillSeriesId: 20425180
+  AttributeId: 30425180
+  SpineId: 1
+  OrderId: 10387542
+  CenterSkillSeriesId: 10425180
+  CenterAttributeSeriesId: 20425180
+  RhythmGameSkillSeriesId: 30425182
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425183
+  CardSeriesId: 1042518
+  Name: はじまりの羽音
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3700
+  InitialPure: 4600
+  InitialCool: 6300
+  InitialMental: 460
+  MaxSmile: 4070
+  MaxPure: 5060
+  MaxCool: 6930
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425182
+  SkillSeriesId: 20425180
+  AttributeId: 30425180
+  SpineId: 1
+  OrderId: 10387542
+  CenterSkillSeriesId: 10425180
+  CenterAttributeSeriesId: 20425180
+  RhythmGameSkillSeriesId: 30425183
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
+- Id: 10425184
+  CardSeriesId: 1042518
+  Name: はじまりの羽音
+  Description: 徒町 小鈴
+  CharactersId: 1042
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4070
+  InitialPure: 5060
+  InitialCool: 6930
+  InitialMental: 460
+  MaxSmile: 4440
+  MaxPure: 5520
+  MaxCool: 7560
+  MaxMental: 460
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10425182
+  SkillSeriesId: 20425180
+  AttributeId: 30425180
+  SpineId: 1
+  OrderId: 10387542
+  CenterSkillSeriesId: 10425180
+  CenterAttributeSeriesId: 20425180
+  RhythmGameSkillSeriesId: 30425184
+  CenterSkillLvUpItemId: 52
+  RhythmGameSkillLvUpItemId: 52
 - Id: 10428011
   CardSeriesId: 1042801
   Name: Ether Aria
@@ -64046,6 +64346,156 @@
   CenterSkillSeriesId: 10435180
   CenterAttributeSeriesId: 20435180
   RhythmGameSkillSeriesId: 30435184
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435190
+  CardSeriesId: 1043519
+  Name: はじまりの羽音
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 37
+  InitialPure: 50
+  InitialCool: 58
+  InitialMental: 94
+  MaxSmile: 1850
+  MaxPure: 2500
+  MaxCool: 2900
+  MaxMental: 235
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435190
+  SkillSeriesId: 20435190
+  AttributeId: 30435190
+  SpineId: 1
+  OrderId: 10387543
+  CenterSkillSeriesId: 10435190
+  CenterAttributeSeriesId: 20435190
+  RhythmGameSkillSeriesId: 30435190
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435191
+  CardSeriesId: 1043519
+  Name: はじまりの羽音
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 1850
+  InitialPure: 2500
+  InitialCool: 2900
+  InitialMental: 235
+  MaxSmile: 2590
+  MaxPure: 3500
+  MaxCool: 4060
+  MaxMental: 329
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435191
+  SkillSeriesId: 20435190
+  AttributeId: 30435190
+  SpineId: 1
+  OrderId: 10387543
+  CenterSkillSeriesId: 10435190
+  CenterAttributeSeriesId: 20435190
+  RhythmGameSkillSeriesId: 30435190
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435192
+  CardSeriesId: 1043519
+  Name: はじまりの羽音
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 2590
+  InitialPure: 3500
+  InitialCool: 4060
+  InitialMental: 329
+  MaxSmile: 3700
+  MaxPure: 5000
+  MaxCool: 5800
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435192
+  SkillSeriesId: 20435190
+  AttributeId: 30435190
+  SpineId: 1
+  OrderId: 10387543
+  CenterSkillSeriesId: 10435190
+  CenterAttributeSeriesId: 20435190
+  RhythmGameSkillSeriesId: 30435192
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435193
+  CardSeriesId: 1043519
+  Name: はじまりの羽音
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3700
+  InitialPure: 5000
+  InitialCool: 5800
+  InitialMental: 470
+  MaxSmile: 4070
+  MaxPure: 5500
+  MaxCool: 6380
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435192
+  SkillSeriesId: 20435190
+  AttributeId: 30435190
+  SpineId: 1
+  OrderId: 10387543
+  CenterSkillSeriesId: 10435190
+  CenterAttributeSeriesId: 20435190
+  RhythmGameSkillSeriesId: 30435193
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435194
+  CardSeriesId: 1043519
+  Name: はじまりの羽音
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4070
+  InitialPure: 5500
+  InitialCool: 6380
+  InitialMental: 470
+  MaxSmile: 4440
+  MaxPure: 6000
+  MaxCool: 6960
+  MaxMental: 470
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435192
+  SkillSeriesId: 20435190
+  AttributeId: 30435190
+  SpineId: 1
+  OrderId: 10387543
+  CenterSkillSeriesId: 10435190
+  CenterAttributeSeriesId: 20435190
+  RhythmGameSkillSeriesId: 30435194
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
 - Id: 10438011

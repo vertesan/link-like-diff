@@ -874,3 +874,33 @@
   SkillIcon: 20100900
   GradeAddSkillEffectsId: "5100902030"
   OrderId: 1
+- Id: 51053401
+  Name: スキルAP+2
+  Description: ライブ中、スキルの消費APを+2する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400002"
+  OrderId: 1
+- Id: 51053402
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
+- Id: 51053501
+  Name: 手札上限 -1枚
+  Description: ライブ中、手札の上限枚数を-1枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500001"
+  OrderId: 1
+- Id: 51053502
+  Name: スキルAP +1
+  Description: ライブ中、スキルの消費APを+1する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400001"
+  OrderId: 1
+- Id: 51053503
+  Name: AP回復速度 -30%
+  Description: ライブ中、APの回復速度を-30%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902030"
+  OrderId: 1
