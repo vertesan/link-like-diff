@@ -1,8 +1,14 @@
+- Id: 10100200
+  ActionType: 1
 - Id: 10300005
   ActionType: 3
 - Id: 10400100
   ActionType: 4
 - Id: 10400300
+  ActionType: 4
+- Id: 10402000
+  ActionType: 4
+- Id: 10403000
   ActionType: 4
 - Id: 10405000
   ActionType: 4
@@ -100,6 +106,8 @@
   ActionType: 8
 - Id: 11030300
   ActionType: 10
+- Id: 11031000
+  ActionType: 10
 - Id: 11032000
   ActionType: 10
 - Id: 20300010
@@ -164,7 +172,11 @@
   ActionType: 8
 - Id: 20830301
   ActionType: 8
+- Id: 20840002
+  ActionType: 8
 - Id: 20840005
   ActionType: 8
 - Id: 20840030
   ActionType: 8
+- Id: 20900005
+  ActionType: 9

@@ -369,3 +369,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-11-07T03:00:00Z
   EndTime: 2025-11-24T18:59:59Z
+- Id: 201058
+  Name: GiGO×fanfancy+ ログインキャンペーン
+  LoginBonusRewardSeriesId: 201058
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-11-09T12:00:00Z
+  EndTime: 2026-01-04T18:59:59Z

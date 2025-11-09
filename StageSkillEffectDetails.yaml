@@ -1,3 +1,19 @@
+- Id: 101002000
+  StageSkillEffectId: 10100200
+  SkillEffectDetailType: GET_HEART_CALC_TYPE
+  EffectValue: 1
+- Id: 101002001
+  StageSkillEffectId: 10100200
+  SkillEffectDetailType: GET_HEART_NUM_BASE
+  EffectValue: 2000000
+- Id: 101002002
+  StageSkillEffectId: 10100200
+  SkillEffectDetailType: GET_HEART_DISPLAY_TIME_TYPE
+  EffectValue: 2
+- Id: 101002003
+  StageSkillEffectId: 10100200
+  SkillEffectDetailType: GET_HEART_DISPLAY_TIME
+  EffectValue: 1
 - Id: 103000050
   StageSkillEffectId: 10300005
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
@@ -22,6 +38,22 @@
   StageSkillEffectId: 10400300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
   EffectValue: 3000000
+- Id: 104020000
+  StageSkillEffectId: 10402000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 104020001
+  StageSkillEffectId: 10402000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  EffectValue: 20000000
+- Id: 104030000
+  StageSkillEffectId: 10403000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 104030001
+  StageSkillEffectId: 10403000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  EffectValue: 30000000
 - Id: 104050000
   StageSkillEffectId: 10405000
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
@@ -722,6 +754,26 @@
   StageSkillEffectId: 11030300
   SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
   EffectValue: 0
+- Id: 110310000
+  StageSkillEffectId: 11031000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_CALC_TYPE
+  EffectValue: 1
+- Id: 110310001
+  StageSkillEffectId: 11031000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM
+  EffectValue: 10000000
+- Id: 110310002
+  StageSkillEffectId: 11031000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM_BONUS_MOOD
+  EffectValue: 0
+- Id: 110310003
+  StageSkillEffectId: 11031000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 110310004
+  StageSkillEffectId: 11031000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
+  EffectValue: 0
 - Id: 110320000
   StageSkillEffectId: 11032000
   SkillEffectDetailType: CHANGE_HEART_LIMIT_CALC_TYPE
@@ -1110,6 +1162,22 @@
   StageSkillEffectId: 20830301
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: 1
+- Id: 208400020
+  StageSkillEffectId: 20840002
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 4
+- Id: 208400021
+  StageSkillEffectId: 20840002
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 0
+- Id: 208400022
+  StageSkillEffectId: 20840002
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 208400023
+  StageSkillEffectId: 20840002
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: 2
 - Id: 208400050
   StageSkillEffectId: 20840005
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
@@ -1142,3 +1210,11 @@
   StageSkillEffectId: 20840030
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: 10
+- Id: 209000050
+  StageSkillEffectId: 20900005
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  EffectValue: 2
+- Id: 209000051
+  StageSkillEffectId: 20900005
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  EffectValue: 10526

@@ -5374,6 +5374,24 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325321
+  CenterAttributeSeriesId: 20325320
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 10020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325322
+  CenterAttributeSeriesId: 20325320
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 20020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325323
+  CenterAttributeSeriesId: 20325320
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 30020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
 - Id: 20328011
   CenterAttributeSeriesId: 20328010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -6682,6 +6700,24 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30015000
   Description: スリーズブーケに所属するメンバーのアピール値が150％上昇
+- Id: 20414041
+  CenterAttributeSeriesId: 20414040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20414042
+  CenterAttributeSeriesId: 20414040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20005400
+  Description: 全メンバーのアピール値が54％上昇
+- Id: 20414043
+  CenterAttributeSeriesId: 20414040
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30005400
+  Description: 全メンバーのアピール値が54％上昇
 - Id: 20415011
   CenterAttributeSeriesId: 20415010
   CenterAttributeName: アピールアップ
@@ -7614,6 +7650,24 @@
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
 - Id: 20425183
   CenterAttributeSeriesId: 20425180
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 30020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20425191
+  CenterAttributeSeriesId: 20425190
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 10020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20425192
+  CenterAttributeSeriesId: 20425190
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 20020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20425193
+  CenterAttributeSeriesId: 20425190
   CenterAttributeName: アピールアップ（DOLLCHESTRA）
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000

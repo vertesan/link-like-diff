@@ -166,3 +166,24 @@
   OrderId: 3
   QuestMusicsType: 2
   QuestMusicsDetail: 405304
+- Id: 8051081
+  GrandPrixesId: 805108
+  Name: A
+  Description: ステージA
+  OrderId: 1
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405119
+- Id: 8051082
+  GrandPrixesId: 805108
+  Name: B
+  Description: ステージB
+  OrderId: 2
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405121
+- Id: 8051083
+  GrandPrixesId: 805108
+  Name: C
+  Description: ステージC
+  OrderId: 3
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405107

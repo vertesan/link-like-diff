@@ -682,3 +682,15 @@
   InfoEndTime: 2025-10-24T02:59:59Z
   StartTime: 2025-10-15T03:00:00Z
   EndTime: 2025-10-20T18:59:59Z
+- Id: 805108
+  Name: Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦
+  Description: Live Grand Prix 105期SpecialTerm/Road to Bloom 個人戦
+  GrandPrixType: 1
+  GuildRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  PersonalRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2025-11-10T03:00:00Z
+  InfoEndTime: 2025-11-19T02:59:59Z
+  StartTime: 2025-11-10T03:00:00Z
+  EndTime: 2025-11-15T18:59:59Z

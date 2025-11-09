@@ -2,6 +2,8 @@
   ConditionType: 2
 - Id: 1030001
   ConditionType: 3
+- Id: 1030002
+  ConditionType: 3
 - Id: 1030003
   ConditionType: 3
 - Id: 1030005
@@ -25,6 +27,8 @@
 - Id: 1030130
   ConditionType: 3
 - Id: 1051005
+  ConditionType: 5
+- Id: 1051007
   ConditionType: 5
 - Id: 1051013
   ConditionType: 5

@@ -7404,6 +7404,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-10-31T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032532
+  Name: "[ガランドFlash]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2025-11-09T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -8208,6 +8220,18 @@
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2025-04-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041404
+  Name: "[Poupée en Lotus]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-11-09T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041501
   Name: "[Dream Believers]百生\u00a0吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -8807,6 +8831,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-10-31T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042519
+  Name: "[ガランドFlash]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-11-09T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."

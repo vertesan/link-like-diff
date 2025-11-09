@@ -4248,6 +4248,21 @@
   SkillIcon: 10325310
   SkillMainEffect: 39
   IsExSpecialAppeal: 0
+- Id: 10325320
+  Name: ドンビーシャイ
+  SkillIcon: 10325320
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10325321
+  Name: ドンビーシャイ
+  SkillIcon: 10325320
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10325322
+  Name: ドンビーシャイ
+  SkillIcon: 10325320
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -5233,6 +5248,21 @@
   SkillIcon: 10414030
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 10414040
+  Name: 仮
+  SkillIcon: 10414040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10414041
+  Name: 仮
+  SkillIcon: 10414040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10414042
+  Name: 仮
+  SkillIcon: 10414040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 10415010
   Name: アトラクトゲイン
   SkillIcon: 10415010
@@ -5977,6 +6007,21 @@
   Name: ダンシングボルテージ
   SkillIcon: 10425180
   SkillMainEffect: 39
+  IsExSpecialAppeal: 0
+- Id: 10425190
+  Name: ドンビーシャイ
+  SkillIcon: 10425190
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10425191
+  Name: ドンビーシャイ
+  SkillIcon: 10425190
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10425192
+  Name: ドンビーシャイ
+  SkillIcon: 10425190
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
@@ -8293,6 +8338,11 @@
   SkillIcon: 20325310
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20325320
+  Name: ロマンプロテクション
+  SkillIcon: 20325320
+  SkillMainEffect: 7
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -8628,6 +8678,11 @@
   SkillIcon: 20414030
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 20414040
+  Name: 仮
+  SkillIcon: 20414040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20415010
   Name: ドレス《Dream Believers》
   SkillIcon: 20415010
@@ -8877,6 +8932,11 @@
   Name: ウイングビートチャレンジャー
   SkillIcon: 20425180
   SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 20425190
+  Name: ロマンハート
+  SkillIcon: 20425190
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
@@ -10658,6 +10718,11 @@
   SkillIcon: 30325310
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30325320
+  Name: ガランドTrash
+  SkillIcon: 30325320
+  SkillMainEffect: 47
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -10943,6 +11008,11 @@
   SkillIcon: 30414030
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 30414040
+  Name: 仮
+  SkillIcon: 30414040
+  SkillMainEffect: 904
+  IsExSpecialAppeal: 0
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
   SkillIcon: 30415010
@@ -11172,6 +11242,11 @@
   Name: インヘリットウイング
   SkillIcon: 30425180
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 30425190
+  Name: ガランドTrash
+  SkillIcon: 30425190
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
