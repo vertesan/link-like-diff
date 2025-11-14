@@ -6758,3 +6758,83 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10500806
+  AdvSeriesId: 105008
+  Name: 第8話『今はまだ遥か幽かな光』
+  Description: PART 6
+  ScriptId: 10500806
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 333
+  SubTitleName: "6"
+  StartTime: 2025-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500807
+  AdvSeriesId: 105008
+  Name: 第8話『今はまだ遥か幽かな光』
+  Description: PART 7
+  ScriptId: 10500807
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 334
+  SubTitleName: "7"
+  StartTime: 2025-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500808
+  AdvSeriesId: 105008
+  Name: 第8話『今はまだ遥か幽かな光』
+  Description: PART 8
+  ScriptId: 10500808
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 335
+  SubTitleName: "8"
+  StartTime: 2025-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500809
+  AdvSeriesId: 105008
+  Name: 第8話『今はまだ遥か幽かな光』
+  Description: PART 9
+  ScriptId: 10500809
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 336
+  SubTitleName: "9"
+  StartTime: 2025-11-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0

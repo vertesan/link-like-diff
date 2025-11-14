@@ -1766,6 +1766,14 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102520
+- Id: 20105501
+  LoginBonusRewardSeriesId: 201055
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000055
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102529
 - Id: 20105701
   LoginBonusRewardSeriesId: 201057
   DayCount: 1
