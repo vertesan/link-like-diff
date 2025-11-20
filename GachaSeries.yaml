@@ -28,6 +28,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1000601
   GachaSeriesName: Welcome ”Cerise Bouquet” COLLECTION
   Description: Welcome ”Cerise Bouquet” COLLECTION
@@ -58,6 +59,7 @@
   GachaTimeLimitType: 1
   AvailableTime: 168
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1000602
   GachaSeriesName: Welcome ”DOLLCHESTRA” COLLECTION
   Description: Welcome ”DOLLCHESTRA” COLLECTION
@@ -88,6 +90,7 @@
   GachaTimeLimitType: 1
   AvailableTime: 168
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1000603
   GachaSeriesName: Welcome ”Mira-Cra Park!” COLLECTION
   Description: Welcome ”Mira-Cra Park!” COLLECTION
@@ -118,6 +121,7 @@
   GachaTimeLimitType: 1
   AvailableTime: 168
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1000801
   GachaSeriesName: 2024 PARTY! LIMITED COLLECTION for You!
   Description: PARTY! LIMITED COLLECTION for You!
@@ -148,6 +152,7 @@
   GachaTimeLimitType: 1
   AvailableTime: 72
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1021022
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-
   Description: BIRTHDAY LIMITED COLLECTION -Tsuzuri-
@@ -178,6 +183,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1021023
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Megumi-
   Description: BIRTHDAY LIMITED COLLECTION -Megumi-
@@ -208,6 +214,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030101
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION VOL.1 ～ Welcome to Link！Like！ PACK ～
   Description: SPRING COLLECTION第1弾
@@ -238,6 +245,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030102
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION VOL.2
   Description: SPRING COLLECTION第2弾
@@ -268,6 +276,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030103
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION VOL.3
   Description: SPRING COLLECTION第3弾
@@ -298,6 +307,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030104
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION MEMORY
   Description: SPRING COLLECTION MEMORY
@@ -328,6 +338,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030105
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.1
   Description: SUMMER LIMITED COLLECTION VOL.1
@@ -358,6 +369,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030106
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.2
   Description: SUMMER LIMITED COLLECTION VOL.2
@@ -388,6 +400,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030107
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.3
   Description: SUMMER LIMITED COLLECTION VOL.3
@@ -418,6 +431,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030108
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.4
   Description: SUMMER LIMITED COLLECTION VOL.4
@@ -448,6 +462,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030109
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.5
   Description: SUMMER LIMITED COLLECTION VOL.5
@@ -478,6 +493,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030110
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.6
   Description: SUMMER LIMITED COLLECTION VOL.6
@@ -508,6 +524,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030111
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.7
   Description: SUMMER LIMITED COLLECTION VOL.7
@@ -538,6 +555,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030112
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.8
   Description: SUMMER LIMITED COLLECTION VOL.8
@@ -568,6 +586,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030113
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION VOL.9
   Description: SUMMER LIMITED COLLECTION VOL.9
@@ -598,6 +617,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030114
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION MEMORY
   Description: SUMMER LIMITED COLLECTION MEMORY
@@ -628,6 +648,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030115
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.1
   Description: AUTUMN LIMITED COLLECTION VOL.1
@@ -658,6 +679,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030116
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.2
   Description: AUTUMN LIMITED COLLECTION VOL.2
@@ -688,6 +710,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030117
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.3
   Description: AUTUMN LIMITED COLLECTION VOL.3
@@ -718,6 +741,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030118
   GachaSeriesName: 2023 PARTY! LIMITED COLLECTION
   Description: PARTY! LIMITED COLLECTION
@@ -748,6 +772,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030119
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.4
   Description: AUTUMN LIMITED COLLECTION VOL.4
@@ -778,6 +803,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030120
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.5
   Description: AUTUMN LIMITED COLLECTION VOL.5
@@ -808,6 +834,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030121
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.6
   Description: AUTUMN LIMITED COLLECTION VOL.6
@@ -838,6 +865,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030122
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.7
   Description: AUTUMN LIMITED COLLECTION VOL.7
@@ -868,6 +896,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030123
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION VOL.8
   Description: AUTUMN LIMITED COLLECTION VOL.8
@@ -898,6 +927,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030124
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION MEMORY
   Description: AUTUMN LIMITED COLLECTION MEMORY
@@ -928,6 +958,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030125
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.1
   Description: WINTER LIMITED COLLECTION VOL.1
@@ -958,6 +989,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030126
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.2
   Description: WINTER LIMITED COLLECTION VOL.2
@@ -988,6 +1020,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030127
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.3
   Description: WINTER LIMITED COLLECTION VOL.3
@@ -1018,6 +1051,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030128
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION MEMORY REVIVAL
   Description: SPRING LIMITED COLLECTION MEMORY REVIVAL
@@ -1048,6 +1082,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030129
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION MEMORY REVIVAL
   Description: SUMMER LIMITED COLLECTION MEMORY REVIVAL
@@ -1078,6 +1113,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030130
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.4
   Description: WINTER LIMITED COLLECTION VOL.4
@@ -1108,6 +1144,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030131
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.5
   Description: WINTER LIMITED COLLECTION VOL.5
@@ -1138,6 +1175,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030132
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.6
   Description: WINTER LIMITED COLLECTION VOL.6
@@ -1168,6 +1206,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030133
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.7
   Description: WINTER LIMITED COLLECTION VOL.7
@@ -1198,6 +1237,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030134
   GachaSeriesName: 2023 AIKATSU! LIMITED COLLECTION
   Description: AIKATSU! LIMITED COLLECTION
@@ -1228,6 +1268,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030135
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION VOL.8
   Description: WINTER LIMITED COLLECTION VOL.8
@@ -1258,6 +1299,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030136
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION MEMORY
   Description: WINTER LIMITED COLLECTION MEMORY
@@ -1288,6 +1330,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030137
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION VOL.1
   Description: GRADUATION LIMITED COLLECTION VOL.1
@@ -1318,6 +1361,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030138
   GachaSeriesName: 2023 PARTY! LIMITED COLLECTION Vol.2
   Description: PARTY! LIMITED COLLECTION Vol.2
@@ -1348,6 +1392,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030139
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION VOL.2
   Description: GRADUATION LIMITED COLLECTION VOL.2
@@ -1378,6 +1423,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030901
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION PREMIUM
   Description: SPRING LIMITED COLLECTION PREMIUM
@@ -1408,6 +1454,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030902
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION PREMIUM
   Description: SUMMER LIMITED COLLECTION PREMIUM
@@ -1438,6 +1485,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1030903
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION PREMIUM
   Description: AUTUMN LIMITED COLLECTION PREMIUM
@@ -1468,6 +1516,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1031032
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Sayaka-
   Description: BIRTHDAY LIMITED COLLECTION -Sayaka-
@@ -1498,6 +1547,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1039301
   GachaSeriesName: UR1枚以上確定10連カードパックガチャ（103期通常のみ）
   Description: UR1枚以上確定10連カードパックガチャ（103期通常のみ）
@@ -1528,6 +1578,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1039302
   GachaSeriesName: UR1枚以上確定10連カードパックガチャ（103期SEASON LIMITEDのみ）
   Description: UR1枚以上確定10連カードパックガチャ（103期SEASON LIMITEDのみ）
@@ -1558,6 +1609,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040001
   GachaSeriesName: 2025/H1 STANDARD COLLECTION
   Description: 2025/H1 STANDARD COLLECTION
@@ -1567,7 +1619,7 @@
   GachaExchangePointId: 0
   ExchangePointNoticeNum: 0
   ExchangePointLockFlag: 0
-  OrderId: 5
+  OrderId: 6
   FilterType: 1
   PickUpCardSeriesId_1: 1021521
   PickUpCardBonusItemQuantity_1: 0
@@ -1588,6 +1640,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040101
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.1
   Description: SPRING LIMITED COLLECTION VOL.1
@@ -1618,6 +1671,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040102
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION MEMORY REVIVAL
   Description: SPRING LIMITED COLLECTION MEMORY REVIVAL
@@ -1648,6 +1702,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040103
   GachaSeriesName: 2023 SPRING LIMITED COLLECTION PREMIUM
   Description: SPRING LIMITED COLLECTION PREMIUM
@@ -1678,6 +1733,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040104
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.2
   Description: SPRING LIMITED COLLECTION VOL.2
@@ -1708,6 +1764,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040105
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.3
   Description: SPRING LIMITED COLLECTION VOL.3
@@ -1738,6 +1795,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040106
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.4
   Description: SPRING LIMITED COLLECTION VOL.4
@@ -1768,6 +1826,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040107
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.5
   Description: SPRING LIMITED COLLECTION VOL.5
@@ -1798,6 +1857,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040108
   GachaSeriesName: 2024 PARTY! LIMITED COLLECTION EXTRA
   Description: PARTY! LIMITED COLLECTION EXTRA
@@ -1828,6 +1888,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040109
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION VOL.6
   Description: SPRING LIMITED COLLECTION VOL.6
@@ -1858,6 +1919,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040110
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION MEMORY
   Description: SPRING LIMITED COLLECTION MEMORY
@@ -1888,6 +1950,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040201
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.1
   Description: SUMMER LIMITED COLLECTION VOL.1
@@ -1918,6 +1981,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040202
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION MEMORY REVIVAL
   Description: SUMMER LIMITED COLLECTION MEMORY REVIVAL
@@ -1948,6 +2012,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040203
   GachaSeriesName: 2023 SUMMER LIMITED COLLECTION PREMIUM
   Description: SUMMER LIMITED COLLECTION PREMIUM
@@ -1978,6 +2043,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040204
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.2
   Description: SUMMER LIMITED COLLECTION VOL.2
@@ -2008,6 +2074,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040205
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.3
   Description: SUMMER LIMITED COLLECTION VOL.3
@@ -2038,6 +2105,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040206
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.4
   Description: SUMMER LIMITED COLLECTION VOL.4
@@ -2068,6 +2136,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040207
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.5
   Description: SUMMER LIMITED COLLECTION VOL.5
@@ -2098,6 +2167,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040208
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.6
   Description: SUMMER LIMITED COLLECTION VOL.6
@@ -2128,6 +2198,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040209
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.7
   Description: SUMMER LIMITED COLLECTION VOL.7
@@ -2158,6 +2229,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040210
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION Vol.1 REVIVAL
   Description: GRADUATION LIMITED COLLECTION Vol.1 REVIVAL
@@ -2188,6 +2260,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040211
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION Vol.2 REVIVAL
   Description: GRADUATION LIMITED COLLECTION Vol.2 REVIVAL
@@ -2218,6 +2291,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040212
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.8
   Description: SUMMER LIMITED COLLECTION VOL.8
@@ -2248,6 +2322,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040213
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION VOL.9
   Description: SUMMER LIMITED COLLECTION VOL.9
@@ -2278,6 +2353,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040214
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Rurino-
   Description: BIRTHDAY LIMITED COLLECTION -Rurino-
@@ -2308,6 +2384,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040215
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION MEMORY
   Description: SUMMER LIMITED COLLECTION MEMORY
@@ -2338,6 +2415,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040301
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.1
   Description: AUTUMN LIMITED COLLECTION VOL.1
@@ -2368,6 +2446,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040302
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION MEMORY REVIVAL
   Description: AUTUMN LIMITED COLLECTION MEMORY REVIVAL
@@ -2398,6 +2477,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040303
   GachaSeriesName: 2023 AUTUMN LIMITED COLLECTION PREMIUM
   Description: AUTUMN LIMITED COLLECTION PREMIUM
@@ -2428,6 +2508,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040304
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.2
   Description: AUTUMN LIMITED COLLECTION VOL.2
@@ -2458,6 +2539,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040305
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.3
   Description: AUTUMN LIMITED COLLECTION VOL.3
@@ -2488,6 +2570,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040306
   GachaSeriesName: 2024 PARTY! LIMITED COLLECTION
   Description: PARTY! LIMITED COLLECTION
@@ -2518,6 +2601,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040307
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.4
   Description: AUTUMN LIMITED COLLECTION VOL.4
@@ -2548,6 +2632,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040308
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.5
   Description: AUTUMN LIMITED COLLECTION VOL.5
@@ -2578,6 +2663,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040309
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.6
   Description: AUTUMN LIMITED COLLECTION VOL.6
@@ -2608,6 +2694,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040310
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.7
   Description: AUTUMN LIMITED COLLECTION VOL.7
@@ -2638,6 +2725,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040311
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION VOL.8
   Description: AUTUMN LIMITED COLLECTION VOL.8
@@ -2668,6 +2756,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040401
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION MEMORY REVIVAL
   Description: WINTER LIMITED COLLECTION MEMORY REVIVAL
@@ -2698,6 +2787,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040402
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION PREMIUM
   Description: WINTER LIMITED COLLECTION PREMIUM
@@ -2728,6 +2818,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040403
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION MEMORY
   Description: AUTUMN LIMITED COLLECTION MEMORY
@@ -2758,6 +2849,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040404
   GachaSeriesName: O.N.G.E.K.I. LIMITED COLLECTION
   Description: O.N.G.E.K.I. LIMITED COLLECTION
@@ -2788,6 +2880,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040405
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.1
   Description: WINTER LIMITED COLLECTION VOL.1
@@ -2818,6 +2911,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040406
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION MEMORY REVIVAL
   Description: WINTER LIMITED COLLECTION MEMORY REVIVAL
@@ -2848,6 +2942,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040407
   GachaSeriesName: 2023 WINTER LIMITED COLLECTION PREMIUM
   Description: WINTER LIMITED COLLECTION PREMIUM
@@ -2878,6 +2973,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040408
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.2
   Description: WINTER LIMITED COLLECTION VOL.2
@@ -2908,6 +3004,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040409
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION PREMIUM
   Description: SPRING LIMITED COLLECTION PREMIUM
@@ -2938,6 +3035,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040410
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION PREMIUM
   Description: SUMMER LIMITED COLLECTION PREMIUM
@@ -2968,6 +3066,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040411
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION PREMIUM
   Description: AUTUMN LIMITED COLLECTION PREMIUM
@@ -2998,6 +3097,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040412
   GachaSeriesName: 2023 LIMITED COLLECTION REVIVAL
   Description: 2023 LIMITED COLLECTION REVIVAL
@@ -3028,6 +3128,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040413
   GachaSeriesName: 2024 LIMITED COLLECTION REVIVAL
   Description: 2024 LIMITED COLLECTION REVIVAL
@@ -3058,6 +3159,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040414
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.3
   Description: WINTER LIMITED COLLECTION VOL.3
@@ -3088,6 +3190,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040415
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.4
   Description: WINTER LIMITED COLLECTION VOL.4
@@ -3118,6 +3221,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040416
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.5
   Description: WINTER LIMITED COLLECTION VOL.5
@@ -3148,6 +3252,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040417
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.6
   Description: WINTER LIMITED COLLECTION VOL.6
@@ -3178,6 +3283,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040418
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.7
   Description: WINTER LIMITED COLLECTION VOL.7
@@ -3208,6 +3314,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040419
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.8
   Description: WINTER LIMITED COLLECTION VOL.8
@@ -3238,6 +3345,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040420
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION VOL.9
   Description: WINTER LIMITED COLLECTION VOL.9
@@ -3268,6 +3376,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040421
   GachaSeriesName: 2024 WINTER LIMITED COLLECTION MEMORY
   Description: WINTER LIMITED COLLECTION MEMORY
@@ -3298,6 +3407,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040422
   GachaSeriesName: 2024 PARTY! LIMITED COLLECTION
   Description: PARTY! LIMITED COLLECTION
@@ -3328,6 +3438,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040423
   GachaSeriesName: 2024 GRADUATION LIMITED COLLECTION
   Description: GRADUATION LIMITED COLLECTION
@@ -3358,6 +3469,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 1040051
+  IsGachaPrize: 0
 - Id: 1040424
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION MEMORY
   Description: GRADUATION LIMITED COLLECTION MEMORY
@@ -3388,6 +3500,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1040425
   GachaSeriesName: 2024 GRADUATION LIMITED COLLECTION AFTER
   Description: GRADUATION LIMITED COLLECTION AFTER
@@ -3418,6 +3531,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 1040051
+  IsGachaPrize: 0
 - Id: 1041021
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kozue-
   Description: BIRTHDAY LIMITED COLLECTION -Kozue-
@@ -3448,6 +3562,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1041031
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kaho-
   Description: BIRTHDAY LIMITED COLLECTION -Kaho-
@@ -3478,6 +3593,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1041041
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Ginko-
   Description: BIRTHDAY LIMITED COLLECTION -Ginko-
@@ -3508,6 +3624,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1041042
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kosuzu-
   Description: BIRTHDAY LIMITED COLLECTION -Kosuzu-
@@ -3538,6 +3655,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1041043
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Hime-
   Description: BIRTHDAY LIMITED COLLECTION -Hime-
@@ -3568,6 +3686,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1049301
   GachaSeriesName: UR1枚以上確定10連カードパックガチャ（104期通常のみ）
   Description: UR1枚以上確定10連カードパックガチャ（104期通常のみ）
@@ -3598,6 +3717,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050101
   GachaSeriesName: 2025/H1 STANDARD COLLECTION
   Description: STANDARD COLLECTION
@@ -3628,6 +3748,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050102
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.1
   Description: SPRING LIMITED COLLECTION VOL.1
@@ -3658,6 +3779,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050103
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION MEMORY REVIVAL
   Description: SPRING LIMITED COLLECTION MEMORY REVIVAL
@@ -3688,6 +3810,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050104
   GachaSeriesName: 2024 SPRING LIMITED COLLECTION PREMIUM
   Description: SPRING LIMITED COLLECTION PREMIUM
@@ -3718,6 +3841,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050105
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.2
   Description: SPRING LIMITED COLLECTION VOL.2
@@ -3748,6 +3872,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050106
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.3
   Description: SPRING LIMITED COLLECTION VOL.3
@@ -3778,6 +3903,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050107
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.4
   Description: SPRING LIMITED COLLECTION VOL.4
@@ -3808,6 +3934,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050108
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.5
   Description: SPRING LIMITED COLLECTION VOL.5
@@ -3838,6 +3965,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050109
   GachaSeriesName: 2025 PARTY! LIMITED COLLECTION EXTRA
   Description: PARTY! LIMITED COLLECTION EXTRA
@@ -3868,6 +3996,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050110
   GachaSeriesName: 2025 PARTY! LIMITED COLLECTION EXTRA PREMIUM
   Description: PARTY! LIMITED COLLECTION EXTRA PREMIUM
@@ -3898,6 +4027,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050111
   GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Kaho-
   Description: 2025 BIRTHDAY LIMITED COLLECTION -Kaho-
@@ -3928,6 +4058,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050112
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kaho-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Kaho-
@@ -3958,6 +4089,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050113
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION VOL.6
   Description: SPRING LIMITED COLLECTION VOL.6
@@ -3988,6 +4120,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050114
   GachaSeriesName: 102ND LEGENDARY COLLECTION -Star Sign Memories-
   Description: 102ND LEGENDARY COLLECTION -Star Sign Memories-
@@ -4018,6 +4151,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050115
   GachaSeriesName: 2025 SPRING LIMITED COLLECTION MEMORY
   Description: SPRING LIMITED COLLECTION MEMORY
@@ -4048,6 +4182,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050201
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.1
   Description: SUMMER LIMITED COLLECTION VOL.1
@@ -4078,6 +4213,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050202
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION MEMORY REVIVAL
   Description: SUMMER LIMITED COLLECTION MEMORY REVIVAL
@@ -4108,6 +4244,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050203
   GachaSeriesName: 2024 SUMMER LIMITED COLLECTION PREMIUM
   Description: SUMMER LIMITED COLLECTION PREMIUM
@@ -4138,6 +4275,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050204
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Kozue-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Kozue-
@@ -4168,6 +4306,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050205
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.2
   Description: SUMMER LIMITED COLLECTION VOL.2
@@ -4198,6 +4337,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050206
   GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Ceras-
   Description: 2025 BIRTHDAY LIMITED COLLECTION -Ceras-
@@ -4228,6 +4368,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050207
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.3
   Description: SUMMER LIMITED COLLECTION VOL.3
@@ -4258,6 +4399,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050208
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.4
   Description: SUMMER LIMITED COLLECTION VOL.4
@@ -4288,6 +4430,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050209
   GachaSeriesName: 2023-2024 LIMITED COLLECTION MEMORY PREMIUM/SIsCa
   Description: LIMITED COLLECTION MEMORY PREMIUM/SIsCa
@@ -4318,6 +4461,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050210
   GachaSeriesName: 2023-2024 LIMITED COLLECTION MEMORY PREMIUM/Ticket
   Description: LIMITED COLLECTION MEMORY PREMIUM/Ticket
@@ -4348,6 +4492,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050211
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.5
   Description: SUMMER LIMITED COLLECTION VOL.5
@@ -4378,6 +4523,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050212
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.6
   Description: SUMMER LIMITED COLLECTION VOL.6
@@ -4408,6 +4554,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050213
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.7
   Description: SUMMER LIMITED COLLECTION VOL.7
@@ -4438,6 +4585,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050214
   GachaSeriesName: 2025 PARTY! LIMITED COLLECTION EXTRA PREMIUM REVIVAL
   Description: PARTY! LIMITED COLLECTION EXTRA PREMIUM REVIVAL
@@ -4468,6 +4616,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050215
   GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION REVIVAL
   Description: 2023 GRADUATION LIMITED COLLECTION REVIVAL
@@ -4498,6 +4647,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050216
   GachaSeriesName: 2024 GRADUATION LIMITED COLLECTION REVIVAL
   Description: 2024 GRADUATION LIMITED COLLECTION REVIVAL
@@ -4528,6 +4678,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050217
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.8
   Description: SUMMER LIMITED COLLECTION VOL.8
@@ -4558,6 +4709,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050218
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION VOL.9
   Description: SUMMER LIMITED COLLECTION VOL.9
@@ -4588,6 +4740,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050219
   GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Rurino-
   Description: 2025 BIRTHDAY LIMITED COLLECTION -Rurino-
@@ -4618,6 +4771,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050220
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Rurino-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Rurino-
@@ -4648,6 +4802,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050221
   GachaSeriesName: 2025 SUMMER LIMITED COLLECTION MEMORY
   Description: SUMMER LIMITED COLLECTION MEMORY
@@ -4678,6 +4833,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050301
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.1
   Description: AUTUMN LIMITED COLLECTION VOL.1
@@ -4708,6 +4864,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050302
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION MEMORY REVIVAL
   Description: AUTUMN LIMITED COLLECTION MEMORY REVIVAL
@@ -4738,6 +4895,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050303
   GachaSeriesName: 2024 AUTUMN LIMITED COLLECTION PREMIUM
   Description: AUTUMN LIMITED COLLECTION PREMIUM
@@ -4768,6 +4926,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050304
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.2
   Description: AUTUMN LIMITED COLLECTION VOL.2
@@ -4798,6 +4957,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050305
   GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Hime-
   Description: 2025 BIRTHDAY LIMITED COLLECTION -Hime-
@@ -4828,6 +4988,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050306
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Hime-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Hime-
@@ -4858,6 +5019,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050307
   GachaSeriesName: 2025 PARTY! LIMITED COLLECTION
   Description: PARTY! LIMITED COLLECTION
@@ -4888,6 +5050,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 10501101
+  IsGachaPrize: 0
 - Id: 1050308
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.3
   Description: AUTUMN LIMITED COLLECTION VOL.3
@@ -4918,6 +5081,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050309
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.4
   Description: AUTUMN LIMITED COLLECTION VOL.4
@@ -4948,6 +5112,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050310
   GachaSeriesName: 2025 BIRTHDAY LIMITED COLLECTION -Ginko-
   Description: 2025 BIRTHDAY LIMITED COLLECTION -Ginko-
@@ -4978,6 +5143,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050311
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Ginko-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Ginko-
@@ -5008,6 +5174,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050312
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.5
   Description: AUTUMN LIMITED COLLECTION VOL.5
@@ -5038,6 +5205,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050313
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.6
   Description: AUTUMN LIMITED COLLECTION VOL.6
@@ -5068,6 +5236,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050314
   GachaSeriesName: 2025 AUTUMN LIMITED COLLECTION VOL.7
   Description: AUTUMN LIMITED COLLECTION VOL.7
@@ -5077,7 +5246,7 @@
   GachaExchangePointId: 10503
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 1
+  OrderId: 2
   FilterType: 1
   PickUpCardSeriesId_1: 1042519
   PickUpCardBonusItemQuantity_1: 40
@@ -5098,6 +5267,7 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
 - Id: 1050315
   GachaSeriesName: 2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-
   Description: 2024 BIRTHDAY LIMITED COLLECTION -Tsuzuri-
@@ -5107,7 +5277,7 @@
   GachaExchangePointId: 1050315
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 6
+  OrderId: 5
   FilterType: 1
   PickUpCardSeriesId_1: 1022901
   PickUpCardBonusItemQuantity_1: 0
@@ -5128,3 +5298,97 @@
   GachaTimeLimitType: 0
   AvailableTime: 0
   GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050316
+  GachaSeriesName: 2025/H2 STANDARD COLLECTION
+  Description: STANDARD COLLECTION
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 1050316
+  ExchangePointNoticeNum: 600
+  ExchangePointLockFlag: 0
+  OrderId: 900
+  FilterType: 1
+  PickUpCardSeriesId_1: 1051501
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1041515
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1042515
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1052504
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1043518
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1033529
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2026-03-31T02:59:59Z
+  NoticeText: "{'mainTitle':'','mainMessages':[],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・ガチャより獲得できる「引き換えPt.」は「2025/H2 STANDARD COLLECTION」でのみ使用できます。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。','・1日1回限定の割引ガチャは、有償SIsCaでのみ引くことができます。','・1日1回限定の割引ガチャは、毎日「04:00」にリセットされます。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2025/H2 STANDARD COLLECTION」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['既に所持しているカードが排出されることもあります。','既に所持しているカードが排出された場合は、「解放Pt.」と「ペタルコイン」が獲得できます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['「2025/H2 STANDARD COLLECTION」ガチャを引くと、引いたカードの枚数と同じ数だけギフトボーナスの抽選が行われます。','獲得したギフトはWith×MEETSやFes×LIVEで使用できます。','所持数上限に達している場合には獲得できません。','※ギフトごとの所持数上限：9,999']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050317
+  GachaSeriesName: 2.5th ANNIVERSARY PRIME SELECTION
+  Description: 2.5th ANNIVERSARY PRIME SELECTION
+  GachaType: 6
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 0
+  ExchangePointNoticeNum: 0
+  ExchangePointLockFlag: 0
+  OrderId: 3
+  FilterType: 1
+  PickUpCardSeriesId_1: 1042514
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1032529
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1043516
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1031532
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1052506
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1041519
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-12-05T02:59:59Z
+  NoticeText: "{'mainTitle':'2.5th ANNIVERSARY PRIME SELECTIONに関する諸注意','mainMessages':['・本ガチャは有償SIsCaだけで引くことができます。','・本ガチャの1~9枚目ではURカードは排出されません。','・本ガチャの10枚目がUR確定となり、カードに対応した解放Pt.×300が付与されます。','\u3000※新規に獲得したカードであった場合でも、解放Pt.×300が付与されます。','\u3000※既に所持しているURカードを獲得した場合、解放Pt.×300に加え解放Pt.×60が別途付与されます。','・2.5th ANNIVERSARY PRIME SELECTIONのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「引き換えPt.」を獲得できません。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000このため同じカードは複数所持することができません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000SIsCaが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['本ガチャでは獲得できません。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050318
+  GachaSeriesName: 2.5th ANNIVERSARY COLLECTION PREMIUM
+  Description: 2.5th ANNIVERSARY COLLECTION PREMIUM
+  GachaType: 93
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 105030
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 4
+  FilterType: 1
+  PickUpCardSeriesId_1: 1021527
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1022527
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1023524
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1041513
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1042512
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 1043512
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 1
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-12-05T02:59:59Z
+  NoticeText: "{'mainTitle':'2.5th ANNIVERSARY COLLECTION PREMIUMに関する諸注意','mainMessages':['・本ガチャは専用のカードパックチケットだけで引くことができます。','・本ガチャを引いた累計回数に応じて、ガチャ表示画面よりプライズを獲得できます。','\u3000※プライズ受取の有効期限は「2.5th ANNIVERSARY COLLECTION PREMIUM」の開催期間中までとなりますので、ご注意ください。','・2.5th ANNIVERSARY COLLECTION PREMIUMのカードは本ガチャ開催期間中限定の提供となります。','\u3000※今後、予告なく再登場する場合があります。','・本ガチャでは「ギフトボーナス」は付与されません。'],'noteTitle':'諸注意','noteMessages':['・期間および内容は予告なく変更される場合があります。','・表示されている提供割合は、','\u3000表示上小数点第3位以下を切り捨てしているため、','\u3000すべてを合算しても100%にならない場合があります。','・ガチャは1回ごとに提供割合に基づいて抽選を行います。','\u3000そのため、提供割合1%のカードが100回中1回必ず獲得できるわけではありません。','・ガチャで出現するカードの提供割合は、カードによって異なります。','・本ガチャで既に所持しているカードが排出された場合、','\u3000そのカードは自動的に「ペタルコイン」と「同カードの解放Pt.」に変換されます。','\u3000そのため、同じカードを重複して獲得することはできません。','・通信状況やガチャを引くタイミングによっては、','\u3000表示が乱れたりエラーとなったりする場合がありますが、','\u3000チケットが消費されていればカードの獲得は正常に完了しています。'],'guaranteeMessages':['ガチャを引き、カードを1枚獲得するごとに、「引き換えPt.」を「1pt」獲得できます。','既に所持しているカードを獲得した場合も、引き換えPt.を獲得できます。','引き換えPt.の有効期限は「2.5th ANNIVERSARY COLLECTION PREMIUM」の開催期間中までとなりますので、ご注意ください。','有効期限を過ぎると、引き換えPt.「1pt」あたりペタルコイン「1枚」に変換されます。'],'limitBreakMessages':['本ガチャで既に所持しているカードが排出された場合、','そのカードは 自動的に「解放Pt.」 と「ペタルコイン」 に変換されます。','それぞれ、所持数上限に達している場合には獲得できません。','※カードごとの解放 Pt.の所持数上限: 9,999','※ペタルコインの所持数上限:999,999,999'],'giftBonusMessages':['本ガチャでは付与されません。']}"
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 1

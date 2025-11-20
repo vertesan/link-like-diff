@@ -7,6 +7,8 @@
   InfoEndTime: 2023-12-31T14:59:59Z
   StartTime: 2023-12-23T01:00:00Z
   EndTime: 2023-12-28T10:59:59Z
+  RaidRewardTargetType: 1
+  RaidUnitName: Byte
 - Id: 900020
   Name: Wish for Blooming Together*
   Description: Wish for Blooming Together*
@@ -16,3 +18,16 @@
   InfoEndTime: 2025-01-26T12:00:00Z
   StartTime: 2025-01-20T12:00:00Z
   EndTime: 2025-01-24T18:59:59Z
+  RaidRewardTargetType: 1
+  RaidUnitName: 票
+- Id: 900030
+  Name: Link With Blooming JEWEL FLOWER Days!
+  Description: Link With Blooming JEWEL FLOWER Days!
+  DropNumUp: 100
+  PersonalRankingTabs: 0,1,10,100,500,1000,1500,2000
+  InfoStartTime: 2025-09-19T03:00:00Z
+  InfoEndTime: 2025-09-26T03:00:00Z
+  StartTime: 2025-09-19T03:00:00Z
+  EndTime: 2025-09-23T18:59:59Z
+  RaidRewardTargetType: 2
+  RaidUnitName: 輪

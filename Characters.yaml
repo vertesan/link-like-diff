@@ -25,6 +25,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "101"
+  GraduateIntroduction: ""
 - Id: 1020
   NameLast: ""
   NameFirst: ""
@@ -52,6 +53,7 @@
   LatinAlpabetFullName: Otomune Kozue ＆ Yugiri Tsuzuri ＆ Fujishima Megumi
   NameDisplayType: 1
   DisplayGeneration: "102"
+  GraduateIntroduction: ""
 - Id: 1021
   NameLast: 乙宗
   NameFirst: 梢
@@ -80,6 +82,12 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "102"
+  GraduateIntroduction: |-
+    蓮ノ空女学院の102期生。文武両道、眉目秀麗。音楽一家に生
+    まれ、小さいころから様々な習い事をしている才女。スクール
+    アイドルクラブの部長として、夢だった『ラブライブ！優勝』
+    を成し遂げた。多くの出会いを経て、あまり好きではなかった
+    自分をようやく認めてあげられるようになった。
 - Id: 1022
   NameLast: 夕霧
   NameFirst: 綴理
@@ -108,6 +116,12 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "102"
+  GraduateIntroduction: |-
+    蓮ノ空女学院の102期生。周囲からは天才と称されるほどのパ
+    フォーマーである一方、マイペースな性格で、独特なワードセ
+    ンスを持ち、寂しがりやで人懐っこいところもある。スクール
+    アイドルが大好きで、自分がそのひとりであれたことを心から
+    誇りに思っている。
 - Id: 1023
   NameLast: 藤島
   NameFirst: 慈
@@ -136,6 +150,12 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "102"
+  GraduateIntroduction: |-
+    蓮ノ空女学院の102期生。小さい頃からタレント活動をしてお
+    り、自分の可愛さを自覚している。世界中を夢中にするため、
+    いつだって努力を惜しまない。一方で興味のないことは一切や
+    らないため、勉強は壊滅的。高校卒業後、夢を叶えるため世界
+    に向かって羽ばたいた。
 - Id: 1031
   NameLast: 日野下
   NameFirst: 花帆
@@ -163,6 +183,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "103"
+  GraduateIntroduction: ""
 - Id: 1032
   NameLast: 村野
   NameFirst: さやか
@@ -191,6 +212,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "103"
+  GraduateIntroduction: ""
 - Id: 1033
   NameLast: 大沢
   NameFirst: 瑠璃乃
@@ -219,6 +241,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "103"
+  GraduateIntroduction: ""
 - Id: 1041
   NameLast: 百生
   NameFirst: 吟子
@@ -246,6 +269,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "104"
+  GraduateIntroduction: ""
 - Id: 1042
   NameLast: 徒町
   NameFirst: 小鈴
@@ -273,6 +297,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "104"
+  GraduateIntroduction: ""
 - Id: 1043
   NameLast: 安養寺
   NameFirst: 姫芽
@@ -301,6 +326,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "104"
+  GraduateIntroduction: ""
 - Id: 1044
   NameLast: ""
   NameFirst: ""
@@ -328,6 +354,7 @@
   LatinAlpabetFullName: Katsuragi Izumi＆Ceras Yanagida Lilienfeld
   NameDisplayType: 1
   DisplayGeneration: "104"
+  GraduateIntroduction: ""
 - Id: 1051
   NameLast: 桂城
   NameFirst: 泉
@@ -355,6 +382,7 @@
   LatinAlpabetFullName: ""
   NameDisplayType: 0
   DisplayGeneration: "104"
+  GraduateIntroduction: ""
 - Id: 1052
   NameLast: ""
   NameFirst: セラス
@@ -383,3 +411,4 @@
   LatinAlpabetFullName: Ceras Yanagida Lilienfeld
   NameDisplayType: 1
   DisplayGeneration: "105"
+  GraduateIntroduction: ""

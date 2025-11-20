@@ -462,3 +462,35 @@
   EffectValue: 300
   StartTime: 2025-11-10T03:00:00Z
   EndTime: 2025-11-26T18:59:59Z
+- Id: 59
+  CampaignType: 5
+  TargetContents: 103
+  Name: スタイルPt.獲得数増加
+  Description: 期間中、デイリーライブで獲得できるスタイルPt.の量が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-11-27T18:59:59Z
+- Id: 60
+  CampaignType: 3
+  TargetContents: 103
+  Name: アイテム獲得数増加
+  Description: 期間中、デイリーライブで獲得できるアイテムの個数が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-11-27T18:59:59Z
+- Id: 61
+  CampaignType: 5
+  TargetContents: 800
+  Name: スタイルPt.獲得数増加
+  Description: 期間中、スクールアイドルショウで獲得できるスタイルPt.の量が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-11-27T18:59:59Z
+- Id: 62
+  CampaignType: 3
+  TargetContents: 800
+  Name: アイテム獲得数増加
+  Description: 期間中、スクールアイドルショウで獲得できるアイテムの個数が2倍に増加。
+  EffectValue: 200
+  StartTime: 2025-11-20T03:00:00Z
+  EndTime: 2025-11-27T18:59:59Z

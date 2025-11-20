@@ -1,0 +1,30 @@
+- Id: 106001
+  CategoryListName: 通常アイテム交換
+  ShopListId: 6001
+  OrderId: 1
+  FilterType: 1
+- Id: 206001
+  CategoryListName: ユメノシリーズ交換
+  ShopListId: 6001
+  OrderId: 2
+  FilterType: 1
+- Id: 306001
+  CategoryListName: スリーズブーケ メンバーシップ特典交換
+  ShopListId: 6001
+  OrderId: 3
+  FilterType: 0
+- Id: 306002
+  CategoryListName: DOLLCHESTRA メンバーシップ特典交換
+  ShopListId: 6001
+  OrderId: 4
+  FilterType: 0
+- Id: 306003
+  CategoryListName: みらくらぱーく！ メンバーシップ特典交換
+  ShopListId: 6001
+  OrderId: 5
+  FilterType: 0
+- Id: 306004
+  CategoryListName: Edel Note メンバーシップ特典交換
+  ShopListId: 6001
+  OrderId: 6
+  FilterType: 0

@@ -1,0 +1,11 @@
+- Id: 1000
+  EventName: お宝探し！
+  BoxDropOdds: 7000
+  BoxDropLimit: 0
+  BoxDropLimitResetType: 0
+  SpecialRewardCountTargetBoxDatasId: 1000400,1000401
+  AddBoxProgressCount: 100
+  AddBoxDatasId: 1000401
+  IsRewardViewType: 1
+  StartTime: 2025-11-27T19:00:00Z
+  EndTime: 2025-12-04T18:59:59Z

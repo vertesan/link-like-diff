@@ -5249,19 +5249,19 @@
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 10414040
-  Name: -
+  Name: アルターエゴ
   SkillIcon: 10414040
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10414041
-  Name: -
+  Name: アルターエゴ
   SkillIcon: 10414040
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10414042
-  Name: -
+  Name: アルターエゴ
   SkillIcon: 10414040
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10415010
   Name: アトラクトゲイン
@@ -8679,9 +8679,9 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20414040
-  Name: -
+  Name: ドレス《Poupée en Lotus》
   SkillIcon: 20414040
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20415010
   Name: ドレス《Dream Believers》
@@ -11009,9 +11009,9 @@
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30414040
-  Name: -
+  Name: アルターエゴ
   SkillIcon: 30414040
-  SkillMainEffect: 904
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
@@ -11723,6 +11723,16 @@
   SkillIcon: 80413040
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 80044010
+  Name: ドレス《Poupée en Lotus》
+  SkillIcon: 80414040
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 80044020
+  Name: 《Poupée en Lotus》
+  SkillIcon: 80414041
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
 - Id: 80045010
   Name: ハートアトラクション
   SkillIcon: 80415030
@@ -12192,6 +12202,16 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90044010
+  Name: ミミクリー
+  SkillIcon: 90414040
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 90044020
+  Name: ドロー：メンタルリカバー/インスタンス
+  SkillIcon: 90414041
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 90045010
   Name: インスタンス

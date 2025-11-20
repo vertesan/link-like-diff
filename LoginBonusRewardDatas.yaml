@@ -1726,6 +1726,62 @@
   RewardNum: 1
   LifeTimeDay: 30
   RewardTextId: 40102515
+- Id: 20105101
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 1
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 500
+  LifeTimeDay: 30
+  RewardTextId: 40102530
+- Id: 20105102
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 2
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 3
+  LifeTimeDay: 30
+  RewardTextId: 40102531
+- Id: 20105103
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 3
+  RewardType: 1
+  RewardId: 3011001
+  RewardNum: 200
+  LifeTimeDay: 30
+  RewardTextId: 40102532
+- Id: 20105104
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 4
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 500
+  LifeTimeDay: 30
+  RewardTextId: 40102533
+- Id: 20105105
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 5
+  RewardType: 3
+  RewardId: 3001002
+  RewardNum: 5
+  LifeTimeDay: 30
+  RewardTextId: 40102534
+- Id: 20105106
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 6
+  RewardType: 1
+  RewardId: 3011001
+  RewardNum: 300
+  LifeTimeDay: 30
+  RewardTextId: 40102535
+- Id: 20105107
+  LoginBonusRewardSeriesId: 201051
+  DayCount: 7
+  RewardType: 3
+  RewardId: 3002212
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102536
 - Id: 20105201
   LoginBonusRewardSeriesId: 201052
   DayCount: 1

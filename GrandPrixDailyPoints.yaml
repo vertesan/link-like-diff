@@ -3,33 +3,40 @@
   MaxRank: 10
   BasePoint: 2910000
   AdditionalPoint: 10000
+  CalculationType: 1
 - Id: 2
   MinRank: 11
   MaxRank: 100
   BasePoint: 2455000
   AdditionalPoint: 5000
+  CalculationType: 1
 - Id: 3
   MinRank: 101
   MaxRank: 1000
   BasePoint: 1551000
   AdditionalPoint: 1000
+  CalculationType: 1
 - Id: 4
   MinRank: 1
   MaxRank: 500
   BasePoint: 1500000
   AdditionalPoint: 100
+  CalculationType: 2
 - Id: 5
   MinRank: 501
   MaxRank: 3000
   BasePoint: 1000000
   AdditionalPoint: 200
+  CalculationType: 2
 - Id: 6
   MinRank: 3001
   MaxRank: 5000
   BasePoint: 500000
   AdditionalPoint: 250
+  CalculationType: 2
 - Id: 7
   MinRank: 5001
   MaxRank: 10000
   BasePoint: 50000
   AdditionalPoint: 90
+  CalculationType: 2
