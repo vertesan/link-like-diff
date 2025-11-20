@@ -6183,6 +6183,21 @@
   SkillIcon: 10434040
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 10434050
+  Name: アルターエゴ
+  SkillIcon: 10434050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10434051
+  Name: アルターエゴ
+  SkillIcon: 10434050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10434052
+  Name: アルターエゴ
+  SkillIcon: 10434050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10435010
   Name: エクステボルテージ
   SkillIcon: 10435010
@@ -6688,20 +6703,35 @@
   SkillIcon: 10515060
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 10515070
+  Name: ショウタイム
+  SkillIcon: 10515070
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10515071
+  Name: ショウタイム
+  SkillIcon: 10515070
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10515072
+  Name: ショウタイム
+  SkillIcon: 10515070
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10518010
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10518010
-  SkillMainEffect: 1
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 10518011
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10518010
-  SkillMainEffect: 1
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 10518012
-  Name: 〓〓〓〓〓〓〓
+  Name: Elysion
   SkillIcon: 10518010
-  SkillMainEffect: 1
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 10523010
   Name: ボルテージバイブス
@@ -6867,6 +6897,21 @@
   Name: エンジェルアシスト
   SkillIcon: 10525060
   SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 10525070
+  Name: リーディングアクター
+  SkillIcon: 10525070
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525071
+  Name: リーディングアクター
+  SkillIcon: 10525070
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525072
+  Name: リーディングアクター
+  SkillIcon: 10525070
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -8993,6 +9038,11 @@
   SkillIcon: 20434040
   SkillMainEffect: 31
   IsExSpecialAppeal: 0
+- Id: 20434050
+  Name: ボルテックスガード
+  SkillIcon: 20434050
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
 - Id: 20435010
   Name: チアフルブースト：みらくらぱーく！
   SkillIcon: 20435010
@@ -9168,8 +9218,13 @@
   SkillIcon: 20515060
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 20515070
+  Name: ハートキャプチャ
+  SkillIcon: 20515070
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20518010
-  Name: 〓〓〓〓〓〓〓
+  Name: mode:REALIZER
   SkillIcon: 20518010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
@@ -9227,6 +9282,11 @@
   Name: リットアトラクトバイブス
   SkillIcon: 20525060
   SkillMainEffect: 47
+  IsExSpecialAppeal: 0
+- Id: 20525070
+  Name: セレスティアルライズ
+  SkillIcon: 20525070
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
@@ -11283,6 +11343,11 @@
   SkillIcon: 30434040
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
+- Id: 30434050
+  Name: アルターエゴ
+  SkillIcon: 30434050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30435010
   Name: APレデュース：みらくらぱーく！
   SkillIcon: 30435010
@@ -11448,10 +11513,15 @@
   SkillIcon: 30515060
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30515070
+  Name: イミテーションシアター
+  SkillIcon: 30515070
+  SkillMainEffect: 18
+  IsExSpecialAppeal: 0
 - Id: 30518010
-  Name: 〓〓〓〓〓〓〓
+  Name: Radioactive
   SkillIcon: 30518010
-  SkillMainEffect: 904
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30524010
   Name: サウンド：ワイドハート
@@ -11497,6 +11567,11 @@
   Name: ‖デーモニックウイング
   SkillIcon: 30525060
   SkillMainEffect: 902
+  IsExSpecialAppeal: 0
+- Id: 30525070
+  Name: デュアリティノート
+  SkillIcon: 30525070
+  SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive
@@ -11737,6 +11812,11 @@
   Name: ハートアトラクション
   SkillIcon: 80415030
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80054010
+  Name: ボルテックスガード
+  SkillIcon: 80434050
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 80055010
   Name: サウンドワイドハート
@@ -12093,6 +12173,11 @@
   SkillIcon: 80325310
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 80395010
+  Name: イミテーションアクター
+  SkillIcon: 80515070
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 80415190
   Name: 《一生に夢が咲くように》
   SkillIcon: 80415190
@@ -12217,6 +12302,11 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90054010
+  Name: ミミクリー
+  SkillIcon: 90434050
+  SkillMainEffect: 31
   IsExSpecialAppeal: 0
 - Id: 90055010
   Name: インスタンス
@@ -12517,6 +12607,11 @@
   Name: ソアラ
   SkillIcon: 90325310
   SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 90395010
+  Name: ダブルキャスト
+  SkillIcon: 90515070
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 90415190
   Name: クロスアニマ

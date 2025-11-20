@@ -62098,6 +62098,156 @@
   RhythmGameSkillSeriesId: 30434044
   CenterSkillLvUpItemId: 43
   RhythmGameSkillLvUpItemId: 43
+- Id: 10434050
+  CardSeriesId: 1043405
+  Name: Poupée en Lotus
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 42
+  InitialPure: 49
+  InitialCool: 35
+  InitialMental: 85
+  MaxSmile: 2100
+  MaxPure: 2425
+  MaxCool: 1750
+  MaxMental: 213
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434050
+  SkillSeriesId: 20434050
+  AttributeId: 30434050
+  SpineId: 32
+  OrderId: 10387743
+  CenterSkillSeriesId: 10434050
+  CenterAttributeSeriesId: 20434050
+  RhythmGameSkillSeriesId: 30434050
+  CenterSkillLvUpItemId: 43
+  RhythmGameSkillLvUpItemId: 43
+- Id: 10434051
+  CardSeriesId: 1043405
+  Name: Poupée en Lotus
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 2100
+  InitialPure: 2425
+  InitialCool: 1750
+  InitialMental: 213
+  MaxSmile: 2940
+  MaxPure: 3395
+  MaxCool: 2450
+  MaxMental: 298
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434051
+  SkillSeriesId: 20434050
+  AttributeId: 30434050
+  SpineId: 32
+  OrderId: 10387743
+  CenterSkillSeriesId: 10434050
+  CenterAttributeSeriesId: 20434050
+  RhythmGameSkillSeriesId: 30434050
+  CenterSkillLvUpItemId: 43
+  RhythmGameSkillLvUpItemId: 43
+- Id: 10434052
+  CardSeriesId: 1043405
+  Name: Poupée en Lotus
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 2940
+  InitialPure: 3395
+  InitialCool: 2450
+  InitialMental: 298
+  MaxSmile: 4200
+  MaxPure: 4850
+  MaxCool: 3500
+  MaxMental: 425
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434052
+  SkillSeriesId: 20434050
+  AttributeId: 30434050
+  SpineId: 32
+  OrderId: 10387743
+  CenterSkillSeriesId: 10434050
+  CenterAttributeSeriesId: 20434050
+  RhythmGameSkillSeriesId: 30434052
+  CenterSkillLvUpItemId: 43
+  RhythmGameSkillLvUpItemId: 43
+- Id: 10434053
+  CardSeriesId: 1043405
+  Name: Poupée en Lotus
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 4200
+  InitialPure: 4850
+  InitialCool: 3500
+  InitialMental: 425
+  MaxSmile: 4620
+  MaxPure: 5335
+  MaxCool: 3850
+  MaxMental: 425
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434052
+  SkillSeriesId: 20434050
+  AttributeId: 30434050
+  SpineId: 32
+  OrderId: 10387743
+  CenterSkillSeriesId: 10434050
+  CenterAttributeSeriesId: 20434050
+  RhythmGameSkillSeriesId: 30434053
+  CenterSkillLvUpItemId: 43
+  RhythmGameSkillLvUpItemId: 43
+- Id: 10434054
+  CardSeriesId: 1043405
+  Name: Poupée en Lotus
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 4
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 4
+  InitialSmile: 4620
+  InitialPure: 5335
+  InitialCool: 3850
+  InitialMental: 425
+  MaxSmile: 5040
+  MaxPure: 5820
+  MaxCool: 4200
+  MaxMental: 425
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10434052
+  SkillSeriesId: 20434050
+  AttributeId: 30434050
+  SpineId: 32
+  OrderId: 10387743
+  CenterSkillSeriesId: 10434050
+  CenterAttributeSeriesId: 20434050
+  RhythmGameSkillSeriesId: 30434054
+  CenterSkillLvUpItemId: 43
+  RhythmGameSkillLvUpItemId: 43
 - Id: 10435010
   CardSeriesId: 1043501
   Name: Dream Believers
@@ -67228,6 +67378,156 @@
   RhythmGameSkillSeriesId: 30515064
   CenterSkillLvUpItemId: 54
   RhythmGameSkillLvUpItemId: 54
+- Id: 10515070
+  CardSeriesId: 1051507
+  Name: シアター生き様
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 59
+  InitialPure: 45
+  InitialCool: 39
+  InitialMental: 100
+  MaxSmile: 2950
+  MaxPure: 2225
+  MaxCool: 1925
+  MaxMental: 250
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515070
+  SkillSeriesId: 20515070
+  AttributeId: 30515070
+  SpineId: 14
+  OrderId: 10387851
+  CenterSkillSeriesId: 10515070
+  CenterAttributeSeriesId: 20515070
+  RhythmGameSkillSeriesId: 30515070
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515071
+  CardSeriesId: 1051507
+  Name: シアター生き様
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 2950
+  InitialPure: 2225
+  InitialCool: 1925
+  InitialMental: 250
+  MaxSmile: 4130
+  MaxPure: 3115
+  MaxCool: 2695
+  MaxMental: 350
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515071
+  SkillSeriesId: 20515070
+  AttributeId: 30515070
+  SpineId: 14
+  OrderId: 10387851
+  CenterSkillSeriesId: 10515070
+  CenterAttributeSeriesId: 20515070
+  RhythmGameSkillSeriesId: 30515070
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515072
+  CardSeriesId: 1051507
+  Name: シアター生き様
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4130
+  InitialPure: 3115
+  InitialCool: 2695
+  InitialMental: 350
+  MaxSmile: 5900
+  MaxPure: 4450
+  MaxCool: 3850
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515072
+  SkillSeriesId: 20515070
+  AttributeId: 30515070
+  SpineId: 14
+  OrderId: 10387851
+  CenterSkillSeriesId: 10515070
+  CenterAttributeSeriesId: 20515070
+  RhythmGameSkillSeriesId: 30515072
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515073
+  CardSeriesId: 1051507
+  Name: シアター生き様
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5900
+  InitialPure: 4450
+  InitialCool: 3850
+  InitialMental: 500
+  MaxSmile: 6490
+  MaxPure: 4895
+  MaxCool: 4235
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515072
+  SkillSeriesId: 20515070
+  AttributeId: 30515070
+  SpineId: 14
+  OrderId: 10387851
+  CenterSkillSeriesId: 10515070
+  CenterAttributeSeriesId: 20515070
+  RhythmGameSkillSeriesId: 30515073
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10515074
+  CardSeriesId: 1051507
+  Name: シアター生き様
+  Description: 桂城 泉
+  CharactersId: 1051
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 1
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 6490
+  InitialPure: 4895
+  InitialCool: 4235
+  InitialMental: 500
+  MaxSmile: 7080
+  MaxPure: 5340
+  MaxCool: 4620
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10515072
+  SkillSeriesId: 20515070
+  AttributeId: 30515070
+  SpineId: 14
+  OrderId: 10387851
+  CenterSkillSeriesId: 10515070
+  CenterAttributeSeriesId: 20515070
+  RhythmGameSkillSeriesId: 30515074
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
 - Id: 10518011
   CardSeriesId: 1051801
   Name: Oracle Étude
@@ -67236,18 +67536,18 @@
   Rarity: 8
   EvolveTimes: 1
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 1
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 3675
+  InitialPure: 2625
+  InitialCool: 2400
+  InitialMental: 290
+  MaxSmile: 5145
+  MaxPure: 3675
+  MaxCool: 3360
+  MaxMental: 406
+  BeatPoint: 100
   SpecialAppealSeriesId: 10518011
   SkillSeriesId: 20518010
   AttributeId: 30518010
@@ -67266,18 +67566,18 @@
   Rarity: 8
   EvolveTimes: 2
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 1
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 5145
+  InitialPure: 3675
+  InitialCool: 3360
+  InitialMental: 406
+  MaxSmile: 7350
+  MaxPure: 5250
+  MaxCool: 4800
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10518012
   SkillSeriesId: 20518010
   AttributeId: 30518010
@@ -67296,18 +67596,18 @@
   Rarity: 8
   EvolveTimes: 3
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 1
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 7350
+  InitialPure: 5250
+  InitialCool: 4800
+  InitialMental: 580
+  MaxSmile: 8085
+  MaxPure: 5775
+  MaxCool: 5280
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10518012
   SkillSeriesId: 20518010
   AttributeId: 30518010
@@ -67326,18 +67626,18 @@
   Rarity: 8
   EvolveTimes: 4
   CardLevelLimitAddition: 0
-  Style: 4
+  Style: 1
   Mood: 2
   ExperienceType: 8
-  InitialSmile: 0
-  InitialPure: 0
-  InitialCool: 0
-  InitialMental: 0
-  MaxSmile: 0
-  MaxPure: 0
-  MaxCool: 0
-  MaxMental: 0
-  BeatPoint: 0
+  InitialSmile: 8085
+  InitialPure: 5775
+  InitialCool: 5280
+  InitialMental: 580
+  MaxSmile: 8820
+  MaxPure: 6300
+  MaxCool: 5760
+  MaxMental: 580
+  BeatPoint: 100
   SpecialAppealSeriesId: 10518012
   SkillSeriesId: 20518010
   AttributeId: 30518010
@@ -68996,6 +69296,156 @@
   CenterSkillSeriesId: 10525060
   CenterAttributeSeriesId: 20525060
   RhythmGameSkillSeriesId: 30525064
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525070
+  CardSeriesId: 1052507
+  Name: シアター生き様
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 60
+  InitialPure: 45
+  InitialCool: 38
+  InitialMental: 100
+  MaxSmile: 3000
+  MaxPure: 2225
+  MaxCool: 1875
+  MaxMental: 250
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525070
+  SkillSeriesId: 20525070
+  AttributeId: 30525070
+  SpineId: 16
+  OrderId: 10387852
+  CenterSkillSeriesId: 10525070
+  CenterAttributeSeriesId: 20525070
+  RhythmGameSkillSeriesId: 30525070
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525071
+  CardSeriesId: 1052507
+  Name: シアター生き様
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3000
+  InitialPure: 2225
+  InitialCool: 1875
+  InitialMental: 250
+  MaxSmile: 4200
+  MaxPure: 3115
+  MaxCool: 2625
+  MaxMental: 350
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525071
+  SkillSeriesId: 20525070
+  AttributeId: 30525070
+  SpineId: 16
+  OrderId: 10387852
+  CenterSkillSeriesId: 10525070
+  CenterAttributeSeriesId: 20525070
+  RhythmGameSkillSeriesId: 30525070
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525072
+  CardSeriesId: 1052507
+  Name: シアター生き様
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4200
+  InitialPure: 3115
+  InitialCool: 2625
+  InitialMental: 350
+  MaxSmile: 6000
+  MaxPure: 4450
+  MaxCool: 3750
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525072
+  SkillSeriesId: 20525070
+  AttributeId: 30525070
+  SpineId: 16
+  OrderId: 10387852
+  CenterSkillSeriesId: 10525070
+  CenterAttributeSeriesId: 20525070
+  RhythmGameSkillSeriesId: 30525072
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525073
+  CardSeriesId: 1052507
+  Name: シアター生き様
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 6000
+  InitialPure: 4450
+  InitialCool: 3750
+  InitialMental: 500
+  MaxSmile: 6600
+  MaxPure: 4895
+  MaxCool: 4125
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525072
+  SkillSeriesId: 20525070
+  AttributeId: 30525070
+  SpineId: 16
+  OrderId: 10387852
+  CenterSkillSeriesId: 10525070
+  CenterAttributeSeriesId: 20525070
+  RhythmGameSkillSeriesId: 30525073
+  CenterSkillLvUpItemId: 54
+  RhythmGameSkillLvUpItemId: 54
+- Id: 10525074
+  CardSeriesId: 1052507
+  Name: シアター生き様
+  Description: セラス 柳田 リリエンフェルト
+  CharactersId: 1052
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 6600
+  InitialPure: 4895
+  InitialCool: 4125
+  InitialMental: 500
+  MaxSmile: 7200
+  MaxPure: 5340
+  MaxCool: 4500
+  MaxMental: 500
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10525072
+  SkillSeriesId: 20525070
+  AttributeId: 30525070
+  SpineId: 16
+  OrderId: 10387852
+  CenterSkillSeriesId: 10525070
+  CenterAttributeSeriesId: 20525070
+  RhythmGameSkillSeriesId: 30525074
   CenterSkillLvUpItemId: 54
   RhythmGameSkillLvUpItemId: 54
 - Id: 10528011

@@ -886,3 +886,15 @@
   OrderId: 74
   StartTime: 2025-11-09T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 75
+  ProductItemType: 2
+  ProductItemId: 10435190
+  ProductItemNum: 1
+  MaterialItemType: 1
+  MaterialItemId: 3011001
+  MaterialItemNum: 500
+  LimitNum: 0
+  ResetType: 0
+  OrderId: 75
+  StartTime: 2025-11-20T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z

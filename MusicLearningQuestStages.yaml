@@ -39998,6 +39998,606 @@
   SkipRestrictedType: 1
   StartTime: 2024-12-25T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 404051231
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4040512311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051232
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4040512321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051233
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4040512331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051234
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4040512341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051235
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 80
+  QuestRank: 5
+  FirstClearRewardSeriesId: 4040512351
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000000
+  GainStylePoint: 4000
+  GainMusicExp: 7200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051236
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 100
+  QuestRank: 6
+  FirstClearRewardSeriesId: 4040512361
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 40000000000
+  GainStylePoint: 4000
+  GainMusicExp: 10500
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051237
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 110
+  QuestRank: 7
+  FirstClearRewardSeriesId: 4040512371
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 200000000000
+  GainStylePoint: 8000
+  GainMusicExp: 25200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051238
+  LearningLiveSeriesId: 40405123
+  Name: 『シアター生き様』
+  Description: シアター生き様
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 120
+  QuestRank: 8
+  FirstClearRewardSeriesId: 4040512381
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1000000000000
+  GainStylePoint: 8000
+  GainMusicExp: 38000
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051241
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4040512411
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051242
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4040512421
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051243
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4040512431
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051244
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4040512441
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051245
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 80
+  QuestRank: 5
+  FirstClearRewardSeriesId: 4040512451
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000000
+  GainStylePoint: 4000
+  GainMusicExp: 7200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051246
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 100
+  QuestRank: 6
+  FirstClearRewardSeriesId: 4040512461
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 40000000000
+  GainStylePoint: 4000
+  GainMusicExp: 10500
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051247
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 110
+  QuestRank: 7
+  FirstClearRewardSeriesId: 4040512471
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 200000000000
+  GainStylePoint: 8000
+  GainMusicExp: 25200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051248
+  LearningLiveSeriesId: 40405124
+  Name: 『IcHiGo milK love』
+  Description: IcHiGo milK love
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405124
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 120
+  QuestRank: 8
+  FirstClearRewardSeriesId: 4040512481
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1000000000000
+  GainStylePoint: 8000
+  GainMusicExp: 38000
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051251
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 10
+  QuestRank: 1
+  FirstClearRewardSeriesId: 4040512511
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1800000
+  GainStylePoint: 200
+  GainMusicExp: 30
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051252
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 20
+  QuestRank: 2
+  FirstClearRewardSeriesId: 4040512521
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 5800000
+  GainStylePoint: 200
+  GainMusicExp: 60
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051253
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 40
+  QuestRank: 3
+  FirstClearRewardSeriesId: 4040512531
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 17500000
+  GainStylePoint: 200
+  GainMusicExp: 100
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051254
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 5
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 60
+  QuestRank: 4
+  FirstClearRewardSeriesId: 4040512541
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 45000000
+  GainStylePoint: 200
+  GainMusicExp: 150
+  SkipRestrictedType: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051255
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100031
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 80
+  QuestRank: 5
+  FirstClearRewardSeriesId: 4040512551
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000000
+  GainStylePoint: 4000
+  GainMusicExp: 7200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051256
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 100
+  LiveStagesId: 100041
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 100
+  QuestRank: 6
+  FirstClearRewardSeriesId: 4040512561
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 40000000000
+  GainStylePoint: 4000
+  GainMusicExp: 10500
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051257
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100051
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 110
+  QuestRank: 7
+  FirstClearRewardSeriesId: 4040512571
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 200000000000
+  GainStylePoint: 8000
+  GainMusicExp: 25200
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 404051258
+  LearningLiveSeriesId: 40405125
+  Name: 『Nεw Black』
+  Description: Nεw Black
+  Hint: 　
+  StageType: 0
+  UseType: 1
+  UseItem: 0
+  UseNum: 200
+  LiveStagesId: 100061
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405125
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  QuestLevel: 120
+  QuestRank: 8
+  FirstClearRewardSeriesId: 4040512581
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 1000000000000
+  GainStylePoint: 8000
+  GainMusicExp: 38000
+  SkipRestrictedType: 1
+  StartTime: 2024-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 404053011
   LearningLiveSeriesId: 40405301
   Name: 『虹色Passions!』
