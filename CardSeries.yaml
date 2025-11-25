@@ -1138,6 +1138,26 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
+- Id: 1021702
+  Evolution0Id: 0
+  Evolution1Id: 10217021
+  Evolution2Id: 10217022
+  ObtainFanLvPt: 2000
+  Evolution1FanLvPt: 0
+  Evolution2FanLvPt: 2000
+  LimitBreak1FanLvPt: 2000
+  LimitBreak2FanLvPt: 2000
+  LimitBreak3FanLvPt: 2000
+  LimitBreak4FanLvPt: 2000
+  LimitedType: 0
+  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+  Evolution3Id: 10217023
+  Evolution4Id: 10217024
+  Evolution3FanLvPt: 800
+  Evolution4FanLvPt: 800
+  Evolution3RequiredFanLv: 120
+  Evolution4RequiredFanLv: 140
+  StyleSettingType: 3
 - Id: 1021801
   Evolution0Id: 0
   Evolution1Id: 10218011
@@ -2258,6 +2278,26 @@
   Evolution3RequiredFanLv: 120
   Evolution4RequiredFanLv: 140
   StyleSettingType: 3
+- Id: 1022702
+  Evolution0Id: 0
+  Evolution1Id: 10227021
+  Evolution2Id: 10227022
+  ObtainFanLvPt: 2000
+  Evolution1FanLvPt: 0
+  Evolution2FanLvPt: 2000
+  LimitBreak1FanLvPt: 2000
+  LimitBreak2FanLvPt: 2000
+  LimitBreak3FanLvPt: 2000
+  LimitBreak4FanLvPt: 2000
+  LimitedType: 0
+  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+  Evolution3Id: 10227023
+  Evolution4Id: 10227024
+  Evolution3FanLvPt: 800
+  Evolution4FanLvPt: 800
+  Evolution3RequiredFanLv: 120
+  Evolution4RequiredFanLv: 140
+  StyleSettingType: 3
 - Id: 1022801
   Evolution0Id: 0
   Evolution1Id: 10228011
@@ -3173,6 +3213,26 @@
   SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043
   Evolution3Id: 10237013
   Evolution4Id: 10237014
+  Evolution3FanLvPt: 800
+  Evolution4FanLvPt: 800
+  Evolution3RequiredFanLv: 120
+  Evolution4RequiredFanLv: 140
+  StyleSettingType: 3
+- Id: 1023702
+  Evolution0Id: 0
+  Evolution1Id: 10237021
+  Evolution2Id: 10237022
+  ObtainFanLvPt: 2000
+  Evolution1FanLvPt: 0
+  Evolution2FanLvPt: 2000
+  LimitBreak1FanLvPt: 2000
+  LimitBreak2FanLvPt: 2000
+  LimitBreak3FanLvPt: 2000
+  LimitBreak4FanLvPt: 2000
+  LimitedType: 0
+  SideStyleSettingCharacterId: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+  Evolution3Id: 10237023
+  Evolution4Id: 10237024
   Evolution3FanLvPt: 800
   Evolution4FanLvPt: 800
   Evolution3RequiredFanLv: 120

@@ -976,6 +976,18 @@
   Name: 特訓時
   ReleaseConditionText: ""
   OverrideBgm: 0
+- Id: 102170201
+  CardSeriesId: 1021702
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+  OverrideBgm: 1
+- Id: 102170203
+  CardSeriesId: 1021702
+  MovieType: 3
+  Name: 特訓時
+  ReleaseConditionText: ""
+  OverrideBgm: 0
 - Id: 102180101
   CardSeriesId: 1021801
   MovieType: 1
@@ -1960,6 +1972,18 @@
   Name: 特訓時
   ReleaseConditionText: ""
   OverrideBgm: 0
+- Id: 102270201
+  CardSeriesId: 1022702
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+  OverrideBgm: 1
+- Id: 102270203
+  CardSeriesId: 1022702
+  MovieType: 3
+  Name: 特訓時
+  ReleaseConditionText: ""
+  OverrideBgm: 0
 - Id: 102280101
   CardSeriesId: 1022801
   MovieType: 1
@@ -2760,6 +2784,18 @@
   OverrideBgm: 1
 - Id: 102370103
   CardSeriesId: 1023701
+  MovieType: 3
+  Name: 特訓時
+  ReleaseConditionText: ""
+  OverrideBgm: 0
+- Id: 102370201
+  CardSeriesId: 1023702
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+  OverrideBgm: 1
+- Id: 102370203
+  CardSeriesId: 1023702
   MovieType: 3
   Name: 特訓時
   ReleaseConditionText: ""

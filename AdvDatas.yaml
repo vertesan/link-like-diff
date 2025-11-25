@@ -118,6 +118,46 @@
   AdvUnlockItemNum: 1
   AdvUnlockConditionValue: 10200105
   IsPersistentReward: 1
+- Id: 10200107
+  AdvSeriesId: 102001
+  Name: ～Shades of Stars～
+  Description: 第7話『On your mark』後編
+  ScriptId: 10250107
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3,6
+  WatchRewardId: 1002001,3009000,95000007
+  WatchRewardNum: 200,1,1
+  RewardTextId: 30200001,30200001,30200001
+  OrderId: 10200107
+  SubTitleName: 第7話
+  StartTime: 2025-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 1
+  AdvUnlockItemId: 1006001
+  AdvUnlockItemNum: 1
+  AdvUnlockConditionValue: 10200106
+  IsPersistentReward: 1
+- Id: 10200108
+  AdvSeriesId: 102001
+  Name: ～Shades of Stars～
+  Description: エピローグ
+  ScriptId: 10250108
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3,6
+  WatchRewardId: 1002001,3009000,95000008
+  WatchRewardNum: 200,1,1
+  RewardTextId: 30200001,30200001,30200001
+  OrderId: 10200108
+  SubTitleName: EP
+  StartTime: 2025-11-25T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 1
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 10200107
+  IsPersistentReward: 1
 - Id: 10300101
   AdvSeriesId: 103001
   Name: 第1話『花咲きたい！』

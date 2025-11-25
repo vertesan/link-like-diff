@@ -793,6 +793,21 @@
   SkillIcon: 10217010
   SkillMainEffect: 39
   IsExSpecialAppeal: 1
+- Id: 10217020
+  Name: ローエッジフォース
+  SkillIcon: 10217020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10217021
+  Name: ローエッジフォース
+  SkillIcon: 10217020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10217022
+  Name: ローエッジフォース
+  SkillIcon: 10217020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -1623,6 +1638,21 @@
   SkillIcon: 10227010
   SkillMainEffect: 39
   IsExSpecialAppeal: 1
+- Id: 10227020
+  Name: ローエッジボルテージ
+  SkillIcon: 10227020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 1
+- Id: 10227021
+  Name: ローエッジボルテージ
+  SkillIcon: 10227020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 1
+- Id: 10227022
+  Name: ローエッジボルテージ
+  SkillIcon: 10227020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 1
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -2302,6 +2332,21 @@
   Name: タイムレス∞スピリッツ
   SkillIcon: 10237010
   SkillMainEffect: 39
+  IsExSpecialAppeal: 1
+- Id: 10237020
+  Name: ローエッジスピリッツ
+  SkillIcon: 10237020
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 1
+- Id: 10237021
+  Name: ローエッジスピリッツ
+  SkillIcon: 10237020
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 1
+- Id: 10237022
+  Name: ローエッジスピリッツ
+  SkillIcon: 10237020
+  SkillMainEffect: 6
   IsExSpecialAppeal: 1
 - Id: 10238011
   Name: プロテクトフィール
@@ -7218,6 +7263,11 @@
   SkillIcon: 20217010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20217020
+  Name: スタボーンパッション
+  SkillIcon: 20217020
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -7498,6 +7548,11 @@
   SkillIcon: 20227010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20227020
+  Name: スタボーンピュリティ
+  SkillIcon: 20227020
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -7727,6 +7782,11 @@
   Name: エンジェリックブライト
   SkillIcon: 20237010
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 20237020
+  Name: スタボーンチャーミング
+  SkillIcon: 20237020
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20238010
   Name: エンデュランス
@@ -9713,6 +9773,11 @@
   SkillIcon: 30217010
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
+- Id: 30217020
+  Name: 102オーバーチュア
+  SkillIcon: 30217020
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -9973,6 +10038,11 @@
   SkillIcon: 30227010
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
+- Id: 30227020
+  Name: 102オーバーチュア
+  SkillIcon: 30227020
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -10182,6 +10252,11 @@
   Name: 102エバーモア
   SkillIcon: 30237010
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 30237020
+  Name: 102オーバーチュア
+  SkillIcon: 30237020
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30238010
   Name: ドロー：メンタルプロテクト & APゲイン

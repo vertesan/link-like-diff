@@ -8488,6 +8488,126 @@
   RhythmGameSkillSeriesId: 30217014
   CenterSkillLvUpItemId: 71
   RhythmGameSkillLvUpItemId: 71
+- Id: 10217021
+  CardSeriesId: 1021702
+  Name: Reflection in the mirror/102
+  Description: 乙宗 梢
+  CharactersId: 1021
+  Rarity: 7
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 28
+  InitialPure: 38
+  InitialCool: 83
+  InitialMental: 84
+  MaxSmile: 1946
+  MaxPure: 2660
+  MaxCool: 5810
+  MaxMental: 294
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10217021
+  SkillSeriesId: 20217020
+  AttributeId: 30217020
+  SpineId: 58
+  OrderId: 10387921
+  CenterSkillSeriesId: 10217020
+  CenterAttributeSeriesId: 20217020
+  RhythmGameSkillSeriesId: 30217020
+  CenterSkillLvUpItemId: 71
+  RhythmGameSkillLvUpItemId: 71
+- Id: 10217022
+  CardSeriesId: 1021702
+  Name: Reflection in the mirror/102
+  Description: 乙宗 梢
+  CharactersId: 1021
+  Rarity: 7
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 1946
+  InitialPure: 2660
+  InitialCool: 5810
+  InitialMental: 294
+  MaxSmile: 2780
+  MaxPure: 3800
+  MaxCool: 8300
+  MaxMental: 420
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10217022
+  SkillSeriesId: 20217020
+  AttributeId: 30217020
+  SpineId: 58
+  OrderId: 10387921
+  CenterSkillSeriesId: 10217020
+  CenterAttributeSeriesId: 20217020
+  RhythmGameSkillSeriesId: 30217022
+  CenterSkillLvUpItemId: 71
+  RhythmGameSkillLvUpItemId: 71
+- Id: 10217023
+  CardSeriesId: 1021702
+  Name: Reflection in the mirror/102
+  Description: 乙宗 梢
+  CharactersId: 1021
+  Rarity: 7
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 2780
+  InitialPure: 3800
+  InitialCool: 8300
+  InitialMental: 420
+  MaxSmile: 3058
+  MaxPure: 4180
+  MaxCool: 9130
+  MaxMental: 420
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10217022
+  SkillSeriesId: 20217020
+  AttributeId: 30217020
+  SpineId: 58
+  OrderId: 10387921
+  CenterSkillSeriesId: 10217020
+  CenterAttributeSeriesId: 20217020
+  RhythmGameSkillSeriesId: 30217023
+  CenterSkillLvUpItemId: 71
+  RhythmGameSkillLvUpItemId: 71
+- Id: 10217024
+  CardSeriesId: 1021702
+  Name: Reflection in the mirror/102
+  Description: 乙宗 梢
+  CharactersId: 1021
+  Rarity: 7
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 3058
+  InitialPure: 4180
+  InitialCool: 9130
+  InitialMental: 420
+  MaxSmile: 3336
+  MaxPure: 4560
+  MaxCool: 9960
+  MaxMental: 420
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10217022
+  SkillSeriesId: 20217020
+  AttributeId: 30217020
+  SpineId: 58
+  OrderId: 10387921
+  CenterSkillSeriesId: 10217020
+  CenterAttributeSeriesId: 20217020
+  RhythmGameSkillSeriesId: 30217024
+  CenterSkillLvUpItemId: 71
+  RhythmGameSkillLvUpItemId: 71
 - Id: 10218011
   CardSeriesId: 1021801
   Name: Prism Echo
@@ -16768,6 +16888,126 @@
   RhythmGameSkillSeriesId: 30227014
   CenterSkillLvUpItemId: 72
   RhythmGameSkillLvUpItemId: 72
+- Id: 10227021
+  CardSeriesId: 1022702
+  Name: Sparkly Spot/102
+  Description: 夕霧 綴理
+  CharactersId: 1022
+  Rarity: 7
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 30
+  InitialPure: 84
+  InitialCool: 41
+  InitialMental: 76
+  MaxSmile: 2044
+  MaxPure: 5824
+  MaxCool: 2828
+  MaxMental: 266
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10227021
+  SkillSeriesId: 20227020
+  AttributeId: 30227020
+  SpineId: 58
+  OrderId: 10387922
+  CenterSkillSeriesId: 10227020
+  CenterAttributeSeriesId: 20227020
+  RhythmGameSkillSeriesId: 30227020
+  CenterSkillLvUpItemId: 72
+  RhythmGameSkillLvUpItemId: 72
+- Id: 10227022
+  CardSeriesId: 1022702
+  Name: Sparkly Spot/102
+  Description: 夕霧 綴理
+  CharactersId: 1022
+  Rarity: 7
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 2044
+  InitialPure: 5824
+  InitialCool: 2828
+  InitialMental: 266
+  MaxSmile: 2920
+  MaxPure: 8320
+  MaxCool: 4040
+  MaxMental: 380
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10227022
+  SkillSeriesId: 20227020
+  AttributeId: 30227020
+  SpineId: 58
+  OrderId: 10387922
+  CenterSkillSeriesId: 10227020
+  CenterAttributeSeriesId: 20227020
+  RhythmGameSkillSeriesId: 30227022
+  CenterSkillLvUpItemId: 72
+  RhythmGameSkillLvUpItemId: 72
+- Id: 10227023
+  CardSeriesId: 1022702
+  Name: Sparkly Spot/102
+  Description: 夕霧 綴理
+  CharactersId: 1022
+  Rarity: 7
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 2920
+  InitialPure: 8320
+  InitialCool: 4040
+  InitialMental: 380
+  MaxSmile: 3212
+  MaxPure: 9152
+  MaxCool: 4444
+  MaxMental: 380
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10227022
+  SkillSeriesId: 20227020
+  AttributeId: 30227020
+  SpineId: 58
+  OrderId: 10387922
+  CenterSkillSeriesId: 10227020
+  CenterAttributeSeriesId: 20227020
+  RhythmGameSkillSeriesId: 30227023
+  CenterSkillLvUpItemId: 72
+  RhythmGameSkillLvUpItemId: 72
+- Id: 10227024
+  CardSeriesId: 1022702
+  Name: Sparkly Spot/102
+  Description: 夕霧 綴理
+  CharactersId: 1022
+  Rarity: 7
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 3212
+  InitialPure: 9152
+  InitialCool: 4444
+  InitialMental: 380
+  MaxSmile: 3504
+  MaxPure: 9984
+  MaxCool: 4848
+  MaxMental: 380
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10227022
+  SkillSeriesId: 20227020
+  AttributeId: 30227020
+  SpineId: 58
+  OrderId: 10387922
+  CenterSkillSeriesId: 10227020
+  CenterAttributeSeriesId: 20227020
+  RhythmGameSkillSeriesId: 30227024
+  CenterSkillLvUpItemId: 72
+  RhythmGameSkillLvUpItemId: 72
 - Id: 10228011
   CardSeriesId: 1022801
   Name: Prism Echo
@@ -23546,6 +23786,126 @@
   CenterSkillSeriesId: 10237010
   CenterAttributeSeriesId: 20237010
   RhythmGameSkillSeriesId: 30237014
+  CenterSkillLvUpItemId: 73
+  RhythmGameSkillLvUpItemId: 73
+- Id: 10237021
+  CardSeriesId: 1023702
+  Name: On your mark/102
+  Description: 藤島 慈
+  CharactersId: 1023
+  Rarity: 7
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 83
+  InitialPure: 31
+  InitialCool: 31
+  InitialMental: 116
+  MaxSmile: 5782
+  MaxPure: 2142
+  MaxCool: 2114
+  MaxMental: 406
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10237021
+  SkillSeriesId: 20237020
+  AttributeId: 30237020
+  SpineId: 48
+  OrderId: 10387923
+  CenterSkillSeriesId: 10237020
+  CenterAttributeSeriesId: 20237020
+  RhythmGameSkillSeriesId: 30237020
+  CenterSkillLvUpItemId: 73
+  RhythmGameSkillLvUpItemId: 73
+- Id: 10237022
+  CardSeriesId: 1023702
+  Name: On your mark/102
+  Description: 藤島 慈
+  CharactersId: 1023
+  Rarity: 7
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 5782
+  InitialPure: 2142
+  InitialCool: 2114
+  InitialMental: 406
+  MaxSmile: 8260
+  MaxPure: 3060
+  MaxCool: 3020
+  MaxMental: 580
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10237022
+  SkillSeriesId: 20237020
+  AttributeId: 30237020
+  SpineId: 48
+  OrderId: 10387923
+  CenterSkillSeriesId: 10237020
+  CenterAttributeSeriesId: 20237020
+  RhythmGameSkillSeriesId: 30237022
+  CenterSkillLvUpItemId: 73
+  RhythmGameSkillLvUpItemId: 73
+- Id: 10237023
+  CardSeriesId: 1023702
+  Name: On your mark/102
+  Description: 藤島 慈
+  CharactersId: 1023
+  Rarity: 7
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 8260
+  InitialPure: 3060
+  InitialCool: 3020
+  InitialMental: 580
+  MaxSmile: 9086
+  MaxPure: 3366
+  MaxCool: 3322
+  MaxMental: 580
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10237022
+  SkillSeriesId: 20237020
+  AttributeId: 30237020
+  SpineId: 48
+  OrderId: 10387923
+  CenterSkillSeriesId: 10237020
+  CenterAttributeSeriesId: 20237020
+  RhythmGameSkillSeriesId: 30237023
+  CenterSkillLvUpItemId: 73
+  RhythmGameSkillLvUpItemId: 73
+- Id: 10237024
+  CardSeriesId: 1023702
+  Name: On your mark/102
+  Description: 藤島 慈
+  CharactersId: 1023
+  Rarity: 7
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 3
+  ExperienceType: 8
+  InitialSmile: 9086
+  InitialPure: 3366
+  InitialCool: 3322
+  InitialMental: 580
+  MaxSmile: 9912
+  MaxPure: 3672
+  MaxCool: 3624
+  MaxMental: 580
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10237022
+  SkillSeriesId: 20237020
+  AttributeId: 30237020
+  SpineId: 48
+  OrderId: 10387923
+  CenterSkillSeriesId: 10237020
+  CenterAttributeSeriesId: 20237020
+  RhythmGameSkillSeriesId: 30237024
   CenterSkillLvUpItemId: 73
   RhythmGameSkillLvUpItemId: 73
 - Id: 10238011

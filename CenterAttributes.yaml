@@ -976,6 +976,36 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: 乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217021
+  CenterAttributeSeriesId: 20217020
+  CenterAttributeName: Reflection in the mirror/102
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217022
+  CenterAttributeSeriesId: 20217020
+  CenterAttributeName: Reflection in the mirror/102
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217023
+  CenterAttributeSeriesId: 20217020
+  CenterAttributeName: Reflection in the mirror/102
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217024
+  CenterAttributeSeriesId: 20217020
+  CenterAttributeName: Reflection in the mirror/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000001
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217025
+  CenterAttributeSeriesId: 20217020
+  CenterAttributeName: Reflection in the mirror/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
 - Id: 20218011
   CenterAttributeSeriesId: 20218010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -2032,6 +2062,48 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: 乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20227021
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 10018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227022
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 20018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227023
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 30018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227024
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 71010000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227025
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: "11022"
+  CenterAttributeEffectId: 80000100
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227026
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000002
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227027
+  CenterAttributeSeriesId: 20227020
+  CenterAttributeName: Sparkly Spot/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
 - Id: 20228011
   CenterAttributeSeriesId: 20228010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -2908,6 +2980,42 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: 乙宗梢／夕霧綴理／藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237021
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 10018000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237022
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 20018000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237023
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 30018000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237024
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 90000001
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237025
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 110001000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237026
+  CenterAttributeSeriesId: 20237020
+  CenterAttributeName: On your mark/102
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000300
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
 - Id: 20238011
   CenterAttributeSeriesId: 20238010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
