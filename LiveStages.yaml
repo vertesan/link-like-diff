@@ -9082,6 +9082,42 @@
   StageSkillEffectId: 0
   StageSkillDescription: スキルを3回使用するたび、ボルテージを+5000し、山札が切れるたび、ボルテージを-2000する。
   StageSkillSetIds: 100103,200042
+- Id: 1041601
+  Name: スタジアム
+  Description: スタジアム
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 3000
+  VoltageStepClass: 1
+  BackGroundId: 100113
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: Edel Noteのスキルを使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。
+  StageSkillSetIds: 100126,100114,200031
+- Id: 1041602
+  Name: テーマパーク
+  Description: テーマパーク
+  BaseUseMental: 200
+  MentalStepClass: 2
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100132
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: ステージ開始時、デッキの全てのカードの消費APをステージ中常に-2し、また山札が切れるたび、APが7減少する。
+  StageSkillSetIds: 100090,200058
+- Id: 1041603
+  Name: 野外ステージ
+  Description: 野外ステージ
+  BaseUseMental: 100
+  MentalStepClass: 3
+  BaseGainVoltage: 1000
+  VoltageStepClass: 2
+  BackGroundId: 100073
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを1回使用するたび、APを3回復し、山札が切れるたび、ボルテージを-1000する。
+  StageSkillSetIds: 100107,200059
 - Id: 531031101
   Name: 教室
   Description: 教室
@@ -12250,3 +12286,15 @@
   StageSkillEffectId: 0
   StageSkillDescription: ""
   StageSkillSetIds: ""
+- Id: 571053601
+  Name: アリーナ
+  Description: アリーナ
+  BaseUseMental: 80
+  MentalStepClass: 3
+  BaseGainVoltage: 5000
+  VoltageStepClass: 1
+  BackGroundId: 100121
+  StageSkillConditionId: 0
+  StageSkillEffectId: 0
+  StageSkillDescription: スキルを2回使用するたび、ボルテージを+2000し、また山札が切れるたび、メンタルを現在値の50%減少する。
+  StageSkillSetIds: 100125,200031

@@ -904,3 +904,21 @@
   SkillIcon: 20100900
   GradeAddSkillEffectsId: "5100902030"
   OrderId: 1
+- Id: 51053601
+  Name: スキルAP -3
+  Description: ライブ中、スキルの消費APを-3する。
+  SkillIcon: 10101400
+  GradeAddSkillEffectsId: "4101400300"
+  OrderId: 1
+- Id: 51053602
+  Name: スキルAP +3
+  Description: ライブ中、スキルの消費APを+3する。
+  SkillIcon: 20101400
+  GradeAddSkillEffectsId: "5101400003"
+  OrderId: 1
+- Id: 51053603
+  Name: メンタル減少速度 +100%
+  Description: ライブ中、メンタルの減少速度を+100%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302100"
+  OrderId: 1

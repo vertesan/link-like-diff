@@ -5272,6 +5272,66 @@
   MinTargetNum: 2001
   MaxTargetNum: 999999
   IsDisplay: 0
+- Id: 70510830
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 1
+  MaxTargetNum: 10
+  IsDisplay: 0
+- Id: 70510831
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 11
+  MaxTargetNum: 30
+  IsDisplay: 0
+- Id: 70510832
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 31
+  MaxTargetNum: 100
+  IsDisplay: 0
+- Id: 70510833
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 101
+  MaxTargetNum: 200
+  IsDisplay: 0
+- Id: 70510834
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 201
+  MaxTargetNum: 300
+  IsDisplay: 0
+- Id: 70510835
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 301
+  MaxTargetNum: 500
+  IsDisplay: 0
+- Id: 70510836
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 501
+  MaxTargetNum: 1000
+  IsDisplay: 0
+- Id: 70510837
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 1001
+  MaxTargetNum: 1500
+  IsDisplay: 0
+- Id: 70510838
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 1501
+  MaxTargetNum: 5000
+  IsDisplay: 0
+- Id: 70510839
+  GrandPrixesId: 705108
+  GrandPrixRewardType: 2
+  MinTargetNum: 5001
+  MaxTargetNum: 999999
+  IsDisplay: 0
 - Id: 80310101
   GrandPrixesId: 803101
   GrandPrixRewardType: 1

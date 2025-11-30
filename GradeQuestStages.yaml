@@ -2902,3 +2902,14 @@
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   LivePoint: 6500000
+- Id: 571053601
+  Name: メインライブステージ
+  Description: メインライブステージ
+  Hint: ""
+  StageType: 0
+  LiveStagesId: 571053601
+  QuestMusicsType: 2
+  QuestMusicsDetail: 405123
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  LivePoint: 105000000

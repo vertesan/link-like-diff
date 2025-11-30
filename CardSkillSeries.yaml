@@ -3313,6 +3313,21 @@
   SkillIcon: 10315340
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 10315350
+  Name: アルターエゴ
+  SkillIcon: 10315350
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10315351
+  Name: アルターエゴ
+  SkillIcon: 10315350
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10315352
+  Name: アルターエゴ
+  SkillIcon: 10315350
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -5123,6 +5138,21 @@
   SkillIcon: 10335290
   SkillMainEffect: 32
   IsExSpecialAppeal: 0
+- Id: 10335300
+  Name: アルターエゴ
+  SkillIcon: 10335300
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10335301
+  Name: アルターエゴ
+  SkillIcon: 10335300
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10335302
+  Name: アルターエゴ
+  SkillIcon: 10335300
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -6067,6 +6097,21 @@
   Name: ドンビーシャイ
   SkillIcon: 10425190
   SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 10425200
+  Name: アルターエゴ
+  SkillIcon: 10425200
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10425201
+  Name: アルターエゴ
+  SkillIcon: 10425200
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10425202
+  Name: アルターエゴ
+  SkillIcon: 10425200
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
@@ -8113,6 +8158,11 @@
   SkillIcon: 20315340
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 20315350
+  Name: ドールズガードハート
+  SkillIcon: 20315350
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -8723,6 +8773,11 @@
   SkillIcon: 20335290
   SkillMainEffect: 7
   IsExSpecialAppeal: 0
+- Id: 20335300
+  Name: ドールズガードワイド
+  SkillIcon: 20335300
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -9042,6 +9097,11 @@
   Name: ロマンハート
   SkillIcon: 20425190
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 20425200
+  Name: ドールズガードアトラクト
+  SkillIcon: 20425200
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
@@ -10553,6 +10613,11 @@
   SkillIcon: 30315340
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30315350
+  Name: アルターエゴ
+  SkillIcon: 30315350
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -11103,6 +11168,11 @@
   SkillIcon: 30335290
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30335300
+  Name: アルターエゴ
+  SkillIcon: 30335300
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -11382,6 +11452,11 @@
   Name: ガランドTrash
   SkillIcon: 30425190
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 30425200
+  Name: アルターエゴ
+  SkillIcon: 30425200
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
@@ -12253,10 +12328,25 @@
   SkillIcon: 80515070
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 80405010
+  Name: ドールズガードハート
+  SkillIcon: 80315350
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
+- Id: 80415010
+  Name: ドールズガードワイド
+  SkillIcon: 80335300
+  SkillMainEffect: 56
+  IsExSpecialAppeal: 0
 - Id: 80415190
   Name: 《一生に夢が咲くように》
   SkillIcon: 80415190
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80425010
+  Name: ドールズガードアトラクト
+  SkillIcon: 80425200
+  SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 80444010
   Name: Prinzessin
@@ -12688,10 +12778,25 @@
   SkillIcon: 90515070
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 90405010
+  Name: ミミクリー
+  SkillIcon: 90315350
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90415010
+  Name: ミミクリー
+  SkillIcon: 90335300
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
 - Id: 90415190
   Name: クロスアニマ
   SkillIcon: 90415190
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 90425010
+  Name: ミミクリー
+  SkillIcon: 90425200
+  SkillMainEffect: 2
   IsExSpecialAppeal: 0
 - Id: 90444010
   Name: クローズ

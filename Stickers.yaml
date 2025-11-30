@@ -5542,6 +5542,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315351
+  Name: "[Poupée en Lotus]日野下\u00a0花帆"
+  Text: "[Poupée en Lotus]日野下\u00a0花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 231535
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031535
+  RequirementText: "[Poupée en Lotus]日野下\u00a0花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-11-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-11-30T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10318011
   Name: "[Prism Echo]日野下\u00a0花帆"
   Text: "[Prism Echo]日野下\u00a0花帆を4回解放した記念のステッカー"
@@ -8614,6 +8638,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10335301
+  Name: "[Poupée en Lotus]大沢\u00a0瑠璃乃"
+  Text: "[Poupée en Lotus]大沢\u00a0瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 233530
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033530
+  RequirementText: "[Poupée en Lotus]大沢\u00a0瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-11-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-11-30T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10338011
   Name: "[Prism Echo]大沢\u00a0瑠璃乃"
   Text: "[Prism Echo]大沢\u00a0瑠璃乃 を4回解放した記念のステッカー"
@@ -10267,6 +10315,30 @@
   StartTime: 2025-11-09T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-11-09T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10425201
+  Name: "[Poupée en Lotus]徒町\u00a0小鈴"
+  Text: "[Poupée en Lotus]徒町\u00a0小鈴 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 242520
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1042520
+  RequirementText: "[Poupée en Lotus]徒町\u00a0小鈴 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-11-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-11-30T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -46414,6 +46486,54 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405126
+  Name: 『チャーミングな花束を！』マエストロ
+  Text: 『チャーミングな花束を！』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601041
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405126
+  RequirementText: 『チャーミングな花束を！』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405201
+  Name: 『テレパシ』マエストロ
+  Text: 『テレパシ』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 606033
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405201
+  RequirementText: 『テレパシ』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40405301
   Name: 『虹色Passions!』マエストロ
   Text: 『虹色Passions!』のマスタリーLv.を30にした記念のステッカー
@@ -51372,9 +51492,11 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
-- Id: 90405119
-  Name: Jacket『はじまりの羽音』
-  Text: On my way 踏み出した瞬間 手にした勇気
+- Id: 90405122
+  Name: Jacket『ちょ、尊いLOVE / Nεw Black』
+  Text: |-
+    オギャッと⽣まれた平成ギャルズ
+    IcHiGo milKに染まれ 甘い夢を一緒に見よう
   CategoryType: 2
   CategoryName: 3
   SeasonId: 0
@@ -51383,8 +51505,8 @@
   IsVariant: 0
   RequirementType: 0
   RequirementDetail: SERIAL
-  RequirementValue: 250909001
-  RequirementText: CD『はじまりの羽音』購入特典
+  RequirementValue: 250909002
+  RequirementText: CD『ちょ、尊いLOVE / Nεw Black』購入特典
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0
@@ -54654,6 +54776,30 @@
   SeasonId: 0
   CharactersId: 0
   Priority: 150060
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: きまっし!!みらぱ！の部屋ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000061
+  Name: Ruri&To
+  Text: きまっし!!みらぱ！の部屋ラジオの応援ありがとうございます！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150061
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX

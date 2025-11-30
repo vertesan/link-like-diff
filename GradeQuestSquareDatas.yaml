@@ -400,6 +400,12 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11053601
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -3382,6 +3388,12 @@
   TargetId: 51053503
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 51053601
+  Name: 『スキルAP-3』解除
+  SquareType: 5
+  TargetId: 51053601
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 61031101
   Name: 103期 獲得ライブPt. +5%
   SquareType: 6
@@ -4048,3 +4060,9 @@
   TargetId: 571053501
   MinActionPoint: 1
   MaxActionPoint: 10
+- Id: 71053601
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571053601
+  MinActionPoint: 1
+  MaxActionPoint: 1

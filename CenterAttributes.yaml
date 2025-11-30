@@ -4234,6 +4234,24 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315351
+  CenterAttributeSeriesId: 20315350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20315352
+  CenterAttributeSeriesId: 20315350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20315353
+  CenterAttributeSeriesId: 20315350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20318011
   CenterAttributeSeriesId: 20318010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -6556,6 +6574,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20335301
+  CenterAttributeSeriesId: 20335300
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20335302
+  CenterAttributeSeriesId: 20335300
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 20335303
+  CenterAttributeSeriesId: 20335300
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 20338011
   CenterAttributeSeriesId: 20338010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -7780,6 +7816,24 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20425201
+  CenterAttributeSeriesId: 20425200
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10007200
+  Description: 全メンバーのアピール値が72％上昇
+- Id: 20425202
+  CenterAttributeSeriesId: 20425200
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20007200
+  Description: 全メンバーのアピール値が72％上昇
+- Id: 20425203
+  CenterAttributeSeriesId: 20425200
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30007200
+  Description: 全メンバーのアピール値が72％上昇
 - Id: 20428011
   CenterAttributeSeriesId: 20428010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース

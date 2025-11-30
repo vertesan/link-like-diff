@@ -958,6 +958,14 @@
   StageSkillEffectId: 20400300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
   EffectValue: -3000000
+- Id: 204010000
+  StageSkillEffectId: 20401000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 204010001
+  StageSkillEffectId: 20401000
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  EffectValue: -10000000
 - Id: 204020000
   StageSkillEffectId: 20402000
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
@@ -1014,6 +1022,14 @@
   StageSkillEffectId: 20600005
   SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
   EffectValue: -50000
+- Id: 206000070
+  StageSkillEffectId: 20600007
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 206000071
+  StageSkillEffectId: 20600007
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  EffectValue: -70000
 - Id: 207113010
   StageSkillEffectId: 20711301
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
