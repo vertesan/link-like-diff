@@ -8764,6 +8764,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: 桂城泉のアピール値が320％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少
+- Id: 20519011
+  CenterAttributeSeriesId: 20519010
+  CenterAttributeName: アピールアップ（桂城泉）
+  TargetIds: "11051"
+  CenterAttributeEffectId: 10040000
+  Description: 桂城泉のアピール値が400％上昇
+- Id: 20519012
+  CenterAttributeSeriesId: 20519010
+  CenterAttributeName: アピールアップ（桂城泉）
+  TargetIds: "11051"
+  CenterAttributeEffectId: 20040000
+  Description: 桂城泉のアピール値が400％上昇
+- Id: 20519013
+  CenterAttributeSeriesId: 20519010
+  CenterAttributeName: アピールアップ（桂城泉）
+  TargetIds: "11051"
+  CenterAttributeEffectId: 30040000
+  Description: 桂城泉のアピール値が400％上昇
 - Id: 20523011
   CenterAttributeSeriesId: 20523010
   CenterAttributeName: アピールアップ

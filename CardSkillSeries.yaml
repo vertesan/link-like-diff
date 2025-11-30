@@ -6823,6 +6823,21 @@
   SkillIcon: 10518010
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
+- Id: 10519010
+  Name: オールラウンドブースト
+  SkillIcon: 10519010
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10519011
+  Name: オールラウンドブースト
+  SkillIcon: 10519010
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10519012
+  Name: オールラウンドブースト
+  SkillIcon: 10519010
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
 - Id: 10523010
   Name: ボルテージバイブス
   SkillIcon: 10523010
@@ -9348,6 +9363,11 @@
   SkillIcon: 20518010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20519010
+  Name: ブルームマイセルフ
+  SkillIcon: 20519010
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 20523010
   Name: メロウアンビエンス
   SkillIcon: 20523010
@@ -11672,6 +11692,11 @@
   Name: Radioactive
   SkillIcon: 30518010
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 30519010
+  Name: バースデイキャンドル
+  SkillIcon: 30519010
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 30524010
   Name: サウンド：ワイドハート
