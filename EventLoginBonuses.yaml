@@ -376,6 +376,13 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-11-18T19:00:00Z
   EndTime: 2025-11-20T18:59:59Z
+- Id: 201056
+  Name: 5th Live Tour ～4Pair Power Spread!!!!～ スリーズブーケ presents Clover Stage 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201056
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-12-05T19:00:00Z
+  EndTime: 2025-12-07T18:59:59Z
 - Id: 201057
   Name: POP UP SHOP ～チャイナコレクション～ 開催記念ログインキャンペーン
   LoginBonusRewardSeriesId: 201057

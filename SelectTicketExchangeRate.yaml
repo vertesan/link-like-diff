@@ -5010,6 +5010,20 @@
   ExchangeItemQuantity: 1
   StartTime: 2025-10-23T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4030011099
+  SelectTicketSeriesId: 4030011
+  ExchangeItemType: 2
+  ExchangeItemId: 10315350
+  ExchangeItemQuantity: 1
+  StartTime: 2025-11-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4030011100
+  SelectTicketSeriesId: 4030011
+  ExchangeItemType: 2
+  ExchangeItemId: 10335300
+  ExchangeItemQuantity: 1
+  StartTime: 2025-11-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4030012001
   SelectTicketSeriesId: 4030012
   ExchangeItemType: 2

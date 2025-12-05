@@ -1480,6 +1480,25 @@
   HardDropRewardSeriesId: 1
   ExpertDropRewardSeriesId: 1
   MasterDropRewardSeriesId: 1
+- Id: 304202
+  NormalLevel: 11
+  HardLevel: 17
+  ExpertLevel: 23
+  MasterLevel: 27
+  NormalMaxCombo: 326
+  HardMaxCombo: 753
+  ExpertMaxCombo: 1103
+  MasterMaxCombo: 1121
+  ShouldVerifyNotesCount: 1
+  ScoreRewardSeriesId: 3
+  NormalGainMusicExp: 6
+  HardGainMusicExp: 12
+  ExpertGainMusicExp: 20
+  MasterGainMusicExp: 30
+  NormalDropRewardSeriesId: 3
+  HardDropRewardSeriesId: 3
+  ExpertDropRewardSeriesId: 3
+  MasterDropRewardSeriesId: 3
 - Id: 304301
   NormalLevel: 12
   HardLevel: 18

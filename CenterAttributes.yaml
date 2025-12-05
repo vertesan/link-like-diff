@@ -8998,6 +8998,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20525081
+  CenterAttributeSeriesId: 20525080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 10020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
+- Id: 20525082
+  CenterAttributeSeriesId: 20525080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 20020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
+- Id: 20525083
+  CenterAttributeSeriesId: 20525080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 30020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
 - Id: 20528011
   CenterAttributeSeriesId: 20528010
   CenterAttributeName: アピールアップ（セラス）&APレデュース&CTレデュース

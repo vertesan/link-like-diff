@@ -7018,6 +7018,21 @@
   SkillIcon: 10525070
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10525080
+  Name: ギルティアタック
+  SkillIcon: 10525080
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10525081
+  Name: ギルティアタック
+  SkillIcon: 10525080
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10525082
+  Name: ギルティアタック
+  SkillIcon: 10525080
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
   SkillIcon: 10528010
@@ -7580,7 +7595,7 @@
   IsExSpecialAppeal: 0
 - Id: 20225230
   Name: ボルテックスヒートハート
-  SkillIcon: 20225230
+  SkillIcon: 20225231
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
 - Id: 20225240
@@ -9428,6 +9443,11 @@
   SkillIcon: 20525070
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 20525080
+  Name: イミテーションO.N.G.E.K.I.
+  SkillIcon: 20525080
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
   SkillIcon: 20528010
@@ -9580,7 +9600,7 @@
   IsExSpecialAppeal: 0
 - Id: 22435090
   Name: ブレイブハート
-  SkillIcon: 22435090
+  SkillIcon: 22435091
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 22435100
@@ -10090,7 +10110,7 @@
   IsExSpecialAppeal: 0
 - Id: 30225230
   Name: ドロー：R.B.P
-  SkillIcon: 30225230
+  SkillIcon: 30225231
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 30225240
@@ -11748,6 +11768,11 @@
   SkillIcon: 30525070
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 30525080
+  Name: ドロー：刹那&セラニャン
+  SkillIcon: 30525080
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive
   SkillIcon: 30528010
@@ -12080,7 +12105,7 @@
   IsExSpecialAppeal: 0
 - Id: 80175010
   Name: 《シュータードレス/RIO》
-  SkillIcon: 80435090
+  SkillIcon: 80435091
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 80185010
