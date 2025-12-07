@@ -53139,6 +53139,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 92000057
+  Name: Live『5th Live Tour ～4Pair Power Spread!!!!～』ライブキービジュアル
+  Text: 2025.10.4-5 TOKYO ～ 2025.11.8-9 AICHI ～ 2025.11.19-20 OSAKA ～ 2025.12.6-7 KANAGAWA
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 130057
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「4Pair Power Spread!!!! Showdown Pack」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-07T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-07T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 93001001
   Name: from スクフェス2 リズムアイコン
   Text: リズムにあわせてタップ！
