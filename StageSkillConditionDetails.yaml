@@ -10,6 +10,10 @@
   StageSkillConditionId: 1030003
   SkillConditionDetailType: ON_SKILL_USE_COUNT
   ConditionValue: 3
+- Id: 10300040
+  StageSkillConditionId: 1030004
+  SkillConditionDetailType: ON_SKILL_USE_COUNT
+  ConditionValue: 4
 - Id: 10300050
   StageSkillConditionId: 1030005
   SkillConditionDetailType: ON_SKILL_USE_COUNT

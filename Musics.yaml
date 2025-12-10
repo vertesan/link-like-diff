@@ -2802,7 +2802,7 @@
   IsVideoMode: 0
   VideoBgId: 3
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-12-10T01:00:00Z
 - Id: 203301
   OrderId: 5001
   Title: 僕らのLIVE 君とのLIFE
@@ -4485,7 +4485,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2025-12-10T01:00:00Z
 - Id: 303118
   OrderId: 2002
   Title: Pleasure Feather
@@ -6594,8 +6594,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 1
   MusicScoreReleaseTime: 2025-11-09T12:00:00Z
 - Id: 405123
@@ -6693,8 +6693,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 1
   MusicScoreReleaseTime: 2025-11-20T12:00:00Z
 - Id: 405126
@@ -6730,6 +6730,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2025-11-30T03:00:00Z
+- Id: 405127
+  OrderId: 1631
+  Title: Hip, hip, hooray!
+  TitleFurigana: ひっぷひっぷふーれい
+  JacketId: 405127
+  SoundId: 40512701
+  Description: みらくらぱーく！
+  GenerationsId: 105
+  UnitId: 103
+  CenterCharacterId: 1033
+  SingerCharacterId: "1043"
+  SupportCharacterId: 1031,1032,1041,1042,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 10588
+  ApIncrement: 1040
+  SongTime: 10400
+  PlayTime: 124800
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2025-12-10T01:00:00Z
 - Id: 405201
   OrderId: 6033
   Title: テレパシ

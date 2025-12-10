@@ -8662,6 +8662,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10335311
+  Name: "[Hip, hip, hooray!]大沢\u00a0瑠璃乃"
+  Text: "[Hip, hip, hooray!]大沢\u00a0瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 233531
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033531
+  RequirementText: "[Hip, hip, hooray!]大沢\u00a0瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10338011
   Name: "[Prism Echo]大沢\u00a0瑠璃乃"
   Text: "[Prism Echo]大沢\u00a0瑠璃乃 を4回解放した記念のステッカー"
@@ -9043,6 +9067,30 @@
   StartTime: 2025-11-09T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-11-09T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10414051
+  Name: "[My Lucky Clover]百生\u00a0吟子"
+  Text: "[My Lucky Clover]百生\u00a0吟子 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 241405
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1041405
+  RequirementText: "[My Lucky Clover]百生\u00a0吟子 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-10T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -11131,6 +11179,30 @@
   StartTime: 2025-10-31T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-10-31T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10435211
+  Name: "[Hip, hip, hooray!]安養寺\u00a0姫芽"
+  Text: "[Hip, hip, hooray!]安養寺\u00a0姫芽 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 243520
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1043521
+  RequirementText: "[Hip, hip, hooray!]安養寺\u00a0姫芽 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-10T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -41662,6 +41734,510 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350901
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 1位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550901
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350902
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 2位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550902
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350903
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 3位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550903
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350904
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 4位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550904
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350905
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 5位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550905
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350906
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 6位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550906
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350907
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 7位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550907
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350908
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 8位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550908
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350909
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 9位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550909
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350910
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 10位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550910
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350911
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550911
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350912
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550912
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350913
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550913
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350914
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550914
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350915
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550915
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350916
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550916
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP3000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350917
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550917
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP5000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350918
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550918
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP7000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350919
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550919
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP10000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350920
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550920
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦 TOP15000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20350921
+  Name: Live Grand Prix 105期4thTerm 第1回 個人戦 参加
+  Text: Live Grand Prix 105期4thTerm 第1回 個人戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 550921
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期4thTerm 第1回 個人戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103101
   Name: 『Dream Believers（4人Ver.）』マエストロ
   Text: 『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー
@@ -46558,6 +47134,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405127
+  Name: 『Hip, hip, hooray!』マエストロ
+  Text: 『Hip, hip, hooray!』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601631
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405127
+  RequirementText: 『Hip, hip, hooray!』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40405201
   Name: 『テレパシ』マエストロ
   Text: 『テレパシ』のマスタリーLv.を30にした記念のステッカー
@@ -50077,6 +50677,33 @@
   StartTime: 2025-12-04T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2025-12-04T12:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000141
+  Name: "[ひゃくまんダウンロード記念]花帆&さやか&瑠璃乃\u00a0with\u00a0ひゃくまんさん"
+  Text: |-
+    Link！Like！ラブライブ！100万ダウンロード達成
+    ありがとうございます！
+    これからもよろしくお願いします！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100141
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: ひゃくまんダウンロード記念プレゼント！
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2025-12-10T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z

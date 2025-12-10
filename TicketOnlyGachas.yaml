@@ -46,3 +46,19 @@
   ButtonPopId: 201
   MiniBannerPopId: 0
   MiniBannerDispCondition: 0
+- Id: 1050407
+  GachaTicketId: 3002213
+  TicketNum: 1
+  ConsectiveGachaTimes: 10
+  GachaButtonType: 2
+  ButtonPopId: 201
+  MiniBannerPopId: 0
+  MiniBannerDispCondition: 1
+- Id: 1050408
+  GachaTicketId: 3002213
+  TicketNum: 1
+  ConsectiveGachaTimes: 10
+  GachaButtonType: 2
+  ButtonPopId: 201
+  MiniBannerPopId: 0
+  MiniBannerDispCondition: 0

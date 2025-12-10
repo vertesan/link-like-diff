@@ -2160,6 +2160,18 @@
   Description: 特定のカードパックガチャ（10連）を利用することができるチケット。
   StartTime: 2025-11-19T15:00:00Z
   EndTime: 2025-12-07T02:59:59Z
+- Id: 3002213
+  Name: 10連カードパックチケット（2025 STANDARD COLLECTION MEGA）
+  NameFurigana: じゅうれんかーどぱっくちけっとにせんにじゅうごすたんだーどこれくしょんめが
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 特定のカードパックガチャ（10連）を利用することができるチケット。
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2026-01-05T02:59:59Z
 - Id: 3003001
   Name: 事前登録プレゼントURカードセレクトチケット
   NameFurigana: じぜんとうろくぷれぜんとうるとられあかーどせれくとちけっと
@@ -8148,6 +8160,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2025-11-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033531
+  Name: "[Hip, hip, hooray!]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -8303,6 +8327,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2025-11-09T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4041405
+  Name: "[My Lucky Clover]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2025-12-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4041501
   Name: "[Dream Believers]百生\u00a0吟子 解放Pt."
@@ -9299,6 +9335,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-10-31T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043521
+  Name: "[Hip, hip, hooray!]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2025-12-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."

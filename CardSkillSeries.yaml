@@ -5153,6 +5153,21 @@
   SkillIcon: 10335300
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 10335310
+  Name: Go for it!
+  SkillIcon: 10335310
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10335311
+  Name: Go for it!
+  SkillIcon: 10335310
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10335312
+  Name: Go for it!
+  SkillIcon: 10335310
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -5337,6 +5352,21 @@
   Name: アルターエゴ
   SkillIcon: 10414040
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10414050
+  Name: -
+  SkillIcon: 10414050
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10414051
+  Name: -
+  SkillIcon: 10414050
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10414052
+  Name: -
+  SkillIcon: 10414050
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10415010
   Name: アトラクトゲイン
@@ -6572,6 +6602,21 @@
   Name: チアフルボルテージブースト
   SkillIcon: 10435190
   SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 10435210
+  Name: Go for it!
+  SkillIcon: 10435210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10435211
+  Name: Go for it!
+  SkillIcon: 10435210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10435212
+  Name: Go for it!
+  SkillIcon: 10435210
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 10438011
   Name: エイペックス
@@ -8808,6 +8853,11 @@
   SkillIcon: 20335300
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
+- Id: 20335310
+  Name: エンジェリックヒーロー
+  SkillIcon: 20335310
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -8872,6 +8922,11 @@
   Name: ドレス《Poupée en Lotus》
   SkillIcon: 20414040
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 20414050
+  Name: -
+  SkillIcon: 20414050
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20415010
   Name: ドレス《Dream Believers》
@@ -9286,6 +9341,11 @@
 - Id: 20435190
   Name: ウイングビートメンター
   SkillIcon: 20435190
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 20435210
+  Name: エンジェリックエール
+  SkillIcon: 20435210
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20438010
@@ -11213,6 +11273,11 @@
   SkillIcon: 30335300
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30335310
+  Name: みらくらチアリング
+  SkillIcon: 30335310
+  SkillMainEffect: 29
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -11257,6 +11322,11 @@
   Name: アルターエゴ
   SkillIcon: 30414040
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 30414050
+  Name: -
+  SkillIcon: 30414050
+  SkillMainEffect: 904
   IsExSpecialAppeal: 0
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
@@ -11632,6 +11702,11 @@
   Name: リカバーウイング
   SkillIcon: 30435190
   SkillMainEffect: 17
+  IsExSpecialAppeal: 0
+- Id: 30435210
+  Name: みらくらチアリング
+  SkillIcon: 30435210
+  SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション

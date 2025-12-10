@@ -362,6 +362,13 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2025-10-27T12:00:00Z
   EndTime: 2025-11-02T18:59:59Z
+- Id: 201053
+  Name: ひゃくまんダウンロード記念！ログインキャンペーン
+  LoginBonusRewardSeriesId: 201053
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2025-12-10T03:00:00Z
+  EndTime: 2026-01-04T18:59:59Z
 - Id: 201054
   Name: 5th Live Tour ～4Pair Power Spread!!!!～ DOLLCHESTRA presents Diamond Stage 開催記念プレゼント！
   LoginBonusRewardSeriesId: 201054

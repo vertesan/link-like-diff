@@ -51868,6 +51868,156 @@
   RhythmGameSkillSeriesId: 30335304
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
+- Id: 10335310
+  CardSeriesId: 1033531
+  Name: Hip, hip, hooray!
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 63
+  InitialPure: 51
+  InitialCool: 31
+  InitialMental: 96
+  MaxSmile: 3125
+  MaxPure: 2525
+  MaxCool: 1550
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335310
+  SkillSeriesId: 20335310
+  AttributeId: 30335310
+  SpineId: 59
+  OrderId: 10388333
+  CenterSkillSeriesId: 10335310
+  CenterAttributeSeriesId: 20335310
+  RhythmGameSkillSeriesId: 30335310
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335311
+  CardSeriesId: 1033531
+  Name: Hip, hip, hooray!
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3125
+  InitialPure: 2525
+  InitialCool: 1550
+  InitialMental: 240
+  MaxSmile: 4375
+  MaxPure: 3535
+  MaxCool: 2170
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335311
+  SkillSeriesId: 20335310
+  AttributeId: 30335310
+  SpineId: 59
+  OrderId: 10388333
+  CenterSkillSeriesId: 10335310
+  CenterAttributeSeriesId: 20335310
+  RhythmGameSkillSeriesId: 30335310
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335312
+  CardSeriesId: 1033531
+  Name: Hip, hip, hooray!
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4375
+  InitialPure: 3535
+  InitialCool: 2170
+  InitialMental: 336
+  MaxSmile: 6250
+  MaxPure: 5050
+  MaxCool: 3100
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335312
+  SkillSeriesId: 20335310
+  AttributeId: 30335310
+  SpineId: 59
+  OrderId: 10388333
+  CenterSkillSeriesId: 10335310
+  CenterAttributeSeriesId: 20335310
+  RhythmGameSkillSeriesId: 30335312
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335313
+  CardSeriesId: 1033531
+  Name: Hip, hip, hooray!
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 6250
+  InitialPure: 5050
+  InitialCool: 3100
+  InitialMental: 480
+  MaxSmile: 6875
+  MaxPure: 5555
+  MaxCool: 3410
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335312
+  SkillSeriesId: 20335310
+  AttributeId: 30335310
+  SpineId: 59
+  OrderId: 10388333
+  CenterSkillSeriesId: 10335310
+  CenterAttributeSeriesId: 20335310
+  RhythmGameSkillSeriesId: 30335313
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10335314
+  CardSeriesId: 1033531
+  Name: Hip, hip, hooray!
+  Description: 大沢 瑠璃乃
+  CharactersId: 1033
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 6875
+  InitialPure: 5555
+  InitialCool: 3410
+  InitialMental: 480
+  MaxSmile: 7500
+  MaxPure: 6060
+  MaxCool: 3720
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10335312
+  SkillSeriesId: 20335310
+  AttributeId: 30335310
+  SpineId: 59
+  OrderId: 10388333
+  CenterSkillSeriesId: 10335310
+  CenterAttributeSeriesId: 20335310
+  RhythmGameSkillSeriesId: 30335314
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
 - Id: 10338011
   CardSeriesId: 1033801
   Name: Prism Echo
@@ -53666,6 +53816,156 @@
   CenterSkillSeriesId: 10414040
   CenterAttributeSeriesId: 20414040
   RhythmGameSkillSeriesId: 30414044
+  CenterSkillLvUpItemId: 41
+  RhythmGameSkillLvUpItemId: 41
+- Id: 10414050
+  CardSeriesId: 1041405
+  Name: My Lucky Clover
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 4
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 53
+  InitialPure: 58
+  InitialCool: 33
+  InitialMental: 97
+  MaxSmile: 2650
+  MaxPure: 2900
+  MaxCool: 1625
+  MaxMental: 243
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10414050
+  SkillSeriesId: 20414050
+  AttributeId: 30414050
+  SpineId: 34
+  OrderId: 10388441
+  CenterSkillSeriesId: 10414050
+  CenterAttributeSeriesId: 20414050
+  RhythmGameSkillSeriesId: 30414050
+  CenterSkillLvUpItemId: 41
+  RhythmGameSkillLvUpItemId: 41
+- Id: 10414051
+  CardSeriesId: 1041405
+  Name: My Lucky Clover
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 4
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 2650
+  InitialPure: 2900
+  InitialCool: 1625
+  InitialMental: 243
+  MaxSmile: 3710
+  MaxPure: 4060
+  MaxCool: 2275
+  MaxMental: 340
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10414051
+  SkillSeriesId: 20414050
+  AttributeId: 30414050
+  SpineId: 34
+  OrderId: 10388441
+  CenterSkillSeriesId: 10414050
+  CenterAttributeSeriesId: 20414050
+  RhythmGameSkillSeriesId: 30414050
+  CenterSkillLvUpItemId: 41
+  RhythmGameSkillLvUpItemId: 41
+- Id: 10414052
+  CardSeriesId: 1041405
+  Name: My Lucky Clover
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 4
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 3710
+  InitialPure: 4060
+  InitialCool: 2275
+  InitialMental: 340
+  MaxSmile: 5300
+  MaxPure: 5800
+  MaxCool: 3250
+  MaxMental: 485
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10414052
+  SkillSeriesId: 20414050
+  AttributeId: 30414050
+  SpineId: 34
+  OrderId: 10388441
+  CenterSkillSeriesId: 10414050
+  CenterAttributeSeriesId: 20414050
+  RhythmGameSkillSeriesId: 30414052
+  CenterSkillLvUpItemId: 41
+  RhythmGameSkillLvUpItemId: 41
+- Id: 10414053
+  CardSeriesId: 1041405
+  Name: My Lucky Clover
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 4
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 5300
+  InitialPure: 5800
+  InitialCool: 3250
+  InitialMental: 485
+  MaxSmile: 5830
+  MaxPure: 6380
+  MaxCool: 3575
+  MaxMental: 485
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10414052
+  SkillSeriesId: 20414050
+  AttributeId: 30414050
+  SpineId: 34
+  OrderId: 10388441
+  CenterSkillSeriesId: 10414050
+  CenterAttributeSeriesId: 20414050
+  RhythmGameSkillSeriesId: 30414053
+  CenterSkillLvUpItemId: 41
+  RhythmGameSkillLvUpItemId: 41
+- Id: 10414054
+  CardSeriesId: 1041405
+  Name: My Lucky Clover
+  Description: 百生 吟子
+  CharactersId: 1041
+  Rarity: 4
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 4
+  Mood: 2
+  ExperienceType: 4
+  InitialSmile: 5830
+  InitialPure: 6380
+  InitialCool: 3575
+  InitialMental: 485
+  MaxSmile: 6360
+  MaxPure: 6960
+  MaxCool: 3900
+  MaxMental: 485
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10414052
+  SkillSeriesId: 20414050
+  AttributeId: 30414050
+  SpineId: 34
+  OrderId: 10388441
+  CenterSkillSeriesId: 10414050
+  CenterAttributeSeriesId: 20414050
+  RhythmGameSkillSeriesId: 30414054
   CenterSkillLvUpItemId: 41
   RhythmGameSkillLvUpItemId: 41
 - Id: 10415010
@@ -65906,6 +66206,156 @@
   CenterSkillSeriesId: 10435190
   CenterAttributeSeriesId: 20435190
   RhythmGameSkillSeriesId: 30435194
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435210
+  CardSeriesId: 1043521
+  Name: Hip, hip, hooray!
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 0
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 62
+  InitialPure: 52
+  InitialCool: 30
+  InitialMental: 96
+  MaxSmile: 3100
+  MaxPure: 2600
+  MaxCool: 1500
+  MaxMental: 240
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435210
+  SkillSeriesId: 20435210
+  AttributeId: 30435210
+  SpineId: 33
+  OrderId: 10388343
+  CenterSkillSeriesId: 10435210
+  CenterAttributeSeriesId: 20435210
+  RhythmGameSkillSeriesId: 30435210
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435211
+  CardSeriesId: 1043521
+  Name: Hip, hip, hooray!
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 3100
+  InitialPure: 2600
+  InitialCool: 1500
+  InitialMental: 240
+  MaxSmile: 4340
+  MaxPure: 3640
+  MaxCool: 2100
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435211
+  SkillSeriesId: 20435210
+  AttributeId: 30435210
+  SpineId: 33
+  OrderId: 10388343
+  CenterSkillSeriesId: 10435210
+  CenterAttributeSeriesId: 20435210
+  RhythmGameSkillSeriesId: 30435210
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435212
+  CardSeriesId: 1043521
+  Name: Hip, hip, hooray!
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 4340
+  InitialPure: 3640
+  InitialCool: 2100
+  InitialMental: 336
+  MaxSmile: 6200
+  MaxPure: 5200
+  MaxCool: 3000
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435212
+  SkillSeriesId: 20435210
+  AttributeId: 30435210
+  SpineId: 33
+  OrderId: 10388343
+  CenterSkillSeriesId: 10435210
+  CenterAttributeSeriesId: 20435210
+  RhythmGameSkillSeriesId: 30435212
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435213
+  CardSeriesId: 1043521
+  Name: Hip, hip, hooray!
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 6200
+  InitialPure: 5200
+  InitialCool: 3000
+  InitialMental: 480
+  MaxSmile: 6820
+  MaxPure: 5720
+  MaxCool: 3300
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435212
+  SkillSeriesId: 20435210
+  AttributeId: 30435210
+  SpineId: 33
+  OrderId: 10388343
+  CenterSkillSeriesId: 10435210
+  CenterAttributeSeriesId: 20435210
+  RhythmGameSkillSeriesId: 30435213
+  CenterSkillLvUpItemId: 53
+  RhythmGameSkillLvUpItemId: 53
+- Id: 10435214
+  CardSeriesId: 1043521
+  Name: Hip, hip, hooray!
+  Description: 安養寺 姫芽
+  CharactersId: 1043
+  Rarity: 5
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 3
+  Mood: 1
+  ExperienceType: 5
+  InitialSmile: 6820
+  InitialPure: 5720
+  InitialCool: 3300
+  InitialMental: 480
+  MaxSmile: 7440
+  MaxPure: 6240
+  MaxCool: 3600
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10435212
+  SkillSeriesId: 20435210
+  AttributeId: 30435210
+  SpineId: 33
+  OrderId: 10388343
+  CenterSkillSeriesId: 10435210
+  CenterAttributeSeriesId: 20435210
+  RhythmGameSkillSeriesId: 30435214
   CenterSkillLvUpItemId: 53
   RhythmGameSkillLvUpItemId: 53
 - Id: 10438011
