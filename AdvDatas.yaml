@@ -6898,3 +6898,103 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10500901
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: PART 1
+  ScriptId: 10500901
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 338
+  SubTitleName: "1"
+  StartTime: 2025-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500902
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: PART 2
+  ScriptId: 10500902
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 339
+  SubTitleName: "2"
+  StartTime: 2025-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500903
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: PART 3
+  ScriptId: 10500903
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 340
+  SubTitleName: "3"
+  StartTime: 2025-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500904
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: PART 4
+  ScriptId: 10500904
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 341
+  SubTitleName: "4"
+  StartTime: 2025-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10500905
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: PART 5
+  ScriptId: 10500905
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 342
+  SubTitleName: "5"
+  StartTime: 2025-12-13T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0

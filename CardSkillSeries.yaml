@@ -5354,19 +5354,19 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10414050
-  Name: -
+  Name: フォースステージ
   SkillIcon: 10414050
-  SkillMainEffect: 1
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 10414051
-  Name: -
+  Name: フォースステージ
   SkillIcon: 10414050
-  SkillMainEffect: 1
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 10414052
-  Name: -
+  Name: フォースステージ
   SkillIcon: 10414050
-  SkillMainEffect: 1
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 10415010
   Name: アトラクトゲイン
@@ -8924,9 +8924,9 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20414050
-  Name: -
+  Name: ドレス《My Lucky Clover》
   SkillIcon: 20414050
-  SkillMainEffect: 1
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 20415010
   Name: ドレス《Dream Believers》
@@ -11324,9 +11324,9 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30414050
-  Name: -
+  Name: Clover Pair Power Spread
   SkillIcon: 30414050
-  SkillMainEffect: 904
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
@@ -12103,6 +12103,16 @@
   SkillIcon: 80415041
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 80064010
+  Name: 《My Lucky Clover》
+  SkillIcon: 80414050
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
+- Id: 80064020
+  Name: キングワイドハッピー
+  SkillIcon: 80414051
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
 - Id: 80065010
   Name: サウンドハート
   SkillIcon: 80315220
@@ -12607,6 +12617,16 @@
   Name: インスタンス
   SkillIcon: 90410000
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90064010
+  Name: ハートコレクト：ワイドブースト
+  SkillIcon: 90414050
+  SkillMainEffect: 49
+  IsExSpecialAppeal: 0
+- Id: 90064020
+  Name: Clover Pair Power Spread
+  SkillIcon: 90414051
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 90065010
   Name: インスタンス & ドロー：ワイドハート
