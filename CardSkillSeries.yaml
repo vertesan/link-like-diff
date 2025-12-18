@@ -10489,17 +10489,17 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30314120
-  Name: オーバーセクション：APレデュース & ラブアトラクト：梢
+  Name: オーバーセクション：APレデュース & バイブス & ラブアトラクト：梢
   SkillIcon: 30314120
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30314130
-  Name: ドロー：APレデュース & アトラクトブースト：慈
+  Name: ドロー：APレデュース & アトラクトブースト：慈 & チアフル：アトラクトブースト
   SkillIcon: 30314130
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30314140
-  Name: APレデュース：メンタル & チアフル：ボルテージゲイン
+  Name: APレデュース：メンタル & チアフル：ボルテージゲイン & ハートブースト
   SkillIcon: 30314140
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -10534,7 +10534,7 @@
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 30314210
-  Name: ドロー：APレデュース：グルーヴィ＆チアフル
+  Name: ドロー：APレデュース：グルーヴィ＆チアフル & ボルテージブースト & リカバーブースト
   SkillIcon: 30314210
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -10599,17 +10599,17 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30315120
-  Name: オーバーセクション：APレデュース & アグレッシブ
+  Name: オーバーセクション：APレデュース & アグレッシブ & バイブス
   SkillIcon: 30315120
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30315130
-  Name: インタープリテーション & チェイン：梢 & ドロー：ハッピー/アトラクトブースト：梢
+  Name: インタープリテーション & チェイン：梢 & ドロー：ハッピーアンビエンス & ハッピー/アトラクトブースト：梢
   SkillIcon: 30315130
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30315140
-  Name: オーバーセクション：APレデュース & マチュレーション & ボルテージゲイン：瑠璃乃
+  Name: オーバーセクション：APレデュース & マチュレーション & オールラウンドブースト：瑠璃乃 & ボルテージゲイン：瑠璃乃
   SkillIcon: 30315140
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -10659,7 +10659,7 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30315240
-  Name: ブーステッドハートゲイン：スリーズブーケ
+  Name: ブーステッドハートゲイン：スリーズブーケ & APレデュース：スリーズブーケ
   SkillIcon: 30315240
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
@@ -10799,17 +10799,17 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30324120
-  Name: オーバーセクション：ハートキャプチャ & メンタルプロテクト：綴理
+  Name: オーバーセクション：ハートキャプチャ & バイブス & メンタルプロテクト：綴理
   SkillIcon: 30324120
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30324130
-  Name: ドロー：ボルテージゲイン
+  Name: ドロー：ボルテージゲイン & ブレイブ：アトラクトブースト：さやか
   SkillIcon: 30324130
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
 - Id: 30324140
-  Name: APレデュース：メンタル
+  Name: APレデュース：メンタル & チアフル：アトラクトブースト
   SkillIcon: 30324140
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -10844,7 +10844,7 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30324210
-  Name: ジャストドロー：フィーバー/APゲイン & ハートブースト & アトラクトブースト：さやか
+  Name: ジャストドロー：フィーバー/APゲイン & ハートブースト & アトラクトブースト：さやか & ハートキャプチャ
   SkillIcon: 30324210
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
@@ -10919,12 +10919,12 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30325120
-  Name: チェイン：瑠璃乃 & ドロー：ボルテージブースト
+  Name: チェイン：瑠璃乃 & ドロー：ボルテージブースト & チアフル：エクステンドハンド
   SkillIcon: 30325120
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30325130
-  Name: インタープリテーション & チェイン：慈 & ドロー：ハッピー/アトラクトブースト：慈
+  Name: インタープリテーション & チェイン：慈 & ドロー：ハッピーアンビエンス & ハッピー/アトラクトブースト：慈
   SkillIcon: 30325130
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
@@ -10969,7 +10969,7 @@
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 30325220
-  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル
+  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル & リカバーブースト
   SkillIcon: 30325220
   SkillMainEffect: 31
   IsExSpecialAppeal: 0
@@ -11059,7 +11059,7 @@
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30334040
-  Name: チェイン：慈 & ドロー：ボルテージブースト：慈
+  Name: チェイン：慈 & ドロー：ボルテージブースト：慈 & チアフル：リカバーブースト：慈
   SkillIcon: 30334040
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
@@ -11069,17 +11069,17 @@
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30334060
-  Name: フェイバリット：1 & ジャストドロー：1/リカバーブースト：みらくらぱーく！
+  Name: フェイバリット：1 & ジャストドロー：1/リカバーブースト：みらくらぱーく！ & APレデュース
   SkillIcon: 30334060
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30334070
-  Name: ドロー：ハートキャプチャ & ハッピー/マチュレーション
+  Name: ドロー：ハートキャプチャ & ハッピーアンビエンス & ハッピー/マチュレーション
   SkillIcon: 30334070
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30334080
-  Name: APレデュース：メンタル
+  Name: APレデュース：メンタル & チアフル：ボルテージブースト
   SkillIcon: 30334080
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -11134,7 +11134,7 @@
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 30335030
-  Name: インタープリテーション & ドロー：ハッピー/ハートブースト
+  Name: インタープリテーション & ドロー：ハッピー/ハートブースト & ハッピーアンビエンス
   SkillIcon: 30335030
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
@@ -11144,17 +11144,17 @@
   SkillMainEffect: 18
   IsExSpecialAppeal: 0
 - Id: 30335050
-  Name: APレデュース：ハイメンタル & リカバーブースト：さやか
+  Name: APレデュース：ハイメンタル & ブレイブ：メンタルリカバー & リカバーブースト：さやか
   SkillIcon: 30335050
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
 - Id: 30335060
-  Name: ドロー：カームダウン & アトラクトブースト
+  Name: ドロー：カームダウン & アトラクトブースト & APサポート：瑠璃乃
   SkillIcon: 30335060
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
 - Id: 30335070
-  Name: オーバーセクション：APレデュース & マチュレーション & メンタルリカバー：花帆
+  Name: オーバーセクション：APレデュース & マチュレーション & オールラウンドブースト：花帆 & メンタルリカバー：花帆
   SkillIcon: 30335070
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
@@ -11214,7 +11214,7 @@
   SkillMainEffect: 36
   IsExSpecialAppeal: 0
 - Id: 30335190
-  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル
+  Name: ドロー：ボルテージブースト＆APレデュース：グルーヴィ＆チアフル & ボルテージブースト
   SkillIcon: 30335190
   SkillMainEffect: 31
   IsExSpecialAppeal: 0
@@ -11364,7 +11364,7 @@
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 30415080
-  Name: サーチ：小鈴 & ショット：APゲイン
+  Name: サーチ：小鈴 & ショット：APゲイン & レイトドロー：4/APサポート
   SkillIcon: 30415080
   SkillMainEffect: 905
   IsExSpecialAppeal: 0
@@ -11499,12 +11499,12 @@
   SkillMainEffect: 34
   IsExSpecialAppeal: 0
 - Id: 30425070
-  Name: サーチ：姫芽 & ショット：APゲイン
+  Name: サーチ：姫芽 & ショット：APゲイン & レイトドロー：4/APサポート
   SkillIcon: 30425070
   SkillMainEffect: 905
   IsExSpecialAppeal: 0
 - Id: 30425080
-  Name: ジャストドロー：1/ビリーフ & アグレッシブ
+  Name: ジャストドロー：1/ビリーフ & アグレッシブ & APレデュース
   SkillIcon: 30425080
   SkillMainEffect: 34
   IsExSpecialAppeal: 0
@@ -11644,7 +11644,7 @@
   SkillMainEffect: 36
   IsExSpecialAppeal: 0
 - Id: 30435080
-  Name: サーチ：吟子 & ショット：APゲイン
+  Name: サーチ：吟子 & ショット：APゲイン & レイトドロー：4/APサポート
   SkillIcon: 30435080
   SkillMainEffect: 905
   IsExSpecialAppeal: 0
@@ -12669,8 +12669,8 @@
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90125010
-  Name: インスタンス
-  SkillIcon: 90410000
+  Name: インスタンス & ドロー：アバンダンス/ハートブースト& アトラクトブースト：ドレス
+  SkillIcon: 90415070
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90135010
@@ -12689,18 +12689,18 @@
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90165010
-  Name: インスタンス
-  SkillIcon: 90410000
+  Name: インスタンス & コレクト：APサポート：スリーズブーケ
+  SkillIcon: 90415090
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90165020
-  Name: インスタンス
-  SkillIcon: 90410000
+  Name: インスタンス & コレクト：APサポート：スリーズブーケ
+  SkillIcon: 90415091
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90165030
-  Name: インスタンス
-  SkillIcon: 90410000
+  Name: インスタンス & コレクト：APサポート：スリーズブーケ
+  SkillIcon: 90415092
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 90175010
