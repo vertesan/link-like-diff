@@ -8724,6 +8724,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-08-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042405
+  Name: "[diamondz]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2025-12-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042501
   Name: "[Dream Believers]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9552,6 +9564,18 @@
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-11-20T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4051509
+  Name: "[令嬢モブ！]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2025-12-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4051801
   Name: "[Oracle Étude]桂城\u00a0泉 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9731,6 +9755,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-12-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052509
+  Name: "[令嬢モブ！]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2025-12-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052801
   Name: "[Oracle Étude]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

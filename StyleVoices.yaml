@@ -7102,6 +7102,24 @@
   Priority: 3
   VoiceName: vo_card_1042404_spappeal_0001
   ReleaseConditionText: ""
+- Id: 104240501
+  CardSeriesId: 1042405
+  Name: ライブ開始
+  Priority: 1
+  VoiceName: vo_card_1042405_livestart_0001
+  ReleaseConditionText: ""
+- Id: 104240502
+  CardSeriesId: 1042405
+  Name: スキル発動
+  Priority: 2
+  VoiceName: vo_card_1042405_skill_0001
+  ReleaseConditionText: ""
+- Id: 104240503
+  CardSeriesId: 1042405
+  Name: スペシャルアピール発動
+  Priority: 3
+  VoiceName: vo_card_1042405_spappeal_0001
+  ReleaseConditionText: ""
 - Id: 104250101
   CardSeriesId: 1042501
   Name: ライブ開始
@@ -8344,6 +8362,24 @@
   Priority: 3
   VoiceName: vo_card_1051507_spappeal_0001
   ReleaseConditionText: ""
+- Id: 105150901
+  CardSeriesId: 1051509
+  Name: ライブ開始
+  Priority: 1
+  VoiceName: vo_card_1051509_livestart_0001
+  ReleaseConditionText: ""
+- Id: 105150902
+  CardSeriesId: 1051509
+  Name: スキル発動
+  Priority: 2
+  VoiceName: vo_card_1051509_skill_0001
+  ReleaseConditionText: ""
+- Id: 105150903
+  CardSeriesId: 1051509
+  Name: スペシャルアピール発動
+  Priority: 3
+  VoiceName: vo_card_1051509_spappeal_0001
+  ReleaseConditionText: ""
 - Id: 105180101
   CardSeriesId: 1051801
   Name: ライブ開始
@@ -8613,6 +8649,24 @@
   Name: スペシャルアピール発動
   Priority: 3
   VoiceName: vo_card_1052508_spappeal_0001
+  ReleaseConditionText: ""
+- Id: 105250901
+  CardSeriesId: 1052509
+  Name: ライブ開始
+  Priority: 1
+  VoiceName: vo_card_1052509_livestart_0001
+  ReleaseConditionText: ""
+- Id: 105250902
+  CardSeriesId: 1052509
+  Name: スキル発動
+  Priority: 2
+  VoiceName: vo_card_1052509_skill_0001
+  ReleaseConditionText: ""
+- Id: 105250903
+  CardSeriesId: 1052509
+  Name: スペシャルアピール発動
+  Priority: 3
+  VoiceName: vo_card_1052509_spappeal_0001
   ReleaseConditionText: ""
 - Id: 105280101
   CardSeriesId: 1052801

@@ -54,6 +54,14 @@
   StageSkillConditionId: 1030130
   SkillConditionDetailType: ON_SKILL_USE_COUNT
   ConditionValue: 30
+- Id: 10510010
+  StageSkillConditionId: 1051001
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 1
+- Id: 10510011
+  StageSkillConditionId: 1051001
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 1
 - Id: 10510050
   StageSkillConditionId: 1051005
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
@@ -70,6 +78,14 @@
   StageSkillConditionId: 1051007
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
   ConditionValue: 7
+- Id: 10510100
+  StageSkillConditionId: 1051010
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE
+  ConditionValue: 1
+- Id: 10510101
+  StageSkillConditionId: 1051010
+  SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_VALUE
+  ConditionValue: 10
 - Id: 10510130
   StageSkillConditionId: 1051013
   SkillConditionDetailType: ON_SKILL_ID_USE_TARGET_TYPE

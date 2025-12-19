@@ -5843,6 +5843,21 @@
   SkillIcon: 10424040
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 10424050
+  Name: セカンドステージ
+  SkillIcon: 10424050
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10424051
+  Name: セカンドステージ
+  SkillIcon: 10424050
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10424052
+  Name: セカンドステージ
+  SkillIcon: 10424050
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 10425010
   Name: メンタルプロテクト
   SkillIcon: 10425010
@@ -6853,6 +6868,21 @@
   SkillIcon: 10515070
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10515090
+  Name: "ミッション#Ce"
+  SkillIcon: 10515090
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10515091
+  Name: "ミッション#Ce"
+  SkillIcon: 10515090
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10515092
+  Name: "ミッション#Ce"
+  SkillIcon: 10515090
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
 - Id: 10518010
   Name: Elysion
   SkillIcon: 10518010
@@ -7077,6 +7107,21 @@
   Name: ギルティアタック
   SkillIcon: 10525080
   SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10525090
+  Name: "ミッション#Iz"
+  SkillIcon: 10525090
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10525091
+  Name: "ミッション#Iz"
+  SkillIcon: 10525090
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10525092
+  Name: "ミッション#Iz"
+  SkillIcon: 10525090
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -9088,6 +9133,11 @@
   SkillIcon: 20424040
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 20424050
+  Name: ジャックボルテージメロウ
+  SkillIcon: 20424050
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
 - Id: 20425010
   Name: ブレイブボルテックスアトラクション
   SkillIcon: 20425010
@@ -9433,6 +9483,11 @@
   SkillIcon: 20515070
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20515090
+  Name: イミテーションスパイ
+  SkillIcon: 20515090
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 20518010
   Name: mode:REALIZER
   SkillIcon: 20518010
@@ -9507,6 +9562,11 @@
   Name: イミテーションO.N.G.E.K.I.
   SkillIcon: 20525080
   SkillMainEffect: 46
+  IsExSpecialAppeal: 0
+- Id: 20525090
+  Name: スウィートトラップ
+  SkillIcon: 20525090
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
@@ -11468,6 +11528,11 @@
   SkillIcon: 30424040
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30424050
+  Name: Diamond Pair Power Spread
+  SkillIcon: 30424050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30425010
   Name: アキューミュレイト
   SkillIcon: 30425010
@@ -11783,6 +11848,11 @@
   SkillIcon: 30515070
   SkillMainEffect: 18
   IsExSpecialAppeal: 0
+- Id: 30515090
+  Name: ランナウェイ
+  SkillIcon: 30515090
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 30518010
   Name: Radioactive
   SkillIcon: 30518010
@@ -11847,6 +11917,11 @@
   Name: ドロー：刹那&セラニャン
   SkillIcon: 30525080
   SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 30525090
+  Name: アブダクション
+  SkillIcon: 30525090
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive
@@ -12117,6 +12192,11 @@
   Name: サウンドハート
   SkillIcon: 80315220
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80074010
+  Name: ジャックボルテージメロウ
+  SkillIcon: 80424050
+  SkillMainEffect: 31
   IsExSpecialAppeal: 0
 - Id: 80075010
   Name: ラブアトラクト
@@ -12483,6 +12563,11 @@
   SkillIcon: 80425200
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
+- Id: 80435010
+  Name: イミテーションレディ
+  SkillIcon: 80525090
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 80444010
   Name: Prinzessin
   SkillIcon: 80444010
@@ -12632,6 +12717,11 @@
   Name: インスタンス & ドロー：ワイドハート
   SkillIcon: 90315220
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90074010
+  Name: Diamond Pair Power Spread
+  SkillIcon: 90424050
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 90075010
   Name: インスタンス & ドロー：アトラクトブースト
@@ -12942,6 +13032,11 @@
   Name: ミミクリー
   SkillIcon: 90425200
   SkillMainEffect: 2
+  IsExSpecialAppeal: 0
+- Id: 90435010
+  Name: エロープ
+  SkillIcon: 90525090
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 90444010
   Name: クローズ
