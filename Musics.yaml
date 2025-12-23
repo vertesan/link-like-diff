@@ -6495,8 +6495,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 1
   MusicScoreReleaseTime: 2025-10-31T12:00:00Z
 - Id: 405120

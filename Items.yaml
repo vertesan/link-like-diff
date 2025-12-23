@@ -1908,6 +1908,18 @@
   Description: "強烈な一撃でくるみを粉砕する驚異のラッコ。貝だけでは飽き足ら\\nずくるみにまで手を出すその姿は「止まるな」と訴えかけるよう。"
   StartTime: 2025-04-09T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2003115
+  Name: はやすぎ☆びっクリ鏡餅
+  NameFurigana: はやすぎびっくりかがみもち
+  ItemType: 1
+  ItemCategory: 2
+  Rarity: 4
+  EffectValue: 10000
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "餅を神仏に供える日本の伝統的な正月飾りです。\\n飾り始めるのは12月28日が最適であるとされています。"
+  StartTime: 2025-12-25T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2004002
   Name: メッセージカード（ミニ）
   NameFurigana: めっせーじかーどみに

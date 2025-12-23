@@ -1699,3 +1699,45 @@
   ItemsId: 1002001
   RewardNum: 150
   RewardTextId: 40203001
+- Id: 320100011
+  MissionsId: 32010001
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 200
+  RewardTextId: 40203001
+- Id: 320100021
+  MissionsId: 32010002
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 200
+  RewardTextId: 40203001
+- Id: 320100031
+  MissionsId: 32010003
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 200
+  RewardTextId: 40203001
+- Id: 320100041
+  MissionsId: 32010004
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 200
+  RewardTextId: 40203001
+- Id: 320100051
+  MissionsId: 32010005
+  RewardCategory: 2
+  RewardType: 3
+  ItemsId: 1002001
+  RewardNum: 200
+  RewardTextId: 40203001
+- Id: 320200011
+  MissionsId: 32020001
+  RewardCategory: 2
+  RewardType: 1
+  ItemsId: 2003074
+  RewardNum: 1
+  RewardTextId: 40203001
