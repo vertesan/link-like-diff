@@ -1,10 +1,3 @@
-- Id: 31016361
-  Label: 暗転_徳光海岸
-  MusicId: 31016
-  LocationsId: 36
-  FreeId: 1
-  NextId: -1
-  MovieIds: ""
 - Id: 31016371
   Label: 暗転_第二音楽堂
   MusicId: 31016
@@ -12,40 +5,12 @@
   FreeId: 1
   NextId: -1
   MovieIds: ""
-- Id: 31036353
-  Label: MC曲振り_徳光海岸
-  MusicId: 31036
-  LocationsId: 36
-  FreeId: 3
-  NextId: 31016361
-  MovieIds: ""
-- Id: 31036354
-  Label: MC曲振りから暗転_徳光海岸
-  MusicId: 31036
-  LocationsId: 36
-  FreeId: 4
-  NextId: 31016361
-  MovieIds: ""
-- Id: 31036361
-  Label: MC_徳光海岸
-  MusicId: 31036
-  LocationsId: 36
+- Id: 31016381
+  Label: 暗転_学校前2512
+  MusicId: 31016
+  LocationsId: 38
   FreeId: 1
-  NextId: 31036362
-  MovieIds: ""
-- Id: 31036362
-  Label: MCから暗転_徳光海岸
-  MusicId: 31036
-  LocationsId: 36
-  FreeId: 2
-  NextId: 31016361
-  MovieIds: ""
-- Id: 31036363
-  Label: MC花火_徳光海岸
-  MusicId: 31036
-  LocationsId: 36
-  FreeId: 1
-  NextId: 31036362
+  NextId: -1
   MovieIds: ""
 - Id: 31036371
   Label: MC_第二音楽堂
@@ -75,19 +40,33 @@
   FreeId: 4
   NextId: 31016371
   MovieIds: ""
-- Id: 31049361
-  Label: 客電_徳光海岸
-  MusicId: 31049
-  LocationsId: 36
+- Id: 31036381
+  Label: MC_学校前2512
+  MusicId: 31036
+  LocationsId: 38
   FreeId: 1
-  NextId: 31049362
+  NextId: 31036382
   MovieIds: ""
-- Id: 31049362
-  Label: 客電から暗転_徳光海岸
-  MusicId: 31049
-  LocationsId: 36
+- Id: 31036382
+  Label: MCから暗転_学校前2512
+  MusicId: 31036
+  LocationsId: 38
   FreeId: 2
-  NextId: 31016361
+  NextId: 31016381
+  MovieIds: ""
+- Id: 31036383
+  Label: MC曲振り_学校前2512
+  MusicId: 31036
+  LocationsId: 38
+  FreeId: 3
+  NextId: 31036384
+  MovieIds: ""
+- Id: 31036384
+  Label: MC曲振りから暗転_学校前2512
+  MusicId: 31036
+  LocationsId: 38
+  FreeId: 4
+  NextId: 31016381
   MovieIds: ""
 - Id: 31049371
   Label: 客電_第二音楽堂
@@ -103,12 +82,26 @@
   FreeId: 2
   NextId: 31016371
   MovieIds: ""
-- Id: 31098361
-  Label: Overture_徳光海岸
-  MusicId: 31098
-  LocationsId: 36
+- Id: 31049381
+  Label: 客電_学校前2512
+  MusicId: 31049
+  LocationsId: 38
   FreeId: 1
-  NextId: 31016361
+  NextId: 31049382
+  MovieIds: ""
+- Id: 31049382
+  Label: 客電から暗転_学校前2512
+  MusicId: 31049
+  LocationsId: 38
+  FreeId: 2
+  NextId: 31016381
+  MovieIds: ""
+- Id: 31098381
+  Label: Overture_学校前2512
+  MusicId: 31098
+  LocationsId: 38
+  FreeId: 1
+  NextId: 31016381
   MovieIds: ""
 - Id: 31242371
   Label: ダンスバトル_第二音楽堂
@@ -152,34 +145,6 @@
   FreeId: 1
   NextId: 31016371
   MovieIds: ""
-- Id: 50112361
-  Label: 可惜夜花火_徳光海岸
-  MusicId: 50112
-  LocationsId: 36
-  FreeId: 1
-  NextId: 31016361
-  MovieIds: ""
-- Id: 50122361
-  Label: ブルウモーメント_徳光海岸
-  MusicId: 50122
-  LocationsId: 36
-  FreeId: 1
-  NextId: 31016361
-  MovieIds: ""
-- Id: 50132361
-  Label: Very! Very! COCO夏っ_徳光海岸
-  MusicId: 50132
-  LocationsId: 36
-  FreeId: 1
-  NextId: 31016361
-  MovieIds: ""
-- Id: 50142361
-  Label: フュージョンクラスト_徳光海岸
-  MusicId: 50142
-  LocationsId: 36
-  FreeId: 1
-  NextId: 31016361
-  MovieIds: ""
 - Id: 50158371
   Label: はじまりの羽音_第二音楽堂
   MusicId: 50158
@@ -187,10 +152,38 @@
   FreeId: 1
   NextId: 31016371
   MovieIds: ""
-- Id: 2031058361
-  Label: 夏めきペイン_徳光海岸
-  MusicId: 2031058
-  LocationsId: 36
+- Id: 50162381
+  Label: 乙女詞華集_学校前2512
+  MusicId: 50162
+  LocationsId: 38
   FreeId: 1
-  NextId: 31016361
+  NextId: 31016381
+  MovieIds: ""
+- Id: 50172381
+  Label: ガランドFlash_学校前2512
+  MusicId: 50172
+  LocationsId: 38
+  FreeId: 1
+  NextId: 31016381
+  MovieIds: ""
+- Id: 50182381
+  Label: バイタルサイン_学校前2512
+  MusicId: 50182
+  LocationsId: 38
+  FreeId: 1
+  NextId: 31016381
+  MovieIds: ""
+- Id: 50192381
+  Label: シアター生き様_学校前2512
+  MusicId: 50192
+  LocationsId: 38
+  FreeId: 1
+  NextId: 31016381
+  MovieIds: ""
+- Id: 50208381
+  Label: 雪舞う空と二秒の永遠_学校前2512
+  MusicId: 50208
+  LocationsId: 38
+  FreeId: 1
+  NextId: 31016381
   MovieIds: ""

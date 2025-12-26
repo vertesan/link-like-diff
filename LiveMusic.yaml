@@ -439,6 +439,41 @@
   HaveMotion: 1
   CharactersCount: 8
   CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 50162
+  Label: 乙女詞華集
+  MusicId: 5016
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1031,1041
+- Id: 50172
+  Label: ガランドFlash
+  MusicId: 5017
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1032,1042
+- Id: 50182
+  Label: バイタルサイン
+  MusicId: 5018
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1033,1043
+- Id: 50192
+  Label: シアター生き様
+  MusicId: 5019
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 2
+  CharactersIds: 1051,1052
+- Id: 50208
+  Label: 雪舞う空と二秒の永遠
+  MusicId: 5020
+  HaveMusic: 1
+  HaveMotion: 1
+  CharactersCount: 8
+  CharactersIds: 1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 1031016
   Label: DreamBelievers(103期)
   MusicId: 103101
