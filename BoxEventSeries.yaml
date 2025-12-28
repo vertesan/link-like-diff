@@ -9,3 +9,14 @@
   IsRewardViewType: 1
   StartTime: 2025-11-27T19:00:00Z
   EndTime: 2025-12-06T18:59:59Z
+- Id: 1001
+  EventName: お年玉！
+  BoxDropOdds: 7000
+  BoxDropLimit: 0
+  BoxDropLimitResetType: 0
+  SpecialRewardCountTargetBoxDatasId: 1001400,1001401
+  AddBoxProgressCount: 100
+  AddBoxDatasId: 1001401
+  IsRewardViewType: 1
+  StartTime: 2025-12-31T19:00:00Z
+  EndTime: 2026-01-07T18:59:59Z

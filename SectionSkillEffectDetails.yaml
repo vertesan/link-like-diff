@@ -325,7 +325,7 @@
 - Id: 1040301201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1040301300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -1005,7 +1005,7 @@
 - Id: 1040801201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1040801300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -1205,7 +1205,7 @@
 - Id: 1040903201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1040903300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -1221,7 +1221,7 @@
 - Id: 1040903401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041001000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -1277,7 +1277,7 @@
 - Id: 1041002101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041002200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -1285,7 +1285,7 @@
 - Id: 1041002201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041002300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -1317,7 +1317,7 @@
 - Id: 1041003101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041003200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -1333,7 +1333,7 @@
 - Id: 1041003401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041101000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -1349,7 +1349,7 @@
 - Id: 1041101101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041101200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -1357,7 +1357,7 @@
 - Id: 1041101201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041101300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -1389,7 +1389,7 @@
 - Id: 1041102101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041102200
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -1549,7 +1549,7 @@
 - Id: 1041203101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041203200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -1565,7 +1565,7 @@
 - Id: 1041203301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 1041203400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -1677,7 +1677,7 @@
 - Id: 1041303101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041303200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -1693,7 +1693,7 @@
 - Id: 1041303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 1041303400
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -2158,6 +2158,166 @@
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
   TargetMood: 0
   EffectValue: -3
+- Id: 1041701000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041701001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 1041701100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041701101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 1041701200
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041701201
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 1041701202
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041701203
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -2
+- Id: 1041701300
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041701301
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 1041701302
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041701303
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -2
+- Id: 1041701400
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041701401
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -3
+- Id: 1041702000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041702001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 1041702100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041702101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 15000
+- Id: 1041702200
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041702201
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -3
+- Id: 1041702300
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 3
+- Id: 1041702301
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 7
+- Id: 1041702302
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041702303
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 5
+- Id: 1041702400
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 3
+- Id: 1041702401
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 5
+- Id: 1041702402
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041702403
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -5
+- Id: 1041703000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041703001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 1041703100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041703101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 100000
+- Id: 1041703200
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 1041703201
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 15000
+- Id: 1041703300
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041703301
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -2
+- Id: 1041703400
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041703401
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 1041703402
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 1041703403
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: 3
 - Id: 103010101000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -4405,7 +4565,7 @@
 - Id: 103010501201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103010501300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -4449,7 +4609,7 @@
 - Id: 103010502401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103010503000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -4545,7 +4705,7 @@
 - Id: 103010505101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103010505200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -4601,7 +4761,7 @@
 - Id: 103010506401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103010507000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -4761,7 +4921,7 @@
 - Id: 103010511101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103010511200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -4825,7 +4985,7 @@
 - Id: 103010512401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103010513000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -4857,7 +5017,7 @@
 - Id: 103010513301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103010513400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -4929,7 +5089,7 @@
 - Id: 103010515301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103010515400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -5045,7 +5205,7 @@
 - Id: 103020103401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020104000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -5101,7 +5261,7 @@
 - Id: 103020105101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020105200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -5141,7 +5301,7 @@
 - Id: 103020106201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020106300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -5185,7 +5345,7 @@
 - Id: 103020107301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020107400
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -5193,7 +5353,7 @@
 - Id: 103020107401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020108000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -5225,7 +5385,7 @@
 - Id: 103020108301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020108400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -5257,7 +5417,7 @@
 - Id: 103020109201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020109300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -5301,7 +5461,7 @@
 - Id: 103020110301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020110400
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -5309,7 +5469,7 @@
 - Id: 103020110401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020111000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -5405,7 +5565,7 @@
 - Id: 103020113301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020113400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -5429,7 +5589,7 @@
 - Id: 103020114101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020114200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -5481,7 +5641,7 @@
 - Id: 103020115301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020115400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -5689,7 +5849,7 @@
 - Id: 103020206101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020206200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -5745,7 +5905,7 @@
 - Id: 103020207301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020207400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -5785,7 +5945,7 @@
 - Id: 103020208301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020208400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -5821,7 +5981,7 @@
 - Id: 103020209301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020209400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -5841,7 +6001,7 @@
 - Id: 103020210101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020210200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -5921,7 +6081,7 @@
 - Id: 103020212201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020212300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -5929,7 +6089,7 @@
 - Id: 103020212301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020212400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -5957,7 +6117,7 @@
 - Id: 103020213201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020213300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6005,7 +6165,7 @@
 - Id: 103020214401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020215000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -6105,7 +6265,7 @@
 - Id: 103020302301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020302400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6173,7 +6333,7 @@
 - Id: 103020304301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020304400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6205,7 +6365,7 @@
 - Id: 103020305201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020305300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -6233,7 +6393,7 @@
 - Id: 103020306101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020306200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -6241,7 +6401,7 @@
 - Id: 103020306201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020306300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -6249,7 +6409,7 @@
 - Id: 103020306301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020306400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6293,7 +6453,7 @@
 - Id: 103020307401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020308000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -6425,7 +6585,7 @@
 - Id: 103020311201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020311300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6461,7 +6621,7 @@
 - Id: 103020312201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020312300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -6513,7 +6673,7 @@
 - Id: 103020313401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020314000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -6573,7 +6733,7 @@
 - Id: 103020315201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020315300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -6581,7 +6741,7 @@
 - Id: 103020315301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020315400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -6645,7 +6805,7 @@
 - Id: 103020402101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020402200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6661,7 +6821,7 @@
 - Id: 103020402301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020402400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -6765,7 +6925,7 @@
 - Id: 103020405201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020405300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6781,7 +6941,7 @@
 - Id: 103020405401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -6845,7 +7005,7 @@
 - Id: 103020407401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020408000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -6861,7 +7021,7 @@
 - Id: 103020408101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020408200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -6949,7 +7109,7 @@
 - Id: 103020410301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020410400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -6997,7 +7157,7 @@
 - Id: 103020411401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020412000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -7049,7 +7209,7 @@
 - Id: 103020413101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020413200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -7065,7 +7225,7 @@
 - Id: 103020413301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020413400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -7153,7 +7313,7 @@
 - Id: 103020501101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020501200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -7285,7 +7445,7 @@
 - Id: 103020505101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020505200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -7301,7 +7461,7 @@
 - Id: 103020505301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103020505400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -7341,7 +7501,7 @@
 - Id: 103020506301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020506400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -7401,7 +7561,7 @@
 - Id: 103020508101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020508200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -7425,7 +7585,7 @@
 - Id: 103020508401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103020509000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -7457,7 +7617,7 @@
 - Id: 103020509301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020509400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -7521,7 +7681,7 @@
 - Id: 103020511401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020512000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -7573,7 +7733,7 @@
 - Id: 103020513101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020513200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -7609,7 +7769,7 @@
 - Id: 103020514101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103020514200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -7813,7 +7973,7 @@
 - Id: 103030104301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030104400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -7869,7 +8029,7 @@
 - Id: 103030106101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030106200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -7885,7 +8045,7 @@
 - Id: 103030106301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030106400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -8217,7 +8377,7 @@
 - Id: 103030201101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103030201200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -8301,7 +8461,7 @@
 - Id: 103030203301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030203400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -8309,7 +8469,7 @@
 - Id: 103030203401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030204000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -8357,7 +8517,7 @@
 - Id: 103030205101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030205200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -8397,7 +8557,7 @@
 - Id: 103030206101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030206200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -8717,7 +8877,7 @@
 - Id: 103030215201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030215300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -8785,7 +8945,7 @@
 - Id: 103030302101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030302200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -8793,7 +8953,7 @@
 - Id: 103030302201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030302300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -8825,7 +8985,7 @@
 - Id: 103030303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030303300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -8861,7 +9021,7 @@
 - Id: 103030304201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030304300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -8889,7 +9049,7 @@
 - Id: 103030305101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030305200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -8897,7 +9057,7 @@
 - Id: 103030305201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030305300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -8909,7 +9069,7 @@
 - Id: 103030305401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030306000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -8977,7 +9137,7 @@
 - Id: 103030307301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030307400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -8985,7 +9145,7 @@
 - Id: 103030307401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030308000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -9081,7 +9241,7 @@
 - Id: 103030310201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030310300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9113,7 +9273,7 @@
 - Id: 103030311201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030311300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9121,7 +9281,7 @@
 - Id: 103030311301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103030311400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9249,7 +9409,7 @@
 - Id: 103030315101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030315200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -9373,7 +9533,7 @@
 - Id: 103030403201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103030403300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9449,7 +9609,7 @@
 - Id: 103030405301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030405400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9457,7 +9617,7 @@
 - Id: 103030405401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -9497,7 +9657,7 @@
 - Id: 103030406401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030407000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -9513,7 +9673,7 @@
 - Id: 103030407101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030407200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9561,7 +9721,7 @@
 - Id: 103030408301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030408400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -9585,7 +9745,7 @@
 - Id: 103030409101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030409200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -9657,7 +9817,7 @@
 - Id: 103030411101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030411200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9665,7 +9825,7 @@
 - Id: 103030411201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030411300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -9729,7 +9889,7 @@
 - Id: 103030413101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030413200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9737,7 +9897,7 @@
 - Id: 103030413201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030413300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -9745,7 +9905,7 @@
 - Id: 103030413301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030413400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9809,7 +9969,7 @@
 - Id: 103030415201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030415300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9933,7 +10093,7 @@
 - Id: 103030503401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030504000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -9953,7 +10113,7 @@
 - Id: 103030504201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030504300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -9965,7 +10125,7 @@
 - Id: 103030504401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030505000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -10061,7 +10221,7 @@
 - Id: 103030507201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103030507300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -10193,7 +10353,7 @@
 - Id: 103030511101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103030511200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -10485,7 +10645,7 @@
 - Id: 103040104101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040104200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -10497,7 +10657,7 @@
 - Id: 103040104301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040104400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -10577,7 +10737,7 @@
 - Id: 103040106401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040107000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -10653,7 +10813,7 @@
 - Id: 103040108401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040109000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -10713,7 +10873,7 @@
 - Id: 103040110201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040110300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -10753,7 +10913,7 @@
 - Id: 103040111301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040111400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -10921,7 +11081,7 @@
 - Id: 103040201101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040201200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -10937,7 +11097,7 @@
 - Id: 103040201301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040201400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -11373,7 +11533,7 @@
 - Id: 103040213201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040213300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -11381,7 +11541,7 @@
 - Id: 103040213301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040213400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -11477,7 +11637,7 @@
 - Id: 103040301101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040301200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -11609,7 +11769,7 @@
 - Id: 103040304401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040305000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -11625,7 +11785,7 @@
 - Id: 103040305101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103040305200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -11645,7 +11805,7 @@
 - Id: 103040305401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040306000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -11701,7 +11861,7 @@
 - Id: 103040307101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040307200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -11733,7 +11893,7 @@
 - Id: 103040308101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040308200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -11929,7 +12089,7 @@
 - Id: 103040313201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040313300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -11997,7 +12157,7 @@
 - Id: 103040315101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040315200
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -12013,7 +12173,7 @@
 - Id: 103040315301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103040315400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -12081,7 +12241,7 @@
 - Id: 103040402201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040402300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -12189,7 +12349,7 @@
 - Id: 103040405101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103040405200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -12205,7 +12365,7 @@
 - Id: 103040405301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040405400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -12241,7 +12401,7 @@
 - Id: 103040406301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040406400
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -12249,7 +12409,7 @@
 - Id: 103040406401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040407000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -12577,7 +12737,7 @@
 - Id: 103040415201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040415300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -12593,7 +12753,7 @@
 - Id: 103040415401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -12613,7 +12773,7 @@
 - Id: 103040501201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040501300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -12653,7 +12813,7 @@
 - Id: 103040502301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 103040502400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -12757,7 +12917,7 @@
 - Id: 103040505201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040505300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -12773,7 +12933,7 @@
 - Id: 103040505401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 103040506000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -12873,7 +13033,7 @@
 - Id: 103040508301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 103040508400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -13197,7 +13357,7 @@
 - Id: 104010102201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010102300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -13269,7 +13429,7 @@
 - Id: 104010104201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010104300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -13369,7 +13529,7 @@
 - Id: 104010107101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010107200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -13525,7 +13685,7 @@
 - Id: 104010111201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010111300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -13589,7 +13749,7 @@
 - Id: 104010113101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010113200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -13605,7 +13765,7 @@
 - Id: 104010113301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010113400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -13893,7 +14053,7 @@
 - Id: 104010206301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010206400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -13921,7 +14081,7 @@
 - Id: 104010207201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010207300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -14021,7 +14181,7 @@
 - Id: 104010210101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010210200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -14065,7 +14225,7 @@
 - Id: 104010211201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010211300
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -14097,7 +14257,7 @@
 - Id: 104010212201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010212300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -14169,7 +14329,7 @@
 - Id: 104010214101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010214200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -14261,7 +14421,7 @@
 - Id: 104010301301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010301400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -14433,7 +14593,7 @@
 - Id: 104010306101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010306200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -14525,7 +14685,7 @@
 - Id: 104010308301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010308400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -14581,7 +14741,7 @@
 - Id: 104010310201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010310300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -14721,7 +14881,7 @@
 - Id: 104010314201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010314300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -14749,7 +14909,7 @@
 - Id: 104010315101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010315200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -14769,7 +14929,7 @@
 - Id: 104010315401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010401000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -14865,7 +15025,7 @@
 - Id: 104010403201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010403300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -14949,7 +15109,7 @@
 - Id: 104010405301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010405400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -14977,7 +15137,7 @@
 - Id: 104010406201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010406300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -14985,7 +15145,7 @@
 - Id: 104010406301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010406400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -15049,7 +15209,7 @@
 - Id: 104010408101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010408200
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -15065,7 +15225,7 @@
 - Id: 104010408301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010408400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -15101,7 +15261,7 @@
 - Id: 104010409301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010409400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15129,7 +15289,7 @@
 - Id: 104010410201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010410300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -15145,7 +15305,7 @@
 - Id: 104010410401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010411000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -15169,7 +15329,7 @@
 - Id: 104010411201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010411300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15313,7 +15473,7 @@
 - Id: 104010415101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010415200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15401,7 +15561,7 @@
 - Id: 104010502401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010503000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -15457,7 +15617,7 @@
 - Id: 104010504201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010504300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15533,7 +15693,7 @@
 - Id: 104010506201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010506300
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -15573,7 +15733,7 @@
 - Id: 104010507301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104010507400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -15613,7 +15773,7 @@
 - Id: 104010508301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010508400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15645,7 +15805,7 @@
 - Id: 104010509301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010509400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15665,7 +15825,7 @@
 - Id: 104010510101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104010510200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -15717,7 +15877,7 @@
 - Id: 104010511301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010511400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -15785,7 +15945,7 @@
 - Id: 104010513201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 104010513300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -16125,7 +16285,7 @@
 - Id: 104020107401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020108000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -16233,7 +16393,7 @@
 - Id: 104020110301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020110400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -16281,7 +16441,7 @@
 - Id: 104020111401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020112000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -16349,7 +16509,7 @@
 - Id: 104020113301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020113400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -16649,7 +16809,7 @@
 - Id: 104020206401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020207000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -16857,7 +17017,7 @@
 - Id: 104020212101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020212200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -17025,7 +17185,7 @@
 - Id: 104020301401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020302000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -17089,7 +17249,7 @@
 - Id: 104020303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020303300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -17193,7 +17353,7 @@
 - Id: 104020306101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020306200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -17313,7 +17473,7 @@
 - Id: 104020309201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020309300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -17825,7 +17985,7 @@
 - Id: 104020408201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020408300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -17901,7 +18061,7 @@
 - Id: 104020410301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020410400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -17997,7 +18157,7 @@
 - Id: 104020413101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020413200
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -18049,7 +18209,7 @@
 - Id: 104020414301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020414400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -18341,7 +18501,7 @@
 - Id: 104020507301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104020507400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -18601,7 +18761,7 @@
 - Id: 104020514401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020515000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -18625,7 +18785,7 @@
 - Id: 104020515201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104020515300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -18705,7 +18865,7 @@
 - Id: 104030102301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030102400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -18897,7 +19057,7 @@
 - Id: 104030107401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030108000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -19045,7 +19205,7 @@
 - Id: 104030111301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030111400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -19089,7 +19249,7 @@
 - Id: 104030112401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030113000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -19273,7 +19433,7 @@
 - Id: 104030202401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030203000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -19557,7 +19717,7 @@
 - Id: 104030210101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030210200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -19801,7 +19961,7 @@
 - Id: 104030301401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030302000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -20009,7 +20169,7 @@
 - Id: 104030307101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030307200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -20053,7 +20213,7 @@
 - Id: 104030308201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030308300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -20089,7 +20249,7 @@
 - Id: 104030309201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030309300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -20269,7 +20429,7 @@
 - Id: 104030314201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030314300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -20513,7 +20673,7 @@
 - Id: 104030406101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030406200
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -20705,7 +20865,7 @@
 - Id: 104030411301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030411400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -20745,7 +20905,7 @@
 - Id: 104030412301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030412400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -21005,7 +21165,7 @@
 - Id: 104030504301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104030504400
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -21193,7 +21353,7 @@
 - Id: 104030509401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030510000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -21397,7 +21557,7 @@
 - Id: 104030515201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104030515300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -21469,7 +21629,7 @@
 - Id: 104040102101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104040102200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -21489,7 +21649,7 @@
 - Id: 104040102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040103000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -21665,7 +21825,7 @@
 - Id: 104040107301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040107400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -21725,7 +21885,7 @@
 - Id: 104040109101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104040109200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -22017,7 +22177,7 @@
 - Id: 104040202201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040202300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -22229,7 +22389,7 @@
 - Id: 104040208101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104040208200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -22405,7 +22565,7 @@
 - Id: 104040213101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104040213200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -22477,7 +22637,7 @@
 - Id: 104040215101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040215200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -22513,7 +22673,7 @@
 - Id: 104040301101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040301200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -22649,7 +22809,7 @@
 - Id: 104040304401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040305000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -22917,7 +23077,7 @@
 - Id: 104040312101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 104040312200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -22961,7 +23121,7 @@
 - Id: 104040313201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040313300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -23221,7 +23381,7 @@
 - Id: 104040405401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -24057,7 +24217,7 @@
 - Id: 104040513401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040514000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -24125,7 +24285,7 @@
 - Id: 104040515301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 104040515400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -24233,7 +24393,7 @@
 - Id: 105010103301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010103400
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -24401,7 +24561,7 @@
 - Id: 105010108101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105010108200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -24425,7 +24585,7 @@
 - Id: 105010108401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010109000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -24617,7 +24777,7 @@
 - Id: 105010114101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105010114200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -25053,7 +25213,7 @@
 - Id: 105010211101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010211200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -25241,7 +25401,7 @@
 - Id: 105010301101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010301200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -25261,7 +25421,7 @@
 - Id: 105010301401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010302000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -25529,7 +25689,7 @@
 - Id: 105010309101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105010309200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -25865,7 +26025,7 @@
 - Id: 105010403201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010403300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -25957,7 +26117,7 @@
 - Id: 105010405401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -26093,7 +26253,7 @@
 - Id: 105010409201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010409300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -26133,7 +26293,7 @@
 - Id: 105010410301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010410400
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -26553,7 +26713,7 @@
 - Id: 105010507101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105010507200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -26781,7 +26941,7 @@
 - Id: 105010513401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105010514000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -26837,7 +26997,7 @@
 - Id: 105010515201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105010515300
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -27085,7 +27245,7 @@
 - Id: 105020107101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020107200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -27157,7 +27317,7 @@
 - Id: 105020109101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105020109200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -27437,7 +27597,7 @@
 - Id: 105020201401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -27617,7 +27777,7 @@
 - Id: 105020206401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020207000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -27725,7 +27885,7 @@
 - Id: 105020209401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020210000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -27849,7 +28009,7 @@
 - Id: 105020213101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105020213200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -28041,7 +28201,7 @@
 - Id: 105020303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020303300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -28049,7 +28209,7 @@
 - Id: 105020303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020303400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -28273,7 +28433,7 @@
 - Id: 105020309401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020310000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -28833,7 +28993,7 @@
 - Id: 105020410301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020410400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -28857,7 +29017,7 @@
 - Id: 105020411101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020411200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -28997,7 +29157,7 @@
 - Id: 105020415101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105020415200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -29141,7 +29301,7 @@
 - Id: 105020504101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105020504200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -29297,7 +29457,7 @@
 - Id: 105020508201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105020508300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -29557,7 +29717,7 @@
 - Id: 105020515201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105020515300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -29645,7 +29805,7 @@
 - Id: 105030102301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030102400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -29653,7 +29813,7 @@
 - Id: 105030102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030103000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -29733,7 +29893,7 @@
 - Id: 105030104401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030105000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -29909,7 +30069,7 @@
 - Id: 105030109101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030109200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -29953,7 +30113,7 @@
 - Id: 105030110201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030110300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -30041,7 +30201,7 @@
 - Id: 105030112301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030112400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -30049,7 +30209,7 @@
 - Id: 105030112401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030113000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -30129,7 +30289,7 @@
 - Id: 105030114401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030115000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -30169,7 +30329,7 @@
 - Id: 105030115401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -30197,7 +30357,7 @@
 - Id: 105030201301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030201400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -30237,7 +30397,7 @@
 - Id: 105030202301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030202400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -30297,7 +30457,7 @@
 - Id: 105030204101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030204200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -30477,7 +30637,7 @@
 - Id: 105030208401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030209000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -30497,7 +30657,7 @@
 - Id: 105030209201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030209300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -30581,7 +30741,7 @@
 - Id: 105030211301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030211400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -30621,7 +30781,7 @@
 - Id: 105030212301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030212400
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -30681,7 +30841,7 @@
 - Id: 105030214101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030214200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -30833,7 +30993,7 @@
 - Id: 105030303101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030303200
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -30849,7 +31009,7 @@
 - Id: 105030303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030303400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -30881,7 +31041,7 @@
 - Id: 105030304201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030304300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -31217,7 +31377,7 @@
 - Id: 105030313101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030313200
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -31233,7 +31393,7 @@
 - Id: 105030313301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030313400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -31265,7 +31425,7 @@
 - Id: 105030314201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030314300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -31469,7 +31629,7 @@
 - Id: 105030404301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030404400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -31573,7 +31733,7 @@
 - Id: 105030407201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030407300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -31645,7 +31805,7 @@
 - Id: 105030409101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030409200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -31697,7 +31857,7 @@
 - Id: 105030410301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030410400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -31853,7 +32013,7 @@
 - Id: 105030414301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030414400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -31921,7 +32081,7 @@
 - Id: 105030501201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030501300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -31953,7 +32113,7 @@
 - Id: 105030502101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030502200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -32065,7 +32225,7 @@
 - Id: 105030505101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030505200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -32121,7 +32281,7 @@
 - Id: 105030506301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030506400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -32185,7 +32345,7 @@
 - Id: 105030508101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030508200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -32269,7 +32429,7 @@
 - Id: 105030510201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105030510300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -32433,7 +32593,7 @@
 - Id: 105030514301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105030514400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -32733,7 +32893,7 @@
 - Id: 105040107101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040107200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -32813,7 +32973,7 @@
 - Id: 105040109101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105040109200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -33117,7 +33277,7 @@
 - Id: 105040201401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -33173,7 +33333,7 @@
 - Id: 105040203101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040203200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -33213,7 +33373,7 @@
 - Id: 105040204101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040204200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -33317,7 +33477,7 @@
 - Id: 105040206401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040207000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -33437,7 +33597,7 @@
 - Id: 105040209401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040210000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -33573,7 +33733,7 @@
 - Id: 105040213101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105040213200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -33781,7 +33941,7 @@
 - Id: 105040303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040303300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -33789,7 +33949,7 @@
 - Id: 105040303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040303400
   SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
   TargetMood: 0
@@ -34037,7 +34197,7 @@
 - Id: 105040309401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040310000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -34493,7 +34653,7 @@
 - Id: 105040406101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040406200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34541,7 +34701,7 @@
 - Id: 105040407201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040407300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34613,7 +34773,7 @@
 - Id: 105040409101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040409200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34669,7 +34829,7 @@
 - Id: 105040410301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040410400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34693,7 +34853,7 @@
 - Id: 105040411101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040411200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34773,7 +34933,7 @@
 - Id: 105040413101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040413200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -34853,7 +35013,7 @@
 - Id: 105040415101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105040415200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -34917,7 +35077,7 @@
 - Id: 105040501401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040502000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -35013,7 +35173,7 @@
 - Id: 105040504101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105040504200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -35173,7 +35333,7 @@
 - Id: 105040508101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040508200
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -35181,7 +35341,7 @@
 - Id: 105040508201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 105040508300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -35333,7 +35493,7 @@
 - Id: 105040512101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040512200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -35413,7 +35573,7 @@
 - Id: 105040514101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040514200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -35461,7 +35621,7 @@
 - Id: 105040515201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 105040515300
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -99774,6 +99934,326 @@
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
   TargetMood: 0
   EffectValue: 11000
+- Id: 404051291000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051291001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051291100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051291101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051291200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051291201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051291300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051291301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051291400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051291401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051292000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051292001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051292100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051292101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051292200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051292201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051292300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051292301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051292400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051292401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051293000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051293001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051293100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051293101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051293200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051293201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051293300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051293301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051293400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051293401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051294000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051294001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051294100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051294101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051294200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051294201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051294300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051294301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051294400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051294401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051295000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051295001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051295100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051295101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051295200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051295201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051295300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051295301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051295400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051295401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051296000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051296001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051296100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051296101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051296200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051296201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051296300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051296301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051296400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051296401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051297000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051297001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051297100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051297101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051297200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051297201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051297300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051297301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051297400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051297401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
+- Id: 404051298000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051298001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 404051298100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051298101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 10000
+- Id: 404051298200
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 404051298201
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 450000
+- Id: 404051298300
+  SkillEffectDetailType: CARD_SEARCH_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051298301
+  SkillEffectDetailType: CARD_SEARCH_ID
+  TargetMood: 0
+  EffectValue: 1031
+- Id: 404051298400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 404051298401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11000
 - Id: 404052011000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -102029,7 +102509,7 @@
 - Id: 531031101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531031101200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -102237,7 +102717,7 @@
 - Id: 531031301101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531031301200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -102325,7 +102805,7 @@
 - Id: 531031303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531031303400
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -102349,7 +102829,7 @@
 - Id: 531031304101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531031304200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -102429,7 +102909,7 @@
 - Id: 531031401201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531031401300
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -102469,7 +102949,7 @@
 - Id: 531031402201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531031402300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -102529,7 +103009,7 @@
 - Id: 531031403401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531031404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -102601,7 +103081,7 @@
 - Id: 531031405401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531031406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -102633,7 +103113,7 @@
 - Id: 531031406301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531031406400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -103725,7 +104205,7 @@
 - Id: 531033102301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033102400
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -103769,7 +104249,7 @@
 - Id: 531033201401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531033202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -103825,7 +104305,7 @@
 - Id: 531033203101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033203200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -103841,7 +104321,7 @@
 - Id: 531033203301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531033203400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -103933,7 +104413,7 @@
 - Id: 531033303101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033303200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -103969,7 +104449,7 @@
 - Id: 531033401101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033401200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -103989,7 +104469,7 @@
 - Id: 531033401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531033402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -104233,7 +104713,7 @@
 - Id: 531033502301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033502400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -104257,7 +104737,7 @@
 - Id: 531033503101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531033503200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -104325,7 +104805,7 @@
 - Id: 531033504401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531034101000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -104381,7 +104861,7 @@
 - Id: 531034102101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531034102200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -104541,7 +105021,7 @@
 - Id: 531034301301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531034301400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -104565,7 +105045,7 @@
 - Id: 531034302101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531034302200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -104577,7 +105057,7 @@
 - Id: 531034302301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531034302400
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -104665,7 +105145,7 @@
 - Id: 531034401401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531034402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -104737,7 +105217,7 @@
 - Id: 531034403401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531034404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -104761,7 +105241,7 @@
 - Id: 531034404201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531034404300
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -104869,7 +105349,7 @@
 - Id: 531034501401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531034502000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -104893,7 +105373,7 @@
 - Id: 531034502201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531034502300
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -104933,7 +105413,7 @@
 - Id: 531034503201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531034503300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -104997,7 +105477,7 @@
 - Id: 531041101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531041101200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -105057,7 +105537,7 @@
 - Id: 531041102401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531041201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -105185,7 +105665,7 @@
 - Id: 531041204101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531041204200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -105241,7 +105721,7 @@
 - Id: 531041301201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531041301300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -105273,7 +105753,7 @@
 - Id: 531041302101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531041302200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -105289,7 +105769,7 @@
 - Id: 531041302301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531041302400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -105593,7 +106073,7 @@
 - Id: 531041401201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531041401300
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -105633,7 +106113,7 @@
 - Id: 531041402201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531041402300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -105693,7 +106173,7 @@
 - Id: 531041403401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531041404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -105765,7 +106245,7 @@
 - Id: 531041405401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531041406000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -105797,7 +106277,7 @@
 - Id: 531041406301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531041406400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -105825,7 +106305,7 @@
 - Id: 531041501201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531041501300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -105941,7 +106421,7 @@
 - Id: 531042101201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531042101300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -105993,7 +106473,7 @@
 - Id: 531042102401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531042201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106053,7 +106533,7 @@
 - Id: 531042202201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531042202300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -106061,7 +106541,7 @@
 - Id: 531042202301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042202400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -106129,7 +106609,7 @@
 - Id: 531042301201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042301300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -106229,7 +106709,7 @@
 - Id: 531042303401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531042401000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106305,7 +106785,7 @@
 - Id: 531042402401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042403000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106329,7 +106809,7 @@
 - Id: 531042403201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042403300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -106417,7 +106897,7 @@
 - Id: 531042405401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106433,7 +106913,7 @@
 - Id: 531042501101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042501200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -106557,7 +107037,7 @@
 - Id: 531042504201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531042504300
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -106661,7 +107141,7 @@
 - Id: 531043102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106677,7 +107157,7 @@
 - Id: 531043201101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043201200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -106693,7 +107173,7 @@
 - Id: 531043201301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043201400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -106701,7 +107181,7 @@
 - Id: 531043201401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106721,7 +107201,7 @@
 - Id: 531043202201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531043202300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -106753,7 +107233,7 @@
 - Id: 531043203201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043203300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -106789,7 +107269,7 @@
 - Id: 531043301201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043301300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -106825,7 +107305,7 @@
 - Id: 531043302201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043302300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -106841,7 +107321,7 @@
 - Id: 531043302401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043303000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106873,7 +107353,7 @@
 - Id: 531043303301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043303400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -106893,7 +107373,7 @@
 - Id: 531043401101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043401200
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -106917,7 +107397,7 @@
 - Id: 531043401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106949,7 +107429,7 @@
 - Id: 531043402401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043403000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -106973,7 +107453,7 @@
 - Id: 531043403201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043403300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -106985,7 +107465,7 @@
 - Id: 531043403401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107001,7 +107481,7 @@
 - Id: 531043404101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043404200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -107037,7 +107517,7 @@
 - Id: 531043405101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043405200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -107097,7 +107577,7 @@
 - Id: 531043501401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043502000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107121,7 +107601,7 @@
 - Id: 531043502201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043502300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107153,7 +107633,7 @@
 - Id: 531043503101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043503200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107193,7 +107673,7 @@
 - Id: 531043504101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531043504200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107209,7 +107689,7 @@
 - Id: 531043504301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531043504400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107305,7 +107785,7 @@
 - Id: 531044201201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531044201300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -107333,7 +107813,7 @@
 - Id: 531044202101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044202200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -107349,7 +107829,7 @@
 - Id: 531044202301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044202400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107357,7 +107837,7 @@
 - Id: 531044202401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044203000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107373,7 +107853,7 @@
 - Id: 531044203101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044203200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107381,7 +107861,7 @@
 - Id: 531044203201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044203300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107417,7 +107897,7 @@
 - Id: 531044301201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044301300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107433,7 +107913,7 @@
 - Id: 531044301401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044302000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107473,7 +107953,7 @@
 - Id: 531044302401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044303000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107493,7 +107973,7 @@
 - Id: 531044303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044303300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -107533,7 +108013,7 @@
 - Id: 531044401201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044401300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -107545,7 +108025,7 @@
 - Id: 531044401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107561,7 +108041,7 @@
 - Id: 531044402101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044402200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -107637,7 +108117,7 @@
 - Id: 531044404101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044404200
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -107661,7 +108141,7 @@
 - Id: 531044404401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044405000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107677,7 +108157,7 @@
 - Id: 531044405101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044405200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -107713,7 +108193,7 @@
 - Id: 531044501101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044501200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -107777,7 +108257,7 @@
 - Id: 531044502401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044503000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107793,7 +108273,7 @@
 - Id: 531044503101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531044503200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107809,7 +108289,7 @@
 - Id: 531044503301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044503400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107833,7 +108313,7 @@
 - Id: 531044504101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531044504200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107873,7 +108353,7 @@
 - Id: 531051101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531051101200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107909,7 +108389,7 @@
 - Id: 531051102101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051102200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107925,7 +108405,7 @@
 - Id: 531051102301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531051102400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -107933,7 +108413,7 @@
 - Id: 531051102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -107949,7 +108429,7 @@
 - Id: 531051201101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051201200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -107973,7 +108453,7 @@
 - Id: 531051201401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531051202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108121,7 +108601,7 @@
 - Id: 531051302301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051302400
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -108221,7 +108701,7 @@
 - Id: 531051401401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531051402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108321,7 +108801,7 @@
 - Id: 531051404201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051404300
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -108373,7 +108853,7 @@
 - Id: 531051405401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531051501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108389,7 +108869,7 @@
 - Id: 531051501101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531051501200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -108409,7 +108889,7 @@
 - Id: 531051501401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531051502000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108585,7 +109065,7 @@
 - Id: 531052102101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531052102200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -108625,7 +109105,7 @@
 - Id: 531052201201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531052201300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -108657,7 +109137,7 @@
 - Id: 531052202101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052202200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -108665,7 +109145,7 @@
 - Id: 531052202201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052202300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -108701,7 +109181,7 @@
 - Id: 531052203201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531052203300
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -108745,7 +109225,7 @@
 - Id: 531052301301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531052301400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -108769,7 +109249,7 @@
 - Id: 531052302201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052302300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -108825,7 +109305,7 @@
 - Id: 531052303401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052401000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108865,7 +109345,7 @@
 - Id: 531052401401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052402000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108937,7 +109417,7 @@
 - Id: 531052403401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -108953,7 +109433,7 @@
 - Id: 531052404101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052404200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -108961,7 +109441,7 @@
 - Id: 531052404201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531052404300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109041,7 +109521,7 @@
 - Id: 531052501101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531052501200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109185,7 +109665,7 @@
 - Id: 531052504301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531052504400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109209,7 +109689,7 @@
 - Id: 531053101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053101200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -109285,7 +109765,7 @@
 - Id: 531053201101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053201200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -109301,7 +109781,7 @@
 - Id: 531053201301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053201400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -109309,7 +109789,7 @@
 - Id: 531053201401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531053202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -109341,7 +109821,7 @@
 - Id: 531053202201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531053202300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109381,7 +109861,7 @@
 - Id: 531053203201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 531053203300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -109477,7 +109957,7 @@
 - Id: 531053302301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053302400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -109573,7 +110053,7 @@
 - Id: 531053402101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531053402200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109637,7 +110117,7 @@
 - Id: 531053403401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531053404000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -109725,7 +110205,7 @@
 - Id: 531053405401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 531053501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -109805,7 +110285,7 @@
 - Id: 531053502301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053502400
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109861,7 +110341,7 @@
 - Id: 531053503401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053504000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -109877,7 +110357,7 @@
 - Id: 531053504101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 531053504200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -109898,6 +110378,342 @@
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
   TargetMood: 0
   EffectValue: 15000
+- Id: 531054101000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054101001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054101100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054101101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 70000
+- Id: 531054101200
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054101201
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054101300
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054101301
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 531054101400
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054101401
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 15000
+- Id: 531054102000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054102001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054102100
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054102101
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054102200
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054102201
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 531054102300
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054102301
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054102400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054102401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11500
+- Id: 531054201000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054201001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054201100
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054201101
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054201200
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054201201
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 13500
+- Id: 531054201300
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054201301
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054201400
+  SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054201401
+  SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054202000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054202001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054202100
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054202101
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054202102
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054202103
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -2
+- Id: 531054202200
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054202201
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054202300
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054202301
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054202400
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054202401
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054203000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054203001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054203100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054203101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054203200
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054203201
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054203300
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054203301
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054203400
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054203401
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 531054301000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054301001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054301100
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054301101
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054301102
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054301103
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -1
+- Id: 531054301200
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054301201
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054301300
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054301301
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054301400
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054301401
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 531054302000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054302001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054302100
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054302101
+  SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 531054302200
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 531054302201
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -1
+- Id: 531054302300
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054302301
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 9000
+- Id: 531054302400
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054302401
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054303000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054303001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 531054303100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054303101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054303200
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054303201
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 7500
+- Id: 531054303300
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054303301
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 531054303400
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 531054303401
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11500
 - Id: 571031101000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -110025,7 +110841,7 @@
 - Id: 571031301301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571031301400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110081,7 +110897,7 @@
 - Id: 571031401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571031501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -110465,7 +111281,7 @@
 - Id: 571033101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571033101200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -110473,7 +111289,7 @@
 - Id: 571033101201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571033101300
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110489,7 +111305,7 @@
 - Id: 571033101401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571033201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -110541,7 +111357,7 @@
 - Id: 571033301101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571033301200
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110581,7 +111397,7 @@
 - Id: 571033401101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571033401200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -110601,7 +111417,7 @@
 - Id: 571033401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571033501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -110729,7 +111545,7 @@
 - Id: 571034101401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571034201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -110789,7 +111605,7 @@
 - Id: 571034301201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 571034301300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110829,7 +111645,7 @@
 - Id: 571034401201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 571034401300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110857,7 +111673,7 @@
 - Id: 571034501101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571034501200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -110881,7 +111697,7 @@
 - Id: 571034501401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571034601000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -111241,7 +112057,7 @@
 - Id: 571041401401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571041501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -111617,7 +112433,7 @@
 - Id: 571043201101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571043201200
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -111625,7 +112441,7 @@
 - Id: 571043201201
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571043201300
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -111681,7 +112497,7 @@
 - Id: 571043301401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571043401000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -111737,7 +112553,7 @@
 - Id: 571043501101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571043501200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -111849,7 +112665,7 @@
 - Id: 571044101401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571044201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -111869,7 +112685,7 @@
 - Id: 571044201201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571044201300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -111917,7 +112733,7 @@
 - Id: 571044301301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571044301400
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -111953,7 +112769,7 @@
 - Id: 571044401401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571044501000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -111977,7 +112793,7 @@
 - Id: 571044501201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571044501300
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -112157,7 +112973,7 @@
 - Id: 571051301101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571051301200
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -112333,7 +113149,7 @@
 - Id: 571052101401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -112349,7 +113165,7 @@
 - Id: 571052201101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052201200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -112365,7 +113181,7 @@
 - Id: 571052201301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052201400
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -112373,7 +113189,7 @@
 - Id: 571052201401
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571052301000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -112393,7 +113209,7 @@
 - Id: 571052301201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052301300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -112409,7 +113225,7 @@
 - Id: 571052301401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052401000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -112493,7 +113309,7 @@
 - Id: 571052501401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571052601000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -112581,7 +113397,7 @@
 - Id: 571053101401
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571053201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -112597,7 +113413,7 @@
 - Id: 571053201101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571053201200
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -112605,7 +113421,7 @@
 - Id: 571053201201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571053201300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -112653,7 +113469,7 @@
 - Id: 571053301201
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 571053301300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -112709,7 +113525,7 @@
 - Id: 571053401301
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 571053401400
   SkillEffectDetailType: CHANGE_ADD_HEART_COUNT_CALC_TYPE
   TargetMood: 0
@@ -112814,6 +113630,134 @@
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
   TargetMood: 0
   EffectValue: -3
+- Id: 571054101000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054101001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 571054101100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 571054101101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 100000
+- Id: 571054101200
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054101201
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 571054101300
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 571054101301
+  SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_VALUE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 571054101302
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 571054101303
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  TargetMood: 0
+  EffectValue: -2
+- Id: 571054101400
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054101401
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 571054201000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054201001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 571054201100
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054201101
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 5000
+- Id: 571054201200
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054201201
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 571054201300
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 571054201301
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 571054201400
+  SkillEffectDetailType: CHANGE_BEAT_POINT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 571054201401
+  SkillEffectDetailType: CHANGE_BEAT_POINT_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 571054301000
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054301001
+  SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_NUM
+  TargetMood: 0
+  EffectValue: 20000
+- Id: 571054301100
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 571054301101
+  SkillEffectDetailType: CHANGE_SKILL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 100000
+- Id: 571054301200
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054301201
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  TargetMood: 0
+  EffectValue: 11500
+- Id: 571054301300
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 571054301301
+  SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 12500
+- Id: 571054301400
+  SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
+  TargetMood: 0
+  EffectValue: 0
+- Id: 571054301401
+  SkillEffectDetailType: RESHUFFLE_STASH_TYPE
+  TargetMood: 0
+  EffectValue: 0
 - Id: 610218010000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -118157,7 +119101,7 @@
 - Id: 703103101101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103101200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -118193,7 +119137,7 @@
 - Id: 703103102101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103102200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -118229,7 +119173,7 @@
 - Id: 703103103101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103103200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -118265,7 +119209,7 @@
 - Id: 703103104101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103104200
   SkillEffectDetailType: CARD_SEARCH_TYPE
   TargetMood: 0
@@ -118429,7 +119373,7 @@
 - Id: 703103301101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103301200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -118465,7 +119409,7 @@
 - Id: 703103302101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103302200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -118501,7 +119445,7 @@
 - Id: 703103303101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103303200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -118537,7 +119481,7 @@
 - Id: 703103304101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703103304200
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   TargetMood: 0
@@ -120941,7 +121885,7 @@
 - Id: 703107201101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703107201200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -120977,7 +121921,7 @@
 - Id: 703107202101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703107202200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -121013,7 +121957,7 @@
 - Id: 703107203101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703107203200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -121049,7 +121993,7 @@
 - Id: 703107204101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703107204200
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -121405,7 +122349,7 @@
 - Id: 703108201101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703108201200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -121477,7 +122421,7 @@
 - Id: 703108202101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703108202200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -121549,7 +122493,7 @@
 - Id: 703108203101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703108203200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -121621,7 +122565,7 @@
 - Id: 703108204101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703108204200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -121933,7 +122877,7 @@
 - Id: 703109101101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703109101200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -122013,7 +122957,7 @@
 - Id: 703109102101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703109102200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -122093,7 +123037,7 @@
 - Id: 703109103101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703109103200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -122173,7 +123117,7 @@
 - Id: 703109104101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703109104200
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -122717,7 +123661,7 @@
 - Id: 703110101101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703110101200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -122753,7 +123697,7 @@
 - Id: 703110102101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703110102200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -122789,7 +123733,7 @@
 - Id: 703110103101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703110103200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -122825,7 +123769,7 @@
 - Id: 703110104101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 703110104200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -123005,7 +123949,7 @@
 - Id: 703110301101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 703110301200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -123041,7 +123985,7 @@
 - Id: 703110302101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 703110302200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -123077,7 +124021,7 @@
 - Id: 703110303101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 703110303200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -123113,7 +124057,7 @@
 - Id: 703110304101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 703110304200
   SkillEffectDetailType: ADD_MOOD_VALUE_NUM
   TargetMood: 0
@@ -123481,7 +124425,7 @@
 - Id: 704101301301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 704101301400
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -123605,7 +124549,7 @@
 - Id: 704101302301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 704101302400
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -123729,7 +124673,7 @@
 - Id: 704101303301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 704101303400
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -123853,7 +124797,7 @@
 - Id: 704101304301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 15384
+  EffectValue: 13500
 - Id: 704101304400
   SkillEffectDetailType: CHANGE_SKILL_COST_CONDITION_TYPE
   TargetMood: 0
@@ -130733,7 +131677,7 @@
 - Id: 704112101201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112101300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -130785,7 +131729,7 @@
 - Id: 704112102201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112102300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -130837,7 +131781,7 @@
 - Id: 704112103201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112103300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -130889,7 +131833,7 @@
 - Id: 704112104201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112104300
   SkillEffectDetailType: MULTIPLY_MOOD_VALUE_NUM
   TargetMood: 0
@@ -131149,7 +132093,7 @@
 - Id: 704112301301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112301400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -131205,7 +132149,7 @@
 - Id: 704112302301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112302400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -131261,7 +132205,7 @@
 - Id: 704112303301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112303400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -131317,7 +132261,7 @@
 - Id: 704112304301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 704112304400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -132413,7 +133357,7 @@
 - Id: 705103101401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 705103102000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -132449,7 +133393,7 @@
 - Id: 705103102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 705103103000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -132485,7 +133429,7 @@
 - Id: 705103103401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 705103104000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -132521,7 +133465,7 @@
 - Id: 705103104401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 705103201000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -137785,7 +138729,7 @@
 - Id: 803103101101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 803103101200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -137821,7 +138765,7 @@
 - Id: 803103102101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 803103102200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -137857,7 +138801,7 @@
 - Id: 803103103101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 803103103200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -137893,7 +138837,7 @@
 - Id: 803103104101
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 803103104200
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -138605,7 +139549,7 @@
 - Id: 803104201301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803104201400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -138669,7 +139613,7 @@
 - Id: 803104202301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803104202400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -138733,7 +139677,7 @@
 - Id: 803104203301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803104203400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -138793,7 +139737,7 @@
 - Id: 803104204301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803104204400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -140105,7 +141049,7 @@
 - Id: 803106301201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803106301300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -140185,7 +141129,7 @@
 - Id: 803106302201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803106302300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -140265,7 +141209,7 @@
 - Id: 803106303201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803106303300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -140345,7 +141289,7 @@
 - Id: 803106304201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803106304300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -141161,7 +142105,7 @@
 - Id: 803108201401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803108202000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -141201,7 +142145,7 @@
 - Id: 803108202401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803108203000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -141241,7 +142185,7 @@
 - Id: 803108203401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803108204000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -141281,7 +142225,7 @@
 - Id: 803108204401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 803108301000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -142577,7 +143521,7 @@
 - Id: 804101301101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804101301200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -142705,7 +143649,7 @@
 - Id: 804101302101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804101302200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -142833,7 +143777,7 @@
 - Id: 804101303101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804101303200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -142961,7 +143905,7 @@
 - Id: 804101304101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804101304200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -143737,7 +144681,7 @@
 - Id: 804103101301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804103101400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -143785,7 +144729,7 @@
 - Id: 804103102301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804103102400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -143833,7 +144777,7 @@
 - Id: 804103103301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804103103400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -143881,7 +144825,7 @@
 - Id: 804103104301
   SkillEffectDetailType: CHANGE_MENTAL_DECREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804103104400
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -146113,7 +147057,7 @@
 - Id: 804106301101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804106301200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -146153,7 +147097,7 @@
 - Id: 804106302101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804106302200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -146193,7 +147137,7 @@
 - Id: 804106303101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804106303200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -146233,7 +147177,7 @@
 - Id: 804106304101
   SkillEffectDetailType: CHANGE_VOLTAGE_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 804106304200
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -148497,7 +149441,7 @@
 - Id: 804110201201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804110201300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -148553,7 +149497,7 @@
 - Id: 804110202201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804110202300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -148609,7 +149553,7 @@
 - Id: 804110203201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804110203300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -148665,7 +149609,7 @@
 - Id: 804110204201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804110204300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -148969,7 +149913,7 @@
 - Id: 804111101201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804111101300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -149025,7 +149969,7 @@
 - Id: 804111102201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804111102300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -149081,7 +150025,7 @@
 - Id: 804111103201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804111103300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -149137,7 +150081,7 @@
 - Id: 804111104201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804111104300
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -149753,7 +150697,7 @@
 - Id: 804112201301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804112201400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -149801,7 +150745,7 @@
 - Id: 804112202301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804112202400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -149849,7 +150793,7 @@
 - Id: 804112203301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804112203400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -149897,7 +150841,7 @@
 - Id: 804112204301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 13333
+  EffectValue: 12500
 - Id: 804112204400
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
   TargetMood: 0
@@ -156753,7 +157697,7 @@
 - Id: 900030101301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030101400
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -156785,7 +157729,7 @@
 - Id: 900030102201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030102300
   SkillEffectDetailType: CHANGE_SKILL_VALUE_CALC_TYPE
   TargetMood: 0
@@ -156801,7 +157745,7 @@
 - Id: 900030102401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030103000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0
@@ -156849,7 +157793,7 @@
 - Id: 900030103201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030103300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -156857,7 +157801,7 @@
 - Id: 900030103301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030103400
   SkillEffectDetailType: RESHUFFLE_RECOVERY_TYPE
   TargetMood: 0
@@ -157241,7 +158185,7 @@
 - Id: 900030402401
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 8000
+  EffectValue: 7500
 - Id: 900030403000
   SkillEffectDetailType: CHANGE_VOLTAGE_LEVEL_CALC_TYPE
   TargetMood: 0

@@ -84,5 +84,13 @@
   CountStartTime: 2025-11-20T12:00:00Z
   CountEndTime: 2025-12-26T18:59:59Z
   DisplayStartTime: 2025-11-20T12:00:00Z
-  DisplayEndTime: 2035-12-31T14:59:59Z
+  DisplayEndTime: 2025-12-28T11:59:59Z
   TermTitle: 105期 4th Term
+- Id: 1005012
+  Description: ・集計期間中に開催されるライブグランプリ
+  PersonalRankingTabs: 1,200,300,500,1000,2000,3000,5000,7000,10000
+  CountStartTime: 2025-12-28T12:00:00Z
+  CountEndTime: 2026-03-28T18:59:59Z
+  DisplayStartTime: 2025-12-28T12:00:00Z
+  DisplayEndTime: 2035-12-31T14:59:59Z
+  TermTitle: 105期 Final Term

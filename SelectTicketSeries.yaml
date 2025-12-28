@@ -748,3 +748,18 @@
   StartTime: 2025-08-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   IsVisibleEndTime: 0
+- Id: 4030034
+  ExchangeTicketName: 【2026謹賀新年】《LIMITED》URセレクトチケット
+  Description: 特定のLIMITEDのURカードから1枚を選んで獲得できるチケットです。
+  ExchangeTicketId: 3003051
+  OrderId: 3
+  PickUpCardSeriesId_1: 0
+  PickUpCardSeriesId_2: 0
+  PickUpCardSeriesId_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardSeriesId_6: 0
+  BgType: 1
+  StartTime: 2025-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsVisibleEndTime: 0

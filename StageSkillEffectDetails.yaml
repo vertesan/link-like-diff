@@ -34,6 +34,26 @@
   StageSkillEffectId: 10200800
   SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
   EffectValue: 0
+- Id: 102010000
+  StageSkillEffectId: 10201000
+  SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
+  EffectValue: 1
+- Id: 102010001
+  StageSkillEffectId: 10201000
+  SkillEffectDetailType: LOVE_UP_BUFF_NUM_BASE
+  EffectValue: 10000000
+- Id: 102010002
+  StageSkillEffectId: 10201000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 102010003
+  StageSkillEffectId: 10201000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME
+  EffectValue: 0
+- Id: 102010004
+  StageSkillEffectId: 10201000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
+  EffectValue: 0
 - Id: 102015000
   StageSkillEffectId: 10201500
   SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE

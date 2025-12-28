@@ -3328,6 +3328,21 @@
   SkillIcon: 10315350
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 10315360
+  Name: Snowmelt Bloom Link
+  SkillIcon: 10315360
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10315361
+  Name: Snowmelt Bloom Link
+  SkillIcon: 10315360
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10315362
+  Name: Snowmelt Bloom Link
+  SkillIcon: 10315360
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -4323,6 +4338,21 @@
   SkillIcon: 10325320
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 10325330
+  Name: スターリンボルテージ
+  SkillIcon: 10325330
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 10325331
+  Name: スターリンボルテージ
+  SkillIcon: 10325330
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 10325332
+  Name: スターリンボルテージ
+  SkillIcon: 10325330
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -5167,6 +5197,21 @@
   Name: Go for it!
   SkillIcon: 10335310
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10335320
+  Name: スターリンリカバー
+  SkillIcon: 10335320
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 10335321
+  Name: スターリンリカバー
+  SkillIcon: 10335320
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 10335322
+  Name: スターリンリカバー
+  SkillIcon: 10335320
+  SkillMainEffect: 6
   IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
@@ -8283,6 +8328,11 @@
   SkillIcon: 20315350
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
+- Id: 20315360
+  Name: ツナガルチカラ
+  SkillIcon: 20315360
+  SkillMainEffect: 42
+  IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -8618,6 +8668,11 @@
   SkillIcon: 20325320
   SkillMainEffect: 7
   IsExSpecialAppeal: 0
+- Id: 20325330
+  Name: スノーギャザーブースト
+  SkillIcon: 20325330
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -8901,6 +8956,11 @@
 - Id: 20335310
   Name: エンジェリックヒーロー
   SkillIcon: 20335310
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 20335320
+  Name: スノーギャザーリカバー
+  SkillIcon: 20335320
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20338010
@@ -10778,6 +10838,11 @@
   SkillIcon: 30315350
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30315360
+  Name: フォーレンスノー
+  SkillIcon: 30315360
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -11083,6 +11148,11 @@
   SkillIcon: 30325320
   SkillMainEffect: 47
   IsExSpecialAppeal: 0
+- Id: 30325330
+  Name: フォーレンスノー
+  SkillIcon: 30325330
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -11337,6 +11407,11 @@
   Name: みらくらチアリング
   SkillIcon: 30335310
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 30335320
+  Name: フォーレンスノー
+  SkillIcon: 30335320
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
@@ -12578,6 +12653,11 @@
   SkillIcon: 80444011
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 80445010
+  Name: スノーフレーク
+  SkillIcon: 80315360
+  SkillMainEffect: 42
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13047,4 +13127,9 @@
   Name: クローズ
   SkillIcon: 90444011
   SkillMainEffect: 18
+  IsExSpecialAppeal: 0
+- Id: 90445010
+  Name: スノーメルト
+  SkillIcon: 90315360
+  SkillMainEffect: 29
   IsExSpecialAppeal: 0

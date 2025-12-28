@@ -110,3 +110,10 @@
   StartTime: 2025-11-30T03:00:00Z
   EndTime: 2025-12-26T18:59:59Z
   IsRankingPrize: 0
+- Id: 10417
+  Name: 第17回 GradeChallenge
+  GiveSeasonGradeId: 1005000
+  BgImageId: 1001
+  StartTime: 2025-12-28T12:00:00Z
+  EndTime: 2026-01-31T02:59:59Z
+  IsRankingPrize: 0

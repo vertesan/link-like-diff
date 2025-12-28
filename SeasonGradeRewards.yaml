@@ -198,3 +198,23 @@
   SeasonGradeId: 1005011
   MinTargetNum: 30001
   MaxTargetNum: 999999
+- Id: 100501201
+  SeasonGradeId: 1005012
+  MinTargetNum: 1
+  MaxTargetNum: 3000
+- Id: 100501202
+  SeasonGradeId: 1005012
+  MinTargetNum: 3001
+  MaxTargetNum: 10000
+- Id: 100501203
+  SeasonGradeId: 1005012
+  MinTargetNum: 10001
+  MaxTargetNum: 20000
+- Id: 100501204
+  SeasonGradeId: 1005012
+  MinTargetNum: 20001
+  MaxTargetNum: 30000
+- Id: 100501205
+  SeasonGradeId: 1005012
+  MinTargetNum: 30001
+  MaxTargetNum: 999999

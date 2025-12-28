@@ -7118,3 +7118,23 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10500912
+  AdvSeriesId: 105009
+  Name: 第9話『ALL Link to YOU』
+  Description: ED
+  ScriptId: 10500912
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 349
+  SubTitleName: ED
+  StartTime: 2025-12-28T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
