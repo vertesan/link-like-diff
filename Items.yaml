@@ -8640,6 +8640,18 @@
   Description: スタイル解放素材(百生 吟子)
   StartTime: 2025-10-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4041521
+  Name: "[もういちど ルミナス]百生\u00a0吟子 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(百生 吟子)
+  StartTime: 2026-01-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4041801
   Name: "[Ether Aria]百生\u00a0吟子 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9036,6 +9048,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-11-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042521
+  Name: "[壱雫空]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2026-01-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9408,6 +9432,18 @@
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2025-10-31T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4043520
+  Name: "[キミがいなくちゃっ！]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2026-01-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4043521
   Name: "[Hip, hip, hooray!]安養寺\u00a0姫芽 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9623,6 +9659,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-11-20T12:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4051508
+  Name: "[FIRE BIRD]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2026-01-05T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4051509
   Name: "[令嬢モブ！]桂城\u00a0泉 解放Pt."

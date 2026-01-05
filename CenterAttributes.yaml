@@ -7318,6 +7318,24 @@
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415211
+  CenterAttributeSeriesId: 20415210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 10020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20415212
+  CenterAttributeSeriesId: 20415210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 20020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20415213
+  CenterAttributeSeriesId: 20415210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 30020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
 - Id: 20418011
   CenterAttributeSeriesId: 20418010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -7942,6 +7960,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30007200
   Description: 全メンバーのアピール値が72％上昇
+- Id: 20425211
+  CenterAttributeSeriesId: 20425210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 10020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20425212
+  CenterAttributeSeriesId: 20425210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 20020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20425213
+  CenterAttributeSeriesId: 20425210
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 30020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
 - Id: 20428011
   CenterAttributeSeriesId: 20428010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -8530,6 +8566,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30007200
   Description: 全メンバーのアピール値が72％上昇
+- Id: 20435201
+  CenterAttributeSeriesId: 20435200
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 10020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20435202
+  CenterAttributeSeriesId: 20435200
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 20020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
+- Id: 20435203
+  CenterAttributeSeriesId: 20435200
+  CenterAttributeName: アピールアップ
+  TargetIds: "30104"
+  CenterAttributeEffectId: 30020000
+  Description: 百生吟子／徒町小鈴／安養寺姫芽のアピール値が200％上昇
 - Id: 20435211
   CenterAttributeSeriesId: 20435210
   CenterAttributeName: アピールアップ（みらくらぱーく！）
@@ -8860,6 +8914,24 @@
   TargetIds: "20105"
   CenterAttributeEffectId: 30020000
   Description: Edel Noteに所属するメンバーのアピール値が200％上昇
+- Id: 20515081
+  CenterAttributeSeriesId: 20515080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 10020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
+- Id: 20515082
+  CenterAttributeSeriesId: 20515080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 20020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
+- Id: 20515083
+  CenterAttributeSeriesId: 20515080
+  CenterAttributeName: アピールアップ
+  TargetIds: "30105"
+  CenterAttributeEffectId: 30020000
+  Description: 桂城泉／セラスのアピール値が200％上昇
 - Id: 20515091
   CenterAttributeSeriesId: 20515090
   CenterAttributeName: アピールアップ（Edel Note）

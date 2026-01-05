@@ -13,3 +13,8 @@
   MaxTargetNum: 100000
   BaseMultiplier: 1000010
   AdditionalMultiplier: 10
+- Id: 4
+  MinTargetNum: 100001
+  MaxTargetNum: 200000
+  BaseMultiplier: 1900010
+  AdditionalMultiplier: 10

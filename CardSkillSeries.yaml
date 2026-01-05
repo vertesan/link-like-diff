@@ -5713,6 +5713,21 @@
   SkillIcon: 10415200
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 10415210
+  Name: スリーズパレット
+  SkillIcon: 10415210
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 10415211
+  Name: スリーズパレット
+  SkillIcon: 10415210
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 10415212
+  Name: スリーズパレット
+  SkillIcon: 10415210
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -6203,6 +6218,21 @@
   SkillIcon: 10425200
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 10425210
+  Name: マイドール
+  SkillIcon: 10425210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10425211
+  Name: マイドール
+  SkillIcon: 10425210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10425212
+  Name: マイドール
+  SkillIcon: 10425210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -6663,6 +6693,21 @@
   SkillIcon: 10435190
   SkillMainEffect: 31
   IsExSpecialAppeal: 0
+- Id: 10435200
+  Name: ハッピーぱーく！
+  SkillIcon: 10435200
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10435201
+  Name: ハッピーぱーく！
+  SkillIcon: 10435200
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10435202
+  Name: ハッピーぱーく！
+  SkillIcon: 10435200
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10435210
   Name: Go for it!
   SkillIcon: 10435210
@@ -6912,6 +6957,21 @@
   Name: ショウタイム
   SkillIcon: 10515070
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10515080
+  Name: エーデルローズ
+  SkillIcon: 10515080
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10515081
+  Name: エーデルローズ
+  SkillIcon: 10515080
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10515082
+  Name: エーデルローズ
+  SkillIcon: 10515080
+  SkillMainEffect: 34
   IsExSpecialAppeal: 0
 - Id: 10515090
   Name: "ミッション#Ce"
@@ -9133,6 +9193,11 @@
   SkillIcon: 20415200
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 20415210
+  Name: ドレス《もういちど ルミナス》
+  SkillIcon: 20415210
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -9298,6 +9363,11 @@
   SkillIcon: 20425200
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
+- Id: 20425210
+  Name: アフターレイン
+  SkillIcon: 20425210
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -9453,6 +9523,11 @@
   SkillIcon: 20435190
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20435200
+  Name: ガッタビーユー
+  SkillIcon: 20435200
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20435210
   Name: エンジェリックエール
   SkillIcon: 20435210
@@ -9542,6 +9617,11 @@
   Name: ハートキャプチャ
   SkillIcon: 20515070
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 20515080
+  Name: イミテーションフェニックス
+  SkillIcon: 20515080
+  SkillMainEffect: 46
   IsExSpecialAppeal: 0
 - Id: 20515090
   Name: イミテーションスパイ
@@ -11563,6 +11643,11 @@
   SkillIcon: 30415200
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30415210
+  Name: ロードトゥドリーム
+  SkillIcon: 30415210
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -11708,6 +11793,11 @@
   SkillIcon: 30425200
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30425210
+  Name: スクリームフロムハート
+  SkillIcon: 30425210
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -11843,6 +11933,11 @@
   SkillIcon: 30435190
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30435200
+  Name: シャイニーサン
+  SkillIcon: 30435200
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30435210
   Name: みらくらチアリング
   SkillIcon: 30435210
@@ -11922,6 +12017,11 @@
   Name: イミテーションシアター
   SkillIcon: 30515070
   SkillMainEffect: 18
+  IsExSpecialAppeal: 0
+- Id: 30515080
+  Name: ボイスオブクリエイション
+  SkillIcon: 30515080
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30515090
   Name: ランナウェイ
@@ -12658,6 +12758,11 @@
   SkillIcon: 80315360
   SkillMainEffect: 42
   IsExSpecialAppeal: 0
+- Id: 80455010
+  Name: もういちど ルミナス
+  SkillIcon: 80415210
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13132,4 +13237,74 @@
   Name: スノーメルト
   SkillIcon: 90315360
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 90455010
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455020
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455030
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455040
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455050
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455060
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455070
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455080
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455090
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455100
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455110
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455120
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455130
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90455140
+  Name: ロードトゥドリーム
+  SkillIcon: 90415210
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0

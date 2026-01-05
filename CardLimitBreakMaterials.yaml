@@ -7778,6 +7778,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4041520
   CostNum: 100
+- Id: 10415211
+  CardSeriesId: 1041521
+  LimitBreakTimes: 1
+  CostItemsId: 4041521
+  CostNum: 100
+- Id: 10415212
+  CardSeriesId: 1041521
+  LimitBreakTimes: 2
+  CostItemsId: 4041521
+  CostNum: 100
+- Id: 10415213
+  CardSeriesId: 1041521
+  LimitBreakTimes: 3
+  CostItemsId: 4041521
+  CostNum: 100
+- Id: 10415214
+  CardSeriesId: 1041521
+  LimitBreakTimes: 4
+  CostItemsId: 4041521
+  CostNum: 100
 - Id: 10418011
   CardSeriesId: 1041801
   LimitBreakTimes: 1
@@ -8438,6 +8458,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4042520
   CostNum: 100
+- Id: 10425211
+  CardSeriesId: 1042521
+  LimitBreakTimes: 1
+  CostItemsId: 4042521
+  CostNum: 100
+- Id: 10425212
+  CardSeriesId: 1042521
+  LimitBreakTimes: 2
+  CostItemsId: 4042521
+  CostNum: 100
+- Id: 10425213
+  CardSeriesId: 1042521
+  LimitBreakTimes: 3
+  CostItemsId: 4042521
+  CostNum: 100
+- Id: 10425214
+  CardSeriesId: 1042521
+  LimitBreakTimes: 4
+  CostItemsId: 4042521
+  CostNum: 100
 - Id: 10428011
   CardSeriesId: 1042801
   LimitBreakTimes: 1
@@ -9058,6 +9098,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4043519
   CostNum: 100
+- Id: 10435201
+  CardSeriesId: 1043520
+  LimitBreakTimes: 1
+  CostItemsId: 4043520
+  CostNum: 100
+- Id: 10435202
+  CardSeriesId: 1043520
+  LimitBreakTimes: 2
+  CostItemsId: 4043520
+  CostNum: 100
+- Id: 10435203
+  CardSeriesId: 1043520
+  LimitBreakTimes: 3
+  CostItemsId: 4043520
+  CostNum: 100
+- Id: 10435204
+  CardSeriesId: 1043520
+  LimitBreakTimes: 4
+  CostItemsId: 4043520
+  CostNum: 100
 - Id: 10435211
   CardSeriesId: 1043521
   LimitBreakTimes: 1
@@ -9417,6 +9477,26 @@
   CardSeriesId: 1051507
   LimitBreakTimes: 4
   CostItemsId: 4051507
+  CostNum: 100
+- Id: 10515081
+  CardSeriesId: 1051508
+  LimitBreakTimes: 1
+  CostItemsId: 4051508
+  CostNum: 100
+- Id: 10515082
+  CardSeriesId: 1051508
+  LimitBreakTimes: 2
+  CostItemsId: 4051508
+  CostNum: 100
+- Id: 10515083
+  CardSeriesId: 1051508
+  LimitBreakTimes: 3
+  CostItemsId: 4051508
+  CostNum: 100
+- Id: 10515084
+  CardSeriesId: 1051508
+  LimitBreakTimes: 4
+  CostItemsId: 4051508
   CostNum: 100
 - Id: 10515091
   CardSeriesId: 1051509
