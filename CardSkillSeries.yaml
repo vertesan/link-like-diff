@@ -3343,6 +3343,21 @@
   SkillIcon: 10315360
   SkillMainEffect: 24
   IsExSpecialAppeal: 0
+- Id: 10315370
+  Name: サヨシグレ
+  SkillIcon: 10315370
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10315371
+  Name: サヨシグレ
+  SkillIcon: 10315370
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10315372
+  Name: サヨシグレ
+  SkillIcon: 10315370
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
   SkillIcon: 10318011
@@ -5728,6 +5743,21 @@
   SkillIcon: 10415210
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 10415220
+  Name: サヨシグレ
+  SkillIcon: 10415220
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10415221
+  Name: サヨシグレ
+  SkillIcon: 10415220
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10415222
+  Name: サヨシグレ
+  SkillIcon: 10415220
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10418011
   Name: リフレッシュブースト
   SkillIcon: 10418010
@@ -6407,6 +6437,21 @@
   Name: アルターエゴ
   SkillIcon: 10434050
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10434060
+  Name: -
+  SkillIcon: 10434060
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10434061
+  Name: -
+  SkillIcon: 10434060
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10434062
+  Name: -
+  SkillIcon: 10434060
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10435010
   Name: エクステボルテージ
@@ -8393,6 +8438,11 @@
   SkillIcon: 20315360
   SkillMainEffect: 42
   IsExSpecialAppeal: 0
+- Id: 20315370
+  Name: ノクターナルコード
+  SkillIcon: 20315370
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
   SkillIcon: 20318010
@@ -9198,6 +9248,11 @@
   SkillIcon: 20415210
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 20415220
+  Name: ドレス《Sayo-Shigure》
+  SkillIcon: 20415220
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 20418010
   Name: ドレス《Ether Aria》
   SkillIcon: 20418010
@@ -9427,6 +9482,11 @@
   Name: ボルテックスガード
   SkillIcon: 20434050
   SkillMainEffect: 56
+  IsExSpecialAppeal: 0
+- Id: 20434060
+  Name: -
+  SkillIcon: 20434060
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20435010
   Name: チアフルブースト：みらくらぱーく！
@@ -10923,6 +10983,11 @@
   SkillIcon: 30315360
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30315370
+  Name: レインフラグメント
+  SkillIcon: 30315370
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
   SkillIcon: 30318010
@@ -11648,6 +11713,11 @@
   SkillIcon: 30415210
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30415220
+  Name: エレクトロダンス
+  SkillIcon: 30415220
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 30418010
   Name: ドロー：ドレス《Ether Aria》
   SkillIcon: 30418010
@@ -11837,6 +11907,11 @@
   Name: アルターエゴ
   SkillIcon: 30434050
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 30434060
+  Name: -
+  SkillIcon: 30434060
+  SkillMainEffect: 904
   IsExSpecialAppeal: 0
 - Id: 30435010
   Name: APレデュース：みらくらぱーく！
@@ -12763,6 +12838,21 @@
   SkillIcon: 80415210
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 80465010
+  Name: 花傘
+  SkillIcon: 80415220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 80465020
+  Name: 《Sayo-Shigure》
+  SkillIcon: 80415221
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 80465030
+  Name: 《Sayo-Shigure》
+  SkillIcon: 80415222
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13307,4 +13397,19 @@
   Name: ロードトゥドリーム
   SkillIcon: 90415210
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90465010
+  Name: エレクトロシャワー
+  SkillIcon: 90415220
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90465020
+  Name: エレクトロドレス
+  SkillIcon: 90415221
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90465030
+  Name: エレクトロドレス
+  SkillIcon: 90415222
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0

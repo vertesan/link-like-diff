@@ -30,6 +30,8 @@
   ConditionType: 3
 - Id: 1051001
   ConditionType: 5
+- Id: 1051002
+  ConditionType: 5
 - Id: 1051005
   ConditionType: 5
 - Id: 1051007
@@ -43,6 +45,10 @@
 - Id: 1051025
   ConditionType: 5
 - Id: 1051028
+  ConditionType: 5
+- Id: 1051048
+  ConditionType: 5
+- Id: 1051056
   ConditionType: 5
 - Id: 1052021
   ConditionType: 5
