@@ -44518,6 +44518,126 @@
   RhythmGameSkillSeriesId: 30329014
   CenterSkillLvUpItemId: 92
   RhythmGameSkillLvUpItemId: 92
+- Id: 10329021
+  CardSeriesId: 1032902
+  Name: 18th Birthday
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 9
+  EvolveTimes: 1
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 48
+  InitialPure: 48
+  InitialCool: 48
+  InitialMental: 96
+  MaxSmile: 3360
+  MaxPure: 3360
+  MaxCool: 3360
+  MaxMental: 336
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10329021
+  SkillSeriesId: 20329020
+  AttributeId: 30329020
+  SpineId: 69
+  OrderId: 10389032
+  CenterSkillSeriesId: 10329020
+  CenterAttributeSeriesId: 20329020
+  RhythmGameSkillSeriesId: 30329020
+  CenterSkillLvUpItemId: 92
+  RhythmGameSkillLvUpItemId: 92
+- Id: 10329022
+  CardSeriesId: 1032902
+  Name: 18th Birthday
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 9
+  EvolveTimes: 2
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 3360
+  InitialPure: 3360
+  InitialCool: 3360
+  InitialMental: 336
+  MaxSmile: 4800
+  MaxPure: 4800
+  MaxCool: 4800
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10329022
+  SkillSeriesId: 20329020
+  AttributeId: 30329020
+  SpineId: 69
+  OrderId: 10389032
+  CenterSkillSeriesId: 10329020
+  CenterAttributeSeriesId: 20329020
+  RhythmGameSkillSeriesId: 30329022
+  CenterSkillLvUpItemId: 92
+  RhythmGameSkillLvUpItemId: 92
+- Id: 10329023
+  CardSeriesId: 1032902
+  Name: 18th Birthday
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 9
+  EvolveTimes: 3
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 4800
+  InitialPure: 4800
+  InitialCool: 4800
+  InitialMental: 480
+  MaxSmile: 5280
+  MaxPure: 5280
+  MaxCool: 5280
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10329022
+  SkillSeriesId: 20329020
+  AttributeId: 30329020
+  SpineId: 69
+  OrderId: 10389032
+  CenterSkillSeriesId: 10329020
+  CenterAttributeSeriesId: 20329020
+  RhythmGameSkillSeriesId: 30329023
+  CenterSkillLvUpItemId: 92
+  RhythmGameSkillLvUpItemId: 92
+- Id: 10329024
+  CardSeriesId: 1032902
+  Name: 18th Birthday
+  Description: 村野 さやか
+  CharactersId: 1032
+  Rarity: 9
+  EvolveTimes: 4
+  CardLevelLimitAddition: 0
+  Style: 2
+  Mood: 2
+  ExperienceType: 5
+  InitialSmile: 5280
+  InitialPure: 5280
+  InitialCool: 5280
+  InitialMental: 480
+  MaxSmile: 5760
+  MaxPure: 5760
+  MaxCool: 5760
+  MaxMental: 480
+  BeatPoint: 100
+  SpecialAppealSeriesId: 10329022
+  SkillSeriesId: 20329020
+  AttributeId: 30329020
+  SpineId: 69
+  OrderId: 10389032
+  CenterSkillSeriesId: 10329020
+  CenterAttributeSeriesId: 20329020
+  RhythmGameSkillSeriesId: 30329024
+  CenterSkillLvUpItemId: 92
+  RhythmGameSkillLvUpItemId: 92
 - Id: 10333010
   CardSeriesId: 1033301
   Name: オーロラスカイ

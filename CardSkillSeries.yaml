@@ -4418,6 +4418,21 @@
   SkillIcon: 10329010
   SkillMainEffect: 27
   IsExSpecialAppeal: 0
+- Id: 10329020
+  Name: ボルテージブースト
+  SkillIcon: 10329020
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 10329021
+  Name: ボルテージブースト
+  SkillIcon: 10329020
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 10329022
+  Name: ボルテージブースト
+  SkillIcon: 10329020
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
 - Id: 10333010
   Name: リフレッシュハート
   SkillIcon: 10333010
@@ -8803,6 +8818,11 @@
   SkillIcon: 20329010
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 20329020
+  Name: ブルームマイセルフ
+  SkillIcon: 20329020
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
 - Id: 20333010
   Name: ハートキャプチャ
   SkillIcon: 20333010
@@ -11317,6 +11337,11 @@
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30329010
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 30329020
+  Name: バースデイキャンドル
+  SkillIcon: 30329020
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 30334010
   Name: ドロー：メンタルリカバー

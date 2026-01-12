@@ -5680,6 +5680,24 @@
   TargetIds: "11032"
   CenterAttributeEffectId: 30040000
   Description: 村野さやかのアピール値が400％上昇
+- Id: 20329021
+  CenterAttributeSeriesId: 20329020
+  CenterAttributeName: アピールアップ（村野さやか）
+  TargetIds: "11032"
+  CenterAttributeEffectId: 10040000
+  Description: 村野さやかのアピール値が400％上昇
+- Id: 20329022
+  CenterAttributeSeriesId: 20329020
+  CenterAttributeName: アピールアップ（村野さやか）
+  TargetIds: "11032"
+  CenterAttributeEffectId: 20040000
+  Description: 村野さやかのアピール値が400％上昇
+- Id: 20329023
+  CenterAttributeSeriesId: 20329020
+  CenterAttributeName: アピールアップ（村野さやか）
+  TargetIds: "11032"
+  CenterAttributeEffectId: 30040000
+  Description: 村野さやかのアピール値が400％上昇
 - Id: 20333011
   CenterAttributeSeriesId: 20333010
   CenterAttributeName: アピールアップ

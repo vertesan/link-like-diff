@@ -5242,6 +5242,18 @@
   Name: 特訓時
   ReleaseConditionText: ""
   OverrideBgm: 0
+- Id: 103290201
+  CardSeriesId: 1032902
+  MovieType: 1
+  Name: 入手時
+  ReleaseConditionText: ""
+  OverrideBgm: 1
+- Id: 103290203
+  CardSeriesId: 1032902
+  MovieType: 3
+  Name: 特訓時
+  ReleaseConditionText: ""
+  OverrideBgm: 0
 - Id: 103330101
   CardSeriesId: 1033301
   MovieType: 1
