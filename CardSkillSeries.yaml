@@ -6454,17 +6454,17 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10434060
-  Name: -
+  Name: ファーストステージ
   SkillIcon: 10434060
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10434061
-  Name: -
+  Name: ファーストステージ
   SkillIcon: 10434060
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10434062
-  Name: -
+  Name: ファーストステージ
   SkillIcon: 10434060
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
@@ -9504,7 +9504,7 @@
   SkillMainEffect: 56
   IsExSpecialAppeal: 0
 - Id: 20434060
-  Name: -
+  Name: クイーンアトラクトハッピー
   SkillIcon: 20434060
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
@@ -11934,7 +11934,7 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30434060
-  Name: -
+  Name: Heart Pair Power Spread
   SkillIcon: 30434060
   SkillMainEffect: 904
   IsExSpecialAppeal: 0
@@ -12878,6 +12878,11 @@
   SkillIcon: 80415222
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 80475010
+  Name: クイーンアトラクトハッピー
+  SkillIcon: 80434060
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13436,5 +13441,10 @@
 - Id: 90465030
   Name: エレクトロドレス
   SkillIcon: 90415222
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90475010
+  Name: Heart Pair Power Spread
+  SkillIcon: 90434060
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
