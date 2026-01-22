@@ -74,6 +74,8 @@
   ActionType: 7
 - Id: 10740001
   ActionType: 7
+- Id: 10740004
+  ActionType: 7
 - Id: 10740005
   ActionType: 7
 - Id: 10810103
@@ -166,6 +168,8 @@
   ActionType: 3
 - Id: 20303075
   ActionType: 3
+- Id: 20303090
+  ActionType: 3
 - Id: 20400060
   ActionType: 4
 - Id: 20400100
@@ -207,6 +211,8 @@
 - Id: 20730306
   ActionType: 7
 - Id: 20740001
+  ActionType: 7
+- Id: 20740002
   ActionType: 7
 - Id: 20740003
   ActionType: 7

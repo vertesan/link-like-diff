@@ -10078,6 +10078,54 @@
   ConditionsValue: 0
   StartTime: 2024-12-25T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513310
+  ReleaseLearningLiveId: 404051331
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513320
+  ReleaseLearningLiveId: 404051332
+  ConditionsType: 1
+  ConditionsValue: 404051331
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513330
+  ReleaseLearningLiveId: 404051333
+  ConditionsType: 1
+  ConditionsValue: 404051332
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513340
+  ReleaseLearningLiveId: 404051334
+  ConditionsType: 1
+  ConditionsValue: 404051333
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513350
+  ReleaseLearningLiveId: 404051335
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513360
+  ReleaseLearningLiveId: 404051336
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513370
+  ReleaseLearningLiveId: 404051337
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4040513380
+  ReleaseLearningLiveId: 404051338
+  ConditionsType: 0
+  ConditionsValue: 0
+  StartTime: 2026-01-22T11:30:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4040520110
   ReleaseLearningLiveId: 404052011
   ConditionsType: 4

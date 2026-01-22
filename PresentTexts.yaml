@@ -1180,6 +1180,64 @@
   Description: 105期4thTerm 第2回 サークル対抗戦 1501位～2000位のプライズです。
 - Id: 10702639
   Description: 105期4thTerm 第2回 サークル対抗戦 2001位～のプライズです。
+- Id: 10702640
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1位～10位のプライズです。
+- Id: 10702641
+  Description: 105期FinalTerm 第1回 サークル対抗戦 11位～30位のプライズです。
+- Id: 10702642
+  Description: 105期FinalTerm 第1回 サークル対抗戦 31位～100位のプライズです。
+- Id: 10702643
+  Description: 105期FinalTerm 第1回 サークル対抗戦 101位～200位のプライズです。
+- Id: 10702644
+  Description: 105期FinalTerm 第1回 サークル対抗戦 201位～300位のプライズです。
+- Id: 10702645
+  Description: 105期FinalTerm 第1回 サークル対抗戦 301位～500位のプライズです。
+- Id: 10702646
+  Description: 105期FinalTerm 第1回 サークル対抗戦 501位～1000位のプライズです。
+- Id: 10702647
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1001位～1500位のプライズです。
+- Id: 10702648
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1501位～5000位のプライズです。
+- Id: 10702649
+  Description: 105期FinalTerm 第1回 サークル対抗戦 5001位～のプライズです。
+- Id: 10702650
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1位のプライズです。
+- Id: 10702651
+  Description: 105期FinalTerm 第1回 サークル対抗戦 2位のプライズです。
+- Id: 10702652
+  Description: 105期FinalTerm 第1回 サークル対抗戦 3位のプライズです。
+- Id: 10702653
+  Description: 105期FinalTerm 第1回 サークル対抗戦 4位のプライズです。
+- Id: 10702654
+  Description: 105期FinalTerm 第1回 サークル対抗戦 5位のプライズです。
+- Id: 10702655
+  Description: 105期FinalTerm 第1回 サークル対抗戦 6位のプライズです。
+- Id: 10702656
+  Description: 105期FinalTerm 第1回 サークル対抗戦 7位のプライズです。
+- Id: 10702657
+  Description: 105期FinalTerm 第1回 サークル対抗戦 8位のプライズです。
+- Id: 10702658
+  Description: 105期FinalTerm 第1回 サークル対抗戦 9位のプライズです。
+- Id: 10702659
+  Description: 105期FinalTerm 第1回 サークル対抗戦 10位のプライズです。
+- Id: 10702660
+  Description: 105期FinalTerm 第1回 サークル対抗戦 11位～30位のプライズです。
+- Id: 10702661
+  Description: 105期FinalTerm 第1回 サークル対抗戦 31位～100位のプライズです。
+- Id: 10702662
+  Description: 105期FinalTerm 第1回 サークル対抗戦 101位～200位のプライズです。
+- Id: 10702663
+  Description: 105期FinalTerm 第1回 サークル対抗戦 201位～300位のプライズです。
+- Id: 10702664
+  Description: 105期FinalTerm 第1回 サークル対抗戦 301位～500位のプライズです。
+- Id: 10702665
+  Description: 105期FinalTerm 第1回 サークル対抗戦 501位～1000位のプライズです。
+- Id: 10702666
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1001位～1500位のプライズです。
+- Id: 10702667
+  Description: 105期FinalTerm 第1回 サークル対抗戦 1501位～2000位のプライズです。
+- Id: 10702668
+  Description: 105期FinalTerm 第1回 サークル対抗戦 2001位～のプライズです。
 - Id: 10802001
   Description: Live Grand Prix 103期第1回個人戦 1位～200位のプライズです。
 - Id: 10802002
@@ -3206,6 +3264,10 @@
   Description: 「第2回リンクラプロフグランプリ」参加のプレゼントです！
 - Id: 90120002
   Description: 「第2回リンクラプロフグランプリ」受賞のプレゼントです！
+- Id: 90120003
+  Description: 「第3回リンクラプロフグランプリ」参加のプレゼントです！
+- Id: 90120004
+  Description: 「第3回リンクラプロフグランプリ」受賞のプレゼントです！
 - Id: 90190001
   Description: アプリ10万ダウンロード記念のプレゼントです！
 - Id: 90190002
@@ -3330,6 +3392,8 @@
   Description: CD『ちょ、尊いLOVE / Nεw Black』シリアルコード特典です。
 - Id: 90300044
   Description: CD『乙女詞華集 / ガランドFlash / バイタルサイン / シアター生き様』シリアルコード特典です。
+- Id: 90300045
+  Description: CD『Echoes Beyond』シリアルコード特典です。
 - Id: 90310001
   Description: 『Link！Like！ラブライブ！はじめてガイドブック』シリアルコード特典です。
 - Id: 90310002
@@ -3338,6 +3402,8 @@
   Description: 『りんく！らいふ！ラブライブ！①』シリアルコード特典です。
 - Id: 90310004
   Description: 『LoveLive!Days 2024年11月号』シリアルコード特典です。
+- Id: 90310005
+  Description: 『りんく！らいふ！ラブライブ！②』シリアルコード特典です。
 - Id: 90320001
   Description: 『1st Live Tour ～RUN！CAN！FUN！～ Blu-ray Memorial BOX』シリアルコード特典です。
 - Id: 90320002

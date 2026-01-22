@@ -5243,6 +5243,21 @@
   SkillIcon: 10335320
   SkillMainEffect: 6
   IsExSpecialAppeal: 0
+- Id: 10335330
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10335330
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
+- Id: 10335331
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10335330
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
+- Id: 10335332
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10335330
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -6783,6 +6798,21 @@
   SkillIcon: 10435210
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10435220
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10435220
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
+- Id: 10435221
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10435220
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
+- Id: 10435222
+  Name: キャプティベイトスピリッツ
+  SkillIcon: 10435220
+  SkillMainEffect: 41
+  IsExSpecialAppeal: 0
 - Id: 10438011
   Name: エイペックス
   SkillIcon: 10438010
@@ -6912,6 +6942,21 @@
   Name: イーシェン
   SkillIcon: 10514030
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10514040
+  Name: サードステージ
+  SkillIcon: 10514040
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10514041
+  Name: サードステージ
+  SkillIcon: 10514040
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10514042
+  Name: サードステージ
+  SkillIcon: 10514040
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 10515010
   Name: エクステヒート
@@ -9093,6 +9138,11 @@
   SkillIcon: 20335320
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20335330
+  Name: ビヨンドヒーリング
+  SkillIcon: 20335330
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -9613,6 +9663,11 @@
   SkillIcon: 20435210
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20435220
+  Name: エコーズるりめぐ
+  SkillIcon: 20435220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20438010
   Name: ファッシネイション
   SkillIcon: 20438010
@@ -9661,6 +9716,11 @@
 - Id: 20514030
   Name: テトライミテーション
   SkillIcon: 20514030
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
+- Id: 20514040
+  Name: スペードイミテーションメロウ
+  SkillIcon: 20514040
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
 - Id: 20515010
@@ -11583,6 +11643,11 @@
   SkillIcon: 30335320
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30335330
+  Name: ストロングウィズフラジール
+  SkillIcon: 30335330
+  SkillMainEffect: 17
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -12043,6 +12108,11 @@
   SkillIcon: 30435210
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 30435220
+  Name: ロードトゥみらくらぱーく！
+  SkillIcon: 30435220
+  SkillMainEffect: 29
+  IsExSpecialAppeal: 0
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
   SkillIcon: 30438010
@@ -12082,6 +12152,11 @@
   Name: トンファンジーホア
   SkillIcon: 30514030
   SkillMainEffect: 902
+  IsExSpecialAppeal: 0
+- Id: 30514040
+  Name: Spade Pair Power Spread
+  SkillIcon: 30514040
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30515010
   Name: APゲイン
@@ -12883,6 +12958,11 @@
   SkillIcon: 80434060
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 80485010
+  Name: スペードバイブスメロウ
+  SkillIcon: 80514040
+  SkillMainEffect: 47
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13446,5 +13526,10 @@
 - Id: 90475010
   Name: Heart Pair Power Spread
   SkillIcon: 90434060
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90485010
+  Name: Spade Pair Power Spread
+  SkillIcon: 90514040
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
