@@ -74,8 +74,28 @@
   StageSkillEffectId: 10201500
   SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
   EffectValue: 0
+- Id: 102020000
+  StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
+  EffectValue: 1
+- Id: 102020001
+  StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_NUM_BASE
+  EffectValue: 20000000
+- Id: 102020002
+  StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 102020003
+  StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME
+  EffectValue: 0
+- Id: 102020004
+  StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
+  EffectValue: 0
 - Id: 102030000
-  StageSkillEffectId: 10201000
+  StageSkillEffectId: 10203000
   SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
   EffectValue: 1
 - Id: 102030001
@@ -1446,6 +1466,22 @@
   StageSkillEffectId: 20810705
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: 5
+- Id: 208107100
+  StageSkillEffectId: 20810710
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 1
+- Id: 208107101
+  StageSkillEffectId: 20810710
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 7
+- Id: 208107102
+  StageSkillEffectId: 20810710
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 208107103
+  StageSkillEffectId: 20810710
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: 10
 - Id: 208110010
   StageSkillEffectId: 20811001
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE

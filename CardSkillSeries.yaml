@@ -6293,6 +6293,21 @@
   SkillIcon: 10425210
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10425220
+  Name: メロウアンビエンスブースト
+  SkillIcon: 10425220
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10425221
+  Name: メロウアンビエンスブースト
+  SkillIcon: 10425220
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10425222
+  Name: メロウアンビエンスブースト
+  SkillIcon: 10425220
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -7093,6 +7108,21 @@
   SkillIcon: 10515090
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 10515100
+  Name: グルーヴィヒートブースト
+  SkillIcon: 10515100
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10515101
+  Name: グルーヴィヒートブースト
+  SkillIcon: 10515100
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10515102
+  Name: グルーヴィヒートブースト
+  SkillIcon: 10515100
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 10518010
   Name: Elysion
   SkillIcon: 10518010
@@ -7332,6 +7362,21 @@
   Name: "ミッション#Iz"
   SkillIcon: 10525090
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10525100
+  Name: グルーヴィサウンドバイブス
+  SkillIcon: 10525100
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525101
+  Name: グルーヴィサウンドバイブス
+  SkillIcon: 10525100
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525102
+  Name: グルーヴィサウンドバイブス
+  SkillIcon: 10525100
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -9493,6 +9538,11 @@
   SkillIcon: 20425210
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 20425220
+  Name: イミテーションマドモアゼル
+  SkillIcon: 20425220
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -9768,6 +9818,11 @@
   SkillIcon: 20515090
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 20515100
+  Name: イミテーションリフレッシュハート
+  SkillIcon: 20515100
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 20518010
   Name: mode:REALIZER
   SkillIcon: 20518010
@@ -9846,6 +9901,11 @@
 - Id: 20525090
   Name: スウィートトラップ
   SkillIcon: 20525090
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 20525100
+  Name: アンビエンスエクステワイド
+  SkillIcon: 20525100
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20528010
@@ -11958,6 +12018,11 @@
   SkillIcon: 30425210
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30425220
+  Name: ウォームアトラクト
+  SkillIcon: 30425220
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -12203,6 +12268,11 @@
   SkillIcon: 30515090
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
+- Id: 30515100
+  Name: オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ハートブースト：泉
+  SkillIcon: 30515100
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
 - Id: 30518010
   Name: Radioactive
   SkillIcon: 30518010
@@ -12272,6 +12342,11 @@
   Name: アブダクション
   SkillIcon: 30525090
   SkillMainEffect: 902
+  IsExSpecialAppeal: 0
+- Id: 30525100
+  Name: オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ムードブースト：セラス
+  SkillIcon: 30525100
+  SkillMainEffect: 10
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive

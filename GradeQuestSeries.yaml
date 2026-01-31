@@ -921,3 +921,29 @@
   LivePointBonusLimit: 300
   StartTime: 2025-12-28T12:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 10544
+  Name: ステージランク4
+  GradeQuestSeasonId: 1054
+  OrderId: 4
+  BackGroundId: 100133
+  MapImageId: "4331"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51054401,51054402
+  DefaultActionPoint: 30
+  LivePointBonusLimit: 300
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z
+- Id: 10545
+  Name: ステージランク5
+  GradeQuestSeasonId: 1054
+  OrderId: 5
+  BackGroundId: 100101
+  MapImageId: "4331"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51054501,51054502,51054503
+  DefaultActionPoint: 20
+  LivePointBonusLimit: 300
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2035-12-30T15:00:00Z

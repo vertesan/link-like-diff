@@ -970,6 +970,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 18000
   UrCardEffectBackgroundId: 0
+- Id: 10425220
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 20200
+  UrCardEffectBackgroundId: 15010
 - Id: 10429011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 43500
@@ -1106,6 +1110,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 46000
   UrCardEffectBackgroundId: 13841
+- Id: 10515100
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 44500
+  UrCardEffectBackgroundId: 15000
 - Id: 10519011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 53700
@@ -1146,6 +1154,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 50500
   UrCardEffectBackgroundId: 17030
+- Id: 10525100
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 32000
+  UrCardEffectBackgroundId: 15000
 - Id: 10529011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 68500

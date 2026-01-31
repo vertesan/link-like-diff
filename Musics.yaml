@@ -2439,7 +2439,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2026-01-31T03:00:00Z
 - Id: 203116
   OrderId: 1608
   Title: BANG YOU グラビティ
@@ -6961,6 +6961,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2026-01-22T11:30:00Z
+- Id: 405134
+  OrderId: 1045
+  Title: JOKER.
+  TitleFurigana: じょーかー
+  JacketId: 405134
+  SoundId: 40513401
+  Description: 全体曲
+  GenerationsId: 105
+  UnitId: 100
+  CenterCharacterId: 1052
+  SingerCharacterId: 1031,1032,1033,1041,1042,1043,1051
+  SupportCharacterId: "0"
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 20000
+  ApIncrement: 785
+  SongTime: 7846
+  PlayTime: 94154
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2026-01-31T03:00:00Z
 - Id: 405201
   OrderId: 6033
   Title: テレパシ
@@ -7159,6 +7192,39 @@
   VideoBgId: 0
   SongType: 2
   MusicScoreReleaseTime: 2026-01-05T03:00:00Z
+- Id: 405207
+  OrderId: 6039
+  Title: あんなに一緒だったのに
+  TitleFurigana: あんなにいっしょだったのに
+  JacketId: 405207
+  SoundId: 40520701
+  Description: 一般カバー
+  GenerationsId: 105
+  UnitId: 105
+  CenterCharacterId: 1051
+  SingerCharacterId: "1052"
+  SupportCharacterId: 1031,1032,1033,1041,1042,1043
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 18000
+  ApIncrement: 911
+  SongTime: 9106
+  PlayTime: 109268
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 2
+  ReleaseConditionDetail: 1
+  ReleaseConditionText: ミュージックPt. を使用して習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 2
+  MusicScoreReleaseTime: 2026-01-31T03:00:00Z
 - Id: 405301
   OrderId: 5011
   Title: 虹色Passions!

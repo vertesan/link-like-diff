@@ -6,6 +6,8 @@
   ActionType: 2
 - Id: 10201500
   ActionType: 2
+- Id: 10202000
+  ActionType: 2
 - Id: 10203000
   ActionType: 2
 - Id: 10300005
@@ -217,6 +219,8 @@
 - Id: 20740003
   ActionType: 7
 - Id: 20810705
+  ActionType: 8
+- Id: 20810710
   ActionType: 8
 - Id: 20811001
   ActionType: 8

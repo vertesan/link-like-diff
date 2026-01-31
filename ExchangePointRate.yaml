@@ -7841,6 +7841,28 @@
   EndTime: 2026-01-31T02:59:59Z
   GachaSeriesId: 1050416
   BonusItemQuantity: 40
+- Id: 1001715
+  ExchangePointId: 10504
+  ExchangeItemType: 2
+  ExchangeItemId: 10515100
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2026-02-10T02:59:59Z
+  GachaSeriesId: 1050417
+  BonusItemQuantity: 40
+- Id: 1001716
+  ExchangePointId: 10504
+  ExchangeItemType: 2
+  ExchangeItemId: 10525100
+  ExchangeItemQuantity: 1
+  ExchangePrice: 300
+  LimitedCount: 0
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2026-02-10T02:59:59Z
+  GachaSeriesId: 1050417
+  BonusItemQuantity: 40
 - Id: 2000001
   ExchangePointId: 1000101
   ExchangeItemType: 2

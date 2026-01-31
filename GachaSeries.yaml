@@ -5928,7 +5928,7 @@
   GachaExchangePointId: 1050412
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 5
+  OrderId: 7
   FilterType: 1
   PickUpCardSeriesId_1: 1041521
   PickUpCardBonusItemQuantity_1: 0
@@ -5959,7 +5959,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 4
+  OrderId: 6
   FilterType: 1
   PickUpCardSeriesId_1: 1041522
   PickUpCardBonusItemQuantity_1: 40
@@ -5990,7 +5990,7 @@
   GachaExchangePointId: 1050414
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 2
+  OrderId: 4
   FilterType: 1
   PickUpCardSeriesId_1: 1032902
   PickUpCardBonusItemQuantity_1: 0
@@ -6021,7 +6021,7 @@
   GachaExchangePointId: 1050415
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 3
+  OrderId: 5
   FilterType: 1
   PickUpCardSeriesId_1: 1032901
   PickUpCardBonusItemQuantity_1: 0
@@ -6052,7 +6052,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 1
+  OrderId: 3
   FilterType: 1
   PickUpCardSeriesId_1: 1043522
   PickUpCardBonusItemQuantity_1: 40
@@ -6069,6 +6069,37 @@
   BgType: 0
   StartTime: 2026-01-22T11:30:00Z
   EndTime: 2026-01-31T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050417
+  GachaSeriesName: 2025 WINTER LIMITED COLLECTION VOL.6
+  Description: WINTER LIMITED COLLECTION VOL.6
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10504
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 2
+  FilterType: 1
+  PickUpCardSeriesId_1: 1051510
+  PickUpCardBonusItemQuantity_1: 40
+  PickUpCardSeriesId_2: 1052510
+  PickUpCardBonusItemQuantity_2: 40
+  PickUpCardSeriesId_3: 0
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 0
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2026-02-10T02:59:59Z
   NoticeText: ""
   GachaTimeLimitType: 0
   AvailableTime: 0

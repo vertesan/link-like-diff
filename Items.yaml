@@ -9108,6 +9108,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2026-01-05T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042522
+  Name: "[Jolie Mademoiselle]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9768,6 +9780,18 @@
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2025-12-19T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4051510
+  Name: "[蓮ノ空歌留多]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4051801
   Name: "[Oracle Étude]桂城\u00a0泉 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9959,6 +9983,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-12-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052510
+  Name: "[蓮ノ空歌留多]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2026-01-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052801
   Name: "[Oracle Étude]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

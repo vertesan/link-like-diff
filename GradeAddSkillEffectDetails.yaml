@@ -925,7 +925,7 @@
 - Id: 51009020101
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 11111
+  EffectValue: 11000
 - Id: 51009020200
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -933,7 +933,7 @@
 - Id: 51009020201
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 12500
+  EffectValue: 12000
 - Id: 51009020300
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -941,7 +941,15 @@
 - Id: 51009020301
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
-  EffectValue: 14286
+  EffectValue: 13000
+- Id: 51009020500
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51009020501
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 15000
 - Id: 51009029990
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
