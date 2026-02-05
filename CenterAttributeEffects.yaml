@@ -136,6 +136,9 @@
 - Id: 100000300
   CenterAttributeEffectType: 10
   CenterAttributeEffectValue: 300
+- Id: 101000100
+  CenterAttributeEffectType: 10
+  CenterAttributeEffectValue: -100
 - Id: 101000200
   CenterAttributeEffectType: 10
   CenterAttributeEffectValue: -200

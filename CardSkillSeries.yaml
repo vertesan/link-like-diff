@@ -7123,6 +7123,21 @@
   SkillIcon: 10515100
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 10515110
+  Name: デザインリアリティ
+  SkillIcon: 10515110
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10515111
+  Name: デザインリアリティ
+  SkillIcon: 10515110
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10515112
+  Name: デザインリアリティ
+  SkillIcon: 10515110
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
 - Id: 10518010
   Name: Elysion
   SkillIcon: 10518010
@@ -7377,6 +7392,21 @@
   Name: グルーヴィサウンドバイブス
   SkillIcon: 10525100
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10525110
+  Name: コンサートミストレス
+  SkillIcon: 10525110
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10525111
+  Name: コンサートミストレス
+  SkillIcon: 10525110
+  SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10525112
+  Name: コンサートミストレス
+  SkillIcon: 10525110
+  SkillMainEffect: 53
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -9823,6 +9853,11 @@
   SkillIcon: 20515100
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 20515110
+  Name: トゥルーイミテーション
+  SkillIcon: 20515110
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20518010
   Name: mode:REALIZER
   SkillIcon: 20518010
@@ -9907,6 +9942,11 @@
   Name: アンビエンスエクステワイド
   SkillIcon: 20525100
   SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 20525110
+  Name: ポエティックパフォーマンス
+  SkillIcon: 20525110
+  SkillMainEffect: 30
   IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
@@ -12273,6 +12313,11 @@
   SkillIcon: 30515100
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 30515110
+  Name: ブルームオペレーター
+  SkillIcon: 30515110
+  SkillMainEffect: 50
+  IsExSpecialAppeal: 0
 - Id: 30518010
   Name: Radioactive
   SkillIcon: 30518010
@@ -12347,6 +12392,11 @@
   Name: オーバーセクション：ボルテージゲイン & APゲイン & APレデュース & ムードブースト：セラス
   SkillIcon: 30525100
   SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 30525110
+  Name: ブルームコンダクター
+  SkillIcon: 30525110
+  SkillMainEffect: 47
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive
@@ -13037,6 +13087,26 @@
   Name: スペードバイブスメロウ
   SkillIcon: 80514040
   SkillMainEffect: 47
+  IsExSpecialAppeal: 0
+- Id: 80495010
+  Name: デザインリアリティ
+  SkillIcon: 80515110
+  SkillMainEffect: 57
+  IsExSpecialAppeal: 0
+- Id: 80505010
+  Name: コンサートミストレス
+  SkillIcon: 80525110
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 80505020
+  Name: コンサートミストレス
+  SkillIcon: 80525111
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 80505030
+  Name: コンサートミストレス
+  SkillIcon: 80525112
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス

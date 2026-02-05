@@ -9792,6 +9792,18 @@
   Description: スタイル解放素材(桂城 泉)
   StartTime: 2026-01-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4051511
+  Name: "[廻天の車窓]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2026-02-05T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4051801
   Name: "[Oracle Étude]桂城\u00a0泉 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9995,6 +10007,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2026-01-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052511
+  Name: "[再臨の車窓]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2026-02-05T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052801
   Name: "[Oracle Étude]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

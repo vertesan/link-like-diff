@@ -9112,6 +9112,36 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20515111
+  CenterAttributeSeriesId: 20515110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 10032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20515112
+  CenterAttributeSeriesId: 20515110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 20032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20515113
+  CenterAttributeSeriesId: 20515110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 30032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20515114
+  CenterAttributeSeriesId: 20515110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000002
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20515115
+  CenterAttributeSeriesId: 20515110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000100
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
 - Id: 20518011
   CenterAttributeSeriesId: 20518010
   CenterAttributeName: アピールアップ（桂城泉）&APレデュース&CTレデュース
@@ -9430,6 +9460,36 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20525111
+  CenterAttributeSeriesId: 20525110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 10032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20525112
+  CenterAttributeSeriesId: 20525110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 20032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20525113
+  CenterAttributeSeriesId: 20525110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: 11051,11052
+  CenterAttributeEffectId: 30032000
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20525114
+  CenterAttributeSeriesId: 20525110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000002
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
+- Id: 20525115
+  CenterAttributeSeriesId: 20525110
+  CenterAttributeName: 廻天の車窓
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000100
+  Description: 桂城泉／セラスのアピール値が320%上昇／全てのスキルの消費APが2減少／クールタイムが1秒減少
 - Id: 20528011
   CenterAttributeSeriesId: 20528010
   CenterAttributeName: アピールアップ（セラス）&APレデュース&CTレデュース

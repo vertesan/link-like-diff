@@ -75,3 +75,31 @@
   SkillSeriesId: 80345110
   Mood: 2
   Style: 4
+- Id: 1051511001
+  SpecialAppealTokenSetId: 1051511001
+  SpecialAppealTokenResourceId: 85151101
+  TargetParameter: 1051
+  SkillSeriesId: 80495010
+  Mood: 2
+  Style: 4
+- Id: 1052511001
+  SpecialAppealTokenSetId: 1052511001
+  SpecialAppealTokenResourceId: 85251101
+  TargetParameter: 1052
+  SkillSeriesId: 80505010
+  Mood: 2
+  Style: 2
+- Id: 1052511002
+  SpecialAppealTokenSetId: 1052511001
+  SpecialAppealTokenResourceId: 85251102
+  TargetParameter: 1052
+  SkillSeriesId: 80505020
+  Mood: 2
+  Style: 2
+- Id: 1052511003
+  SpecialAppealTokenSetId: 1052511001
+  SpecialAppealTokenResourceId: 85251103
+  TargetParameter: 1052
+  SkillSeriesId: 80505030
+  Mood: 2
+  Style: 2
