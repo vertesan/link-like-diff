@@ -7548,6 +7548,18 @@
   Description: スタイル解放素材(村野 さやか)
   StartTime: 2025-12-28T12:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4032534
+  Name: "[リブウト]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2026-02-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4032801
   Name: "[Prism Echo]村野\u00a0さやか 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9120,6 +9132,18 @@
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2026-01-31T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4042523
+  Name: "[リブウト]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2026-02-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4042801
   Name: "[Ether Aria]徒町\u00a0小鈴 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -9887,6 +9911,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-10-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4052404
+  Name: "[いちご123]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
+  StartTime: 2026-02-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4052501
   Name: "[Dream Believers]セラス\u00a0柳田\u00a0リリエンフェルト 解放Pt."

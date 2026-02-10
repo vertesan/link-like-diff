@@ -5958,6 +5958,26 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+- Id: 1032534
+  Evolution0Id: 10325340
+  Evolution1Id: 10325341
+  Evolution2Id: 10325342
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10325343
+  Evolution4Id: 10325344
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
 - Id: 1032801
   Evolution0Id: 0
   Evolution1Id: 10328011
@@ -8578,6 +8598,26 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 1
+- Id: 1042523
+  Evolution0Id: 10425230
+  Evolution1Id: 10425231
+  Evolution2Id: 10425232
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 0
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10425233
+  Evolution4Id: 10425234
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
 - Id: 1042801
   Evolution0Id: 0
   Evolution1Id: 10428011
@@ -9853,6 +9893,26 @@
   SideStyleSettingCharacterId: ""
   Evolution3Id: 10524033
   Evolution4Id: 10524034
+  Evolution3FanLvPt: 80
+  Evolution4FanLvPt: 80
+  Evolution3RequiredFanLv: 20
+  Evolution4RequiredFanLv: 40
+  StyleSettingType: 1
+- Id: 1052404
+  Evolution0Id: 10524040
+  Evolution1Id: 10524041
+  Evolution2Id: 10524042
+  ObtainFanLvPt: 200
+  Evolution1FanLvPt: 120
+  Evolution2FanLvPt: 80
+  LimitBreak1FanLvPt: 100
+  LimitBreak2FanLvPt: 100
+  LimitBreak3FanLvPt: 100
+  LimitBreak4FanLvPt: 100
+  LimitedType: 101
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10524043
+  Evolution4Id: 10524044
   Evolution3FanLvPt: 80
   Evolution4FanLvPt: 80
   Evolution3RequiredFanLv: 20

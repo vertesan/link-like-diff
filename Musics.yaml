@@ -822,7 +822,7 @@
   IsVideoMode: 0
   VideoBgId: 3
   SongType: 2
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2026-02-10T03:00:00Z
 - Id: 103301
   OrderId: 5003
   Title: TOKIMEKI Runners
@@ -954,7 +954,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2026-02-10T03:00:00Z
 - Id: 104103
   OrderId: 1018
   Title: 365 Days
@@ -6994,6 +6994,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2026-01-31T03:00:00Z
+- Id: 405135
+  OrderId: 1435
+  Title: リブウト
+  TitleFurigana: りぶうと
+  JacketId: 405135
+  SoundId: 40513501
+  Description: DOLLCHESTRA
+  GenerationsId: 105
+  UnitId: 102
+  CenterCharacterId: 1042
+  SingerCharacterId: "1032"
+  SupportCharacterId: 1031,1033,1041,1043,1051,1052
+  MusicType: 3
+  ExperienceType: 1
+  BeatPointCoefficient: 10714
+  ApIncrement: 909
+  SongTime: 9091
+  PlayTime: 109091
+  FeverSectionNo: 4
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2026-02-10T03:00:00Z
 - Id: 405201
   OrderId: 6033
   Title: テレパシ
@@ -7089,8 +7122,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 1
   SongType: 2
   MusicScoreReleaseTime: 2026-01-05T03:00:00Z
 - Id: 405204
@@ -7122,8 +7155,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 2
   MusicScoreReleaseTime: 2026-01-05T03:00:00Z
 - Id: 405205
@@ -7155,8 +7188,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 3
   SongType: 2
   MusicScoreReleaseTime: 2026-01-05T03:00:00Z
 - Id: 405206
@@ -7188,8 +7221,8 @@
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:00Z
   MaxAp: 20
-  IsVideoMode: 0
-  VideoBgId: 0
+  IsVideoMode: 1
+  VideoBgId: 2
   SongType: 2
   MusicScoreReleaseTime: 2026-01-05T03:00:00Z
 - Id: 405207

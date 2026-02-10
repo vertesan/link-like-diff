@@ -4368,6 +4368,21 @@
   SkillIcon: 10325330
   SkillMainEffect: 11
   IsExSpecialAppeal: 0
+- Id: 10325340
+  Name: フローズンサン
+  SkillIcon: 10325340
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10325341
+  Name: フローズンサン
+  SkillIcon: 10325340
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10325342
+  Name: フローズンサン
+  SkillIcon: 10325340
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -6308,6 +6323,21 @@
   SkillIcon: 10425220
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10425230
+  Name: ダークネスサン
+  SkillIcon: 10425230
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10425231
+  Name: ダークネスサン
+  SkillIcon: 10425230
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10425232
+  Name: ダークネスサン
+  SkillIcon: 10425230
+  SkillMainEffect: 34
+  IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
   SkillIcon: 10428010
@@ -7242,6 +7272,21 @@
   Name: リャンシェン
   SkillIcon: 10524030
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 10524040
+  Name: -
+  SkillIcon: 10524040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10524041
+  Name: -
+  SkillIcon: 10524040
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 10524042
+  Name: -
+  SkillIcon: 10524040
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 10525010
   Name: ワイドサウンドバイブス
@@ -8918,6 +8963,11 @@
   SkillIcon: 20325330
   SkillMainEffect: 31
   IsExSpecialAppeal: 0
+- Id: 20325340
+  Name: リブウトアトラクト
+  SkillIcon: 20325340
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -9573,6 +9623,11 @@
   SkillIcon: 20425220
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 20425230
+  Name: リブウトボルテージ
+  SkillIcon: 20425230
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
   SkillIcon: 20428010
@@ -9892,6 +9947,11 @@
   Name: テトラバイブス
   SkillIcon: 20524030
   SkillMainEffect: 47
+  IsExSpecialAppeal: 0
+- Id: 20524040
+  Name: -
+  SkillIcon: 20524040
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20525010
   Name: サウンドアンビエンス
@@ -11478,6 +11538,11 @@
   SkillIcon: 30325330
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30325340
+  Name: ワイルドドリーム
+  SkillIcon: 30325340
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -12063,6 +12128,11 @@
   SkillIcon: 30425220
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30425230
+  Name: ワイルドソウル
+  SkillIcon: 30425230
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
   SkillIcon: 30428010
@@ -12342,6 +12412,11 @@
   Name: ナンファンジーホア
   SkillIcon: 30524030
   SkillMainEffect: 902
+  IsExSpecialAppeal: 0
+- Id: 30524040
+  Name: -
+  SkillIcon: 30524040
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30525010
   Name: サウンドバイブス
