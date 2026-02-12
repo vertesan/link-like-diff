@@ -586,3 +586,17 @@
   IsBadgeDisplayType: 0
   MonthText: January
   YearText: "2026"
+- Id: 105011
+  SeasonsId: 10511
+  Name: 第11話『みんなで、花咲きたい！』
+  Description: |-
+    全国でのイベント開催のため発足したブルパ連合。
+    だが、参加メンバーからの不安の声があることを
+    知った花帆は、ある“作戦“に打って出る！
+  StartTime: 2026-02-12T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  FiscalYearDisplay: 2025
+  AdvAlbumId: 0
+  IsBadgeDisplayType: 0
+  MonthText: February
+  YearText: "2026"

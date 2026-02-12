@@ -425,3 +425,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2026-01-20T19:00:00Z
   EndTime: 2026-01-22T18:59:59Z
+- Id: 201062
+  Name: ハッピーバレンタイン♡ 満腹！チョコレートケーキプレゼント
+  LoginBonusRewardSeriesId: 201062
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2026-02-13T19:00:00Z
+  EndTime: 2026-02-14T18:59:59Z

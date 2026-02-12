@@ -263,11 +263,41 @@
   CharactersId: 9007
   CostumesId: 1004
   HairStyleId: 1
+- Id: 1005102101
+  Label: 体操服(夏)_乙宗梢
+  CharactersId: 1021
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005102201
+  Label: 体操服(夏)_夕霧綴理
+  CharactersId: 1022
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005102301
+  Label: 体操服(夏)_藤島慈
+  CharactersId: 1023
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005103101
+  Label: 体操服(夏)_日野下花帆
+  CharactersId: 1031
+  CostumesId: 1005
+  HairStyleId: 1
+- Id: 1005103201
+  Label: 体操服(夏)_村野さやか_髪型01
+  CharactersId: 1032
+  CostumesId: 1005
+  HairStyleId: 1
 - Id: 1005103209
   Label: 体操服(夏)_村野さやか_髪型09
   CharactersId: 1032
   CostumesId: 1005
   HairStyleId: 9
+- Id: 1005103301
+  Label: 体操服(夏)_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 1005
+  HairStyleId: 1
 - Id: 1005104101
   Label: 体操服(夏)_百生吟子
   CharactersId: 1041
@@ -1113,6 +1143,11 @@
   CharactersId: 1022
   CostumesId: 3005
   HairStyleId: 3
+- Id: 3005102308
+  Label: ライブ衣装05_藤島慈
+  CharactersId: 1023
+  CostumesId: 3005
+  HairStyleId: 8
 - Id: 3005103104
   Label: ライブ衣装05_日野下花帆
   CharactersId: 1031
@@ -1123,6 +1158,11 @@
   CharactersId: 1032
   CostumesId: 3005
   HairStyleId: 6
+- Id: 3005103309
+  Label: ライブ衣装05_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3005
+  HairStyleId: 9
 - Id: 3006102102
   Label: ライブ衣装06_乙宗梢
   CharactersId: 1021
@@ -2028,11 +2068,46 @@
   CharactersId: 1052
   CostumesId: 3028
   HairStyleId: 4
+- Id: 3029103109
+  Label: ライブ衣装25_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3029
+  HairStyleId: 9
+- Id: 3029103203
+  Label: ライブ衣装25_村野さやか
+  CharactersId: 1032
+  CostumesId: 3029
+  HairStyleId: 3
+- Id: 3029103305
+  Label: ライブ衣装25_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3029
+  HairStyleId: 5
+- Id: 3029104105
+  Label: ライブ衣装25_百生吟子
+  CharactersId: 1041
+  CostumesId: 3029
+  HairStyleId: 5
+- Id: 3029104204
+  Label: ライブ衣装25_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3029
+  HairStyleId: 4
 - Id: 3029104302
   Label: ライブ衣装25_安養寺姫芽
   CharactersId: 1043
   CostumesId: 3029
   HairStyleId: 2
+- Id: 3029105105
+  Label: ライブ衣装25_桂城泉
+  CharactersId: 1051
+  CostumesId: 3029
+  HairStyleId: 5
+- Id: 3029105205
+  Label: ライブ衣装25_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 3029
+  HairStyleId: 5
 - Id: 3030103105
   Label: ライブ衣装26_日野下花帆
   CharactersId: 1031
@@ -2073,6 +2148,46 @@
   CharactersId: 1052
   CostumesId: 3030
   HairStyleId: 5
+- Id: 3031103101
+  Label: ライブ衣装27_日野下花帆
+  CharactersId: 1031
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031103209
+  Label: ライブ衣装27_村野さやか
+  CharactersId: 1032
+  CostumesId: 3031
+  HairStyleId: 9
+- Id: 3031103301
+  Label: ライブ衣装27_大沢瑠璃乃
+  CharactersId: 1033
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031104101
+  Label: ライブ衣装27_百生吟子
+  CharactersId: 1041
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031104201
+  Label: ライブ衣装27_徒町小鈴
+  CharactersId: 1042
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031104301
+  Label: ライブ衣装27_安養寺姫芽
+  CharactersId: 1043
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031105101
+  Label: ライブ衣装27_桂城泉
+  CharactersId: 1051
+  CostumesId: 3031
+  HairStyleId: 1
+- Id: 3031105201
+  Label: ライブ衣装27_セラス・柳田・L
+  CharactersId: 1052
+  CostumesId: 3031
+  HairStyleId: 1
 - Id: 3032103101
   Label: Fes_制服(冬)_ローファー_日野下花帆
   CharactersId: 1031
