@@ -5273,6 +5273,21 @@
   SkillIcon: 10335330
   SkillMainEffect: 41
   IsExSpecialAppeal: 0
+- Id: 10335340
+  Name: ギャルズヒストリー
+  SkillIcon: 10335340
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10335341
+  Name: ギャルズヒストリー
+  SkillIcon: 10335340
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 10335342
+  Name: ギャルズヒストリー
+  SkillIcon: 10335340
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -6857,6 +6872,21 @@
   Name: キャプティベイトスピリッツ
   SkillIcon: 10435220
   SkillMainEffect: 41
+  IsExSpecialAppeal: 0
+- Id: 10435230
+  Name: フリーティングラブ
+  SkillIcon: 10435230
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10435231
+  Name: フリーティングラブ
+  SkillIcon: 10435230
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10435232
+  Name: フリーティングラブ
+  SkillIcon: 10435230
+  SkillMainEffect: 21
   IsExSpecialAppeal: 0
 - Id: 10438011
   Name: エイペックス
@@ -9268,6 +9298,11 @@
   SkillIcon: 20335330
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20335340
+  Name: Ruri&To
+  SkillIcon: 20335340
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -9801,6 +9836,11 @@
 - Id: 20435220
   Name: エコーズるりめぐ
   SkillIcon: 20435220
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 20435230
+  Name: PRINCEε>ε>
+  SkillIcon: 20435230
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
 - Id: 20438010
@@ -11813,6 +11853,11 @@
   SkillIcon: 30335330
   SkillMainEffect: 17
   IsExSpecialAppeal: 0
+- Id: 30335340
+  Name: セオリーオブエボリューション
+  SkillIcon: 30335340
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -12287,6 +12332,11 @@
   Name: ロードトゥみらくらぱーく！
   SkillIcon: 30435220
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 30435230
+  Name: シュガーリードリーム
+  SkillIcon: 30435230
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション

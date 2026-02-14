@@ -754,3 +754,15 @@
   InfoEndTime: 2026-01-21T14:59:59Z
   StartTime: 2026-01-12T03:00:00Z
   EndTime: 2026-01-17T18:59:59Z
+- Id: 805111
+  Name: Live Grand Prix 105期FinalTerm 第2回 個人戦
+  Description: Live Grand Prix 105期FinalTerm 第2回 個人戦
+  GrandPrixType: 1
+  GuildRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000,15000
+  PersonalRankingTabs: 0,1,200,500,1000,2000,3000,5000,7000,10000,15000
+  GuildPresentCommentId: 0
+  PersonalPresentCommentId: 0
+  InfoStartTime: 2026-02-14T03:00:00Z
+  InfoEndTime: 2026-02-21T02:59:59Z
+  StartTime: 2026-02-14T03:00:00Z
+  EndTime: 2026-02-18T18:59:59Z

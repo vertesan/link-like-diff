@@ -28,6 +28,9 @@
 - Id: 10020000
   CenterAttributeEffectType: 1
   CenterAttributeEffectValue: 20000
+- Id: 10022000
+  CenterAttributeEffectType: 1
+  CenterAttributeEffectValue: 22000
 - Id: 10025000
   CenterAttributeEffectType: 1
   CenterAttributeEffectValue: 25000
@@ -67,6 +70,9 @@
 - Id: 20020000
   CenterAttributeEffectType: 2
   CenterAttributeEffectValue: 20000
+- Id: 20022000
+  CenterAttributeEffectType: 2
+  CenterAttributeEffectValue: 22000
 - Id: 20025000
   CenterAttributeEffectType: 2
   CenterAttributeEffectValue: 25000
@@ -106,6 +112,9 @@
 - Id: 30020000
   CenterAttributeEffectType: 3
   CenterAttributeEffectValue: 20000
+- Id: 30022000
+  CenterAttributeEffectType: 3
+  CenterAttributeEffectValue: 22000
 - Id: 30025000
   CenterAttributeEffectType: 3
   CenterAttributeEffectValue: 25000
