@@ -106,3 +106,39 @@
   RequireItemType: 3
   RequireItemId: 1002001
   RequireItemNum: 100
+- Id: 4001
+  RaidResourceId: 4
+  Order: 1
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 50
+- Id: 4002
+  RaidResourceId: 4
+  Order: 2
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 50
+- Id: 4003
+  RaidResourceId: 4
+  Order: 3
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 50
+- Id: 4004
+  RaidResourceId: 4
+  Order: 4
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 75
+- Id: 4005
+  RaidResourceId: 4
+  Order: 5
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 75
+- Id: 4006
+  RaidResourceId: 4
+  Order: 6
+  RequireItemType: 3
+  RequireItemId: 1002001
+  RequireItemNum: 100

@@ -18,3 +18,33 @@
   MaxTargetNum: 200000
   BaseMultiplier: 1900010
   AdditionalMultiplier: 10
+- Id: 5
+  MinTargetNum: 200001
+  MaxTargetNum: 1999999
+  BaseMultiplier: 2900001
+  AdditionalMultiplier: 1
+- Id: 6
+  MinTargetNum: 2000000
+  MaxTargetNum: 3999999
+  BaseMultiplier: 20000000
+  AdditionalMultiplier: 5
+- Id: 7
+  MinTargetNum: 4000000
+  MaxTargetNum: 5999999
+  BaseMultiplier: 40000000
+  AdditionalMultiplier: 5
+- Id: 8
+  MinTargetNum: 6000000
+  MaxTargetNum: 7999999
+  BaseMultiplier: 60000000
+  AdditionalMultiplier: 5
+- Id: 9
+  MinTargetNum: 8000000
+  MaxTargetNum: 9999999
+  BaseMultiplier: 80000000
+  AdditionalMultiplier: 5
+- Id: 10
+  MinTargetNum: 10000000
+  MaxTargetNum: 10000000
+  BaseMultiplier: 150000000
+  AdditionalMultiplier: 0

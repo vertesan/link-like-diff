@@ -5288,6 +5288,21 @@
   SkillIcon: 10335340
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 10335350
+  Name: ビタースウィート
+  SkillIcon: 10335350
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335351
+  Name: ビタースウィート
+  SkillIcon: 10335350
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335352
+  Name: ビタースウィート
+  SkillIcon: 10335350
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
   SkillIcon: 10338011
@@ -6007,6 +6022,21 @@
   Name: セカンドステージ
   SkillIcon: 10424050
   SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10424060
+  Name: P.S.
+  SkillIcon: 10424060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10424061
+  Name: P.S.
+  SkillIcon: 10424060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10424062
+  Name: P.S.
+  SkillIcon: 10424060
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 10425010
   Name: メンタルプロテクト
@@ -6886,6 +6916,21 @@
 - Id: 10435232
   Name: フリーティングラブ
   SkillIcon: 10435230
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10435240
+  Name: ペインフルスマイル
+  SkillIcon: 10435240
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10435241
+  Name: ペインフルスマイル
+  SkillIcon: 10435240
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10435242
+  Name: ペインフルスマイル
+  SkillIcon: 10435240
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
 - Id: 10438011
@@ -9303,6 +9348,11 @@
   SkillIcon: 20335340
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 20335350
+  Name: トモダチメモリーズ
+  SkillIcon: 20335350
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
   SkillIcon: 20338010
@@ -9547,6 +9597,11 @@
   Name: ジャックボルテージメロウ
   SkillIcon: 20424050
   SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 20424060
+  Name: ジャストフォーフューチャー
+  SkillIcon: 20424060
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20425010
   Name: ブレイブボルテックスアトラクション
@@ -9842,6 +9897,11 @@
   Name: PRINCEε>ε>
   SkillIcon: 20435230
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 20435240
+  Name: チームメモリーズ
+  SkillIcon: 20435240
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20438010
   Name: ファッシネイション
@@ -11858,6 +11918,11 @@
   SkillIcon: 30335340
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
+- Id: 30335350
+  Name: R's パーク
+  SkillIcon: 30335350
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
   SkillIcon: 30338010
@@ -12061,6 +12126,11 @@
 - Id: 30424050
   Name: Diamond Pair Power Spread
   SkillIcon: 30424050
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 30424060
+  Name: メッセンジャー
+  SkillIcon: 30424060
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30425010
@@ -12337,6 +12407,11 @@
   Name: シュガーリードリーム
   SkillIcon: 30435230
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 30435240
+  Name: みらくらスピリッツ
+  SkillIcon: 30435240
+  SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30438010
   Name: ドロー ＆ オーバーセクション：ファッシネイション
@@ -12803,6 +12878,11 @@
   SkillIcon: 80215210
   SkillMainEffect: 2
   IsExSpecialAppeal: 0
+- Id: 80084010
+  Name: レター
+  SkillIcon: 80424060
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 80085010
   Name: ワイドエクステンド
   SkillIcon: 80415050
@@ -13233,6 +13313,11 @@
   SkillIcon: 80525112
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 80515010
+  Name: さざなみ
+  SkillIcon: 80335350
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13382,6 +13467,11 @@
   Name: インスタンス & ドロー：アトラクトブースト
   SkillIcon: 90215210
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90084010
+  Name: シールドエモーション
+  SkillIcon: 90424060
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 90085010
   Name: インスタンス & ドロー：ハートブースト：スリーズブーケ
@@ -13802,4 +13892,9 @@
   Name: Spade Pair Power Spread
   SkillIcon: 90514040
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90515010
+  Name: サザナミハーモニー
+  SkillIcon: 90335350
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0

@@ -2796,6 +2796,18 @@
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2025-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 3003052
+  Name: 【WAWO!】URセレクトチケット
+  NameFurigana: わおうるとられあせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2026-02-21T07:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
   NameFurigana: すたいるぽいんと
@@ -8292,6 +8304,18 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2026-02-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4033535
+  Name: "[トモダチになれる場所]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2026-02-20T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4033801
   Name: "[Prism Echo]大沢\u00a0瑠璃乃  解放Pt."
   NameFurigana: かいほうぽいんと
@@ -8879,6 +8903,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(徒町 小鈴)
   StartTime: 2025-12-19T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4042406
+  Name: "[拝啓、未来の君へ]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2026-02-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4042501
   Name: "[Dream Believers]徒町\u00a0小鈴 解放Pt."
@@ -9587,6 +9623,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(安養寺 姫芽)
   StartTime: 2026-02-14T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4043524
+  Name: "[トモダチになれる場所]安養寺\u00a0姫芽 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(安養寺 姫芽)
+  StartTime: 2026-02-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4043801
   Name: "[Ether Aria]安養寺\u00a0姫芽 解放Pt."

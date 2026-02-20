@@ -13,3 +13,8 @@
   RaidResourceDefaultNum: 6
   RaidResourceLimit: 99
   RaidResourceAddLimit: 6
+- Id: 4
+  RaidEventId: 900040
+  RaidResourceDefaultNum: 6
+  RaidResourceLimit: 99
+  RaidResourceAddLimit: 6

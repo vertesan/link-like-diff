@@ -68,3 +68,24 @@
   PointAddLimit: 0
   StartTime: 2025-09-19T03:00:00Z
   EndTime: 2025-09-23T18:59:59Z
+- Id: 9000401
+  Name: 雨ステージ
+  Description: 雨ステージ
+  RaidEventId: 900040
+  PointAddLimit: 3333333334
+  StartTime: 2026-02-20T03:00:00Z
+  EndTime: 2026-02-25T18:59:59Z
+- Id: 9000402
+  Name: 風ステージ
+  Description: 風ステージ
+  RaidEventId: 900040
+  PointAddLimit: 3333333333
+  StartTime: 2026-02-20T03:00:00Z
+  EndTime: 2026-02-25T18:59:59Z
+- Id: 9000403
+  Name: 太陽ステージ
+  Description: 太陽ステージ
+  RaidEventId: 900040
+  PointAddLimit: 3333333333
+  StartTime: 2026-02-20T03:00:00Z
+  EndTime: 2026-02-25T18:59:59Z

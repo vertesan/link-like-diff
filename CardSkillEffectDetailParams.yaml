@@ -4744,6 +4744,9 @@
 - Id: 303253100130
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "14"
+- Id: 303353500110
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "24"
 - Id: 304140500110
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "17"
@@ -4756,6 +4759,9 @@
 - Id: 304240500110
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "18"
+- Id: 304240600110
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
 - Id: 304250500150
   ParamType: CHANGE_PARAM_VALUE_ACTION_ID
   ParamValue: "1500000"
@@ -8590,6 +8596,48 @@
 - Id: 804190201410
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "2"
+- Id: 804240600100
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600200
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600300
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600400
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600500
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600600
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600700
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600800
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240600900
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240601000
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240601100
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240601200
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240601300
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
+- Id: 804240601400
+  ParamType: TOKEN_CARD_SERIES_ID
+  ParamValue: "25"
 - Id: 804252000100
   ParamType: TOKEN_CARD_SERIES_ID
   ParamValue: "16"

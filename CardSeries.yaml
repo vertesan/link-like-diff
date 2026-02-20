@@ -7198,6 +7198,26 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 3
+- Id: 1033535
+  Evolution0Id: 10335350
+  Evolution1Id: 10335351
+  Evolution2Id: 10335352
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 5
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10335353
+  Evolution4Id: 10335354
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
 - Id: 1033801
   Evolution0Id: 0
   Evolution1Id: 10338011
@@ -8173,6 +8193,26 @@
   SideStyleSettingCharacterId: ""
   Evolution3Id: 10424053
   Evolution4Id: 10424054
+  Evolution3FanLvPt: 80
+  Evolution4FanLvPt: 80
+  Evolution3RequiredFanLv: 20
+  Evolution4RequiredFanLv: 40
+  StyleSettingType: 1
+- Id: 1042406
+  Evolution0Id: 10424060
+  Evolution1Id: 10424061
+  Evolution2Id: 10424062
+  ObtainFanLvPt: 200
+  Evolution1FanLvPt: 120
+  Evolution2FanLvPt: 80
+  LimitBreak1FanLvPt: 100
+  LimitBreak2FanLvPt: 100
+  LimitBreak3FanLvPt: 100
+  LimitBreak4FanLvPt: 100
+  LimitedType: 5
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10424063
+  Evolution4Id: 10424064
   Evolution3FanLvPt: 80
   Evolution4FanLvPt: 80
   Evolution3RequiredFanLv: 20
@@ -9358,6 +9398,26 @@
   Evolution3RequiredFanLv: 25
   Evolution4RequiredFanLv: 50
   StyleSettingType: 3
+- Id: 1043524
+  Evolution0Id: 10435240
+  Evolution1Id: 10435241
+  Evolution2Id: 10435242
+  ObtainFanLvPt: 400
+  Evolution1FanLvPt: 240
+  Evolution2FanLvPt: 160
+  LimitBreak1FanLvPt: 400
+  LimitBreak2FanLvPt: 400
+  LimitBreak3FanLvPt: 400
+  LimitBreak4FanLvPt: 400
+  LimitedType: 5
+  SideStyleSettingCharacterId: ""
+  Evolution3Id: 10435243
+  Evolution4Id: 10435244
+  Evolution3FanLvPt: 160
+  Evolution4FanLvPt: 160
+  Evolution3RequiredFanLv: 25
+  Evolution4RequiredFanLv: 50
+  StyleSettingType: 1
 - Id: 1043801
   Evolution0Id: 0
   Evolution1Id: 10438011

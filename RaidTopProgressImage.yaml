@@ -34,3 +34,27 @@
   RaidEventId: 900030
   Order: 1
   RequirePoint: 0
+- Id: 90004001
+  RaidEventId: 900040
+  Order: 1
+  RequirePoint: 10000000000
+- Id: 90004002
+  RaidEventId: 900040
+  Order: 2
+  RequirePoint: 7000000000
+- Id: 90004003
+  RaidEventId: 900040
+  Order: 3
+  RequirePoint: 5000000000
+- Id: 90004004
+  RaidEventId: 900040
+  Order: 4
+  RequirePoint: 3000000000
+- Id: 90004005
+  RaidEventId: 900040
+  Order: 5
+  RequirePoint: 1000000000
+- Id: 90004006
+  RaidEventId: 900040
+  Order: 6
+  RequirePoint: 0
