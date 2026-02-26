@@ -57097,6 +57097,33 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 91100005
+  Name: Jacket『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』
+  Text: |-
+    4th Live Dreamのキャストライブによる
+    蓮ノ大三角の「希望」が刻まれた
+    メモリアルボックス
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 120069
+  IsVariant: 0
+  RequirementType: 0
+  RequirementDetail: SERIAL
+  RequirementValue: 260107001
+  RequirementText: Blu-ray『4th Live Dream ～Bloom, The Dream Believers～ Blu-ray Memorial BOX』購入特典
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 92000001
   Name: Live『OPENING LIVE EVENT～Bloom the Dream～』
   Text: 2023.06.04 in PACIFICO Yokohama National Convention Hall
