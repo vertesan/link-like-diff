@@ -30,6 +30,8 @@
   ActionType: 4
 - Id: 10403000
   ActionType: 4
+- Id: 10404000
+  ActionType: 4
 - Id: 10405000
   ActionType: 4
 - Id: 10410000
@@ -79,6 +81,8 @@
 - Id: 10730302
   ActionType: 7
 - Id: 10740001
+  ActionType: 7
+- Id: 10740002
   ActionType: 7
 - Id: 10740003
   ActionType: 7
@@ -144,6 +148,8 @@
   ActionType: 8
 - Id: 10825203
   ActionType: 8
+- Id: 10825205
+  ActionType: 8
 - Id: 10825210
   ActionType: 8
 - Id: 10830301
@@ -168,6 +174,10 @@
   ActionType: 10
 - Id: 11032000
   ActionType: 10
+- Id: 20200001
+  ActionType: 2
+- Id: 20200500
+  ActionType: 2
 - Id: 20201000
   ActionType: 2
 - Id: 20300010
@@ -234,11 +244,17 @@
   ActionType: 7
 - Id: 20740003
   ActionType: 7
+- Id: 20740010
+  ActionType: 7
+- Id: 20810157
+  ActionType: 8
 - Id: 20810520
   ActionType: 8
 - Id: 20810705
   ActionType: 8
 - Id: 20810710
+  ActionType: 8
+- Id: 20810757
   ActionType: 8
 - Id: 20811001
   ActionType: 8
@@ -280,11 +296,15 @@
   ActionType: 8
 - Id: 20840005
   ActionType: 8
+- Id: 20840006
+  ActionType: 8
 - Id: 20840030
   ActionType: 8
 - Id: 20900001
   ActionType: 9
 - Id: 20900002
+  ActionType: 9
+- Id: 20900004
   ActionType: 9
 - Id: 20900005
   ActionType: 9

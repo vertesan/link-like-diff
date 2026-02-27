@@ -436,6 +436,12 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11054601
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -3628,6 +3634,12 @@
   TargetId: 51054503
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 51054601
+  Name: 『手札上限 +2枚』解除
+  SquareType: 5
+  TargetId: 51054601
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 61031101
   Name: 103期 獲得ライブPt. +5%
   SquareType: 6
@@ -4354,3 +4366,9 @@
   TargetId: 571054501
   MinActionPoint: 1
   MaxActionPoint: 10
+- Id: 71054601
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571054601
+  MinActionPoint: 1
+  MaxActionPoint: 1

@@ -4288,6 +4288,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20315381
+  CenterAttributeSeriesId: 20315380
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315382
+  CenterAttributeSeriesId: 20315380
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315383
+  CenterAttributeSeriesId: 20315380
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
 - Id: 20318011
   CenterAttributeSeriesId: 20318010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -5590,6 +5608,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20325351
+  CenterAttributeSeriesId: 20325350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10007200
+  Description: 全メンバーのアピール値が72％上昇
+- Id: 20325352
+  CenterAttributeSeriesId: 20325350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20007200
+  Description: 全メンバーのアピール値が72％上昇
+- Id: 20325353
+  CenterAttributeSeriesId: 20325350
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30007200
+  Description: 全メンバーのアピール値が72％上昇
 - Id: 20328011
   CenterAttributeSeriesId: 20328010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -7462,6 +7498,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 20415231
+  CenterAttributeSeriesId: 20415230
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415232
+  CenterAttributeSeriesId: 20415230
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20415233
+  CenterAttributeSeriesId: 20415230
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
 - Id: 20418011
   CenterAttributeSeriesId: 20418010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -8232,6 +8286,24 @@
   Description: 徒町小鈴のアピール値が400％上昇
 - Id: 20429013
   CenterAttributeSeriesId: 20429010
+  CenterAttributeName: アピールアップ（徒町小鈴）
+  TargetIds: "11042"
+  CenterAttributeEffectId: 30040000
+  Description: 徒町小鈴のアピール値が400％上昇
+- Id: 20429021
+  CenterAttributeSeriesId: 20429020
+  CenterAttributeName: アピールアップ（徒町小鈴）
+  TargetIds: "11042"
+  CenterAttributeEffectId: 10040000
+  Description: 徒町小鈴のアピール値が400％上昇
+- Id: 20429022
+  CenterAttributeSeriesId: 20429020
+  CenterAttributeName: アピールアップ（徒町小鈴）
+  TargetIds: "11042"
+  CenterAttributeEffectId: 20040000
+  Description: 徒町小鈴のアピール値が400％上昇
+- Id: 20429023
+  CenterAttributeSeriesId: 20429020
   CenterAttributeName: アピールアップ（徒町小鈴）
   TargetIds: "11042"
   CenterAttributeEffectId: 30040000

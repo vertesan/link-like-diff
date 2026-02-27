@@ -947,3 +947,16 @@
   LivePointBonusLimit: 300
   StartTime: 2026-01-31T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 10546
+  Name: ステージランク6
+  GradeQuestSeasonId: 1054
+  OrderId: 6
+  BackGroundId: 100121
+  MapImageId: "4331"
+  SoundId: 1
+  IsTutorial: 0
+  DefaultGradeAddSkillsId: 51054601,51054602,51054603
+  DefaultActionPoint: 1
+  LivePointBonusLimit: 300
+  StartTime: 2026-02-27T15:00:00Z
+  EndTime: 2035-12-30T15:00:00Z

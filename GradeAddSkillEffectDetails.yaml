@@ -950,6 +950,14 @@
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   TargetMood: 0
   EffectValue: 15000
+- Id: 51009020750
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 2
+- Id: 51009020751
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  TargetMood: 0
+  EffectValue: 17500
 - Id: 51009029990
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
   TargetMood: 0
@@ -1702,3 +1710,11 @@
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
   TargetMood: 0
   EffectValue: -2
+- Id: 51015000030
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 51015000031
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: -3

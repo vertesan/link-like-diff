@@ -2901,7 +2901,7 @@
   IsVideoMode: 0
   VideoBgId: 0
   SongType: 1
-  MusicScoreReleaseTime: 2035-12-31T14:59:59Z
+  MusicScoreReleaseTime: 2026-02-28T03:00:00Z
 - Id: 204102
   OrderId: 1216
   Title: Mix shake!!（104期Ver.）
@@ -7060,6 +7060,39 @@
   VideoBgId: 0
   SongType: 1
   MusicScoreReleaseTime: 2026-02-20T03:00:00Z
+- Id: 405137
+  OrderId: 1236
+  Title: 不思議と君とライブラリー
+  TitleFurigana: ふしぎときみとらいぶらりー
+  JacketId: 405137
+  SoundId: 40513701
+  Description: スリーズブーケ
+  GenerationsId: 105
+  UnitId: 101
+  CenterCharacterId: 1031
+  SingerCharacterId: "1041"
+  SupportCharacterId: 1032,1033,1042,1043,1051,1052
+  MusicType: 2
+  ExperienceType: 1
+  BeatPointCoefficient: 8911
+  ApIncrement: 1202
+  SongTime: 12023
+  PlayTime: 144270
+  FeverSectionNo: 5
+  PreviewStartTime: 10000
+  PreviewEndTime: 15000
+  PreviewFadeInTime: 11000
+  PreviewFadeOutTime: 14000
+  ReleaseConditionType: 0
+  ReleaseConditionDetail: 0
+  ReleaseConditionText: 初めから習得
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:00Z
+  MaxAp: 20
+  IsVideoMode: 0
+  VideoBgId: 0
+  SongType: 1
+  MusicScoreReleaseTime: 2026-02-28T03:00:00Z
 - Id: 405201
   OrderId: 6033
   Title: テレパシ

@@ -436,3 +436,9 @@
   ConditionsValue: 10544
   StartTime: 2026-01-31T03:00:00Z
   EndTime: 2035-12-30T15:00:00Z
+- Id: 105460
+  GradeQuestSeriesId: 10546
+  ConditionsType: 1
+  ConditionsValue: 10545
+  StartTime: 2026-02-27T15:00:00Z
+  EndTime: 2035-12-30T15:00:00Z

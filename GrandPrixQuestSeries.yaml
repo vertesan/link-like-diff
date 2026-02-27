@@ -958,6 +958,36 @@
   SeriesNum: 3
   StartTime: 2026-01-23T03:00:00Z
   EndTime: 2026-01-28T18:59:59Z
+- Id: 7051111
+  Name: ステージA
+  Description: ステージA
+  GrandPrixesId: 705111
+  PlayLimitCount: 0
+  RetireLimitCount: 1
+  OrderId: 1
+  SeriesNum: 1
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2026-03-04T18:59:59Z
+- Id: 7051112
+  Name: ステージB
+  Description: ステージB
+  GrandPrixesId: 705111
+  PlayLimitCount: 0
+  RetireLimitCount: 1
+  OrderId: 2
+  SeriesNum: 2
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2026-03-04T18:59:59Z
+- Id: 7051113
+  Name: ステージC
+  Description: ステージC
+  GrandPrixesId: 705111
+  PlayLimitCount: 0
+  RetireLimitCount: 1
+  OrderId: 3
+  SeriesNum: 3
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2026-03-04T18:59:59Z
 - Id: 8031011
   Name: ステージA
   Description: ステージA

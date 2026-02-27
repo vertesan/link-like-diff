@@ -952,3 +952,21 @@
   SkillIcon: 20101500
   GradeAddSkillEffectsId: "5101500002"
   OrderId: 1
+- Id: 51054601
+  Name: 手札上限 +2枚
+  Description: ライブ中、手札の上限枚数が2枚増加する。
+  SkillIcon: 10101500
+  GradeAddSkillEffectsId: "4101500200"
+  OrderId: 1
+- Id: 51054602
+  Name: 手札上限 -3枚
+  Description: ライブ中、手札の上限枚数を-3枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500003"
+  OrderId: 1
+- Id: 51054603
+  Name: AP回復速度 -75%
+  Description: ライブ中、APの回復速度を-75%する。
+  SkillIcon: 20100900
+  GradeAddSkillEffectsId: "5100902075"
+  OrderId: 1

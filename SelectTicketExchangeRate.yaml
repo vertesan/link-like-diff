@@ -1342,6 +1342,20 @@
   ExchangeItemQuantity: 1
   StartTime: 2026-02-05T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 2030704050
+  SelectTicketSeriesId: 2030704
+  ExchangeItemType: 2
+  ExchangeItemId: 10415230
+  ExchangeItemQuantity: 1
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 2030704051
+  SelectTicketSeriesId: 2030704
+  ExchangeItemType: 2
+  ExchangeItemId: 10315380
+  ExchangeItemQuantity: 1
+  StartTime: 2026-02-28T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2030705001
   SelectTicketSeriesId: 2030705
   ExchangeItemType: 2

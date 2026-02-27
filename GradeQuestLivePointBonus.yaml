@@ -2350,3 +2350,35 @@
   ConditionsValue: 8
   BonusNum: 0
   BonusLimitUp: 30
+- Id: 1054601
+  GradeQuestSeriesId: 10546
+  OrderId: 1
+  Description: WINTER LIMITED
+  ConditionsType: 1
+  ConditionsValue: 4
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1054602
+  GradeQuestSeriesId: 10546
+  OrderId: 2
+  Description: PARTY LIMITED
+  ConditionsType: 1
+  ConditionsValue: 11
+  BonusNum: 20
+  BonusLimitUp: 0
+- Id: 1054603
+  GradeQuestSeriesId: 10546
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1054604
+  GradeQuestSeriesId: 10546
+  OrderId: 4
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
