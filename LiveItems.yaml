@@ -194,6 +194,10 @@
   Label: 黒猫カチューシャ
   BindBoneId: 10
   PosesId: -1
+- Id: 6101052
+  Label: 黒猫カチューシャ
+  BindBoneId: 10
+  PosesId: -1
 - Id: 7101031
   Label: うさ耳カチューシャ
   BindBoneId: 10
@@ -270,6 +274,14 @@
   Label: サングラス
   BindBoneId: 10
   PosesId: -1
+- Id: 14101041
+  Label: サングラス
+  BindBoneId: 10
+  PosesId: -1
+- Id: 14101042
+  Label: サングラス
+  BindBoneId: 10
+  PosesId: -1
 - Id: 14101043
   Label: サングラス
   BindBoneId: 10
@@ -319,6 +331,10 @@
   BindBoneId: 18
   PosesId: 20291052
 - Id: 17101032
+  Label: 渋谷サングラス
+  BindBoneId: 10
+  PosesId: -1
+- Id: 17101052
   Label: 渋谷サングラス
   BindBoneId: 10
   PosesId: -1

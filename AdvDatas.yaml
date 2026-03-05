@@ -7558,3 +7558,63 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 10501201
+  AdvSeriesId: 105012
+  Name: 第12話『ずっと花咲く僕らの桜』
+  Description: PART 1
+  ScriptId: 10501201
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 371
+  SubTitleName: "1"
+  StartTime: 2026-03-07T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10501202
+  AdvSeriesId: 105012
+  Name: 第12話『ずっと花咲く僕らの桜』
+  Description: PART 2
+  ScriptId: 10501202
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 372
+  SubTitleName: "2"
+  StartTime: 2026-03-07T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0
+- Id: 10501203
+  AdvSeriesId: 105012
+  Name: 第12話『ずっと花咲く僕らの桜』
+  Description: PART 3
+  ScriptId: 10501203
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 373
+  SubTitleName: "3"
+  StartTime: 2026-03-07T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 0

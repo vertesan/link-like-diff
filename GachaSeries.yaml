@@ -5928,7 +5928,7 @@
   GachaExchangePointId: 1050412
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 13
+  OrderId: 14
   FilterType: 1
   PickUpCardSeriesId_1: 1041521
   PickUpCardBonusItemQuantity_1: 0
@@ -5959,7 +5959,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 12
+  OrderId: 13
   FilterType: 1
   PickUpCardSeriesId_1: 1041522
   PickUpCardBonusItemQuantity_1: 40
@@ -5990,7 +5990,7 @@
   GachaExchangePointId: 1050414
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 10
+  OrderId: 11
   FilterType: 1
   PickUpCardSeriesId_1: 1032902
   PickUpCardBonusItemQuantity_1: 0
@@ -6021,7 +6021,7 @@
   GachaExchangePointId: 1050415
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 11
+  OrderId: 12
   FilterType: 1
   PickUpCardSeriesId_1: 1032901
   PickUpCardBonusItemQuantity_1: 0
@@ -6052,7 +6052,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 9
+  OrderId: 10
   FilterType: 1
   PickUpCardSeriesId_1: 1043522
   PickUpCardBonusItemQuantity_1: 40
@@ -6083,7 +6083,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 8
+  OrderId: 9
   FilterType: 1
   PickUpCardSeriesId_1: 1051510
   PickUpCardBonusItemQuantity_1: 40
@@ -6114,7 +6114,7 @@
   GachaExchangePointId: 1050418
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 7
+  OrderId: 8
   FilterType: 1
   PickUpCardSeriesId_1: 1051511
   PickUpCardBonusItemQuantity_1: 0
@@ -6145,7 +6145,7 @@
   GachaExchangePointId: 10504
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 6
+  OrderId: 7
   FilterType: 1
   PickUpCardSeriesId_1: 1042523
   PickUpCardBonusItemQuantity_1: 40
@@ -6176,7 +6176,7 @@
   GachaExchangePointId: 1050420
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 5
+  OrderId: 6
   FilterType: 1
   PickUpCardSeriesId_1: 1043523
   PickUpCardBonusItemQuantity_1: 40
@@ -6238,7 +6238,7 @@
   GachaExchangePointId: 10505
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 4
+  OrderId: 5
   FilterType: 1
   PickUpCardSeriesId_1: 1043524
   PickUpCardBonusItemQuantity_1: 40
@@ -6269,7 +6269,7 @@
   GachaExchangePointId: 1050502
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 2
+  OrderId: 3
   FilterType: 1
   PickUpCardSeriesId_1: 1042902
   PickUpCardBonusItemQuantity_1: 0
@@ -6300,7 +6300,7 @@
   GachaExchangePointId: 1050503
   ExchangePointNoticeNum: 100
   ExchangePointLockFlag: 0
-  OrderId: 3
+  OrderId: 4
   FilterType: 1
   PickUpCardSeriesId_1: 1042901
   PickUpCardBonusItemQuantity_1: 0
@@ -6331,7 +6331,7 @@
   GachaExchangePointId: 10505
   ExchangePointNoticeNum: 300
   ExchangePointLockFlag: 0
-  OrderId: 1
+  OrderId: 2
   FilterType: 1
   PickUpCardSeriesId_1: 1041523
   PickUpCardBonusItemQuantity_1: 40
@@ -6348,6 +6348,68 @@
   BgType: 0
   StartTime: 2026-02-28T03:00:00Z
   EndTime: 2026-03-10T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050505
+  GachaSeriesName: 2024 GRADUATION LIMITED COLLECTION REVIVAL
+  Description: GRADUATION LIMITED COLLECTION REVIVAL
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10505
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 3
+  FilterType: 1
+  PickUpCardSeriesId_1: 1021527
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1022527
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1023524
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1020501
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 0
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2026-03-05T03:00:00Z
+  EndTime: 2026-04-10T02:59:59Z
+  NoticeText: ""
+  GachaTimeLimitType: 0
+  AvailableTime: 0
+  GachaStartBgm: 0
+  IsGachaPrize: 0
+- Id: 1050506
+  GachaSeriesName: 2023 GRADUATION LIMITED COLLECTION REVIVAL
+  Description: GRADUATION LIMITED COLLECTION REVIVAL
+  GachaType: 1
+  LimitedGachaCount: 0
+  LimitedGachaResetType: 0
+  GachaExchangePointId: 10505
+  ExchangePointNoticeNum: 300
+  ExchangePointLockFlag: 0
+  OrderId: 4
+  FilterType: 1
+  PickUpCardSeriesId_1: 1021517
+  PickUpCardBonusItemQuantity_1: 0
+  PickUpCardSeriesId_2: 1022517
+  PickUpCardBonusItemQuantity_2: 0
+  PickUpCardSeriesId_3: 1022518
+  PickUpCardBonusItemQuantity_3: 0
+  PickUpCardSeriesId_4: 1023514
+  PickUpCardBonusItemQuantity_4: 0
+  PickUpCardSeriesId_5: 1011501
+  PickUpCardBonusItemQuantity_5: 0
+  PickUpCardSeriesId_6: 0
+  PickUpCardBonusItemQuantity_6: 0
+  BgType: 0
+  StartTime: 2026-03-05T03:00:00Z
+  EndTime: 2026-04-10T02:59:59Z
   NoticeText: ""
   GachaTimeLimitType: 0
   AvailableTime: 0
