@@ -7390,6 +7390,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10325361
+  Name: "[アイシイ]村野\u00a0さやか"
+  Text: "[アイシイ]村野\u00a0さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 232536
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032536
+  RequirementText: "[アイシイ]村野\u00a0さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10328011
   Name: "[Prism Echo]村野\u00a0さやか"
   Text: "[Prism Echo]村野\u00a0さやかを4回解放した記念のステッカー"
@@ -9358,6 +9382,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10414061
+  Name: "[拝啓、未来の君へ]百生\u00a0吟子"
+  Text: "[拝啓、未来の君へ]百生\u00a0吟子 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 241406
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1041406
+  RequirementText: "[拝啓、未来の君へ]百生\u00a0吟子 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10415011
   Name: "[Dream Believers]百生\u00a0吟子"
   Text: "[Dream Believers]百生\u00a0吟子 を4回解放した記念のステッカー"
@@ -10843,6 +10891,30 @@
   StartTime: 2026-02-10T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2026-02-10T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10425241
+  Name: "[アイシイ]徒町\u00a0小鈴"
+  Text: "[アイシイ]徒町\u00a0小鈴 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 242524
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1042524
+  RequirementText: "[アイシイ]徒町\u00a0小鈴 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-10T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-10T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -45430,6 +45502,510 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351201
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 1位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 1位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551201
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 1位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351202
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 2位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 2位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551202
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 2位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351203
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 3位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 3位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551203
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 3位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351204
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 4位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 4位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551204
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 4位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351205
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 5位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 5位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551205
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 5位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351206
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 6位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 6位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551206
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 6位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351207
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 7位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 7位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551207
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 7位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351208
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 8位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 8位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551208
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 8位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351209
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 9位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 9位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551209
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 9位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351210
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 10位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 10位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551210
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 10位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351211
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551211
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP100位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351212
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551212
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP200位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351213
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551213
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP500位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351214
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551214
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP1000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351215
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551215
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP2000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351216
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551216
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP3000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351217
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551217
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP5000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351218
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551218
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP7000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351219
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551219
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP10000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351220
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位 を称えるステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551220
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦 TOP15000位 入賞
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 20351221
+  Name: Live Grand Prix 105期FinalTerm 第3回 個人戦 参加
+  Text: Live Grand Prix 105期FinalTerm 第3回 個人戦 参加賞のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 551221
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: Live Grand Prix 105期FinalTerm 第3回 個人戦に参加
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-11T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-11T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40103101
   Name: 『Dream Believers（4人Ver.）』マエストロ
   Text: 『Dream Believers（4人Ver.）』のマスタリーLv.を30にした記念のステッカー
@@ -50590,6 +51166,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405138
+  Name: 『アイシイ』マエストロ
+  Text: 『アイシイ』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601436
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405138
+  RequirementText: 『アイシイ』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40405201
   Name: 『テレパシ』マエストロ
   Text: 『テレパシ』のマスタリーLv.を30にした記念のステッカー
@@ -50771,6 +51371,30 @@
   RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
   RequirementValue: 405208
   RequirementText: 『気まぐれロマンティック』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405209
+  Name: 『Blessing』マエストロ
+  Text: 『Blessing』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 606041
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405209
+  RequirementText: 『Blessing』マスタリーLv.30到達
   EditRequirementType: 0
   EditRequirementDetail: ""
   EditRequirementValue: 0

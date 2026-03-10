@@ -50,7 +50,11 @@
   ActionType: 6
 - Id: 10600010
   ActionType: 6
+- Id: 10600014
+  ActionType: 6
 - Id: 10600015
+  ActionType: 6
+- Id: 10600016
   ActionType: 6
 - Id: 10600020
   ActionType: 6
@@ -268,9 +272,15 @@
   ActionType: 8
 - Id: 20811310
   ActionType: 8
+- Id: 20811314
+  ActionType: 8
 - Id: 20812503
   ActionType: 8
 - Id: 20812801
+  ActionType: 8
+- Id: 20812814
+  ActionType: 8
+- Id: 20814230
   ActionType: 8
 - Id: 20823110
   ActionType: 8
@@ -290,6 +300,8 @@
   ActionType: 8
 - Id: 20830301
   ActionType: 8
+- Id: 20840001
+  ActionType: 8
 - Id: 20840002
   ActionType: 8
 - Id: 20840003
@@ -307,4 +319,6 @@
 - Id: 20900004
   ActionType: 9
 - Id: 20900005
+  ActionType: 9
+- Id: 20900014
   ActionType: 9

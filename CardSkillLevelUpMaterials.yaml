@@ -93286,6 +93286,318 @@
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
+- Id: 1032536101
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536102
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536103
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 10
+  Cost_ItemsId2: 3006041
+  CostNum2: 7
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536104
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 3006041
+  CostNum3: 10
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536105
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 15
+  Cost_ItemsId2: 3006042
+  CostNum2: 15
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536106
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 20
+  Cost_ItemsId2: 3006043
+  CostNum2: 15
+  Cost_ItemsId3: 3006042
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536107
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006223
+  CostNum2: 15
+  Cost_ItemsId3: 3006043
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536108
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006223
+  CostNum2: 30
+  Cost_ItemsId3: 3006043
+  CostNum3: 30
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536109
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536110
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536111
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536112
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536113
+  CardSeriesId: 1032536
+  SkillType: 1
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536201
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536202
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536203
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 10
+  Cost_ItemsId2: 3006041
+  CostNum2: 7
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536204
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 3006041
+  CostNum3: 10
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536205
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 15
+  Cost_ItemsId2: 3006042
+  CostNum2: 15
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536206
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 20
+  Cost_ItemsId2: 3006043
+  CostNum2: 15
+  Cost_ItemsId3: 3006042
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536207
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006223
+  CostNum2: 15
+  Cost_ItemsId3: 3006043
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536208
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006223
+  CostNum2: 30
+  Cost_ItemsId3: 3006043
+  CostNum3: 30
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536209
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536210
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536211
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536212
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1032536213
+  CardSeriesId: 1032536
+  SkillType: 2
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
 - Id: 1032801101
   CardSeriesId: 1032801
   SkillType: 1
@@ -112336,7 +112648,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006021
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112348,7 +112660,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 10
-  Cost_ItemsId2: 3006021
+  Cost_ItemsId2: 3006041
   CostNum2: 7
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112360,9 +112672,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006022
+  Cost_ItemsId2: 3006042
   CostNum2: 10
-  Cost_ItemsId3: 3006021
+  Cost_ItemsId3: 3006041
   CostNum3: 10
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112372,7 +112684,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 15
-  Cost_ItemsId2: 3006022
+  Cost_ItemsId2: 3006042
   CostNum2: 15
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112384,9 +112696,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 20
-  Cost_ItemsId2: 3006023
+  Cost_ItemsId2: 3006043
   CostNum2: 15
-  Cost_ItemsId3: 3006022
+  Cost_ItemsId3: 3006042
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112398,7 +112710,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006233
   CostNum2: 15
-  Cost_ItemsId3: 3006023
+  Cost_ItemsId3: 3006043
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112410,7 +112722,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006233
   CostNum2: 30
-  Cost_ItemsId3: 3006023
+  Cost_ItemsId3: 3006043
   CostNum3: 30
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112422,7 +112734,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112434,7 +112746,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112446,7 +112758,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112458,7 +112770,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112470,7 +112782,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112492,7 +112804,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006021
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112504,7 +112816,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 10
-  Cost_ItemsId2: 3006021
+  Cost_ItemsId2: 3006041
   CostNum2: 7
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112516,9 +112828,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006022
+  Cost_ItemsId2: 3006042
   CostNum2: 10
-  Cost_ItemsId3: 3006021
+  Cost_ItemsId3: 3006041
   CostNum3: 10
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112528,7 +112840,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 15
-  Cost_ItemsId2: 3006022
+  Cost_ItemsId2: 3006042
   CostNum2: 15
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -112540,9 +112852,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 20
-  Cost_ItemsId2: 3006023
+  Cost_ItemsId2: 3006043
   CostNum2: 15
-  Cost_ItemsId3: 3006022
+  Cost_ItemsId3: 3006042
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112554,7 +112866,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006233
   CostNum2: 15
-  Cost_ItemsId3: 3006023
+  Cost_ItemsId3: 3006043
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112566,7 +112878,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006233
   CostNum2: 30
-  Cost_ItemsId3: 3006023
+  Cost_ItemsId3: 3006043
   CostNum3: 30
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112578,7 +112890,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112590,7 +112902,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112602,7 +112914,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112614,7 +112926,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -112626,7 +112938,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006024
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -116995,6 +117307,318 @@
   Cost_ItemsId2: 3006214
   CostNum2: 15
   Cost_ItemsId3: 3006024
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406101
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 3
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406102
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 3006041
+  CostNum2: 3
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406103
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406104
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 5
+  Cost_ItemsId2: 3006042
+  CostNum2: 5
+  Cost_ItemsId3: 3006041
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406105
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 7
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406106
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006043
+  CostNum2: 10
+  Cost_ItemsId3: 3006042
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406107
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 5
+  Cost_ItemsId2: 3006213
+  CostNum2: 10
+  Cost_ItemsId3: 3006043
+  CostNum3: 5
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406108
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006213
+  CostNum2: 20
+  Cost_ItemsId3: 3006043
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406109
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 10
+  Cost_ItemsId3: 3006044
+  CostNum3: 3
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406110
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406111
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406112
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406113
+  CardSeriesId: 1041406
+  SkillType: 1
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406201
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 3
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406202
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 3006041
+  CostNum2: 3
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406203
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406204
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 5
+  Cost_ItemsId2: 3006042
+  CostNum2: 5
+  Cost_ItemsId3: 3006041
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406205
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 7
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406206
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006043
+  CostNum2: 10
+  Cost_ItemsId3: 3006042
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406207
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 5
+  Cost_ItemsId2: 3006213
+  CostNum2: 10
+  Cost_ItemsId3: 3006043
+  CostNum3: 5
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406208
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006213
+  CostNum2: 20
+  Cost_ItemsId3: 3006043
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406209
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 10
+  Cost_ItemsId3: 3006044
+  CostNum3: 3
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406210
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406211
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406212
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
+  CostNum3: 7
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1041406213
+  CardSeriesId: 1041406
+  SkillType: 2
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006214
+  CostNum2: 15
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128248,7 +128872,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 5
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 3
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128260,7 +128884,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128272,9 +128896,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 5
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 5
-  Cost_ItemsId3: 3006011
+  Cost_ItemsId3: 3006041
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128284,7 +128908,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 7
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 10
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128296,9 +128920,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006013
+  Cost_ItemsId2: 3006043
   CostNum2: 10
-  Cost_ItemsId3: 3006012
+  Cost_ItemsId3: 3006042
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128310,7 +128934,7 @@
   CostNum1: 5
   Cost_ItemsId2: 3006223
   CostNum2: 10
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 5
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128322,7 +128946,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006223
   CostNum2: 20
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128334,7 +128958,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 10
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 3
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128346,7 +128970,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128358,7 +128982,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128370,7 +128994,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128382,7 +129006,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128404,7 +129028,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 5
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 3
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128416,7 +129040,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128428,9 +129052,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 5
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 5
-  Cost_ItemsId3: 3006011
+  Cost_ItemsId3: 3006041
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128440,7 +129064,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 7
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 10
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -128452,9 +129076,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006013
+  Cost_ItemsId2: 3006043
   CostNum2: 10
-  Cost_ItemsId3: 3006012
+  Cost_ItemsId3: 3006042
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128466,7 +129090,7 @@
   CostNum1: 5
   Cost_ItemsId2: 3006223
   CostNum2: 10
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 5
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128478,7 +129102,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006223
   CostNum2: 20
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128490,7 +129114,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 10
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 3
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128502,7 +129126,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128514,7 +129138,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128526,7 +129150,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -128538,7 +129162,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006224
   CostNum2: 15
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 7
   Cost_ItemsIds: ""
   CostNums: ""
@@ -135715,6 +136339,318 @@
   Cost_ItemsId2: 3006224
   CostNum2: 20
   Cost_ItemsId3: 3006024
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524101
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524102
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524103
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 10
+  Cost_ItemsId2: 3006041
+  CostNum2: 7
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524104
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 3006041
+  CostNum3: 10
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524105
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 15
+  Cost_ItemsId2: 3006042
+  CostNum2: 15
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524106
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 20
+  Cost_ItemsId2: 3006043
+  CostNum2: 15
+  Cost_ItemsId3: 3006042
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524107
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006223
+  CostNum2: 15
+  Cost_ItemsId3: 3006043
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524108
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006223
+  CostNum2: 30
+  Cost_ItemsId3: 3006043
+  CostNum3: 30
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524109
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524110
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524111
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524112
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524113
+  CardSeriesId: 1042524
+  SkillType: 1
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524201
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 1
+  Cost_ItemsId1: 3006001
+  CostNum1: 5
+  Cost_ItemsId2: 0
+  CostNum2: 0
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524202
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 2
+  Cost_ItemsId1: 3006001
+  CostNum1: 7
+  Cost_ItemsId2: 3006041
+  CostNum2: 5
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524203
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 3
+  Cost_ItemsId1: 3006001
+  CostNum1: 10
+  Cost_ItemsId2: 3006041
+  CostNum2: 7
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524204
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 4
+  Cost_ItemsId1: 3006002
+  CostNum1: 10
+  Cost_ItemsId2: 3006042
+  CostNum2: 10
+  Cost_ItemsId3: 3006041
+  CostNum3: 10
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524205
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 5
+  Cost_ItemsId1: 3006002
+  CostNum1: 15
+  Cost_ItemsId2: 3006042
+  CostNum2: 15
+  Cost_ItemsId3: 0
+  CostNum3: 0
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524206
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 6
+  Cost_ItemsId1: 3006002
+  CostNum1: 20
+  Cost_ItemsId2: 3006043
+  CostNum2: 15
+  Cost_ItemsId3: 3006042
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524207
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 7
+  Cost_ItemsId1: 3006003
+  CostNum1: 10
+  Cost_ItemsId2: 3006223
+  CostNum2: 15
+  Cost_ItemsId3: 3006043
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524208
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 8
+  Cost_ItemsId1: 3006003
+  CostNum1: 15
+  Cost_ItemsId2: 3006223
+  CostNum2: 30
+  Cost_ItemsId3: 3006043
+  CostNum3: 30
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524209
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 9
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524210
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 10
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524211
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 11
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524212
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 12
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
+  CostNum3: 20
+  Cost_ItemsIds: ""
+  CostNums: ""
+- Id: 1042524213
+  CardSeriesId: 1042524
+  SkillType: 2
+  SkillLevel: 13
+  Cost_ItemsId1: 3006003
+  CostNum1: 20
+  Cost_ItemsId2: 3006224
+  CostNum2: 20
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147280,7 +148216,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147292,7 +148228,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 10
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 7
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147304,9 +148240,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 10
-  Cost_ItemsId3: 3006011
+  Cost_ItemsId3: 3006041
   CostNum3: 10
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147316,7 +148252,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 15
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 15
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147328,9 +148264,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 20
-  Cost_ItemsId2: 3006013
+  Cost_ItemsId2: 3006043
   CostNum2: 15
-  Cost_ItemsId3: 3006012
+  Cost_ItemsId3: 3006042
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147342,7 +148278,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006233
   CostNum2: 15
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147354,7 +148290,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006233
   CostNum2: 30
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 30
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147366,7 +148302,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147378,7 +148314,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147390,7 +148326,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147402,7 +148338,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147414,7 +148350,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147436,7 +148372,7 @@
   SkillLevel: 2
   Cost_ItemsId1: 3006001
   CostNum1: 7
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 5
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147448,7 +148384,7 @@
   SkillLevel: 3
   Cost_ItemsId1: 3006001
   CostNum1: 10
-  Cost_ItemsId2: 3006011
+  Cost_ItemsId2: 3006041
   CostNum2: 7
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147460,9 +148396,9 @@
   SkillLevel: 4
   Cost_ItemsId1: 3006002
   CostNum1: 10
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 10
-  Cost_ItemsId3: 3006011
+  Cost_ItemsId3: 3006041
   CostNum3: 10
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147472,7 +148408,7 @@
   SkillLevel: 5
   Cost_ItemsId1: 3006002
   CostNum1: 15
-  Cost_ItemsId2: 3006012
+  Cost_ItemsId2: 3006042
   CostNum2: 15
   Cost_ItemsId3: 0
   CostNum3: 0
@@ -147484,9 +148420,9 @@
   SkillLevel: 6
   Cost_ItemsId1: 3006002
   CostNum1: 20
-  Cost_ItemsId2: 3006013
+  Cost_ItemsId2: 3006043
   CostNum2: 15
-  Cost_ItemsId3: 3006012
+  Cost_ItemsId3: 3006042
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147498,7 +148434,7 @@
   CostNum1: 10
   Cost_ItemsId2: 3006233
   CostNum2: 15
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147510,7 +148446,7 @@
   CostNum1: 15
   Cost_ItemsId2: 3006233
   CostNum2: 30
-  Cost_ItemsId3: 3006013
+  Cost_ItemsId3: 3006043
   CostNum3: 30
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147522,7 +148458,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147534,7 +148470,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147546,7 +148482,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147558,7 +148494,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""
@@ -147570,7 +148506,7 @@
   CostNum1: 20
   Cost_ItemsId2: 3006234
   CostNum2: 20
-  Cost_ItemsId3: 3006014
+  Cost_ItemsId3: 3006044
   CostNum3: 20
   Cost_ItemsIds: ""
   CostNums: ""

@@ -4413,6 +4413,21 @@
   SkillIcon: 10325350
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 10325360
+  Name: アイシイインフィニティ
+  SkillIcon: 10325360
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10325361
+  Name: アイシイインフィニティ
+  SkillIcon: 10325360
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10325362
+  Name: アイシイインフィニティ
+  SkillIcon: 10325360
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -5533,6 +5548,21 @@
   SkillIcon: 10414050
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
+- Id: 10414060
+  Name: P.S.
+  SkillIcon: 10414060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10414061
+  Name: P.S.
+  SkillIcon: 10414060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10414062
+  Name: P.S.
+  SkillIcon: 10414060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10415010
   Name: アトラクトゲイン
   SkillIcon: 10415010
@@ -6427,6 +6457,21 @@
   Name: ダークネスサン
   SkillIcon: 10425230
   SkillMainEffect: 34
+  IsExSpecialAppeal: 0
+- Id: 10425240
+  Name: アイシイモーメント
+  SkillIcon: 10425240
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10425241
+  Name: アイシイモーメント
+  SkillIcon: 10425240
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 10425242
+  Name: アイシイモーメント
+  SkillIcon: 10425240
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 10428011
   Name: メンタルプロテクト
@@ -9113,6 +9158,11 @@
   SkillIcon: 20325350
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 20325360
+  Name: アイシイアクト
+  SkillIcon: 20325360
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -9493,6 +9543,11 @@
   SkillIcon: 20414050
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 20414060
+  Name: ドレス《拝啓、未来の君へ》
+  SkillIcon: 20414060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 20415010
   Name: ドレス《Dream Believers》
   SkillIcon: 20415010
@@ -9792,6 +9847,11 @@
   Name: リブウトボルテージ
   SkillIcon: 20425230
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 20425240
+  Name: アイシイワールド
+  SkillIcon: 20425240
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20428010
   Name: フューチャーブレッシング
@@ -11733,6 +11793,11 @@
   SkillIcon: 30325350
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30325360
+  Name: プライムスケーター
+  SkillIcon: 30325360
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -12063,6 +12128,11 @@
   SkillIcon: 30414050
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30414060
+  Name: メッセンジャー
+  SkillIcon: 30414060
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30415010
   Name: アーリードロー：3/APレデュース
   SkillIcon: 30415010
@@ -12342,6 +12412,11 @@
   Name: ワイルドソウル
   SkillIcon: 30425230
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 30425240
+  Name: パラレルブライト
+  SkillIcon: 30425240
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30428010
   Name: オーバーセクション：エクステンドハンド
@@ -12998,6 +13073,11 @@
   SkillIcon: 80415052
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 80094010
+  Name: 《拝啓、未来の君へ》
+  SkillIcon: 80414060
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 80095010
   Name: ヒートアップ
   SkillIcon: 80415060
@@ -13438,6 +13518,11 @@
   SkillIcon: 80315382
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 80545010
+  Name: アイディアルシャドウ
+  SkillIcon: 80325360
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -13607,6 +13692,11 @@
   Name: インスタンス & ドロー：アトラクトブースト：みらくらぱーく！
   SkillIcon: 90415052
   SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90094010
+  Name: エクスプレス
+  SkillIcon: 90414060
+  SkillMainEffect: 21
   IsExSpecialAppeal: 0
 - Id: 90095010
   Name: インスタンス & ドロー：サウンドヒート
@@ -14037,4 +14127,9 @@
   Name: サインポスト
   SkillIcon: 90315382
   SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 90545010
+  Name: ビートユアベスト
+  SkillIcon: 90325360
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
