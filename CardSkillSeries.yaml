@@ -4823,6 +4823,21 @@
   SkillIcon: 10334160
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 10334170
+  Name: P.S.
+  SkillIcon: 10334170
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10334171
+  Name: P.S.
+  SkillIcon: 10334170
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 10334172
+  Name: P.S.
+  SkillIcon: 10334170
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 10335010
   Name: リゲインアトラクト
   SkillIcon: 10335010
@@ -7348,6 +7363,21 @@
   SkillIcon: 10515110
   SkillMainEffect: 53
   IsExSpecialAppeal: 0
+- Id: 10515120
+  Name: ファーストトゥラスト
+  SkillIcon: 10515120
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10515121
+  Name: ファーストトゥラスト
+  SkillIcon: 10515120
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10515122
+  Name: ファーストトゥラスト
+  SkillIcon: 10515120
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 10518010
   Name: Elysion
   SkillIcon: 10518010
@@ -7632,6 +7662,21 @@
   Name: コンサートミストレス
   SkillIcon: 10525110
   SkillMainEffect: 53
+  IsExSpecialAppeal: 0
+- Id: 10525120
+  Name: ラストトゥファースト
+  SkillIcon: 10525120
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10525121
+  Name: ラストトゥファースト
+  SkillIcon: 10525120
+  SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10525122
+  Name: ラストトゥファースト
+  SkillIcon: 10525120
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 10528010
   Name: Elysion
@@ -9298,6 +9343,11 @@
   SkillIcon: 20334160
   SkillMainEffect: 25
   IsExSpecialAppeal: 0
+- Id: 20334170
+  Name: ジャストフォーフューチャー
+  SkillIcon: 20334170
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
 - Id: 20335010
   Name: チアフルリゲインエクステンド
   SkillIcon: 20335010
@@ -10153,6 +10203,11 @@
   SkillIcon: 20515110
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20515120
+  Name: アクトフロムチアー
+  SkillIcon: 20515120
+  SkillMainEffect: 47
+  IsExSpecialAppeal: 0
 - Id: 20518010
   Name: mode:REALIZER
   SkillIcon: 20518010
@@ -10247,6 +10302,11 @@
   Name: ポエティックパフォーマンス
   SkillIcon: 20525110
   SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 20525120
+  Name: サウンドフロムチアー
+  SkillIcon: 20525120
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20528010
   Name: mode:FUTURE
@@ -11903,6 +11963,11 @@
   SkillIcon: 30334160
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
+- Id: 30334170
+  Name: ピルグリム
+  SkillIcon: 30334170
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30335010
   Name: ドロー：ボルテージゲイン & アーリードロー：3/APレデュース
   SkillIcon: 30335010
@@ -12688,6 +12753,11 @@
   SkillIcon: 30515110
   SkillMainEffect: 50
   IsExSpecialAppeal: 0
+- Id: 30515120
+  Name: Neustart Linien
+  SkillIcon: 30515120
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
 - Id: 30518010
   Name: Radioactive
   SkillIcon: 30518010
@@ -12772,6 +12842,11 @@
   Name: ブルームコンダクター
   SkillIcon: 30525110
   SkillMainEffect: 47
+  IsExSpecialAppeal: 0
+- Id: 30525120
+  Name: Neustart Linien
+  SkillIcon: 30525120
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30528010
   Name: Radioactive
@@ -13523,6 +13598,16 @@
   SkillIcon: 80325360
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 80555010
+  Name: Bühnenstar
+  SkillIcon: 80515120
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 80565010
+  Name: Walküre
+  SkillIcon: 80525120
+  SkillMainEffect: 46
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -14132,4 +14217,14 @@
   Name: ビートユアベスト
   SkillIcon: 90325360
   SkillMainEffect: 902
+  IsExSpecialAppeal: 0
+- Id: 90555010
+  Name: E-N
+  SkillIcon: 90515120
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90565010
+  Name: E-N
+  SkillIcon: 90525120
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0

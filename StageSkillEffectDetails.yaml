@@ -1202,6 +1202,22 @@
   StageSkillEffectId: 10840003
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: -3
+- Id: 108400050
+  StageSkillEffectId: 10840005
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 4
+- Id: 108400051
+  StageSkillEffectId: 10840005
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 0
+- Id: 108400052
+  StageSkillEffectId: 10840005
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 108400053
+  StageSkillEffectId: 10840005
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: -5
 - Id: 109000030
   StageSkillEffectId: 10900003
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
@@ -1290,6 +1306,26 @@
   StageSkillEffectId: 20200001
   SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
   EffectValue: 0
+- Id: 202000020
+  StageSkillEffectId: 20200002
+  SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
+  EffectValue: 1
+- Id: 202000021
+  StageSkillEffectId: 20200002
+  SkillEffectDetailType: LOVE_UP_BUFF_NUM_BASE
+  EffectValue: -200000000000
+- Id: 202000022
+  StageSkillEffectId: 20200002
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 202000023
+  StageSkillEffectId: 20200002
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME
+  EffectValue: 0
+- Id: 202000024
+  StageSkillEffectId: 20200002
+  SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
+  EffectValue: 0
 - Id: 202005000
   StageSkillEffectId: 20200500
   SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
@@ -1362,6 +1398,14 @@
   StageSkillEffectId: 20300030
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
   EffectValue: -300000
+- Id: 203000400
+  StageSkillEffectId: 20300040
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
+  EffectValue: 2
+- Id: 203000401
+  StageSkillEffectId: 20300040
+  SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
+  EffectValue: -400000
 - Id: 203000500
   StageSkillEffectId: 20300050
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
@@ -1402,6 +1446,14 @@
   StageSkillEffectId: 20303090
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
   EffectValue: -900000
+- Id: 204000020
+  StageSkillEffectId: 20400002
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
+  EffectValue: 1
+- Id: 204000021
+  StageSkillEffectId: 20400002
+  SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
+  EffectValue: -200000000000
 - Id: 204000600
   StageSkillEffectId: 20400060
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
@@ -1906,6 +1958,22 @@
   StageSkillEffectId: 20812814
   SkillEffectDetailType: CHANGE_SKILL_COST_NUM
   EffectValue: 140
+- Id: 208139100
+  StageSkillEffectId: 20813910
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
+  EffectValue: 1
+- Id: 208139101
+  StageSkillEffectId: 20813910
+  SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_VALUE
+  EffectValue: 39
+- Id: 208139102
+  StageSkillEffectId: 20813910
+  SkillEffectDetailType: CHANGE_SKILL_COST_CALC_TYPE
+  EffectValue: 1
+- Id: 208139103
+  StageSkillEffectId: 20813910
+  SkillEffectDetailType: CHANGE_SKILL_COST_NUM
+  EffectValue: 100
 - Id: 208142300
   StageSkillEffectId: 20814230
   SkillEffectDetailType: CHANGE_SKILL_COST_TARGET_TYPE
@@ -2194,6 +2262,14 @@
   StageSkillEffectId: 20900005
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   EffectValue: 10500
+- Id: 209000100
+  StageSkillEffectId: 20900010
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
+  EffectValue: 2
+- Id: 209000101
+  StageSkillEffectId: 20900010
+  SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
+  EffectValue: 11000
 - Id: 209000140
   StageSkillEffectId: 20900014
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
