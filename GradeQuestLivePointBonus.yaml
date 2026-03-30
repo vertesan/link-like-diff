@@ -2382,3 +2382,43 @@
   ConditionsValue: 8
   BonusNum: 0
   BonusLimitUp: 30
+- Id: 1055601
+  GradeQuestSeriesId: 10556
+  OrderId: 1
+  Description: GRADUATION LIMITED
+  ConditionsType: 1
+  ConditionsValue: 5
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1055602
+  GradeQuestSeriesId: 10556
+  OrderId: 2
+  Description: 通常
+  ConditionsType: 1
+  ConditionsValue: 0
+  BonusNum: 30
+  BonusLimitUp: 0
+- Id: 1055603
+  GradeQuestSeriesId: 10556
+  OrderId: 3
+  Description: GP PRIZE
+  ConditionsType: 1
+  ConditionsValue: 101
+  BonusNum: 10
+  BonusLimitUp: 0
+- Id: 1055604
+  GradeQuestSeriesId: 10556
+  OrderId: 5
+  Description: レアリティ：DR
+  ConditionsType: 2
+  ConditionsValue: 8
+  BonusNum: 0
+  BonusLimitUp: 30
+- Id: 1055605
+  GradeQuestSeriesId: 10556
+  OrderId: 4
+  Description: レアリティ：BR
+  ConditionsType: 2
+  ConditionsValue: 9
+  BonusNum: 30
+  BonusLimitUp: 0

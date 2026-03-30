@@ -122,6 +122,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 67500
   UrCardEffectBackgroundId: 1
+- Id: 10217031
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 38500
+  UrCardEffectBackgroundId: 1
 - Id: 10219011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 43500
@@ -242,6 +246,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 70500
   UrCardEffectBackgroundId: 1
+- Id: 10227031
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 19800
+  UrCardEffectBackgroundId: 1
 - Id: 10229011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 44500
@@ -350,10 +358,18 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 49500
   UrCardEffectBackgroundId: 1
+- Id: 10237031
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 35000
+  UrCardEffectBackgroundId: 1
 - Id: 10239011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 36500
   UrCardEffectBackgroundId: 0
+- Id: 10305010
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 37000
+  UrCardEffectBackgroundId: 10170
 - Id: 10315010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 17500
@@ -506,6 +522,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 41500
   UrCardEffectBackgroundId: 11831
+- Id: 10315390
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 25500
+  UrCardEffectBackgroundId: 13060
 - Id: 10319011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 35000
@@ -658,6 +678,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 38500
   UrCardEffectBackgroundId: 10750
+- Id: 10325370
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 30100
+  UrCardEffectBackgroundId: 13091
 - Id: 10329011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 39500
@@ -806,6 +830,10 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 21000
   UrCardEffectBackgroundId: 11751
+- Id: 10335360
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 34000
+  UrCardEffectBackgroundId: 11641
 - Id: 10339011
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 30500

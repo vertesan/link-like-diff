@@ -1446,14 +1446,14 @@
   StageSkillEffectId: 20303090
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_NUM
   EffectValue: -900000
-- Id: 204000020
-  StageSkillEffectId: 20400002
+- Id: 204000010
+  StageSkillEffectId: 20400001
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE
   EffectValue: 1
-- Id: 204000021
-  StageSkillEffectId: 20400002
+- Id: 204000011
+  StageSkillEffectId: 20400001
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_NUM
-  EffectValue: -200000000000
+  EffectValue: -100000000000
 - Id: 204000600
   StageSkillEffectId: 20400060
   SkillEffectDetailType: CHANGE_VOLTAGE_VALUE_CALC_TYPE

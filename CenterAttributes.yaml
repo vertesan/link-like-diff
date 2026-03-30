@@ -1006,6 +1006,48 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20217031
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 10018000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217032
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 20018000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217033
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 30018000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217034
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: "50000"
+  CenterAttributeEffectId: 71010000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217035
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: "11021"
+  CenterAttributeEffectId: 80000100
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217036
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000002
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20217037
+  CenterAttributeSeriesId: 20217030
+  CenterAttributeName: 不思議と君とライブラリー
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している梢のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
 - Id: 20218011
   CenterAttributeSeriesId: 20218010
   CenterAttributeName: アピールアップ（スリーズブーケ）&APレデュース&CTレデュース
@@ -2104,6 +2146,42 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／メンタルの最大値が編成している綴理のカード枚数×100になるが、全てのスキルの消費APが2減少し、クールタイムが2秒減少する。
+- Id: 20227031
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 10018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
+- Id: 20227032
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 20018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
+- Id: 20227033
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 30018000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
+- Id: 20227034
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 100000300
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
+- Id: 20227035
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 120200000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
+- Id: 20227036
+  CenterAttributeSeriesId: 20227030
+  CenterAttributeName: アイシイ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000008
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が180％上昇／クールタイムが3秒増加するが、全てのスキルカードの消費APが8減少し、ボルテージの獲得量が2000％増加する。
 - Id: 20228011
   CenterAttributeSeriesId: 20228010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -3016,6 +3094,36 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000300
   Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が180％上昇／全てのスキルカードの消費APが1増加するが、APの獲得量が10％増加し、クールタイムが3秒減少する。
+- Id: 20237031
+  CenterAttributeSeriesId: 20237030
+  CenterAttributeName: トモダチになれる場所
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237032
+  CenterAttributeSeriesId: 20237030
+  CenterAttributeName: トモダチになれる場所
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237033
+  CenterAttributeSeriesId: 20237030
+  CenterAttributeName: トモダチになれる場所
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237034
+  CenterAttributeSeriesId: 20237030
+  CenterAttributeName: トモダチになれる場所
+  TargetIds: "50000"
+  CenterAttributeEffectId: 91000001
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
+- Id: 20237035
+  CenterAttributeSeriesId: 20237030
+  CenterAttributeName: トモダチになれる場所
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000200
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／全てのスキルの消費APが1減少／クールタイムが2秒減少
 - Id: 20238011
   CenterAttributeSeriesId: 20238010
   CenterAttributeName: アピールアップ（みらくらぱーく！）&APレデュース&CTレデュース
@@ -3094,6 +3202,24 @@
   TargetIds: "11023"
   CenterAttributeEffectId: 30040000
   Description: 藤島慈のアピール値が400％上昇
+- Id: 20305011
+  CenterAttributeSeriesId: 20305010
+  CenterAttributeName: アピールアップ
+  TargetIds: "30103"
+  CenterAttributeEffectId: 10025000
+  Description: 日野下花帆／村野さやか／大沢瑠璃乃のアピール値が250％上昇
+- Id: 20305012
+  CenterAttributeSeriesId: 20305010
+  CenterAttributeName: アピールアップ
+  TargetIds: "30103"
+  CenterAttributeEffectId: 20025000
+  Description: 日野下花帆／村野さやか／大沢瑠璃乃のアピール値が250％上昇
+- Id: 20305013
+  CenterAttributeSeriesId: 20305010
+  CenterAttributeName: アピールアップ
+  TargetIds: "30103"
+  CenterAttributeEffectId: 30025000
+  Description: 日野下花帆／村野さやか／大沢瑠璃乃のアピール値が250％上昇
 - Id: 20313011
   CenterAttributeSeriesId: 20313010
   CenterAttributeName: アピールアップ
@@ -4302,6 +4428,24 @@
   Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
 - Id: 20315383
   CenterAttributeSeriesId: 20315380
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315391
+  CenterAttributeSeriesId: 20315390
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315392
+  CenterAttributeSeriesId: 20315390
+  CenterAttributeName: アピールアップ（スリーズブーケ）
+  TargetIds: "20101"
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーのアピール値が200％上昇
+- Id: 20315393
+  CenterAttributeSeriesId: 20315390
   CenterAttributeName: アピールアップ（スリーズブーケ）
   TargetIds: "20101"
   CenterAttributeEffectId: 30020000
@@ -5644,6 +5788,24 @@
   TargetIds: "20102"
   CenterAttributeEffectId: 30020000
   Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325371
+  CenterAttributeSeriesId: 20325370
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 10020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325372
+  CenterAttributeSeriesId: 20325370
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 20020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
+- Id: 20325373
+  CenterAttributeSeriesId: 20325370
+  CenterAttributeName: アピールアップ（DOLLCHESTRA）
+  TargetIds: "20102"
+  CenterAttributeEffectId: 30020000
+  Description: DOLLCHESTRAに所属するメンバーのアピール値が200％上昇
 - Id: 20328011
   CenterAttributeSeriesId: 20328010
   CenterAttributeName: アピールアップ（DOLLCHESTRA）&APレデュース&CTレデュース
@@ -6840,6 +7002,24 @@
   Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
 - Id: 20335353
   CenterAttributeSeriesId: 20335350
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335361
+  CenterAttributeSeriesId: 20335360
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335362
+  CenterAttributeSeriesId: 20335360
+  CenterAttributeName: アピールアップ（みらくらぱーく！）
+  TargetIds: "20103"
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーのアピール値が200％上昇
+- Id: 20335363
+  CenterAttributeSeriesId: 20335360
   CenterAttributeName: アピールアップ（みらくらぱーく！）
   TargetIds: "20103"
   CenterAttributeEffectId: 30020000

@@ -1342,6 +1342,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10217031
+  Name: "[不思議と君とライブラリー]乙宗\u00a0梢"
+  Text: "[不思議と君とライブラリー]乙宗\u00a0梢 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 221703
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1021703
+  RequirementText: "[不思議と君とライブラリー]乙宗\u00a0梢 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10218011
   Name: "[Prism Echo]乙宗\u00a0梢"
   Text: "[Prism Echo]乙宗\u00a0梢を4回解放した記念のステッカー"
@@ -2758,6 +2782,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10227031
+  Name: "[アイシイ]夕霧\u00a0綴理"
+  Text: "[アイシイ]夕霧\u00a0綴理 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 222703
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1022703
+  RequirementText: "[アイシイ]夕霧\u00a0綴理 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10228011
   Name: "[Prism Echo]夕霧\u00a0綴理"
   Text: "[Prism Echo]夕霧\u00a0綴理を4回解放した記念のステッカー"
@@ -3934,6 +3982,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10237031
+  Name: "[トモダチになれる場所]藤島\u00a0慈"
+  Text: "[トモダチになれる場所]藤島\u00a0慈 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 223703
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1023703
+  RequirementText: "[トモダチになれる場所]藤島\u00a0慈 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-31T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10238011
   Name: "[Prism Echo]藤島\u00a0慈"
   Text: "[Prism Echo]藤島\u00a0慈を4回解放した記念のステッカー"
@@ -4051,6 +4123,30 @@
   StartTime: 2024-12-19T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2024-12-19T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10305011
+  Name: "[蓮ノ空女学院スクールアイドルクラブ103期生]日野下\u00a0花帆＆村野\u00a0さやか＆大沢\u00a0瑠璃乃"
+  Text: "[蓮ノ空女学院スクールアイドルクラブ103期生]日野下\u00a0花帆＆村野\u00a0さやか＆大沢\u00a0瑠璃乃\u00a0を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 230501
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1030501
+  RequirementText: "[蓮ノ空女学院スクールアイドルクラブ103期生]日野下\u00a0花帆＆村野\u00a0さやか＆大沢\u00a0瑠璃乃\u00a0解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-30T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-30T09:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -5635,6 +5731,30 @@
   StartTime: 2026-02-28T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2026-02-28T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10315391
+  Name: "[今、過去、未来の三原色]日野下\u00a0花帆"
+  Text: "[今、過去、未来の三原色]日野下\u00a0花帆 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 231539
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1031539
+  RequirementText: "[今、過去、未来の三原色]日野下\u00a0花帆 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-30T13:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-30T13:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -7414,6 +7534,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10325371
+  Name: "[今、過去、未来の三原色]村野\u00a0さやか"
+  Text: "[今、過去、未来の三原色]村野\u00a0さやか を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 232537
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1032537
+  RequirementText: "[今、過去、未来の三原色]村野\u00a0さやか 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-30T13:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-30T13:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 10328011
   Name: "[Prism Echo]村野\u00a0さやか"
   Text: "[Prism Echo]村野\u00a0さやかを4回解放した記念のステッカー"
@@ -8995,6 +9139,30 @@
   StartTime: 2026-02-20T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2026-02-20T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 10335361
+  Name: "[今、過去、未来の三原色]大沢\u00a0瑠璃乃"
+  Text: "[今、過去、未来の三原色]大沢\u00a0瑠璃乃 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 233536
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1033536
+  RequirementText: "[今、過去、未来の三原色]大沢\u00a0瑠璃乃 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-03-30T13:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-30T13:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -29903,8 +30071,8 @@
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20251220
-  Name: 銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 日野下 花帆
-  Text: Bloom Garden Party 105期 Final Term Fes×LIVE
+  Name: "[いつかまた、みんなで]"
+  Text: 風に舞った花びらがいつかまたここに帰って来られるように。そして流れ着いた種が新たな色を見せるように。煌めく青春を生きた11人の少女たち。
   CategoryType: 2
   CategoryName: 2
   SeasonId: 0
@@ -29920,57 +30088,9 @@
   EditRequirementValue: 0
   EditRequirementText: ""
   IsVisibleOnlyPossess: 1
-  StartTime: 2025-03-21T03:00:00Z
+  StartTime: 2026-03-21T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
-  AvailableStartTime: 2025-03-21T03:00:00Z
-  AvailableEndTime: 2035-12-31T14:59:59Z
-  VariantStartTime: 2034-12-31T15:00:00Z
-  VariantEndTime: 2035-12-31T14:59:59Z
-- Id: 20251221
-  Name: 銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 村野 さやか
-  Text: Bloom Garden Party 105期 Final Term Fes×LIVE
-  CategoryType: 2
-  CategoryName: 2
-  SeasonId: 0
-  CharactersId: 0
-  Priority: 451221
-  IsVariant: 0
-  RequirementType: 99
-  RequirementDetail: ONLY_PRESENTBOX
-  RequirementValue: 1
-  RequirementText: 105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞
-  EditRequirementType: 0
-  EditRequirementDetail: ""
-  EditRequirementValue: 0
-  EditRequirementText: ""
-  IsVisibleOnlyPossess: 1
-  StartTime: 2025-03-21T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
-  AvailableStartTime: 2025-03-21T03:00:00Z
-  AvailableEndTime: 2035-12-31T14:59:59Z
-  VariantStartTime: 2034-12-31T15:00:00Z
-  VariantEndTime: 2035-12-31T14:59:59Z
-- Id: 20251222
-  Name: 銀テープ『Bloom Garden Party 105期 Final Term Fes×LIVE』by 大沢 瑠璃乃
-  Text: Bloom Garden Party 105期 Final Term Fes×LIVE
-  CategoryType: 2
-  CategoryName: 2
-  SeasonId: 0
-  CharactersId: 0
-  Priority: 451222
-  IsVariant: 0
-  RequirementType: 99
-  RequirementDetail: ONLY_PRESENTBOX
-  RequirementValue: 1
-  RequirementText: 105期FinalTerm 第3回 サークル対抗戦 TOP1500位 入賞
-  EditRequirementType: 0
-  EditRequirementDetail: ""
-  EditRequirementValue: 0
-  EditRequirementText: ""
-  IsVisibleOnlyPossess: 1
-  StartTime: 2025-03-21T03:00:00Z
-  EndTime: 2035-12-31T14:59:59Z
-  AvailableStartTime: 2025-03-21T03:00:00Z
+  AvailableStartTime: 2026-03-21T03:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -51814,6 +51934,126 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405140
+  Name: 『今、過去、未来の三原色』マエストロ
+  Text: 『今、過去、未来の三原色』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601046
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405140
+  RequirementText: 『今、過去、未来の三原色』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405141
+  Name: 『Dream Believers（B.G.P. Ver.）』マエストロ
+  Text: 『Dream Believers（B.G.P. Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601047
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405141
+  RequirementText: 『Dream Believers（B.G.P. Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405142
+  Name: 『不思議と君とライブラリー（B.G.P. Ver.）』マエストロ
+  Text: 『不思議と君とライブラリー（B.G.P. Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601237
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405142
+  RequirementText: 『不思議と君とライブラリー（B.G.P. Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405143
+  Name: 『アイシイ（B.G.P. Ver.）』マエストロ
+  Text: 『アイシイ（B.G.P. Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601437
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405143
+  RequirementText: 『アイシイ（B.G.P. Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 40405144
+  Name: 『トモダチになれる場所（B.G.P. Ver.）』マエストロ
+  Text: 『トモダチになれる場所（B.G.P. Ver.）』のマスタリーLv.を30にした記念のステッカー
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 601633
+  IsVariant: 0
+  RequirementType: 7
+  RequirementDetail: MAX_MUSIC_MASTERY_LEVEL
+  RequirementValue: 405144
+  RequirementText: 『トモダチになれる場所（B.G.P. Ver.）』マスタリーLv.30到達
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 40405201
   Name: 『テレパシ』マエストロ
   Text: 『テレパシ』のマスタリーLv.を30にした記念のステッカー
@@ -56916,6 +57156,222 @@
   StartTime: 2026-03-14T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   AvailableStartTime: 2026-03-14T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000198
+  Name: "[ぬいらいふ]日野下\u00a0花帆"
+  Text: 「ねぇねぇ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100198
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「日野下 花帆 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000199
+  Name: "[おひさますまいる]日野下\u00a0花帆"
+  Text: 「ふらわー」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100199
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「日野下 花帆 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000200
+  Name: "[つながる]日野下\u00a0花帆"
+  Text: 「ずっといっしょ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100200
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「日野下 花帆 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000201
+  Name: "[ぬいらいふ]村野\u00a0さやか"
+  Text: 「どうしました？」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100201
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「村野 さやか 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000202
+  Name: "[ぺきんだっくさん]村野\u00a0さやか"
+  Text: 「はねおと」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100202
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「村野 さやか 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000203
+  Name: "[つながる]村野\u00a0さやか"
+  Text: 「ずっといっしょ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100203
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「村野 さやか 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000204
+  Name: "[ぬいらいふ]大沢\u00a0瑠璃乃"
+  Text: 「いぇーい」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100204
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大沢 瑠璃乃 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000205
+  Name: "[てんさい]大沢\u00a0瑠璃乃"
+  Text: 「おひげ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100205
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大沢 瑠璃乃 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 90000206
+  Name: "[つながる]大沢\u00a0瑠璃乃"
+  Text: 「ずっといっしょ」
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 100206
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: 「大沢 瑠璃乃 卒業記念プレシャスパック」を購入
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2026-03-31T09:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-03-31T09:00:00Z
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
@@ -62661,6 +63117,30 @@
   SeasonId: 0
   CharactersId: 0
   Priority: 150075
+  IsVariant: 0
+  RequirementType: 99
+  RequirementDetail: ONLY_PRESENTBOX
+  RequirementValue: 1
+  RequirementText: かんかん＆りんりんのみらくら進路相談室ラジオを応援
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 1
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2022-12-31T15:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 94000076
+  Name: かんかん＆りんりんのみらくら進路相談室ラジオ
+  Text: かんかん＆りんりんのみらくら進路相談室ラジオの応援ありがとうございます！
+  CategoryType: 2
+  CategoryName: 3
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 150076
   IsVariant: 0
   RequirementType: 99
   RequirementDetail: ONLY_PRESENTBOX

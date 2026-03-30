@@ -1573,6 +1573,27 @@
   CostNum2: 194
   CostItemsId3: 3005021
   CostNum3: 300
+- Id: 10217032
+  CostItemsId1: 3005043
+  CostNum1: 60
+  CostItemsId2: 3005042
+  CostNum2: 150
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10217033
+  CostItemsId1: 3005043
+  CostNum1: 72
+  CostItemsId2: 3005042
+  CostNum2: 172
+  CostItemsId3: 3005041
+  CostNum3: 210
+- Id: 10217034
+  CostItemsId1: 3005043
+  CostNum1: 96
+  CostItemsId2: 3005042
+  CostNum2: 194
+  CostItemsId3: 3005041
+  CostNum3: 300
 - Id: 10218012
   CostItemsId1: 3005023
   CostNum1: 60
@@ -3134,6 +3155,27 @@
   CostNum2: 194
   CostItemsId3: 3005021
   CostNum3: 300
+- Id: 10227032
+  CostItemsId1: 3005023
+  CostNum1: 60
+  CostItemsId2: 3005022
+  CostNum2: 150
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10227033
+  CostItemsId1: 3005023
+  CostNum1: 72
+  CostItemsId2: 3005022
+  CostNum2: 172
+  CostItemsId3: 3005021
+  CostNum3: 210
+- Id: 10227034
+  CostItemsId1: 3005023
+  CostNum1: 96
+  CostItemsId2: 3005022
+  CostNum2: 194
+  CostItemsId3: 3005021
+  CostNum3: 300
 - Id: 10228012
   CostItemsId1: 3005023
   CostNum1: 60
@@ -4415,6 +4457,27 @@
   CostNum2: 194
   CostItemsId3: 3005031
   CostNum3: 300
+- Id: 10237032
+  CostItemsId1: 3005033
+  CostNum1: 60
+  CostItemsId2: 3005032
+  CostNum2: 150
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10237033
+  CostItemsId1: 3005033
+  CostNum1: 72
+  CostItemsId2: 3005032
+  CostNum2: 172
+  CostItemsId3: 3005031
+  CostNum3: 210
+- Id: 10237034
+  CostItemsId1: 3005033
+  CostNum1: 96
+  CostItemsId2: 3005032
+  CostNum2: 194
+  CostItemsId3: 3005031
+  CostNum3: 300
 - Id: 10238012
   CostItemsId1: 3005023
   CostNum1: 60
@@ -4477,6 +4540,34 @@
   CostItemsId2: 3005042
   CostNum2: 72
   CostItemsId3: 3005041
+  CostNum3: 144
+- Id: 10305011
+  CostItemsId1: 3005022
+  CostNum1: 24
+  CostItemsId2: 3005021
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10305012
+  CostItemsId1: 3005023
+  CostNum1: 24
+  CostItemsId2: 3005022
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10305013
+  CostItemsId1: 3005023
+  CostNum1: 36
+  CostItemsId2: 3005022
+  CostNum2: 60
+  CostItemsId3: 3005021
+  CostNum3: 96
+- Id: 10305014
+  CostItemsId1: 3005023
+  CostNum1: 48
+  CostItemsId2: 3005022
+  CostNum2: 72
+  CostItemsId3: 3005021
   CostNum3: 144
 - Id: 10313011
   CostItemsId1: 3005011
@@ -6318,6 +6409,34 @@
   CostItemsId2: 3005042
   CostNum2: 72
   CostItemsId3: 3005041
+  CostNum3: 144
+- Id: 10315391
+  CostItemsId1: 3005012
+  CostNum1: 24
+  CostItemsId2: 3005011
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10315392
+  CostItemsId1: 3005013
+  CostNum1: 24
+  CostItemsId2: 3005012
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10315393
+  CostItemsId1: 3005013
+  CostNum1: 36
+  CostItemsId2: 3005012
+  CostNum2: 60
+  CostItemsId3: 3005011
+  CostNum3: 96
+- Id: 10315394
+  CostItemsId1: 3005013
+  CostNum1: 48
+  CostItemsId2: 3005012
+  CostNum2: 72
+  CostItemsId3: 3005011
   CostNum3: 144
 - Id: 10318012
   CostItemsId1: 3005013
@@ -8272,6 +8391,34 @@
   CostNum2: 72
   CostItemsId3: 3005011
   CostNum3: 144
+- Id: 10325371
+  CostItemsId1: 3005022
+  CostNum1: 24
+  CostItemsId2: 3005021
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10325372
+  CostItemsId1: 3005023
+  CostNum1: 24
+  CostItemsId2: 3005022
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10325373
+  CostItemsId1: 3005023
+  CostNum1: 36
+  CostItemsId2: 3005022
+  CostNum2: 60
+  CostItemsId3: 3005021
+  CostNum3: 96
+- Id: 10325374
+  CostItemsId1: 3005023
+  CostNum1: 48
+  CostItemsId2: 3005022
+  CostNum2: 72
+  CostItemsId3: 3005021
+  CostNum3: 144
 - Id: 10328012
   CostItemsId1: 3005023
   CostNum1: 60
@@ -9993,6 +10140,34 @@
   CostItemsId2: 3005032
   CostNum2: 72
   CostItemsId3: 3005031
+  CostNum3: 144
+- Id: 10335361
+  CostItemsId1: 3005042
+  CostNum1: 24
+  CostItemsId2: 3005041
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10335362
+  CostItemsId1: 3005043
+  CostNum1: 24
+  CostItemsId2: 3005042
+  CostNum2: 48
+  CostItemsId3: 0
+  CostNum3: 0
+- Id: 10335363
+  CostItemsId1: 3005043
+  CostNum1: 36
+  CostItemsId2: 3005042
+  CostNum2: 60
+  CostItemsId3: 3005041
+  CostNum3: 96
+- Id: 10335364
+  CostItemsId1: 3005043
+  CostNum1: 48
+  CostItemsId2: 3005042
+  CostNum2: 72
+  CostItemsId3: 3005041
   CostNum3: 144
 - Id: 10338012
   CostItemsId1: 3005043

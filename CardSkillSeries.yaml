@@ -808,6 +808,21 @@
   SkillIcon: 10217020
   SkillMainEffect: 21
   IsExSpecialAppeal: 1
+- Id: 10217030
+  Name: スリーズブーケ Emerita
+  SkillIcon: 10217030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10217031
+  Name: スリーズブーケ Emerita
+  SkillIcon: 10217030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10217032
+  Name: スリーズブーケ Emerita
+  SkillIcon: 10217030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
 - Id: 10218011
   Name: ファッシネイション
   SkillIcon: 10218011
@@ -1653,6 +1668,21 @@
   SkillIcon: 10227020
   SkillMainEffect: 11
   IsExSpecialAppeal: 1
+- Id: 10227030
+  Name: DOLLCHESTRA Emerita
+  SkillIcon: 10227030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10227031
+  Name: DOLLCHESTRA Emerita
+  SkillIcon: 10227030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10227032
+  Name: DOLLCHESTRA Emerita
+  SkillIcon: 10227030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
 - Id: 10228011
   Name: インヴォケーション
   SkillIcon: 10228011
@@ -2347,6 +2377,21 @@
   Name: ローエッジスピリッツ
   SkillIcon: 10237020
   SkillMainEffect: 6
+  IsExSpecialAppeal: 1
+- Id: 10237030
+  Name: みらくらぱーく！ Emerita
+  SkillIcon: 10237030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10237031
+  Name: みらくらぱーく！ Emerita
+  SkillIcon: 10237030
+  SkillMainEffect: 55
+  IsExSpecialAppeal: 1
+- Id: 10237032
+  Name: みらくらぱーく！ Emerita
+  SkillIcon: 10237030
+  SkillMainEffect: 55
   IsExSpecialAppeal: 1
 - Id: 10238011
   Name: プロテクトフィール
@@ -3372,6 +3417,21 @@
   Name: インワンダーランド
   SkillIcon: 10315380
   SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 10315390
+  Name: Link! Like! Bloom!
+  SkillIcon: 10315390
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10315391
+  Name: Link! Like! Bloom!
+  SkillIcon: 10315390
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 10315392
+  Name: Link! Like! Bloom!
+  SkillIcon: 10315390
+  SkillMainEffect: 24
   IsExSpecialAppeal: 0
 - Id: 10318011
   Name: ハートアトラクション
@@ -4428,6 +4488,21 @@
   SkillIcon: 10325360
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 10325370
+  Name: フルブルームフィナーレ
+  SkillIcon: 10325370
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10325371
+  Name: フルブルームフィナーレ
+  SkillIcon: 10325370
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10325372
+  Name: フルブルームフィナーレ
+  SkillIcon: 10325370
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
 - Id: 10328011
   Name: ラブアトラクト
   SkillIcon: 10328011
@@ -5362,6 +5437,21 @@
   Name: ビタースウィート
   SkillIcon: 10335350
   SkillMainEffect: 20
+  IsExSpecialAppeal: 0
+- Id: 10335360
+  Name: フルブルームフィナーレ
+  SkillIcon: 10335360
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10335361
+  Name: フルブルームフィナーレ
+  SkillIcon: 10335360
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 10335362
+  Name: フルブルームフィナーレ
+  SkillIcon: 10335360
+  SkillMainEffect: 52
   IsExSpecialAppeal: 0
 - Id: 10338011
   Name: リゲインアトラクト
@@ -7988,6 +8078,11 @@
   SkillIcon: 20217020
   SkillMainEffect: 14
   IsExSpecialAppeal: 0
+- Id: 20217030
+  Name: マーメイドミュージカル
+  SkillIcon: 20217030
+  SkillMainEffect: 42
+  IsExSpecialAppeal: 0
 - Id: 20218010
   Name: ラブキャプティベイト
   SkillIcon: 20218010
@@ -8273,6 +8368,11 @@
   SkillIcon: 20227020
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 20227030
+  Name: アイシイアドマイア
+  SkillIcon: 20227030
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
 - Id: 20228010
   Name: ボルテージハート
   SkillIcon: 20228010
@@ -8508,6 +8608,11 @@
   SkillIcon: 20237020
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 20237030
+  Name: エンジェルメモリーズ
+  SkillIcon: 20237030
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 20238010
   Name: エンデュランス
   SkillIcon: 20238010
@@ -8522,6 +8627,11 @@
   Name: セレブレイション
   SkillIcon: 20239010
   SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 20305010
+  Name: ドリーミングフラワーズ
+  SkillIcon: 20305010
+  SkillMainEffect: 14
   IsExSpecialAppeal: 0
 - Id: 20313010
   Name: ハートキャプチャ
@@ -8852,6 +8962,11 @@
   Name: ブルームクロニクル
   SkillIcon: 20315380
   SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 20315390
+  Name: スクールアイドルオブ3イヤーズ
+  SkillIcon: 20315390
+  SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 20318010
   Name: ハートアトラクション
@@ -9208,6 +9323,11 @@
   SkillIcon: 20325360
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 20325370
+  Name: スクールアイドルオブ3イヤーズ
+  SkillIcon: 20325370
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
 - Id: 20328010
   Name: ラブアトラクト
   SkillIcon: 20328010
@@ -9522,6 +9642,11 @@
   Name: トモダチメモリーズ
   SkillIcon: 20335350
   SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 20335360
+  Name: スクールアイドルオブ3イヤーズ
+  SkillIcon: 20335360
+  SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 20338010
   Name: リゲインアトラクト
@@ -10738,6 +10863,11 @@
   SkillIcon: 30217020
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30217030
+  Name: トライアングルスターズ・バック
+  SkillIcon: 30217030
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30218010
   Name: アキューミュレイト
   SkillIcon: 30218010
@@ -11003,6 +11133,11 @@
   SkillIcon: 30227020
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30227030
+  Name: トライアングルスターズ・バック
+  SkillIcon: 30227030
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30228010
   Name: アキューミュレイト
   SkillIcon: 30228010
@@ -11218,6 +11353,11 @@
   SkillIcon: 30237020
   SkillMainEffect: 902
   IsExSpecialAppeal: 0
+- Id: 30237030
+  Name: トライアングルスターズ・バック
+  SkillIcon: 30237030
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30238010
   Name: ドロー：メンタルプロテクト & APゲイン
   SkillIcon: 30238010
@@ -11232,6 +11372,11 @@
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30239010
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 30305010
+  Name: グラデュエーション
+  SkillIcon: 30305010
+  SkillMainEffect: 55
   IsExSpecialAppeal: 0
 - Id: 30314010
   Name: チェイン：梢
@@ -11532,6 +11677,11 @@
   Name: ストーリーテラー
   SkillIcon: 30315380
   SkillMainEffect: 52
+  IsExSpecialAppeal: 0
+- Id: 30315390
+  Name: エバーブルーム
+  SkillIcon: 30315390
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30318010
   Name: フェイバリット：フィーバー
@@ -11858,6 +12008,11 @@
   SkillIcon: 30325360
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
+- Id: 30325370
+  Name: エバーブルーム
+  SkillIcon: 30325370
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
 - Id: 30328010
   Name: APレデュース：ボルテージ
   SkillIcon: 30328010
@@ -12142,6 +12297,11 @@
   Name: R's パーク
   SkillIcon: 30335350
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 30335360
+  Name: エバーブルーム
+  SkillIcon: 30335360
+  SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30338010
   Name: ドロー：ラブアトラクト & APレデュース：メンタル
@@ -13608,6 +13768,21 @@
   SkillIcon: 80525120
   SkillMainEffect: 46
   IsExSpecialAppeal: 0
+- Id: 80575010
+  Name: ブルーミングフラワー/Kaho
+  SkillIcon: 80315390
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80585010
+  Name: ブルーミングフラワー/Sayaka
+  SkillIcon: 80325370
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 80595010
+  Name: ブルーミングフラワー/Rurino
+  SkillIcon: 80335360
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -14226,5 +14401,20 @@
 - Id: 90565010
   Name: E-N
   SkillIcon: 90525120
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90575010
+  Name: フラワーガーデン
+  SkillIcon: 90315390
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90585010
+  Name: フラワーガーデン
+  SkillIcon: 90325370
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90595010
+  Name: フラワーガーデン
+  SkillIcon: 90335360
   SkillMainEffect: 1
   IsExSpecialAppeal: 0

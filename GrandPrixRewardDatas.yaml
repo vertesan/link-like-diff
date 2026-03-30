@@ -21070,7 +21070,7 @@
 - Id: 7051120104
   GrandPrixRewardsId: 70511201
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 150
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21115,7 +21115,7 @@
 - Id: 7051120204
   GrandPrixRewardsId: 70511202
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 130
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21160,7 +21160,7 @@
 - Id: 7051120304
   GrandPrixRewardsId: 70511203
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 120
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21205,7 +21205,7 @@
 - Id: 7051120404
   GrandPrixRewardsId: 70511204
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 100
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21250,7 +21250,7 @@
 - Id: 7051120504
   GrandPrixRewardsId: 70511205
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 90
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21295,7 +21295,7 @@
 - Id: 7051120604
   GrandPrixRewardsId: 70511206
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 80
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21340,7 +21340,7 @@
 - Id: 7051120704
   GrandPrixRewardsId: 70511207
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 60
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21385,7 +21385,7 @@
 - Id: 7051120804
   GrandPrixRewardsId: 70511208
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 50
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21421,7 +21421,7 @@
 - Id: 7051120903
   GrandPrixRewardsId: 70511209
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 50
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21457,7 +21457,7 @@
 - Id: 7051121003
   GrandPrixRewardsId: 70511210
   RewardType: 1
-  RewardItemId: 3008001
+  RewardItemId: 3011002
   RewardNum: 50
   IsEmphasize: 0
   IsUsePresentBox: 1
@@ -21643,6 +21643,78 @@
   IsUsePresentBox: 1
   LifeTimeDay: 0
   RewardTextId: 10702726
+- Id: 7051123001
+  GrandPrixRewardsId: 70511230
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702698
+- Id: 7051123101
+  GrandPrixRewardsId: 70511231
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702699
+- Id: 7051123201
+  GrandPrixRewardsId: 70511232
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702700
+- Id: 7051123301
+  GrandPrixRewardsId: 70511233
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702701
+- Id: 7051123401
+  GrandPrixRewardsId: 70511234
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702702
+- Id: 7051123501
+  GrandPrixRewardsId: 70511235
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702703
+- Id: 7051123601
+  GrandPrixRewardsId: 70511236
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702704
+- Id: 7051123701
+  GrandPrixRewardsId: 70511237
+  RewardType: 6
+  RewardItemId: 20251220
+  RewardNum: 1
+  IsEmphasize: 0
+  IsUsePresentBox: 1
+  LifeTimeDay: 0
+  RewardTextId: 10702705
 - Id: 8031010101
   GrandPrixRewardsId: 80310101
   RewardType: 3

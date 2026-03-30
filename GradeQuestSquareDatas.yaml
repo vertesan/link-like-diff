@@ -442,6 +442,12 @@
   TargetId: 0
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 11055601
+  Name: start
+  SquareType: 1
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 21031101
   Name: "null"
   SquareType: 2
@@ -916,6 +922,18 @@
   TargetId: 0
   MinActionPoint: 5
   MaxActionPoint: 5
+- Id: 21055601
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
+- Id: 21055602
+  Name: "null"
+  SquareType: 2
+  TargetId: 0
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 31031101
   Name: ライブステージ1
   SquareType: 3
@@ -3640,6 +3658,12 @@
   TargetId: 51054601
   MinActionPoint: 0
   MaxActionPoint: 0
+- Id: 51055601
+  Name: 『手札上限 +3枚』解除
+  SquareType: 5
+  TargetId: 51055601
+  MinActionPoint: 0
+  MaxActionPoint: 0
 - Id: 61031101
   Name: 103期 獲得ライブPt. +5%
   SquareType: 6
@@ -4370,5 +4394,11 @@
   Name: メインライブステージ
   SquareType: 7
   TargetId: 571054601
+  MinActionPoint: 1
+  MaxActionPoint: 1
+- Id: 71055601
+  Name: メインライブステージ
+  SquareType: 7
+  TargetId: 571055601
   MinActionPoint: 1
   MaxActionPoint: 1

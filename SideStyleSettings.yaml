@@ -26,6 +26,10 @@
   CardSeriesId: 1011501
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 1011205
+  CardSeriesId: 1011501
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033
 - Id: 1020103
   CardSeriesId: 1020501
   GenerationsId: 103
@@ -54,6 +58,42 @@
   CardSeriesId: 1020501
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 1020205
+  CardSeriesId: 1020501
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 1030103
+  CardSeriesId: 1030501
+  GenerationsId: 103
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033
+- Id: 1030104
+  CardSeriesId: 1030501
+  GenerationsId: 104
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 1030105
+  CardSeriesId: 1030501
+  GenerationsId: 105
+  SideStyleSetCharacterIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 1030201
+  CardSeriesId: 1030501
+  GenerationsId: 1051
+  SideStyleSetCharacterIds: 1021,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 1030202
+  CardSeriesId: 1030501
+  GenerationsId: 1052
+  SideStyleSetCharacterIds: 1022,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 1030203
+  CardSeriesId: 1030501
+  GenerationsId: 1053
+  SideStyleSetCharacterIds: 1023,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 1030204
+  CardSeriesId: 1030501
+  GenerationsId: 1021
+  SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 1030205
+  CardSeriesId: 1030501
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 1044103
   CardSeriesId: 1044401
   GenerationsId: 103
@@ -82,6 +122,10 @@
   CardSeriesId: 1044401
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 1044205
+  CardSeriesId: 1044401
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1051,1052
 - Id: 10217011
   CardSeriesId: 1021701
   GenerationsId: 103
@@ -110,6 +154,10 @@
   CardSeriesId: 1021701
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10217018
+  CardSeriesId: 1021701
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 10217021
   CardSeriesId: 1021702
   GenerationsId: 103
@@ -138,6 +186,42 @@
   CardSeriesId: 1021702
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10217028
+  CardSeriesId: 1021702
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10217031
+  CardSeriesId: 1021703
+  GenerationsId: 103
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033
+- Id: 10217032
+  CardSeriesId: 1021703
+  GenerationsId: 104
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10217033
+  CardSeriesId: 1021703
+  GenerationsId: 105
+  SideStyleSetCharacterIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10217034
+  CardSeriesId: 1021703
+  GenerationsId: 1051
+  SideStyleSetCharacterIds: 1021,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10217035
+  CardSeriesId: 1021703
+  GenerationsId: 1052
+  SideStyleSetCharacterIds: 1022,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10217036
+  CardSeriesId: 1021703
+  GenerationsId: 1053
+  SideStyleSetCharacterIds: 1023,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10217037
+  CardSeriesId: 1021703
+  GenerationsId: 1021
+  SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10217038
+  CardSeriesId: 1021703
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 10227011
   CardSeriesId: 1022701
   GenerationsId: 103
@@ -166,6 +250,10 @@
   CardSeriesId: 1022701
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10227018
+  CardSeriesId: 1022701
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 10227021
   CardSeriesId: 1022702
   GenerationsId: 103
@@ -194,6 +282,42 @@
   CardSeriesId: 1022702
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10227028
+  CardSeriesId: 1022702
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10227031
+  CardSeriesId: 1022703
+  GenerationsId: 103
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033
+- Id: 10227032
+  CardSeriesId: 1022703
+  GenerationsId: 104
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10227033
+  CardSeriesId: 1022703
+  GenerationsId: 105
+  SideStyleSetCharacterIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10227034
+  CardSeriesId: 1022703
+  GenerationsId: 1051
+  SideStyleSetCharacterIds: 1021,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10227035
+  CardSeriesId: 1022703
+  GenerationsId: 1052
+  SideStyleSetCharacterIds: 1022,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10227036
+  CardSeriesId: 1022703
+  GenerationsId: 1053
+  SideStyleSetCharacterIds: 1023,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10227037
+  CardSeriesId: 1022703
+  GenerationsId: 1021
+  SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10227038
+  CardSeriesId: 1022703
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 10237011
   CardSeriesId: 1023701
   GenerationsId: 103
@@ -222,6 +346,10 @@
   CardSeriesId: 1023701
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10237018
+  CardSeriesId: 1023701
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
 - Id: 10237021
   CardSeriesId: 1023702
   GenerationsId: 103
@@ -250,6 +378,42 @@
   CardSeriesId: 1023702
   GenerationsId: 1021
   SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10237028
+  CardSeriesId: 1023702
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10237031
+  CardSeriesId: 1023703
+  GenerationsId: 103
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033
+- Id: 10237032
+  CardSeriesId: 1023703
+  GenerationsId: 104
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043
+- Id: 10237033
+  CardSeriesId: 1023703
+  GenerationsId: 105
+  SideStyleSetCharacterIds: 1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10237034
+  CardSeriesId: 1023703
+  GenerationsId: 1051
+  SideStyleSetCharacterIds: 1021,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10237035
+  CardSeriesId: 1023703
+  GenerationsId: 1052
+  SideStyleSetCharacterIds: 1022,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10237036
+  CardSeriesId: 1023703
+  GenerationsId: 1053
+  SideStyleSetCharacterIds: 1023,1031,1032,1033,1041,1042,1043,1051,1052
+- Id: 10237037
+  CardSeriesId: 1023703
+  GenerationsId: 1021
+  SideStyleSetCharacterIds: 1021,1022,1023
+- Id: 10237038
+  CardSeriesId: 1023703
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1021,1022,1023,1031,1032,1033,1041,1042,1043,1051,1052
 - Id: 10335341
   CardSeriesId: 1033534
   GenerationsId: 103
@@ -274,6 +438,10 @@
   CardSeriesId: 1033534
   GenerationsId: 1053
   SideStyleSetCharacterIds: 1032,1033,1042,1052
+- Id: 10335347
+  CardSeriesId: 1033534
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1032,1033,1042,1052
 - Id: 10435231
   CardSeriesId: 1043523
   GenerationsId: 103
@@ -297,4 +465,8 @@
 - Id: 10435236
   CardSeriesId: 1043523
   GenerationsId: 1053
+  SideStyleSetCharacterIds: 1031,1041,1043,1051
+- Id: 10435237
+  CardSeriesId: 1043523
+  GenerationsId: 1059
   SideStyleSetCharacterIds: 1031,1041,1043,1051

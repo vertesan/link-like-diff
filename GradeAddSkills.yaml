@@ -970,3 +970,15 @@
   SkillIcon: 20100900
   GradeAddSkillEffectsId: "5100902075"
   OrderId: 1
+- Id: 51055601
+  Name: 手札上限 +3枚
+  Description: ライブ中、手札の上限枚数が3枚増加する。
+  SkillIcon: 10101500
+  GradeAddSkillEffectsId: "4101500300"
+  OrderId: 1
+- Id: 51055602
+  Name: 手札上限 -3枚
+  Description: ライブ中、手札の上限枚数を-3枚する。
+  SkillIcon: 20101500
+  GradeAddSkillEffectsId: "5101500003"
+  OrderId: 1

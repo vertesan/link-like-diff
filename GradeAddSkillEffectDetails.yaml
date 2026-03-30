@@ -854,6 +854,14 @@
   SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
   TargetMood: 0
   EffectValue: 2
+- Id: 41015003000
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_CALC_TYPE
+  TargetMood: 0
+  EffectValue: 1
+- Id: 41015003001
+  SkillEffectDetailType: CHANGE_HAND_CARD_COUNT_NUM
+  TargetMood: 0
+  EffectValue: 3
 - Id: 51002020100
   SkillEffectDetailType: CHANGE_MENTAL_VALUE_CALC_TYPE
   TargetMood: 0

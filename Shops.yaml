@@ -8,7 +8,9 @@
   OrderId: 2
 - Id: 3001
   ShopType: 4
-  Name: ペタルコイン交換所
+  Name: |-
+    ペタルコイン
+    交換所
   OrderId: 5
 - Id: 4001
   ShopType: 6
