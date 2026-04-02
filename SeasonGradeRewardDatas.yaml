@@ -328,3 +328,33 @@
   RewardItemId: 2015005
   RewardNum: 1
   IsEmphasize: 1
+- Id: 10050130101
+  SeasonGradeRewardsId: 100501301
+  RewardType: 3
+  RewardItemId: 2015001
+  RewardNum: 1
+  IsEmphasize: 1
+- Id: 10050130201
+  SeasonGradeRewardsId: 100501302
+  RewardType: 3
+  RewardItemId: 2015002
+  RewardNum: 1
+  IsEmphasize: 1
+- Id: 10050130301
+  SeasonGradeRewardsId: 100501303
+  RewardType: 3
+  RewardItemId: 2015003
+  RewardNum: 1
+  IsEmphasize: 1
+- Id: 10050130401
+  SeasonGradeRewardsId: 100501304
+  RewardType: 3
+  RewardItemId: 2015004
+  RewardNum: 1
+  IsEmphasize: 1
+- Id: 10050130501
+  SeasonGradeRewardsId: 100501305
+  RewardType: 3
+  RewardItemId: 2015005
+  RewardNum: 1
+  IsEmphasize: 1

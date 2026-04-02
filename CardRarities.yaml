@@ -5,8 +5,8 @@
   Evolution2_MaxLevel: 60
   Evolution3_MaxLevel: 70
   Evolution4_MaxLevel: 80
-  SortOrderId: 1
-  FilterOrderId: 3
+  SortOrderId: 2
+  FilterOrderId: 5
 - Id: 4
   RarityName: SR
   Evolution0_MaxLevel: 40
@@ -14,8 +14,8 @@
   Evolution2_MaxLevel: 80
   Evolution3_MaxLevel: 90
   Evolution4_MaxLevel: 100
-  SortOrderId: 2
-  FilterOrderId: 2
+  SortOrderId: 4
+  FilterOrderId: 3
 - Id: 5
   RarityName: UR
   Evolution0_MaxLevel: 60
@@ -23,7 +23,7 @@
   Evolution2_MaxLevel: 100
   Evolution3_MaxLevel: 110
   Evolution4_MaxLevel: 120
-  SortOrderId: 3
+  SortOrderId: 6
   FilterOrderId: 1
 - Id: 7
   RarityName: LR
@@ -32,8 +32,8 @@
   Evolution2_MaxLevel: 120
   Evolution3_MaxLevel: 130
   Evolution4_MaxLevel: 140
-  SortOrderId: 6
-  FilterOrderId: 6
+  SortOrderId: 9
+  FilterOrderId: 9
 - Id: 8
   RarityName: DR
   Evolution0_MaxLevel: 0
@@ -41,8 +41,8 @@
   Evolution2_MaxLevel: 120
   Evolution3_MaxLevel: 130
   Evolution4_MaxLevel: 140
-  SortOrderId: 4
-  FilterOrderId: 4
+  SortOrderId: 10
+  FilterOrderId: 10
 - Id: 9
   RarityName: BR
   Evolution0_MaxLevel: 60
@@ -50,5 +50,5 @@
   Evolution2_MaxLevel: 100
   Evolution3_MaxLevel: 110
   Evolution4_MaxLevel: 120
-  SortOrderId: 5
-  FilterOrderId: 5
+  SortOrderId: 8
+  FilterOrderId: 7

@@ -6277,6 +6277,27 @@
   UnlockConditionValue: 0
   DisplayConditions: 0
   DisplayConditionValue: 0
+- Id: 30601003
+  ItemExchangeCategoryId: 0
+  ProductItemType: 1
+  ProductItemId: 2003014
+  ProductItemNum: 1
+  MaterialItemType: 1
+  MaterialItemId: 3011004
+  MaterialItemNum: 1
+  LimitNum: 0
+  ResetType: 0
+  IsVisibleEndTime: 0
+  OrderId: 3
+  StartTime: 2026-04-02T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DisplayName: ""
+  CategoryListId: 306001
+  ItemGroup: ""
+  UnlockConditions: 0
+  UnlockConditionValue: 0
+  DisplayConditions: 0
+  DisplayConditionValue: 0
 - Id: 30602001
   ItemExchangeCategoryId: 0
   ProductItemType: 1
@@ -6319,6 +6340,27 @@
   UnlockConditionValue: 0
   DisplayConditions: 0
   DisplayConditionValue: 0
+- Id: 30602003
+  ItemExchangeCategoryId: 0
+  ProductItemType: 1
+  ProductItemId: 2003024
+  ProductItemNum: 1
+  MaterialItemType: 1
+  MaterialItemId: 3011005
+  MaterialItemNum: 1
+  LimitNum: 0
+  ResetType: 0
+  IsVisibleEndTime: 0
+  OrderId: 3
+  StartTime: 2026-04-02T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DisplayName: ""
+  CategoryListId: 306002
+  ItemGroup: ""
+  UnlockConditions: 0
+  UnlockConditionValue: 0
+  DisplayConditions: 0
+  DisplayConditionValue: 0
 - Id: 30603001
   ItemExchangeCategoryId: 0
   ProductItemType: 1
@@ -6353,6 +6395,27 @@
   IsVisibleEndTime: 0
   OrderId: 2
   StartTime: 2025-06-06T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  DisplayName: ""
+  CategoryListId: 306003
+  ItemGroup: ""
+  UnlockConditions: 0
+  UnlockConditionValue: 0
+  DisplayConditions: 0
+  DisplayConditionValue: 0
+- Id: 30603003
+  ItemExchangeCategoryId: 0
+  ProductItemType: 1
+  ProductItemId: 2003034
+  ProductItemNum: 1
+  MaterialItemType: 1
+  MaterialItemId: 3011006
+  MaterialItemNum: 1
+  LimitNum: 0
+  ResetType: 0
+  IsVisibleEndTime: 0
+  OrderId: 3
+  StartTime: 2026-04-02T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   DisplayName: ""
   CategoryListId: 306003
