@@ -1,38 +1,26 @@
-- Id: 1001
-  ShopType: 1
-  Name: SIsCaチャージ
-  OrderId: 1
-- Id: 2001
-  ShopType: 5
-  Name: メンバーシップ
-  OrderId: 2
 - Id: 3001
   ShopType: 4
   Name: |-
     ペタルコイン
     交換所
-  OrderId: 5
-- Id: 4001
-  ShopType: 6
-  Name: アイテムストア
-  OrderId: 3
+  OrderId: 2
 - Id: 5001
   ShopType: 7
   Name: GP PRIZE交換所
-  OrderId: 6
+  OrderId: 3
 - Id: 6001
   ShopType: 3
   Name: アイテム交換所
-  OrderId: 7
+  OrderId: 4
 - Id: 7001
   ShopType: 8
   Name: セレクトチケット交換所
-  OrderId: 8
+  OrderId: 5
 - Id: 8001
   ShopType: 9
   Name: ステッカー交換所
-  OrderId: 9
+  OrderId: 6
 - Id: 9001
   ShopType: 10
   Name: SIsCaストア
-  OrderId: 4
+  OrderId: 1
