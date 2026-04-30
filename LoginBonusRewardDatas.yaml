@@ -54,6 +54,62 @@
   RewardNum: 100
   LifeTimeDay: 30
   RewardTextId: 40100007
+- Id: 10100201
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 1
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100001
+- Id: 10100202
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 2
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100002
+- Id: 10100203
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 3
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100003
+- Id: 10100204
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 4
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100004
+- Id: 10100205
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 5
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100005
+- Id: 10100206
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 6
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100006
+- Id: 10100207
+  LoginBonusRewardSeriesId: 101002
+  DayCount: 7
+  RewardType: 3
+  RewardId: 1002001
+  RewardNum: 2000
+  LifeTimeDay: 30
+  RewardTextId: 40100007
 - Id: 20100101
   LoginBonusRewardSeriesId: 201001
   DayCount: 1
@@ -2134,3 +2190,11 @@
   RewardNum: 8
   LifeTimeDay: 30
   RewardTextId: 40102581
+- Id: 20106301
+  LoginBonusRewardSeriesId: 201063
+  DayCount: 1
+  RewardType: 6
+  RewardId: 92000060
+  RewardNum: 1
+  LifeTimeDay: 30
+  RewardTextId: 40102591

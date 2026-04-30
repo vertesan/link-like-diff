@@ -7798,6 +7798,96 @@
   SkillIcon: 10529010
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
+- Id: 19215010
+  Name: グラデュエイトサポート
+  SkillIcon: 19215010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19215011
+  Name: グラデュエイトサポート
+  SkillIcon: 19215010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19215012
+  Name: グラデュエイトサポート
+  SkillIcon: 19215010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19225010
+  Name: グラデュエイトサポート
+  SkillIcon: 19225010
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19225011
+  Name: グラデュエイトサポート
+  SkillIcon: 19225010
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19225012
+  Name: グラデュエイトサポート
+  SkillIcon: 19225010
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19234010
+  Name: グラデュエイトサポート
+  SkillIcon: 19234010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19234011
+  Name: グラデュエイトサポート
+  SkillIcon: 19234010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19234012
+  Name: グラデュエイトサポート
+  SkillIcon: 19234010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19315010
+  Name: トライフラワーズ
+  SkillIcon: 19315010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19315011
+  Name: トライフラワーズ
+  SkillIcon: 19315010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19315012
+  Name: トライフラワーズ
+  SkillIcon: 19315010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19325010
+  Name: トライフラワーズ
+  SkillIcon: 19325010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19325011
+  Name: トライフラワーズ
+  SkillIcon: 19325010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19325012
+  Name: トライフラワーズ
+  SkillIcon: 19325010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19335010
+  Name: トライフラワーズ
+  SkillIcon: 19335010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19335011
+  Name: トライフラワーズ
+  SkillIcon: 19335010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19335012
+  Name: トライフラワーズ
+  SkillIcon: 19335010
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 20115010
   Name: ドリーミングサポート
   SkillIcon: 20115010
@@ -10603,6 +10693,36 @@
   SkillIcon: 22435150
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 29215010
+  Name: アンウェイニングフィロソフィ
+  SkillIcon: 29215010
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 29225010
+  Name: アンウェイニングパフォーマンス
+  SkillIcon: 29225010
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 29234010
+  Name: アンウェイニングチャーミング
+  SkillIcon: 29234010
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 29315010
+  Name: フローラルパッション
+  SkillIcon: 29315010
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 29325010
+  Name: フローラルクール
+  SkillIcon: 29325010
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 29335010
+  Name: フローラルウォーム
+  SkillIcon: 29335010
+  SkillMainEffect: 2
+  IsExSpecialAppeal: 0
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
@@ -13137,6 +13257,36 @@
   Name: ドロー：ヒートアップ
   SkillIcon: 32435130
   SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 39215010
+  Name: ブルーミングスター
+  SkillIcon: 39215010
+  SkillMainEffect: 25
+  IsExSpecialAppeal: 0
+- Id: 39225010
+  Name: ブルーミングスター
+  SkillIcon: 39225010
+  SkillMainEffect: 2
+  IsExSpecialAppeal: 0
+- Id: 39234010
+  Name: ブルーミングスター
+  SkillIcon: 39234010
+  SkillMainEffect: 7
+  IsExSpecialAppeal: 0
+- Id: 39315010
+  Name: ミューチュアル
+  SkillIcon: 39315010
+  SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 39325010
+  Name: ミューチュアル
+  SkillIcon: 39325010
+  SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 39335010
+  Name: ミューチュアル
+  SkillIcon: 39335010
+  SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 80013010
   Name: ラブアトラクト

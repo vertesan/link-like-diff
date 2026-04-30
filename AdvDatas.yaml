@@ -7838,3 +7838,63 @@
   AdvUnlockItemNum: 0
   AdvUnlockConditionValue: 0
   IsPersistentReward: 0
+- Id: 20000101
+  AdvSeriesId: 200001
+  Name: 『Water the flowers』
+  Description: PART 1
+  ScriptId: 20000301
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 385
+  SubTitleName: "1"
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 0
+  AdvUnlockItemNum: 0
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 1
+- Id: 20000102
+  AdvSeriesId: 200001
+  Name: 『Water the flowers』
+  Description: PART 2
+  ScriptId: 20000302
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 386
+  SubTitleName: "2"
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 0
+  AdvScreenMode: 0
+  AdvUnlockItemId: 1006101
+  AdvUnlockItemNum: 1
+  AdvUnlockConditionValue: 0
+  IsPersistentReward: 1
+- Id: 20000103
+  AdvSeriesId: 200001
+  Name: 『Water the flowers』
+  Description: PART 3
+  ScriptId: 20000303
+  OpenSeasonFanLevel: 1
+  RewardType: 3,3
+  WatchRewardId: 1002001,3009000
+  WatchRewardNum: 200,1
+  RewardTextId: 30200001,30200001
+  OrderId: 387
+  SubTitleName: "3"
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  IsPeriod: 1
+  AdvScreenMode: 0
+  AdvUnlockItemId: 1006101
+  AdvUnlockItemNum: 1
+  AdvUnlockConditionValue: 20000102
+  IsPersistentReward: 1

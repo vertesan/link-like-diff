@@ -1,3 +1,19 @@
+- Id: 101001000
+  StageSkillEffectId: 10100100
+  SkillEffectDetailType: GET_HEART_CALC_TYPE
+  EffectValue: 1
+- Id: 101001001
+  StageSkillEffectId: 10100100
+  SkillEffectDetailType: GET_HEART_NUM_BASE
+  EffectValue: 1000000
+- Id: 101001002
+  StageSkillEffectId: 10100100
+  SkillEffectDetailType: GET_HEART_DISPLAY_TIME_TYPE
+  EffectValue: 2
+- Id: 101001003
+  StageSkillEffectId: 10100100
+  SkillEffectDetailType: GET_HEART_DISPLAY_TIME
+  EffectValue: 1
 - Id: 101002000
   StageSkillEffectId: 10100200
   SkillEffectDetailType: GET_HEART_CALC_TYPE
@@ -92,6 +108,26 @@
   EffectValue: 0
 - Id: 102020004
   StageSkillEffectId: 10202000
+  SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
+  EffectValue: 0
+- Id: 102021000
+  StageSkillEffectId: 10202100
+  SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
+  EffectValue: 1
+- Id: 102021001
+  StageSkillEffectId: 10202100
+  SkillEffectDetailType: LOVE_UP_BUFF_NUM_BASE
+  EffectValue: 100000000000
+- Id: 102021002
+  StageSkillEffectId: 10202100
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 102021003
+  StageSkillEffectId: 10202100
+  SkillEffectDetailType: LOVE_UP_BUFF_DISPLAY_TIME
+  EffectValue: 0
+- Id: 102021004
+  StageSkillEffectId: 10202100
   SkillEffectDetailType: LOVE_UP_BUFF_DISABLED_TYPE
   EffectValue: 0
 - Id: 102030000
@@ -1286,6 +1322,26 @@
   StageSkillEffectId: 11032000
   SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
   EffectValue: 0
+- Id: 110500000
+  StageSkillEffectId: 11050000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_CALC_TYPE
+  EffectValue: 1
+- Id: 110500001
+  StageSkillEffectId: 11050000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM
+  EffectValue: 500000000
+- Id: 110500002
+  StageSkillEffectId: 11050000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM_BONUS_MOOD
+  EffectValue: 0
+- Id: 110500003
+  StageSkillEffectId: 11050000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 110500004
+  StageSkillEffectId: 11050000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
+  EffectValue: 0
 - Id: 202000010
   StageSkillEffectId: 20200001
   SkillEffectDetailType: LOVE_UP_BUFF_CALC_TYPE
@@ -2269,7 +2325,7 @@
 - Id: 209000101
   StageSkillEffectId: 20900010
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
-  EffectValue: 11000
+  EffectValue: 1010000
 - Id: 209000140
   StageSkillEffectId: 20900014
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_CALC_TYPE
@@ -2278,3 +2334,23 @@
   StageSkillEffectId: 20900014
   SkillEffectDetailType: CHANGE_SKILL_INCREASE_SPEED_NUM
   EffectValue: 11400
+- Id: 211000000
+  StageSkillEffectId: 21100000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_CALC_TYPE
+  EffectValue: 1
+- Id: 211000001
+  StageSkillEffectId: 21100000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM
+  EffectValue: -1000000000
+- Id: 211000002
+  StageSkillEffectId: 21100000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_NUM_BONUS_MOOD
+  EffectValue: 0
+- Id: 211000003
+  StageSkillEffectId: 21100000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME_TYPE
+  EffectValue: 3
+- Id: 211000004
+  StageSkillEffectId: 21100000
+  SkillEffectDetailType: CHANGE_HEART_LIMIT_DISPLAY_TIME
+  EffectValue: 0

@@ -1260,6 +1260,18 @@
     アクセス権限を得られる不思議な鍵。
   StartTime: 2022-12-31T15:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 1006101
+  Name: KEY of Chapter PERENNIAL『Water the flowers』
+  NameFurigana: きーおぶちゃぷたーぺれにある
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: "活動記録\u00a0間章\u00a0Chapter\u00a0PERENNIAL\\n『Water\u00a0the\u00a0flowers』へのアクセス権限を得られる鍵。"
+  StartTime: 2022-12-31T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 2003011
   Name: 猫のダンベルボール
   NameFurigana: ねこのだんべるぼーる
@@ -2807,6 +2819,18 @@
   RequestableNum: 0
   Description: 候補の中から選択したカード1枚と交換できるチケット。
   StartTime: 2026-02-21T07:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 3003053
+  Name: 【103-105 Trilogy】セレクトチケット
+  NameFurigana: ひゃくさんひゃくごとりろじーせれくとちけっと
+  ItemType: 3
+  ItemCategory: 3
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 9
+  Description: 候補の中から選択したカード1枚と交換できるチケット。
+  StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 3004000
   Name: スタイルPt.
@@ -10355,6 +10379,78 @@
   RequestableNum: 0
   Description: スタイル解放素材(セラス 柳田 リリエンフェルト)
   StartTime: 2025-06-25T15:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4921501
+  Name: "[今、過去、未来の三原色]乙宗\u00a0梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗 梢)
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4922501
+  Name: "[今、過去、未来の三原色]夕霧\u00a0綴理 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(夕霧 綴理)
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4923401
+  Name: "[今、過去、未来の三原色]藤島\u00a0慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島 慈)
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4931501
+  Name: "[ペレニアル]日野下\u00a0花帆 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(日野下 花帆)
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4932501
+  Name: "[ペレニアル]村野\u00a0さやか 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(村野 さやか)
+  StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4933501
+  Name: "[ペレニアル]大沢\u00a0瑠璃乃 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(大沢 瑠璃乃)
+  StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 5000051
   Name: Chapter S Rank

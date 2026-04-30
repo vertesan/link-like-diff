@@ -52,3 +52,39 @@
   Evolution4_MaxLevel: 120
   SortOrderId: 8
   FilterOrderId: 7
+- Id: 93
+  RarityName: mR
+  Evolution0_MaxLevel: 30
+  Evolution1_MaxLevel: 40
+  Evolution2_MaxLevel: 60
+  Evolution3_MaxLevel: 70
+  Evolution4_MaxLevel: 80
+  SortOrderId: 1
+  FilterOrderId: 6
+- Id: 94
+  RarityName: mSR
+  Evolution0_MaxLevel: 40
+  Evolution1_MaxLevel: 60
+  Evolution2_MaxLevel: 80
+  Evolution3_MaxLevel: 90
+  Evolution4_MaxLevel: 100
+  SortOrderId: 3
+  FilterOrderId: 4
+- Id: 95
+  RarityName: mUR
+  Evolution0_MaxLevel: 60
+  Evolution1_MaxLevel: 80
+  Evolution2_MaxLevel: 100
+  Evolution3_MaxLevel: 110
+  Evolution4_MaxLevel: 120
+  SortOrderId: 5
+  FilterOrderId: 2
+- Id: 99
+  RarityName: mBR
+  Evolution0_MaxLevel: 60
+  Evolution1_MaxLevel: 80
+  Evolution2_MaxLevel: 100
+  Evolution3_MaxLevel: 110
+  Evolution4_MaxLevel: 120
+  SortOrderId: 7
+  FilterOrderId: 8

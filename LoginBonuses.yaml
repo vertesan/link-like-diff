@@ -4,4 +4,11 @@
   IsLoop: 1
   LoginBonusTextId: 40100001,40100002
   StartTime: 2022-12-31T15:00:00Z
-  EndTime: 2030-12-31T14:59:59Z
+  EndTime: 2026-04-30T18:59:59Z
+- Id: 101002
+  Name: 定常ログインボーナス2
+  LoginBonusRewardSeriesID: 101002
+  IsLoop: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2026-04-30T19:00:00Z
+  EndTime: 2026-06-30T02:59:59Z
