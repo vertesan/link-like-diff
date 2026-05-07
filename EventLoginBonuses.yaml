@@ -439,3 +439,10 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2026-05-01T19:00:00Z
   EndTime: 2026-05-03T18:59:59Z
+- Id: 201064
+  Name: 映画公開記念プレゼント！
+  LoginBonusRewardSeriesId: 201064
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2026-05-08T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z

@@ -10723,6 +10723,11 @@
   SkillIcon: 29335010
   SkillMainEffect: 2
   IsExSpecialAppeal: 0
+- Id: 29534010
+  Name: レコードキーパー
+  SkillIcon: 29534010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 30115010
   Name: グラデュエーション
   SkillIcon: 30115010
@@ -13287,6 +13292,11 @@
   Name: ミューチュアル
   SkillIcon: 39335010
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 39534010
+  Name: サクシードフラワー
+  SkillIcon: 39534010
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 80013010
   Name: ラブアトラクト

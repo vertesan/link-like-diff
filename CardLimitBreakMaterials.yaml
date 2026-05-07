@@ -10738,3 +10738,23 @@
   LimitBreakTimes: 4
   CostItemsId: 4933501
   CostNum: 100
+- Id: 19534011
+  CardSeriesId: 1953401
+  LimitBreakTimes: 1
+  CostItemsId: 4953401
+  CostNum: 50
+- Id: 19534012
+  CardSeriesId: 1953401
+  LimitBreakTimes: 2
+  CostItemsId: 4953401
+  CostNum: 50
+- Id: 19534013
+  CardSeriesId: 1953401
+  LimitBreakTimes: 3
+  CostItemsId: 4953401
+  CostNum: 50
+- Id: 19534014
+  CardSeriesId: 1953401
+  LimitBreakTimes: 4
+  CostItemsId: 4953401
+  CostNum: 50

@@ -126,6 +126,30 @@
   CardSeriesId: 1044401
   GenerationsId: 1059
   SideStyleSetCharacterIds: 1051,1052
+- Id: 1953104
+  CardSeriesId: 1953401
+  GenerationsId: 104
+  SideStyleSetCharacterIds: 1041,1042,1043
+- Id: 1953105
+  CardSeriesId: 1953401
+  GenerationsId: 105
+  SideStyleSetCharacterIds: 1041,1042,1043,1051,1052
+- Id: 1953201
+  CardSeriesId: 1953401
+  GenerationsId: 1051
+  SideStyleSetCharacterIds: 1041,1042,1043,1051,1052
+- Id: 1953202
+  CardSeriesId: 1953401
+  GenerationsId: 1052
+  SideStyleSetCharacterIds: 1041,1042,1043,1051,1052
+- Id: 1953203
+  CardSeriesId: 1953401
+  GenerationsId: 1053
+  SideStyleSetCharacterIds: 1041,1042,1043,1051,1052
+- Id: 1953205
+  CardSeriesId: 1953401
+  GenerationsId: 1059
+  SideStyleSetCharacterIds: 1041,1042,1043,1051,1052
 - Id: 10217011
   CardSeriesId: 1021701
   GenerationsId: 103

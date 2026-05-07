@@ -13390,6 +13390,30 @@
   AvailableEndTime: 2035-12-31T14:59:59Z
   VariantStartTime: 2034-12-31T15:00:00Z
   VariantEndTime: 2035-12-31T14:59:59Z
+- Id: 19534011
+  Name: "[B.G.P. 撮影係]錦上\u00a0マイカ＆令沢\u00a0葵"
+  Text: "[B.G.P. 撮影係]錦上\u00a0マイカ＆令沢\u00a0葵 を4回解放した記念のステッカー"
+  CategoryType: 2
+  CategoryName: 2
+  SeasonId: 0
+  CharactersId: 0
+  Priority: 253401
+  IsVariant: 0
+  RequirementType: 5
+  RequirementDetail: MAX_LIMIT_BREAK_STYLE_COUNT
+  RequirementValue: 1953401
+  RequirementText: "[B.G.P. 撮影係]錦上\u00a0マイカ＆令沢\u00a0葵 解放完了"
+  EditRequirementType: 0
+  EditRequirementDetail: ""
+  EditRequirementValue: 0
+  EditRequirementText: ""
+  IsVisibleOnlyPossess: 0
+  StartTime: 2026-05-08T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  AvailableStartTime: 2026-05-08T03:00:00Z
+  AvailableEndTime: 2035-12-31T14:59:59Z
+  VariantStartTime: 2034-12-31T15:00:00Z
+  VariantEndTime: 2035-12-31T14:59:59Z
 - Id: 20000001
   Name: Login 7 days!
   Text: 本日はログイン「7」日目のアニバーサリー！ これからも素敵な「リンクラ」ライフを。
