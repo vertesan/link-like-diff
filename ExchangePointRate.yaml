@@ -15925,7 +15925,7 @@
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   GachaSeriesId: 1055001
-  BonusItemQuantity: 0
+  BonusItemQuantity: 40
 - Id: 10503187
   ExchangePointId: 105501
   ExchangeItemType: 2
@@ -15936,7 +15936,7 @@
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   GachaSeriesId: 1055001
-  BonusItemQuantity: 0
+  BonusItemQuantity: 40
 - Id: 10503188
   ExchangePointId: 105501
   ExchangeItemType: 2
@@ -15947,7 +15947,7 @@
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   GachaSeriesId: 1055001
-  BonusItemQuantity: 0
+  BonusItemQuantity: 40
 - Id: 10503189
   ExchangePointId: 105501
   ExchangeItemType: 2
@@ -15958,4 +15958,48 @@
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
   GachaSeriesId: 1055001
-  BonusItemQuantity: 0
+  BonusItemQuantity: 40
+- Id: 10503190
+  ExchangePointId: 105502
+  ExchangeItemType: 2
+  ExchangeItemId: 19215020
+  ExchangeItemQuantity: 1
+  ExchangePrice: 200
+  LimitedCount: 0
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  GachaSeriesId: 1055002
+  BonusItemQuantity: 40
+- Id: 10503191
+  ExchangePointId: 105502
+  ExchangeItemType: 2
+  ExchangeItemId: 19235010
+  ExchangeItemQuantity: 1
+  ExchangePrice: 200
+  LimitedCount: 0
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  GachaSeriesId: 1055002
+  BonusItemQuantity: 40
+- Id: 10503192
+  ExchangePointId: 105502
+  ExchangeItemType: 2
+  ExchangeItemId: 19425020
+  ExchangeItemQuantity: 1
+  ExchangePrice: 200
+  LimitedCount: 0
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  GachaSeriesId: 1055002
+  BonusItemQuantity: 40
+- Id: 10503193
+  ExchangePointId: 105502
+  ExchangeItemType: 2
+  ExchangeItemId: 19515010
+  ExchangeItemQuantity: 1
+  ExchangePrice: 200
+  LimitedCount: 0
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+  GachaSeriesId: 1055002
+  BonusItemQuantity: 40

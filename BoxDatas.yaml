@@ -68,3 +68,38 @@
   Odds: 0
   AddBoxProgressValue: -100
   IsRestrictView: 1
+- Id: 1002100
+  BoxEventSeriesId: 1002
+  Name: サプライズボックス（銅）
+  Rarity: 1
+  Odds: 5000
+  AddBoxProgressValue: 1
+  IsRestrictView: 0
+- Id: 1002200
+  BoxEventSeriesId: 1002
+  Name: サプライズボックス（銀）
+  Rarity: 2
+  Odds: 3000
+  AddBoxProgressValue: 3
+  IsRestrictView: 0
+- Id: 1002300
+  BoxEventSeriesId: 1002
+  Name: サプライズボックス（金）
+  Rarity: 3
+  Odds: 1500
+  AddBoxProgressValue: 5
+  IsRestrictView: 0
+- Id: 1002400
+  BoxEventSeriesId: 1002
+  Name: サプライズボックス（虹）
+  Rarity: 4
+  Odds: 500
+  AddBoxProgressValue: 10
+  IsRestrictView: 0
+- Id: 1002401
+  BoxEventSeriesId: 1002
+  Name: サプライズボックス（虹+）
+  Rarity: 4
+  Odds: 0
+  AddBoxProgressValue: -150
+  IsRestrictView: 1

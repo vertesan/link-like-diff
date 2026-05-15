@@ -281,10 +281,10 @@
   GradeAddSkillEffectsId: 4101423100,4101433100,4101443100
   OrderId: 3
 - Id: 51031201
-  Name: 初期メンタル -10%
-  Description: ライブ開始時、メンタルを-10%する。
-  SkillIcon: 20100200
-  GradeAddSkillEffectsId: "5100202010"
+  Name: メンタル減少速度+10％
+  Description: ライブ中、メンタルの減少速度を+10%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302010"
   OrderId: 2
 - Id: 51031301
   Name: AP回復速度 -20%
@@ -323,10 +323,10 @@
   GradeAddSkillEffectsId: "5101500002"
   OrderId: 2
 - Id: 51031503
-  Name: 初期メンタル -50%
-  Description: ライブ開始時、メンタルを-50%する。
-  SkillIcon: 20100200
-  GradeAddSkillEffectsId: "5100202050"
+  Name: メンタル減少速度 +50%
+  Description: ライブ中、メンタルの減少速度を+50%する。
+  SkillIcon: 20100300
+  GradeAddSkillEffectsId: "5100302050"
   OrderId: 2
 - Id: 51031504
   Name: AP回復速度 +100%

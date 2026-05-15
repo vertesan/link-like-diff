@@ -20,3 +20,14 @@
   IsRewardViewType: 1
   StartTime: 2025-12-31T19:00:00Z
   EndTime: 2026-01-07T18:59:59Z
+- Id: 1002
+  EventName: Blooming Harvest
+  BoxDropOdds: 10000
+  BoxDropLimit: 0
+  BoxDropLimitResetType: 0
+  SpecialRewardCountTargetBoxDatasId: 1002400,1002401
+  AddBoxProgressCount: 150
+  AddBoxDatasId: 1002401
+  IsRewardViewType: 1
+  StartTime: 2026-05-17T19:00:00Z
+  EndTime: 2026-05-29T18:59:59Z

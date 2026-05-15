@@ -238,3 +238,43 @@
   SpecialRewardProgressCount: 10
   OrderId: 18
   IsLoop: 1
+- Id: 100201
+  BoxEventSeriesId: 1002
+  SpecialRewardItemType: 1
+  SpecialRewardItemId: 3006301
+  SpecialRewardItemIdNum: 25
+  SpecialRewardProgressCount: 5
+  OrderId: 1
+  IsLoop: 0
+- Id: 100202
+  BoxEventSeriesId: 1002
+  SpecialRewardItemType: 1
+  SpecialRewardItemId: 3011002
+  SpecialRewardItemIdNum: 250
+  SpecialRewardProgressCount: 5
+  OrderId: 2
+  IsLoop: 0
+- Id: 100203
+  BoxEventSeriesId: 1002
+  SpecialRewardItemType: 1
+  SpecialRewardItemId: 2003074
+  SpecialRewardItemIdNum: 50
+  SpecialRewardProgressCount: 5
+  OrderId: 3
+  IsLoop: 0
+- Id: 100204
+  BoxEventSeriesId: 1002
+  SpecialRewardItemType: 1
+  SpecialRewardItemId: 3007001
+  SpecialRewardItemIdNum: 500
+  SpecialRewardProgressCount: 5
+  OrderId: 4
+  IsLoop: 0
+- Id: 100205
+  BoxEventSeriesId: 1002
+  SpecialRewardItemType: 3
+  SpecialRewardItemId: 3004000
+  SpecialRewardItemIdNum: 100000
+  SpecialRewardProgressCount: 10
+  OrderId: 5
+  IsLoop: 1

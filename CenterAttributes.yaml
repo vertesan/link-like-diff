@@ -10060,6 +10060,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 29215021
+  CenterAttributeSeriesId: 29215020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29215022
+  CenterAttributeSeriesId: 29215020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29215023
+  CenterAttributeSeriesId: 29215020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 29225011
   CenterAttributeSeriesId: 29225010
   CenterAttributeName: アピールアップ
@@ -10096,6 +10114,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30006000
   Description: 全メンバーのアピール値が60％上昇
+- Id: 29235011
+  CenterAttributeSeriesId: 29235010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29235012
+  CenterAttributeSeriesId: 29235010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29235013
+  CenterAttributeSeriesId: 29235010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 29315011
   CenterAttributeSeriesId: 29315010
   CenterAttributeName: アピールアップ
@@ -10146,6 +10182,42 @@
   Description: 全メンバーのアピール値が80％上昇
 - Id: 29335013
   CenterAttributeSeriesId: 29335010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425021
+  CenterAttributeSeriesId: 29425020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425022
+  CenterAttributeSeriesId: 29425020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425023
+  CenterAttributeSeriesId: 29425020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29515011
+  CenterAttributeSeriesId: 29515010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29515012
+  CenterAttributeSeriesId: 29515010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29515013
+  CenterAttributeSeriesId: 29515010
   CenterAttributeName: アピールアップ
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000

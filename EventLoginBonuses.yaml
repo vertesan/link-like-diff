@@ -446,3 +446,17 @@
   LoginBonusTextId: 40100001,40100002
   StartTime: 2026-05-08T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 201065
+  Name: 6th Live Dream ～Bloom Garden Party～ Garden Stage／兵庫公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201065
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2026-05-22T19:00:00Z
+  EndTime: 2026-05-24T18:59:59Z
+- Id: 201066
+  Name: 6th Live Dream ～Bloom Garden Party～ Party Stage／神奈川公演 開催記念プレゼント！
+  LoginBonusRewardSeriesId: 201066
+  EventLoginBonusType: 1
+  LoginBonusTextId: 40100001,40100002
+  StartTime: 2026-05-29T19:00:00Z
+  EndTime: 2026-05-31T18:59:59Z

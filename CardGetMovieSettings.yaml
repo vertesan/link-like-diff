@@ -1258,10 +1258,18 @@
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 34000
   UrCardEffectBackgroundId: 15130
+- Id: 19215020
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 12000
+  UrCardEffectBackgroundId: 0
 - Id: 19225010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 25000
   UrCardEffectBackgroundId: 15130
+- Id: 19235010
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 11000
+  UrCardEffectBackgroundId: 0
 - Id: 19315010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 8500
@@ -1273,4 +1281,12 @@
 - Id: 19335010
   CardInfoPositionType: 3
   CardInfoDisplayStartTimeSeconds: 11000
+  UrCardEffectBackgroundId: 0
+- Id: 19425020
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 11000
+  UrCardEffectBackgroundId: 0
+- Id: 19515010
+  CardInfoPositionType: 3
+  CardInfoDisplayStartTimeSeconds: 10000
   UrCardEffectBackgroundId: 0

@@ -7813,6 +7813,21 @@
   SkillIcon: 19215010
   SkillMainEffect: 21
   IsExSpecialAppeal: 0
+- Id: 19215020
+  Name: スターティングリズム
+  SkillIcon: 19215020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19215021
+  Name: スターティングリズム
+  SkillIcon: 19215020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19215022
+  Name: スターティングリズム
+  SkillIcon: 19215020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 19225010
   Name: グラデュエイトサポート
   SkillIcon: 19225010
@@ -7841,6 +7856,21 @@
 - Id: 19234012
   Name: グラデュエイトサポート
   SkillIcon: 19234010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19235010
+  Name: スターティングリズム
+  SkillIcon: 19235010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19235011
+  Name: スターティングリズム
+  SkillIcon: 19235010
+  SkillMainEffect: 6
+  IsExSpecialAppeal: 0
+- Id: 19235012
+  Name: スターティングリズム
+  SkillIcon: 19235010
   SkillMainEffect: 6
   IsExSpecialAppeal: 0
 - Id: 19315010
@@ -7887,6 +7917,36 @@
   Name: トライフラワーズ
   SkillIcon: 19335010
   SkillMainEffect: 13
+  IsExSpecialAppeal: 0
+- Id: 19425020
+  Name: スターティングリズム
+  SkillIcon: 19425020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19425021
+  Name: スターティングリズム
+  SkillIcon: 19425020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19425022
+  Name: スターティングリズム
+  SkillIcon: 19425020
+  SkillMainEffect: 11
+  IsExSpecialAppeal: 0
+- Id: 19515010
+  Name: スターティングリズム
+  SkillIcon: 19515010
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 19515011
+  Name: スターティングリズム
+  SkillIcon: 19515010
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 19515012
+  Name: スターティングリズム
+  SkillIcon: 19515010
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20115010
   Name: ドリーミングサポート
@@ -10698,6 +10758,11 @@
   SkillIcon: 29215010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 29215020
+  Name: フラワードリーム・ワン
+  SkillIcon: 29215020
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 29225010
   Name: アンウェイニングパフォーマンス
   SkillIcon: 29225010
@@ -10706,6 +10771,11 @@
 - Id: 29234010
   Name: アンウェイニングチャーミング
   SkillIcon: 29234010
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
+- Id: 29235010
+  Name: フラワードリーム・スリー
+  SkillIcon: 29235010
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 29315010
@@ -10722,6 +10792,16 @@
   Name: フローラルウォーム
   SkillIcon: 29335010
   SkillMainEffect: 2
+  IsExSpecialAppeal: 0
+- Id: 29425020
+  Name: フラワードリーム・ツー
+  SkillIcon: 29425020
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 29515010
+  Name: フラワードリーム・フォー
+  SkillIcon: 29515010
+  SkillMainEffect: 46
   IsExSpecialAppeal: 0
 - Id: 29534010
   Name: レコードキーパー
@@ -13268,6 +13348,11 @@
   SkillIcon: 39215010
   SkillMainEffect: 25
   IsExSpecialAppeal: 0
+- Id: 39215020
+  Name: ファーストスポット
+  SkillIcon: 39215020
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 39225010
   Name: ブルーミングスター
   SkillIcon: 39225010
@@ -13277,6 +13362,11 @@
   Name: ブルーミングスター
   SkillIcon: 39234010
   SkillMainEffect: 7
+  IsExSpecialAppeal: 0
+- Id: 39235010
+  Name: サードスポット
+  SkillIcon: 39235010
+  SkillMainEffect: 52
   IsExSpecialAppeal: 0
 - Id: 39315010
   Name: ミューチュアル
@@ -13292,6 +13382,16 @@
   Name: ミューチュアル
   SkillIcon: 39335010
   SkillMainEffect: 29
+  IsExSpecialAppeal: 0
+- Id: 39425020
+  Name: セカンドスポット
+  SkillIcon: 39425020
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 39515010
+  Name: フォーススポット
+  SkillIcon: 39515010
+  SkillMainEffect: 16
   IsExSpecialAppeal: 0
 - Id: 39534010
   Name: サクシードフラワー

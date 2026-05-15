@@ -10392,6 +10392,18 @@
   Description: スタイル解放素材(乙宗 梢)
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4921502
+  Name: "[ハナ咲けばユメ駆ける]乙宗\u00a0梢 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(乙宗 梢)
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4922501
   Name: "[今、過去、未来の三原色]夕霧\u00a0綴理 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -10415,6 +10427,18 @@
   RequestableNum: 0
   Description: スタイル解放素材(藤島 慈)
   StartTime: 2026-04-30T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4923501
+  Name: "[ハナ咲けばユメ駆ける]藤島\u00a0慈 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(藤島 慈)
+  StartTime: 2026-05-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 4931501
   Name: "[ペレニアル]日野下\u00a0花帆 解放Pt."
@@ -10452,6 +10476,30 @@
   Description: スタイル解放素材(大沢 瑠璃乃)
   StartTime: 2026-04-30T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 4942502
+  Name: "[ハナ咲けばユメ駆ける]徒町\u00a0小鈴 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(徒町 小鈴)
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 4951501
+  Name: "[ハナ咲けばユメ駆ける]桂城\u00a0泉 解放Pt."
+  NameFurigana: かいほうぽいんと
+  ItemType: 4
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: スタイル解放素材(桂城 泉)
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 4953401
   Name: "[B.G.P. 撮影係]錦上\u00a0マイカ＆令沢\u00a0葵 解放Pt."
   NameFurigana: かいほうぽいんと
@@ -10476,6 +10524,18 @@
   Description: アイコンフレーム（Chapter S）
   StartTime: 2026-04-02T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
+- Id: 5000052
+  Name: Chapter S Rank
+  NameFurigana: ちゃぷたーえすらんく
+  ItemType: 10
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: アイコンフレーム（Chapter S）
+  StartTime: 2026-05-16T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
 - Id: 5000061
   Name: Chapter SS Rank
   NameFurigana: ちゃぷたーえすえすらんく
@@ -10487,6 +10547,18 @@
   RequestableNum: 0
   Description: アイコンフレーム（Chapter SS）
   StartTime: 2026-04-02T03:00:00Z
+  EndTime: 2035-12-31T14:59:59Z
+- Id: 5000062
+  Name: Chapter SS Rank
+  NameFurigana: ちゃぷたーえすえすらんく
+  ItemType: 10
+  ItemCategory: 0
+  Rarity: 4
+  EffectValue: 1
+  LimitNum: 9999
+  RequestableNum: 0
+  Description: アイコンフレーム（Chapter SS）
+  StartTime: 2026-05-16T03:00:00Z
   EndTime: 2035-12-31T14:59:59Z
 - Id: 5021041
   Name: 2026 SPRING Kozue FAV RANK Top1

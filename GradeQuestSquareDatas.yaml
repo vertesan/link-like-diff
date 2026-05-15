@@ -3131,7 +3131,7 @@
   MinActionPoint: 0
   MaxActionPoint: 0
 - Id: 51031201
-  Name: 『初期メンタル -10%』解除
+  Name: 『メンタル減少速度+10％』解除
   SquareType: 5
   TargetId: 51031201
   MinActionPoint: 2
@@ -3173,7 +3173,7 @@
   MinActionPoint: 3
   MaxActionPoint: 3
 - Id: 51031503
-  Name: 『初期メンタル -50%』解除
+  Name: 『メンタル減少速度 +50%』解除
   SquareType: 5
   TargetId: 51031503
   MinActionPoint: 1

@@ -10638,6 +10638,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4921501
   CostNum: 100
+- Id: 19215021
+  CardSeriesId: 1921502
+  LimitBreakTimes: 1
+  CostItemsId: 4921502
+  CostNum: 100
+- Id: 19215022
+  CardSeriesId: 1921502
+  LimitBreakTimes: 2
+  CostItemsId: 4921502
+  CostNum: 100
+- Id: 19215023
+  CardSeriesId: 1921502
+  LimitBreakTimes: 3
+  CostItemsId: 4921502
+  CostNum: 100
+- Id: 19215024
+  CardSeriesId: 1921502
+  LimitBreakTimes: 4
+  CostItemsId: 4921502
+  CostNum: 100
 - Id: 19225011
   CardSeriesId: 1922501
   LimitBreakTimes: 1
@@ -10678,6 +10698,26 @@
   LimitBreakTimes: 4
   CostItemsId: 4923401
   CostNum: 50
+- Id: 19235011
+  CardSeriesId: 1923501
+  LimitBreakTimes: 1
+  CostItemsId: 4923501
+  CostNum: 100
+- Id: 19235012
+  CardSeriesId: 1923501
+  LimitBreakTimes: 2
+  CostItemsId: 4923501
+  CostNum: 100
+- Id: 19235013
+  CardSeriesId: 1923501
+  LimitBreakTimes: 3
+  CostItemsId: 4923501
+  CostNum: 100
+- Id: 19235014
+  CardSeriesId: 1923501
+  LimitBreakTimes: 4
+  CostItemsId: 4923501
+  CostNum: 100
 - Id: 19315011
   CardSeriesId: 1931501
   LimitBreakTimes: 1
@@ -10737,6 +10777,46 @@
   CardSeriesId: 1933501
   LimitBreakTimes: 4
   CostItemsId: 4933501
+  CostNum: 100
+- Id: 19425021
+  CardSeriesId: 1942502
+  LimitBreakTimes: 1
+  CostItemsId: 4942502
+  CostNum: 100
+- Id: 19425022
+  CardSeriesId: 1942502
+  LimitBreakTimes: 2
+  CostItemsId: 4942502
+  CostNum: 100
+- Id: 19425023
+  CardSeriesId: 1942502
+  LimitBreakTimes: 3
+  CostItemsId: 4942502
+  CostNum: 100
+- Id: 19425024
+  CardSeriesId: 1942502
+  LimitBreakTimes: 4
+  CostItemsId: 4942502
+  CostNum: 100
+- Id: 19515011
+  CardSeriesId: 1951501
+  LimitBreakTimes: 1
+  CostItemsId: 4951501
+  CostNum: 100
+- Id: 19515012
+  CardSeriesId: 1951501
+  LimitBreakTimes: 2
+  CostItemsId: 4951501
+  CostNum: 100
+- Id: 19515013
+  CardSeriesId: 1951501
+  LimitBreakTimes: 3
+  CostItemsId: 4951501
+  CostNum: 100
+- Id: 19515014
+  CardSeriesId: 1951501
+  LimitBreakTimes: 4
+  CostItemsId: 4951501
   CostNum: 100
 - Id: 19534011
   CardSeriesId: 1953401
