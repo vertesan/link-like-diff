@@ -178,6 +178,96 @@
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
+- Id: 610218030
+  DreamQuestSeriesId: 61021803
+  Name: "[Oracle Étude]乙宗\u00a0梢"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180301
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610218031
+  DreamQuestSeriesId: 61021803
+  Name: "[Oracle Étude]乙宗\u00a0梢 Ⅰ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610218032
+  DreamQuestSeriesId: 61021803
+  Name: "[Oracle Étude]乙宗\u00a0梢 Ⅱ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610218033
+  DreamQuestSeriesId: 61021803
+  Name: "[Oracle Étude]乙宗\u00a0梢 Ⅲ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610218034
+  DreamQuestSeriesId: 61021803
+  Name: "[Oracle Étude]乙宗\u00a0梢 Ⅳ"
+  Description: 乙宗 梢
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1021
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102180341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
 - Id: 610228010
   DreamQuestSeriesId: 61022801
   Name: "[Prism Echo]夕霧 綴理"
@@ -358,6 +448,96 @@
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000
+- Id: 610228030
+  DreamQuestSeriesId: 61022803
+  Name: "[Oracle Étude]夕霧\u00a0綴理"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280301
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610228031
+  DreamQuestSeriesId: 61022803
+  Name: "[Oracle Étude]夕霧\u00a0綴理 Ⅰ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610228032
+  DreamQuestSeriesId: 61022803
+  Name: "[Oracle Étude]夕霧\u00a0綴理 Ⅱ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610228033
+  DreamQuestSeriesId: 61022803
+  Name: "[Oracle Étude]夕霧\u00a0綴理 Ⅲ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610228034
+  DreamQuestSeriesId: 61022803
+  Name: "[Oracle Étude]夕霧\u00a0綴理 Ⅳ"
+  Description: 夕霧 綴理
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1022
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102280341
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
 - Id: 610238010
   DreamQuestSeriesId: 61023801
   Name: "[Prism Echo]藤島 慈"
@@ -535,6 +715,96 @@
   DeckRestrictedType: 0
   DeckRestrictedDetail: 0
   FirstClearRewardSeriesId: 6102380241
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 20000000
+- Id: 610238030
+  DreamQuestSeriesId: 61023803
+  Name: "[Oracle Étude]藤島\u00a0慈"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380301
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 10000000
+- Id: 610238031
+  DreamQuestSeriesId: 61023803
+  Name: "[Oracle Étude]藤島\u00a0慈 Ⅰ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380311
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 12000000
+- Id: 610238032
+  DreamQuestSeriesId: 61023803
+  Name: "[Oracle Étude]藤島\u00a0慈 Ⅱ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380321
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 14000000
+- Id: 610238033
+  DreamQuestSeriesId: 61023803
+  Name: "[Oracle Étude]藤島\u00a0慈 Ⅲ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380331
+  DropRewardSeriesId: 0
+  RandomDropRewardSeriesId: 0
+  Score1: 16000000
+- Id: 610238034
+  DreamQuestSeriesId: 61023803
+  Name: "[Oracle Étude]藤島\u00a0慈 Ⅳ"
+  Description: 藤島 慈
+  Hint: ""
+  StageType: 0
+  UseType: 2
+  UseItem: 3008003
+  UseNum: 300
+  LiveStagesId: 100041
+  QuestMusicsType: 3
+  QuestMusicsDetail: 1023
+  DeckRestrictedType: 0
+  DeckRestrictedDetail: 0
+  FirstClearRewardSeriesId: 6102380341
   DropRewardSeriesId: 0
   RandomDropRewardSeriesId: 0
   Score1: 20000000

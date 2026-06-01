@@ -843,6 +843,21 @@
   SkillIcon: 10218020
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 10218030
+  Name: re:Elysion
+  SkillIcon: 10218030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10218031
+  Name: re:Elysion
+  SkillIcon: 10218030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10218032
+  Name: re:Elysion
+  SkillIcon: 10218030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
 - Id: 10219010
   Name: ヒートアップ
   SkillIcon: 10219010
@@ -1703,6 +1718,21 @@
   SkillIcon: 10228020
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 10228030
+  Name: re:Elysion
+  SkillIcon: 10228030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10228031
+  Name: re:Elysion
+  SkillIcon: 10228030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10228032
+  Name: re:Elysion
+  SkillIcon: 10228030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
 - Id: 10229010
   Name: ボルテージブースト
   SkillIcon: 10229010
@@ -2413,6 +2443,21 @@
   SkillIcon: 10238020
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 10238030
+  Name: re:Elysion
+  SkillIcon: 10238030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10238031
+  Name: re:Elysion
+  SkillIcon: 10238030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
+- Id: 10238032
+  Name: re:Elysion
+  SkillIcon: 10238030
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 1
 - Id: 10239010
   Name: APゲイン：メンタルリカバー ＆ プロテクト
   SkillIcon: 10239010
@@ -7888,6 +7933,21 @@
   SkillIcon: 19315010
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 19315020
+  Name: ヴァレディクトリーリリック
+  SkillIcon: 19315020
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 19315021
+  Name: ヴァレディクトリーリリック
+  SkillIcon: 19315020
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
+- Id: 19315022
+  Name: ヴァレディクトリーリリック
+  SkillIcon: 19315020
+  SkillMainEffect: 24
+  IsExSpecialAppeal: 0
 - Id: 19325010
   Name: トライフラワーズ
   SkillIcon: 19325010
@@ -7918,6 +7978,36 @@
   SkillIcon: 19335010
   SkillMainEffect: 13
   IsExSpecialAppeal: 0
+- Id: 19415010
+  Name: フラワリーサポート
+  SkillIcon: 19415010
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 19415011
+  Name: フラワリーサポート
+  SkillIcon: 19415010
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 19415012
+  Name: フラワリーサポート
+  SkillIcon: 19415010
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 19425010
+  Name: スクワッドサポート
+  SkillIcon: 19425010
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 19425011
+  Name: スクワッドサポート
+  SkillIcon: 19425010
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
+- Id: 19425012
+  Name: スクワッドサポート
+  SkillIcon: 19425010
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
 - Id: 19425020
   Name: スターティングリズム
   SkillIcon: 19425020
@@ -7933,6 +8023,36 @@
   SkillIcon: 19425020
   SkillMainEffect: 11
   IsExSpecialAppeal: 0
+- Id: 19434010
+  Name: スクワッドサポート
+  SkillIcon: 19434010
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 19434011
+  Name: スクワッドサポート
+  SkillIcon: 19434010
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 19434012
+  Name: スクワッドサポート
+  SkillIcon: 19434010
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 19435010
+  Name: フェアウェルリリック
+  SkillIcon: 19435010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19435011
+  Name: フェアウェルリリック
+  SkillIcon: 19435010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
+- Id: 19435012
+  Name: フェアウェルリリック
+  SkillIcon: 19435010
+  SkillMainEffect: 21
+  IsExSpecialAppeal: 0
 - Id: 19515010
   Name: スターティングリズム
   SkillIcon: 19515010
@@ -7946,6 +8066,21 @@
 - Id: 19515012
   Name: スターティングリズム
   SkillIcon: 19515010
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 19525010
+  Name: フェアウェルリリック
+  SkillIcon: 19525010
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 19525011
+  Name: フェアウェルリリック
+  SkillIcon: 19525010
+  SkillMainEffect: 48
+  IsExSpecialAppeal: 0
+- Id: 19525012
+  Name: フェアウェルリリック
+  SkillIcon: 19525010
   SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 20115010
@@ -8243,6 +8378,11 @@
   SkillIcon: 20218020
   SkillMainEffect: 16
   IsExSpecialAppeal: 0
+- Id: 20218030
+  Name: mode:UNION
+  SkillIcon: 20218030
+  SkillMainEffect: 14
+  IsExSpecialAppeal: 0
 - Id: 20219010
   Name: セレブレイション
   SkillIcon: 20219010
@@ -8533,6 +8673,11 @@
   SkillIcon: 20228020
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 20228030
+  Name: mode:CLOUD
+  SkillIcon: 20228030
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
 - Id: 20229010
   Name: セレブレイション
   SkillIcon: 20229010
@@ -8772,6 +8917,11 @@
   Name: ラブギフト
   SkillIcon: 20238020
   SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 20238030
+  Name: mode:AXIS
+  SkillIcon: 20238030
+  SkillMainEffect: 5
   IsExSpecialAppeal: 0
 - Id: 20239010
   Name: セレブレイション
@@ -10783,6 +10933,11 @@
   SkillIcon: 29315010
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
+- Id: 29315020
+  Name: パスダウンハート
+  SkillIcon: 29315020
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
 - Id: 29325010
   Name: フローラルクール
   SkillIcon: 29325010
@@ -10793,15 +10948,40 @@
   SkillIcon: 29335010
   SkillMainEffect: 2
   IsExSpecialAppeal: 0
+- Id: 29415010
+  Name: ドレス《今、過去、未来の三原色》
+  SkillIcon: 29415010
+  SkillMainEffect: 28
+  IsExSpecialAppeal: 0
+- Id: 29425010
+  Name: フェイバードチェスト
+  SkillIcon: 29425010
+  SkillMainEffect: 2
+  IsExSpecialAppeal: 0
 - Id: 29425020
   Name: フラワードリーム・ツー
   SkillIcon: 29425020
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
+- Id: 29434010
+  Name: フェイバードゲーミング
+  SkillIcon: 29434010
+  SkillMainEffect: 7
+  IsExSpecialAppeal: 0
+- Id: 29435010
+  Name: パスダウンメンタル
+  SkillIcon: 29435010
+  SkillMainEffect: 5
+  IsExSpecialAppeal: 0
 - Id: 29515010
   Name: フラワードリーム・フォー
   SkillIcon: 29515010
   SkillMainEffect: 46
+  IsExSpecialAppeal: 0
+- Id: 29525010
+  Name: パスダウンアンビエンス
+  SkillIcon: 29525010
+  SkillMainEffect: 48
   IsExSpecialAppeal: 0
 - Id: 29534010
   Name: レコードキーパー
@@ -11083,6 +11263,11 @@
   SkillIcon: 30218020
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
+- Id: 30218030
+  Name: "|| MELCHIOR ||"
+  SkillIcon: 30218030
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30219010
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30219010
@@ -11353,6 +11538,11 @@
   SkillIcon: 30228020
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 30228030
+  Name: "|| BALTHASAR ||"
+  SkillIcon: 30228030
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 30229010
   Name: オーバーセクション：ブレッシング
   SkillIcon: 30229010
@@ -11572,6 +11762,11 @@
   Name: APゲイン
   SkillIcon: 30238020
   SkillMainEffect: 14
+  IsExSpecialAppeal: 0
+- Id: 30238030
+  Name: "|| CASPER ||"
+  SkillIcon: 30238030
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 30239010
   Name: オーバーセクション：ブレッシング
@@ -12229,7 +12424,7 @@
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
 - Id: 30328030
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30328030
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -12519,7 +12714,7 @@
   SkillMainEffect: 1
   IsExSpecialAppeal: 0
 - Id: 30338030
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30338030
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -12684,7 +12879,7 @@
   SkillMainEffect: 28
   IsExSpecialAppeal: 0
 - Id: 30418020
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30418020
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -12854,7 +13049,7 @@
   SkillMainEffect: 20
   IsExSpecialAppeal: 0
 - Id: 30428020
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30428020
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -13024,7 +13219,7 @@
   SkillMainEffect: 10
   IsExSpecialAppeal: 0
 - Id: 30438020
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30438020
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -13124,7 +13319,7 @@
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30518010
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30518010
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -13214,7 +13409,7 @@
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
 - Id: 30528010
-  Name: Radioactive
+  Name: Nuclear
   SkillIcon: 30528010
   SkillMainEffect: 19
   IsExSpecialAppeal: 0
@@ -13373,6 +13568,11 @@
   SkillIcon: 39315010
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 39315020
+  Name: ブライトアセンション
+  SkillIcon: 39315020
+  SkillMainEffect: 52
+  IsExSpecialAppeal: 0
 - Id: 39325010
   Name: ミューチュアル
   SkillIcon: 39325010
@@ -13383,15 +13583,40 @@
   SkillIcon: 39335010
   SkillMainEffect: 29
   IsExSpecialAppeal: 0
+- Id: 39415010
+  Name: ブルーミングガーデン
+  SkillIcon: 39415010
+  SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 39425010
+  Name: ブルーミングガーデン
+  SkillIcon: 39425010
+  SkillMainEffect: 31
+  IsExSpecialAppeal: 0
 - Id: 39425020
   Name: セカンドスポット
   SkillIcon: 39425020
   SkillMainEffect: 30
   IsExSpecialAppeal: 0
+- Id: 39434010
+  Name: ブルーミングガーデン
+  SkillIcon: 39434010
+  SkillMainEffect: 30
+  IsExSpecialAppeal: 0
+- Id: 39435010
+  Name: フェイスフラワーズ
+  SkillIcon: 39435010
+  SkillMainEffect: 902
+  IsExSpecialAppeal: 0
 - Id: 39515010
   Name: フォーススポット
   SkillIcon: 39515010
   SkillMainEffect: 16
+  IsExSpecialAppeal: 0
+- Id: 39525010
+  Name: フェイスフラワーズ
+  SkillIcon: 39525010
+  SkillMainEffect: 902
   IsExSpecialAppeal: 0
 - Id: 39534010
   Name: サクシードフラワー
@@ -14043,6 +14268,21 @@
   SkillIcon: 80335360
   SkillMainEffect: 5
   IsExSpecialAppeal: 0
+- Id: 80605010
+  Name: 今、過去、未来の三原色
+  SkillIcon: 89415010
+  SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 80605020
+  Name: 今、過去、未来の三原色
+  SkillIcon: 89415011
+  SkillMainEffect: 10
+  IsExSpecialAppeal: 0
+- Id: 80605030
+  Name: 今、過去、未来の三原色
+  SkillIcon: 89415012
+  SkillMainEffect: 13
+  IsExSpecialAppeal: 0
 - Id: 90013010
   Name: インスタンス
   SkillIcon: 90410000
@@ -14677,4 +14917,19 @@
   Name: フラワーガーデン
   SkillIcon: 90335360
   SkillMainEffect: 1
+  IsExSpecialAppeal: 0
+- Id: 90605010
+  Name: プライマリーカラー/C
+  SkillIcon: 99415010
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90605020
+  Name: プライマリーカラー/D
+  SkillIcon: 99415011
+  SkillMainEffect: 19
+  IsExSpecialAppeal: 0
+- Id: 90605030
+  Name: プライマリーカラー/M
+  SkillIcon: 99415012
+  SkillMainEffect: 19
   IsExSpecialAppeal: 0

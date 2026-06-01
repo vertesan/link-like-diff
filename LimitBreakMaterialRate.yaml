@@ -242,6 +242,10 @@
   CardSeriesId: 1021802
   LimitBreakMaterialId: 4021802
   LimitBreakMaterialQuantity: 0
+- Id: 21803
+  CardSeriesId: 1021803
+  LimitBreakMaterialId: 4021803
+  LimitBreakMaterialQuantity: 0
 - Id: 21901
   CardSeriesId: 1021901
   LimitBreakMaterialId: 4021901
@@ -474,6 +478,10 @@
   CardSeriesId: 1022802
   LimitBreakMaterialId: 4022802
   LimitBreakMaterialQuantity: 0
+- Id: 22803
+  CardSeriesId: 1022803
+  LimitBreakMaterialId: 4022803
+  LimitBreakMaterialQuantity: 0
 - Id: 22901
   CardSeriesId: 1022901
   LimitBreakMaterialId: 4022901
@@ -665,6 +673,10 @@
 - Id: 23802
   CardSeriesId: 1023802
   LimitBreakMaterialId: 4023802
+  LimitBreakMaterialQuantity: 0
+- Id: 23803
+  CardSeriesId: 1023803
+  LimitBreakMaterialId: 4023803
   LimitBreakMaterialQuantity: 0
 - Id: 23901
   CardSeriesId: 1023901
@@ -2146,6 +2158,10 @@
   CardSeriesId: 1931501
   LimitBreakMaterialId: 4931501
   LimitBreakMaterialQuantity: 60
+- Id: 931502
+  CardSeriesId: 1931502
+  LimitBreakMaterialId: 4931502
+  LimitBreakMaterialQuantity: 60
 - Id: 932501
   CardSeriesId: 1932501
   LimitBreakMaterialId: 4932501
@@ -2154,13 +2170,33 @@
   CardSeriesId: 1933501
   LimitBreakMaterialId: 4933501
   LimitBreakMaterialQuantity: 60
+- Id: 941501
+  CardSeriesId: 1941501
+  LimitBreakMaterialId: 4941501
+  LimitBreakMaterialQuantity: 60
+- Id: 942501
+  CardSeriesId: 1942501
+  LimitBreakMaterialId: 4942501
+  LimitBreakMaterialQuantity: 60
 - Id: 942502
   CardSeriesId: 1942502
   LimitBreakMaterialId: 4942502
   LimitBreakMaterialQuantity: 60
+- Id: 943401
+  CardSeriesId: 1943401
+  LimitBreakMaterialId: 4943401
+  LimitBreakMaterialQuantity: 10
+- Id: 943501
+  CardSeriesId: 1943501
+  LimitBreakMaterialId: 4943501
+  LimitBreakMaterialQuantity: 60
 - Id: 951501
   CardSeriesId: 1951501
   LimitBreakMaterialId: 4951501
+  LimitBreakMaterialQuantity: 60
+- Id: 952501
+  CardSeriesId: 1952501
+  LimitBreakMaterialId: 4952501
   LimitBreakMaterialQuantity: 60
 - Id: 953401
   CardSeriesId: 1953401

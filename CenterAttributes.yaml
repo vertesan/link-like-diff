@@ -1108,6 +1108,30 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: スリーズブーケに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少
+- Id: 20218031
+  CenterAttributeSeriesId: 20218030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 10020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20218032
+  CenterAttributeSeriesId: 20218030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 20020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20218033
+  CenterAttributeSeriesId: 20218030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20101,11022,11023
+  CenterAttributeEffectId: 30020000
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20218034
+  CenterAttributeSeriesId: 20218030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000300
+  Description: スリーズブーケに所属するメンバーと夕霧綴理、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
 - Id: 20219011
   CenterAttributeSeriesId: 20219010
   CenterAttributeName: アピールアップ（乙宗梢）
@@ -2242,6 +2266,30 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: DOLLCHESTRAに所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少
+- Id: 20228031
+  CenterAttributeSeriesId: 20228030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 10020000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20228032
+  CenterAttributeSeriesId: 20228030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 20020000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20228033
+  CenterAttributeSeriesId: 20228030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20102,11021,11023
+  CenterAttributeEffectId: 30020000
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20228034
+  CenterAttributeSeriesId: 20228030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000300
+  Description: DOLLCHESTRAに所属するメンバーと乙宗梢、藤島慈のアピール値が200％上昇／クールタイムが3秒減少
 - Id: 20229011
   CenterAttributeSeriesId: 20229010
   CenterAttributeName: アピールアップ（夕霧綴理）
@@ -3184,6 +3232,30 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 101000200
   Description: みらくらぱーく！に所属するメンバーのアピール値が160％上昇／全てのスキルの消費APが2減少／クールタイムが2秒減少
+- Id: 20238031
+  CenterAttributeSeriesId: 20238030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 10020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20238032
+  CenterAttributeSeriesId: 20238030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 20020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20238033
+  CenterAttributeSeriesId: 20238030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: 20103,11021,11022
+  CenterAttributeEffectId: 30020000
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／クールタイムが3秒減少
+- Id: 20238034
+  CenterAttributeSeriesId: 20238030
+  CenterAttributeName: アピールアップ&CTレデュース
+  TargetIds: "50000"
+  CenterAttributeEffectId: 101000300
+  Description: みらくらぱーく！に所属するメンバーと乙宗梢、夕霧綴理のアピール値が200％上昇／クールタイムが3秒減少
 - Id: 20239011
   CenterAttributeSeriesId: 20239010
   CenterAttributeName: アピールアップ（藤島慈）
@@ -10150,6 +10222,24 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 29315021
+  CenterAttributeSeriesId: 29315020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29315022
+  CenterAttributeSeriesId: 29315020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29315023
+  CenterAttributeSeriesId: 29315020
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 29325011
   CenterAttributeSeriesId: 29325010
   CenterAttributeName: アピールアップ
@@ -10186,6 +10276,42 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 29415011
+  CenterAttributeSeriesId: 29415010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29415012
+  CenterAttributeSeriesId: 29415010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29415013
+  CenterAttributeSeriesId: 29415010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425011
+  CenterAttributeSeriesId: 29425010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425012
+  CenterAttributeSeriesId: 29425010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29425013
+  CenterAttributeSeriesId: 29425010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 29425021
   CenterAttributeSeriesId: 29425020
   CenterAttributeName: アピールアップ
@@ -10204,6 +10330,42 @@
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
   Description: 全メンバーのアピール値が80％上昇
+- Id: 29434011
+  CenterAttributeSeriesId: 29434010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 29434012
+  CenterAttributeSeriesId: 29434010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 29434013
+  CenterAttributeSeriesId: 29434010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30006000
+  Description: 全メンバーのアピール値が60％上昇
+- Id: 29435011
+  CenterAttributeSeriesId: 29435010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29435012
+  CenterAttributeSeriesId: 29435010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29435013
+  CenterAttributeSeriesId: 29435010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
 - Id: 29515011
   CenterAttributeSeriesId: 29515010
   CenterAttributeName: アピールアップ
@@ -10218,6 +10380,24 @@
   Description: 全メンバーのアピール値が80％上昇
 - Id: 29515013
   CenterAttributeSeriesId: 29515010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 30008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29525011
+  CenterAttributeSeriesId: 29525010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 10008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29525012
+  CenterAttributeSeriesId: 29525010
+  CenterAttributeName: アピールアップ
+  TargetIds: "50000"
+  CenterAttributeEffectId: 20008000
+  Description: 全メンバーのアピール値が80％上昇
+- Id: 29525013
+  CenterAttributeSeriesId: 29525010
   CenterAttributeName: アピールアップ
   TargetIds: "50000"
   CenterAttributeEffectId: 30008000
